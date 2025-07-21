@@ -63,14 +63,111 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Towns Served */}
+        {/* Towns Served - Now with Links */}
         <div className="border-t border-gray-200 pt-8 mb-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 text-center">
-            {towns.map((town, index) => (
-              <div key={index} className="text-gray-600 text-sm">
-                {town}
-              </div>
-            ))}
+          <h3 className="text-lg font-semibold text-gray-900 mb-6 text-center">
+            Ocean County Towns We Serve
+          </h3>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 text-center">
+            <Link href="/barnegat-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Barnegat Township Golf Carts
+            </Link>
+            <Link href="/barnegat-light-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Barnegat Light Golf Carts
+            </Link>
+            <Link href="/bay-head-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Bay Head Golf Carts
+            </Link>
+            <Link href="/beach-haven-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Beach Haven Golf Carts
+            </Link>
+            <Link href="/beachwood-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Beachwood Golf Carts
+            </Link>
+            <Link href="/berkeley-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Berkeley Township Golf Carts
+            </Link>
+            <Link href="/brick-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Brick Township Golf Carts
+            </Link>
+            <Link href="/eagleswood-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Eagleswood Township Golf Carts
+            </Link>
+            <Link href="/harvey-cedars-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Harvey Cedars Golf Carts
+            </Link>
+            <Link href="/island-heights-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Island Heights Golf Carts
+            </Link>
+            <Link href="/jackson-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Jackson Township Golf Carts
+            </Link>
+            <Link href="/lacey-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Lacey Township Golf Carts
+            </Link>
+            <Link href="/lakehurst-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Lakehurst Golf Carts
+            </Link>
+            <Link href="/lakewood-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Lakewood Township Golf Carts
+            </Link>
+            <Link href="/lavallette-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Lavallette Golf Carts
+            </Link>
+            <Link href="/little-egg-harbor-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Little Egg Harbor Golf Carts
+            </Link>
+            <Link href="/long-beach-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Long Beach Township Golf Carts
+            </Link>
+            <Link href="/manchester-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Manchester Township Golf Carts
+            </Link>
+            <Link href="/mantoloking-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Mantoloking Golf Carts
+            </Link>
+            <Link href="/ocean-gate-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Ocean Gate Golf Carts
+            </Link>
+            <Link href="/ocean-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Ocean Township Golf Carts
+            </Link>
+            <Link href="/pine-beach-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Pine Beach Golf Carts
+            </Link>
+            <Link href="/plumsted-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Plumsted Township Golf Carts
+            </Link>
+            <Link href="/point-pleasant-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Point Pleasant Golf Carts
+            </Link>
+            <Link href="/point-pleasant-beach-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Point Pleasant Beach Golf Carts
+            </Link>
+            <Link href="/seaside-heights-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Seaside Heights Golf Carts
+            </Link>
+            <Link href="/seaside-park-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Seaside Park Golf Carts
+            </Link>
+            <Link href="/ship-bottom-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Ship Bottom Golf Carts
+            </Link>
+            <Link href="/south-toms-river-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              South Toms River Golf Carts
+            </Link>
+            <Link href="/stafford-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Stafford Township Golf Carts
+            </Link>
+            <Link href="/surf-city-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Surf City Golf Carts
+            </Link>
+            <Link href="/toms-river-township-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Toms River Township Golf Carts
+            </Link>
+            <Link href="/tuckerton-borough-golf-carts" className="text-gray-600 text-sm hover:text-blue-600 transition-colors">
+              Tuckerton Golf Carts
+            </Link>
           </div>
         </div>
 
