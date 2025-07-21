@@ -13,6 +13,15 @@ import EvolutionPage from "@/pages/EvolutionPage";
 import VehicleDetailPage from "@/pages/VehicleDetailPage";
 import ContactPage from "@/pages/ContactPage";
 import NotFound from "@/pages/not-found";
+import {
+  BarnegaTPPage, BarnegaLightPage, BayHeadPage, BeachHavenPage, BeachwoodPage,
+  BerkeleyTPage, BrickTPage, EagleswoodTPage, HarveyCedarsPage, IslandHeightsPage,
+  JacksonTPage, LaceyTPage, LakehurstPage, LakewoodTPage, LavallettePage,
+  LittleEggHarborTPage, LongBeachTPage, ManchesterTPage, MantolokingPage,
+  OceanGatePage, OceanTPage, PineBeachPage, PlumstedTPage, PointPleasantPage,
+  PointPleasantBeachPage, SeasideHeightsPage, SeasideParkPage, ShipBottomPage,
+  SouthTomsRiverPage, StaffordTPage, SurfCityPage, TomsRiverTPage, TuckertonPage
+} from "@/pages/towns/TownPageTemplate";
 
 const queryClient = new QueryClient();
 
@@ -32,6 +41,42 @@ function App() {
             <Route path="/evolution" component={EvolutionPage} />
             <Route path="/vehicle/:id" component={VehicleDetailPage} />
             <Route path="/contact" component={ContactPage} />
+            
+            {/* Ocean County Town Pages */}
+            <Route path="/barnegat-township-golf-carts" component={BarnegaTPPage} />
+            <Route path="/barnegat-light-borough-golf-carts" component={BarnegaLightPage} />
+            <Route path="/bay-head-borough-golf-carts" component={BayHeadPage} />
+            <Route path="/beach-haven-borough-golf-carts" component={BeachHavenPage} />
+            <Route path="/beachwood-borough-golf-carts" component={BeachwoodPage} />
+            <Route path="/berkeley-township-golf-carts" component={BerkeleyTPage} />
+            <Route path="/brick-township-golf-carts" component={BrickTPage} />
+            <Route path="/eagleswood-township-golf-carts" component={EagleswoodTPage} />
+            <Route path="/harvey-cedars-borough-golf-carts" component={HarveyCedarsPage} />
+            <Route path="/island-heights-borough-golf-carts" component={IslandHeightsPage} />
+            <Route path="/jackson-township-golf-carts" component={JacksonTPage} />
+            <Route path="/lacey-township-golf-carts" component={LaceyTPage} />
+            <Route path="/lakehurst-borough-golf-carts" component={LakehurstPage} />
+            <Route path="/lakewood-township-golf-carts" component={LakewoodTPage} />
+            <Route path="/lavallette-borough-golf-carts" component={LavallettePage} />
+            <Route path="/little-egg-harbor-township-golf-carts" component={LittleEggHarborTPage} />
+            <Route path="/long-beach-township-golf-carts" component={LongBeachTPage} />
+            <Route path="/manchester-township-golf-carts" component={ManchesterTPage} />
+            <Route path="/mantoloking-borough-golf-carts" component={MantolokingPage} />
+            <Route path="/ocean-gate-borough-golf-carts" component={OceanGatePage} />
+            <Route path="/ocean-township-golf-carts" component={OceanTPage} />
+            <Route path="/pine-beach-borough-golf-carts" component={PineBeachPage} />
+            <Route path="/plumsted-township-golf-carts" component={PlumstedTPage} />
+            <Route path="/point-pleasant-borough-golf-carts" component={PointPleasantPage} />
+            <Route path="/point-pleasant-beach-borough-golf-carts" component={PointPleasantBeachPage} />
+            <Route path="/seaside-heights-borough-golf-carts" component={SeasideHeightsPage} />
+            <Route path="/seaside-park-borough-golf-carts" component={SeasideParkPage} />
+            <Route path="/ship-bottom-borough-golf-carts" component={ShipBottomPage} />
+            <Route path="/south-toms-river-borough-golf-carts" component={SouthTomsRiverPage} />
+            <Route path="/stafford-township-golf-carts" component={StaffordTPage} />
+            <Route path="/surf-city-borough-golf-carts" component={SurfCityPage} />
+            <Route path="/toms-river-township-golf-carts" component={TomsRiverTPage} />
+            <Route path="/tuckerton-borough-golf-carts" component={TuckertonPage} />
+            
             <Route component={NotFound} />
           </Switch>
         </main>

@@ -214,18 +214,21 @@ export default function AboutPage() {
               </Button>
             </div>
             <div className="bg-blue-50 p-8 rounded-lg">
-              <h3 className="text-xl font-semibold mb-4 text-center">Counties We Serve</h3>
+              <h3 className="text-xl font-semibold mb-4 text-center">Ocean County Towns We Serve</h3>
               <div className="grid grid-cols-2 gap-2 text-sm text-gray-700">
                 {[
-                  "Atlantic County", "Bergen County", "Burlington County", "Camden County",
-                  "Cape May County", "Cumberland County", "Essex County", "Gloucester County",
-                  "Hudson County", "Hunterdon County", "Mercer County", "Middlesex County",
-                  "Monmouth County", "Morris County", "Ocean County", "Passaic County",
-                  "Salem County", "Somerset County", "Sussex County", "Union County",
-                  "Warren County"
-                ].map((county, index) => (
+                  "Barnegat Township", "Barnegat Light Borough", "Bay Head Borough", "Beach Haven Borough",
+                  "Beachwood Borough", "Berkeley Township", "Brick Township", "Eagleswood Township",
+                  "Harvey Cedars Borough", "Island Heights Borough", "Jackson Township", "Lacey Township",
+                  "Lakehurst Borough", "Lakewood Township", "Lavallette Borough", "Little Egg Harbor Township",
+                  "Long Beach Township", "Manchester Township", "Mantoloking Borough", "Ocean Gate Borough",
+                  "Ocean Township", "Pine Beach Borough", "Plumsted Township", "Point Pleasant Borough",
+                  "Point Pleasant Beach Borough", "Seaside Heights Borough", "Seaside Park Borough", "Ship Bottom Borough",
+                  "South Toms River Borough", "Stafford Township", "Surf City Borough", "Toms River Township",
+                  "Tuckerton Borough"
+                ].map((town, index) => (
                   <div key={index} className="py-1">
-                    {county}
+                    {town}
                   </div>
                 ))}
               </div>

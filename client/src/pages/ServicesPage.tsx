@@ -187,13 +187,13 @@ export default function ServicesPage() {
           
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-gray-700">
             {[
-              "Atlantic County", "Bergen County", "Burlington County", "Camden County",
-              "Cape May County", "Cumberland County", "Essex County", "Gloucester County",
-              "Hudson County", "Hunterdon County", "Mercer County", "Middlesex County",
-              "Monmouth County", "Morris County", "Ocean County", "Passaic County"
-            ].map((county, index) => (
+              "Barnegat Township", "Barnegat Light Borough", "Bay Head Borough", "Beach Haven Borough",
+              "Beachwood Borough", "Berkeley Township", "Brick Township", "Eagleswood Township",
+              "Harvey Cedars Borough", "Island Heights Borough", "Jackson Township", "Lacey Township",
+              "Lakehurst Borough", "Lakewood Township", "Lavallette Borough", "Little Egg Harbor Township"
+            ].map((town, index) => (
               <div key={index} className="bg-gray-50 p-3 rounded-lg">
-                {county}
+                {town}
               </div>
             ))}
           </div>

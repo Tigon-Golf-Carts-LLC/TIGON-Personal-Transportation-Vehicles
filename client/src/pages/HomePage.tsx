@@ -262,6 +262,61 @@ Ocean County Golf Carts Premier Dealership
         </div>
       </section>
 
+      {/* Ocean County Towns Section */}
+      <section className="py-16 px-4 bg-white">
+        <div className="max-w-7xl mx-auto text-center">
+          <h2 className="text-4xl font-bold mb-4 text-gray-900">
+            Golf Carts for Every Ocean County Town
+          </h2>
+          <p className="text-xl text-gray-600 mb-12">
+            Professional golf cart services delivered to your town
+          </p>
+          
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 mb-12">
+            <Link href="/toms-river-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Toms River Township</div>
+            </Link>
+            <Link href="/lakewood-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Lakewood Township</div>
+            </Link>
+            <Link href="/brick-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Brick Township</div>
+            </Link>
+            <Link href="/jackson-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Jackson Township</div>
+            </Link>
+            <Link href="/point-pleasant-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Point Pleasant</div>
+            </Link>
+            <Link href="/seaside-heights-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Seaside Heights</div>
+            </Link>
+            <Link href="/beach-haven-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Beach Haven</div>
+            </Link>
+            <Link href="/long-beach-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Long Beach Township</div>
+            </Link>
+            <Link href="/stafford-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Stafford Township</div>
+            </Link>
+            <Link href="/barnegat-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Barnegat Township</div>
+            </Link>
+            <Link href="/manchester-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Manchester Township</div>
+            </Link>
+            <Link href="/berkeley-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Berkeley Township</div>
+            </Link>
+          </div>
+          
+          <p className="text-gray-600 mb-8">
+            And many more Ocean County towns! Professional golf cart sales, service, and rentals throughout the region.
+          </p>
+        </div>
+      </section>
+
       {/* Ready to Get Started Section */}
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">

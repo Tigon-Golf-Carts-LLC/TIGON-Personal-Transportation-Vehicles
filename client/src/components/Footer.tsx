@@ -1,13 +1,16 @@
 import { Link } from "wouter";
 
 export default function Footer() {
-  const counties = [
-    "Atlantic County", "Bergen County", "Burlington County", "Camden County",
-    "Cape May County", "Cumberland County", "Essex County", "Gloucester County",
-    "Hudson County", "Hunterdon County", "Mercer County", "Middlesex County",
-    "Monmouth County", "Morris County", "Ocean County", "Passaic County",
-    "Salem County", "Somerset County", "Sussex County", "Union County",
-    "Warren County"
+  const towns = [
+    "Barnegat Township", "Barnegat Light Borough", "Bay Head Borough", "Beach Haven Borough",
+    "Beachwood Borough", "Berkeley Township", "Brick Township", "Eagleswood Township",
+    "Harvey Cedars Borough", "Island Heights Borough", "Jackson Township", "Lacey Township",
+    "Lakehurst Borough", "Lakewood Township", "Lavallette Borough", "Little Egg Harbor Township",
+    "Long Beach Township", "Manchester Township", "Mantoloking Borough", "Ocean Gate Borough",
+    "Ocean Township", "Pine Beach Borough", "Plumsted Township", "Point Pleasant Borough",
+    "Point Pleasant Beach Borough", "Seaside Heights Borough", "Seaside Park Borough", "Ship Bottom Borough",
+    "South Toms River Borough", "Stafford Township", "Surf City Borough", "Toms River Township",
+    "Tuckerton Borough"
   ];
 
   return (
@@ -60,12 +63,12 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Counties Served */}
+        {/* Towns Served */}
         <div className="border-t border-gray-200 pt-8 mb-8">
-          <div className="grid grid-cols-3 md:grid-cols-7 gap-4 text-center">
-            {counties.map((county, index) => (
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 text-center">
+            {towns.map((town, index) => (
               <div key={index} className="text-gray-600 text-sm">
-                {county}
+                {town}
               </div>
             ))}
           </div>
@@ -80,7 +83,7 @@ export default function Footer() {
               <Link href="/terms" className="hover:text-gray-900 ml-1">Terms of Service</Link>
             </div>
             <div className="text-gray-600 text-sm">
-              Ocean County Golf Carts - Serving multiple counties with premium golf carts and exceptional service.
+              Ocean County Golf Carts - Serving all Ocean County towns with premium golf carts and exceptional service.
             </div>
           </div>
         </div>
