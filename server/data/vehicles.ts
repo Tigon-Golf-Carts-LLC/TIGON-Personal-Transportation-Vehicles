@@ -241,26 +241,7 @@ export const vehicleData: Vehicle[] = [
     inStock: true,
     isNew: true
   },
-  {
-    id: "denago-ev-nomad",
-    name: "Denago EV Nomad",
-    brand: "DENAGO",
-    category: "Adventure Series",
-    price: 13995,
-    description: "Versatile adventure-ready electric vehicle perfect for outdoor exploration and everyday utility needs.",
-    images: ["/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"],
-    specifications: {
-      topSpeed: "25 mph",
-      range: "45-55 miles",
-      seatingCapacity: 4,
-      batteryType: "Lithium Ion",
-      chargingTime: "6-8 hours",
-      payload: "1000 lbs"
-    },
-    features: ["Adventure Ready", "All-Terrain", "Utility Storage", "Outdoor Equipment"],
-    inStock: true,
-    isNew: true
-  },
+
   {
     id: "denago-ev-nomad-xl",
     name: "Denago EV Nomad XL",
@@ -401,46 +382,8 @@ export const vehicleData: Vehicle[] = [
     inStock: true,
     isNew: true
   },
-  {
-    id: "evolution-d5-maverick-4",
-    name: "Evolution D5 Maverick 4",
-    brand: "EVOLUTION",
-    category: "Maverick Series",
-    price: 11995,
-    description: "Standard four-passenger Maverick with reliable performance and essential features.",
-    images: ["/attached_assets/EVOLUTIOND5MAVERICK4_1751893115780_1753135231312.jpg"],
-    specifications: {
-      topSpeed: "25 mph",
-      range: "30-40 miles",
-      seatingCapacity: 4,
-      batteryType: "Lithium Ion",
-      chargingTime: "6-8 hours",
-      payload: "800 lbs"
-    },
-    features: ["Standard Features", "Reliable Performance", "4-Passenger", "Essential"],
-    inStock: true,
-    isNew: true
-  },
-  {
-    id: "evolution-d5-maverick-6",
-    name: "Evolution D5 Maverick 6",
-    brand: "EVOLUTION",
-    category: "Maverick Series",
-    price: 13995,
-    description: "Six-passenger Maverick perfect for family outings and group transportation.",
-    images: ["/attached_assets/EVOLUTIOND5MAVERICK6_1751893115781_1753135350621.jpg"],
-    specifications: {
-      topSpeed: "25 mph",
-      range: "30-40 miles",
-      seatingCapacity: 6,
-      batteryType: "Lithium Ion",
-      chargingTime: "6-8 hours",
-      payload: "1000 lbs"
-    },
-    features: ["6-Passenger", "Family Ready", "Group Transportation", "Reliable"],
-    inStock: true,
-    isNew: true
-  },
+
+
   {
     id: "evolution-d6-max-gt6",
     name: "Evolution D6 Max GT6",

@@ -16,6 +16,7 @@ import NotFound from "@/pages/not-found";
 import NewInventoryPage from "@/pages/NewInventoryPage";
 import NewServicesPage from "@/pages/NewServicesPage";
 import NewAboutPage from "@/pages/NewAboutPage";
+// Vehicle Page Imports
 import EvolutionD5Ranger6Plus from "@/pages/vehicles/EvolutionD5Ranger6Plus";
 import EvolutionD5Ranger22Plus from "@/pages/vehicles/EvolutionD5Ranger22Plus";
 import EvolutionForester4Plus from "@/pages/vehicles/EvolutionForester4Plus";
@@ -24,7 +25,19 @@ import DenagoEvCity from "@/pages/vehicles/DenagoEvCity";
 import EvolutionD6MaxGT4 from "@/pages/vehicles/EvolutionD6MaxGT4";
 import DenagoEvNomad from "@/pages/vehicles/DenagoEvNomad";
 import EvolutionClassic4Plus from "@/pages/vehicles/EvolutionClassic4Plus";
-import DenagoEvRoverXL from "@/pages/vehicles/DenagoEvRoverXL";
+import DenagoEVRoverXL from "@/pages/vehicles/DenagoEVRoverXL";
+import DenagoEvNomadXL from "@/pages/vehicles/DenagoEvNomadXL";
+import DenagoEvRoverXL6 from "@/pages/vehicles/DenagoEvRoverXL6";
+import DenagoEvRoverXXL from "@/pages/vehicles/DenagoEvRoverXXL";
+import EvolutionCarrier6Plus from "@/pages/vehicles/EvolutionCarrier6Plus";
+import EvolutionCarrier8Plus from "@/pages/vehicles/EvolutionCarrier8Plus";
+import EvolutionClassic2Plus from "@/pages/vehicles/EvolutionClassic2Plus";
+import EvolutionClassic2Pro from "@/pages/vehicles/EvolutionClassic2Pro";
+import EvolutionD5Maverick4 from "@/pages/vehicles/EvolutionD5Maverick4";
+import EvolutionD5Maverick6 from "@/pages/vehicles/EvolutionD5Maverick6";
+import EvolutionD6MaxGT6 from "@/pages/vehicles/EvolutionD6MaxGT6";
+import EvolutionD6MaxXT4 from "@/pages/vehicles/EvolutionD6MaxXT4";
+import EvolutionD6MaxXT6 from "@/pages/vehicles/EvolutionD6MaxXT6";
 import {
   BarnegaTPPage, BarnegaLightPage, BayHeadPage, BeachHavenPage, BeachwoodPage,
   BerkeleyTPage, BrickTPage, EagleswoodTPage, HarveyCedarsPage, IslandHeightsPage,
@@ -54,7 +67,7 @@ function App() {
             <Route path="/vehicle/:id" component={VehicleDetailPage} />
             <Route path="/contact" component={ContactPage} />
             
-            {/* Vehicle Pages */}
+            {/* Vehicle Detail Pages */}
             <Route path="/vehicles/evolution-d5-ranger-6-plus" component={EvolutionD5Ranger6Plus} />
             <Route path="/vehicles/evolution-d5-ranger-22-plus" component={EvolutionD5Ranger22Plus} />
             <Route path="/vehicles/evolution-forester-4-plus" component={EvolutionForester4Plus} />
@@ -63,7 +76,19 @@ function App() {
             <Route path="/vehicles/evolution-d6-max-gt4" component={EvolutionD6MaxGT4} />
             <Route path="/vehicles/denago-ev-nomad" component={DenagoEvNomad} />
             <Route path="/vehicles/evolution-classic-4-plus" component={EvolutionClassic4Plus} />
-            <Route path="/vehicles/denago-ev-rover-xl" component={DenagoEvRoverXL} />
+            <Route path="/vehicles/denago-ev-rover-xl" component={DenagoEVRoverXL} />
+            <Route path="/vehicles/denago-ev-nomad-xl" component={DenagoEvNomadXL} />
+            <Route path="/vehicles/denago-ev-rover-xl6" component={DenagoEvRoverXL6} />
+            <Route path="/vehicles/denago-ev-rover-xxl" component={DenagoEvRoverXXL} />
+            <Route path="/vehicles/evolution-carrier-6-plus" component={EvolutionCarrier6Plus} />
+            <Route path="/vehicles/evolution-carrier-8-plus" component={EvolutionCarrier8Plus} />
+            <Route path="/vehicles/evolution-classic-2-plus" component={EvolutionClassic2Plus} />
+            <Route path="/vehicles/evolution-classic-2-pro" component={EvolutionClassic2Pro} />
+            <Route path="/vehicles/evolution-d5-maverick-4" component={EvolutionD5Maverick4} />
+            <Route path="/vehicles/evolution-d5-maverick-6" component={EvolutionD5Maverick6} />
+            <Route path="/vehicles/evolution-d6-max-gt6" component={EvolutionD6MaxGT6} />
+            <Route path="/vehicles/evolution-d6-max-xt4" component={EvolutionD6MaxXT4} />
+            <Route path="/vehicles/evolution-d6-max-xt6" component={EvolutionD6MaxXT6} />
             
             {/* Ocean County Town Pages */}
             <Route path="/barnegat-township-golf-carts" component={BarnegaTPPage} />
