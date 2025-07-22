@@ -313,14 +313,17 @@ Ocean County Golf Carts Premier Dealership
             </div>
             
             <div className="relative">
-              <div className="bg-green-100 p-4 rounded-lg">
-                <div className="w-full h-64 bg-green-200 rounded-lg flex items-center justify-center text-gray-600">
-                  <div className="text-center">
-                    <MapPin className="w-12 h-12 mx-auto mb-2 text-green-600" />
-                    <div className="font-semibold">Ocean County</div>
-                    <div className="text-sm">Serving surrounding areas</div>
-                  </div>
-                </div>
+              <div className="rounded-lg overflow-hidden shadow-lg">
+                <iframe 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d392223.7212880685!2d-74.5888992813194!3d39.82386102335656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c16c287049b687%3A0x8c25d4d20966015a!2sOcean%20County%2C%20NJ!5e0!3m2!1sen!2sus!4v1753213632988!5m2!1sen!2sus" 
+                  width="100%" 
+                  height="300" 
+                  style={{border: 0}} 
+                  allowFullScreen={true} 
+                  loading="lazy" 
+                  referrerPolicy="no-referrer-when-downgrade"
+                  title="Ocean County, NJ Map"
+                />
               </div>
             </div>
           </div>
