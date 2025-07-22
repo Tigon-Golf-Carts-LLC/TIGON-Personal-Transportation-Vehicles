@@ -110,10 +110,10 @@ Ocean County Golf Carts Premier Dealership
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Ocean County Golf Carts - Authorized Dealer for Top Brands
+            Ocean County Golf Carts - Top Golf Cart and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            We carry the most trusted names in golf cart manufacturing
+            We carry the most trusted names in Golf Carts and Low Speed Vehicles
           </p>
           
           <div className="grid grid-cols-2 md:grid-cols-6 gap-6 mb-12">

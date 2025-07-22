@@ -170,6 +170,69 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         </div>
       </section>
 
+      {/* Brand Section */}
+      <section className="py-16 px-4 bg-white">
+        <div className="max-w-7xl mx-auto text-center">
+          <h2 className="text-4xl font-bold mb-4 text-gray-900">
+            Ocean County Golf Carts - Top Golf Cart and LSV Brands
+          </h2>
+          <p className="text-xl text-gray-600 mb-12">
+            We carry the most trusted names in Golf Carts and Low Speed Vehicles
+          </p>
+          
+          <div className="grid grid-cols-2 md:grid-cols-6 gap-6 mb-12">
+            <div className="bg-gray-100 p-6 rounded-lg text-center">
+              <h3 className="font-semibold text-gray-700 mb-2">Club Car</h3>
+              <p className="text-sm text-gray-600">Premium golf carts with advanced technology</p>
+            </div>
+            <div className="bg-gray-100 p-6 rounded-lg text-center">
+              <h3 className="font-semibold text-gray-700 mb-2">EZ-GO</h3>
+              <p className="text-sm text-gray-600">Reliable and efficient golf cart solutions</p>
+            </div>
+            <div className="bg-gray-100 p-6 rounded-lg text-center">
+              <h3 className="font-semibold text-gray-700 mb-2">Denago</h3>
+              <p className="text-sm text-gray-600">High-quality performance golf carts</p>
+            </div>
+            <div className="bg-gray-100 p-6 rounded-lg text-center">
+              <h3 className="font-semibold text-gray-700 mb-2">Evolution</h3>
+              <p className="text-sm text-gray-600">Luxury golf carts with premium features</p>
+            </div>
+            <div className="bg-gray-100 p-6 rounded-lg text-center">
+              <h3 className="font-semibold text-gray-700 mb-2">Tomberlin</h3>
+              <p className="text-sm text-gray-600">Street-legal LSV and golf cart options</p>
+            </div>
+            <div className="bg-gray-100 p-6 rounded-lg text-center">
+              <h3 className="font-semibold text-gray-700 mb-2">Swift EV</h3>
+              <p className="text-sm text-gray-600">Electric vehicle innovation</p>
+            </div>
+          </div>
+
+          <div className="text-center">
+            <p className="text-gray-600 mb-8">
+              As an authorized dealer, we provide genuine parts, factory warranties, and certified service for all major brands.
+            </p>
+            <div className="flex flex-wrap justify-center gap-6 text-sm">
+              <div className="flex items-center text-green-600 font-medium">
+                <span className="mr-1">✓</span>
+                <span>Factory Warranties</span>
+              </div>
+              <div className="flex items-center text-green-600 font-medium">
+                <span className="mr-1">✓</span>
+                <span>Genuine Parts</span>
+              </div>
+              <div className="flex items-center text-green-600 font-medium">
+                <span className="mr-1">✓</span>
+                <span>Certified Service</span>
+              </div>
+              <div className="flex items-center text-green-600 font-medium">
+                <span className="mr-1">✓</span>
+                <span>Expert Support</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Featured Golf Carts for Town */}
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
