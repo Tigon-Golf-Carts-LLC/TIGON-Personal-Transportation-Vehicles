@@ -98,7 +98,7 @@ export default function InventorySection() {
                   <span className="text-2xl font-bold text-blue-600">
                     ${cart.price.toLocaleString()}
                   </span>
-                  <Button className="bg-blue-600 hover:bg-blue-700 text-white">
+                  <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                     View Details
                   </Button>
                 </div>
@@ -109,7 +109,7 @@ export default function InventorySection() {
 
         <div className="text-center">
           <Link href="/inventory">
-            <Button size="lg" className="bg-blue-600 hover:bg-blue-700 text-white">
+            <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               View All Inventory
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
