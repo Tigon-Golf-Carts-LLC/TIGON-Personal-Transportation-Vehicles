@@ -2,16 +2,16 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 
 interface VehicleFiltersProps {
   selectedBrand: string;
-  selectedDriveType: string;
+  selectedCategory: string;
   onBrandChange: (brand: string) => void;
-  onDriveTypeChange: (driveType: string) => void;
+  onCategoryChange: (category: string) => void;
 }
 
 export default function VehicleFilters({
   selectedBrand,
-  selectedDriveType,
+  selectedCategory,
   onBrandChange,
-  onDriveTypeChange,
+  onCategoryChange,
 }: VehicleFiltersProps) {
   return (
     <div className="flex flex-wrap gap-4">
@@ -21,19 +21,30 @@ export default function VehicleFilters({
         </SelectTrigger>
         <SelectContent>
           <SelectItem value="">All Brands</SelectItem>
-          <SelectItem value="denago">DENAGO</SelectItem>
-          <SelectItem value="evolution">EVOLUTION</SelectItem>
+          <SelectItem value="DENAGO">DENAGO</SelectItem>
+          <SelectItem value="EVOLUTION">EVOLUTION</SelectItem>
         </SelectContent>
       </Select>
 
-      <Select value={selectedDriveType} onValueChange={onDriveTypeChange}>
+      <Select value={selectedCategory} onValueChange={onCategoryChange}>
         <SelectTrigger className="w-[180px]">
-          <SelectValue placeholder="All Drive Types" />
+          <SelectValue placeholder="All Categories" />
         </SelectTrigger>
         <SelectContent>
-          <SelectItem value="">All Drive Types</SelectItem>
-          <SelectItem value="2x4">2X4</SelectItem>
-          <SelectItem value="4x4">4X4</SelectItem>
+          <SelectItem value="">All Categories</SelectItem>
+          <SelectItem value="Ranger Series">Ranger Series</SelectItem>
+          <SelectItem value="Maverick Series">Maverick Series</SelectItem>
+          <SelectItem value="Forester Series">Forester Series</SelectItem>
+          <SelectItem value="Turfman Series">Turfman Series</SelectItem>
+          <SelectItem value="Rover Series">Rover Series</SelectItem>
+          <SelectItem value="D-MAX Series">D-MAX Series</SelectItem>
+          <SelectItem value="Classic Series">Classic Series</SelectItem>
+          <SelectItem value="Carrier Series">Carrier Series</SelectItem>
+          <SelectItem value="Urban Series">Urban Series</SelectItem>
+          <SelectItem value="Adventure Series">Adventure Series</SelectItem>
+          <SelectItem value="Luxury Series">Luxury Series</SelectItem>
+          <SelectItem value="Utility Series">Utility Series</SelectItem>
+          <SelectItem value="Commercial Series">Commercial Series</SelectItem>
         </SelectContent>
       </Select>
     </div>

@@ -9,14 +9,16 @@ const router = Router();
 // Vehicle routes
 router.get("/api/vehicles", async (req, res) => {
   try {
-    const { brand, driveType } = req.query;
+    const { brand, category } = req.query;
     let vehicles = await storage.getVehicles();
     
     if (brand && typeof brand === "string") {
       vehicles = vehicles.filter(v => v.brand === brand);
     }
     
-    // Note: driveType filter removed as it's not in the vehicle schema
+    if (category && typeof category === "string") {
+      vehicles = vehicles.filter(v => v.category === category);
+    }
     
     res.json(vehicles);
   } catch (error) {

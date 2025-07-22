@@ -10,14 +10,14 @@ import { Vehicle } from "@shared/schema";
 
 export default function InventoryPage() {
   const [selectedBrand, setSelectedBrand] = useState("");
-  const [selectedDriveType, setSelectedDriveType] = useState("");
+  const [selectedCategory, setSelectedCategory] = useState("");
 
   const { data: vehicles, isLoading, error } = useQuery<Vehicle[]>({
-    queryKey: ["/api/vehicles", selectedBrand, selectedDriveType],
+    queryKey: ["/api/vehicles", selectedBrand, selectedCategory],
     queryFn: async () => {
       const params = new URLSearchParams();
       if (selectedBrand) params.append("brand", selectedBrand);
-      if (selectedDriveType) params.append("driveType", selectedDriveType);
+      if (selectedCategory) params.append("category", selectedCategory);
       
       const response = await fetch(`/api/vehicles?${params}`);
       if (!response.ok) {
@@ -61,9 +61,9 @@ export default function InventoryPage() {
         
         <VehicleFilters
           selectedBrand={selectedBrand}
-          selectedDriveType={selectedDriveType}
+          selectedCategory={selectedCategory}
           onBrandChange={setSelectedBrand}
-          onDriveTypeChange={setSelectedDriveType}
+          onCategoryChange={setSelectedCategory}
         />
       </div>
 
