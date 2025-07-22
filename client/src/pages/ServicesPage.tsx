@@ -88,7 +88,7 @@ export default function ServicesPage() {
             Expert maintenance, repair, and customization services to keep your golf cart 
             running perfectly and looking great.
           </p>
-          <Button size="lg" className="bg-red-500 hover:bg-red-600 text-white">
+          <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
             Schedule Service
           </Button>
         </div>
@@ -210,7 +210,7 @@ export default function ServicesPage() {
             Keep your golf cart running smoothly with professional service
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="bg-red-500 hover:bg-red-600 text-white">
+            <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               Call 1-844-844-6638
             </Button>
             <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-green-600">

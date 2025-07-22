@@ -117,7 +117,7 @@ export default function NewInventoryPage() {
                 </SelectContent>
               </Select>
 
-              <Button className="bg-blue-600 hover:bg-blue-700">
+              <Button className="bg-theme-orange hover:bg-orange-600">
                 <Filter className="w-4 h-4 mr-2" />
                 Apply Filters
               </Button>
@@ -196,7 +196,7 @@ export default function NewInventoryPage() {
                         </span>
                         <Button 
                           size="sm" 
-                          className="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded text-sm font-medium"
+                          className="bg-theme-orange hover:bg-orange-600 text-white px-4 py-2 rounded text-sm font-medium"
                           asChild
                         >
                           <Link href={`/vehicles/${vehicle.id}`}>

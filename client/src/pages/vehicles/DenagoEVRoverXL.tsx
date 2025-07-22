@@ -71,7 +71,7 @@ export default function DenagoEVRoverXL() {
                 {/* Action Buttons */}
                 <div className="flex flex-col sm:flex-row gap-4">
                   <Link href="/contact">
-                    <Button size="lg" className="w-full sm:w-auto bg-blue-600 hover:bg-blue-700 text-white">
+                    <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:bg-orange-600 text-white">
                       Request Quote
                     </Button>
                   </Link>

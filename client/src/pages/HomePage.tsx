@@ -74,7 +74,7 @@ Ocean County Golf Carts Premier Dealership
             </div>
             
             <div className="text-center">
-              <div className="bg-green-500 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Wrench className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Expert Service</h3>
@@ -84,7 +84,7 @@ Ocean County Golf Carts Premier Dealership
             </div>
             
             <div className="text-center">
-              <div className="bg-red-500 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Percent className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">0% Financing</h3>
@@ -94,7 +94,7 @@ Ocean County Golf Carts Premier Dealership
             </div>
             
             <div className="text-center">
-              <div className="bg-green-600 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Leaf className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Eco-Friendly</h3>
@@ -204,7 +204,7 @@ Ocean County Golf Carts Premier Dealership
                     <span className="text-2xl font-bold text-blue-600">
                       ${vehicle.price.toLocaleString()}
                     </span>
-                    <Button size="sm" className="bg-red-500 hover:bg-red-600">
+                    <Button size="sm" className="bg-theme-orange hover:bg-orange-600">
                       View Details
                     </Button>
                   </div>
@@ -214,7 +214,7 @@ Ocean County Golf Carts Premier Dealership
           </div>
 
           <Link href="/inventory">
-            <Button size="lg" className="bg-red-500 hover:bg-red-600 text-white">
+            <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               View Full Inventory
             </Button>
           </Link>
@@ -244,7 +244,7 @@ Ocean County Golf Carts Premier Dealership
                 </div>
               </div>
 
-              <Button className="bg-red-500 hover:bg-red-600 text-white">
+              <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                 Learn More
               </Button>
             </div>
@@ -371,7 +371,7 @@ Ocean County Golf Carts Premier Dealership
             <p className="text-gray-600 mb-4">For general inquiries and support</p>
             <div className="flex justify-center items-center gap-4">
               <span className="text-2xl font-bold text-blue-600">1-844-844-6638</span>
-              <Button className="bg-red-500 hover:bg-red-600 text-white">
+              <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                 Contact Us
               </Button>
             </div>

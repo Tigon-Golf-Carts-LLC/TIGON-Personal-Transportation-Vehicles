@@ -52,7 +52,7 @@ export default function VehicleDetailPage() {
             The vehicle you're looking for doesn't exist or has been removed.
           </p>
           <Link href="/inventory">
-            <Button className="bg-ocean-blue hover:bg-blue-600 text-white">
+            <Button className="bg-theme-orange hover:bg-orange-600 text-white">
               <ArrowLeft className="w-4 h-4 mr-2" />
               Back to Inventory
             </Button>
@@ -133,7 +133,7 @@ export default function VehicleDetailPage() {
           {/* Action Buttons */}
           <div className="space-y-3">
             <Link href="/contact">
-              <Button size="lg" className="w-full bg-ocean-blue hover:bg-blue-600 text-white">
+              <Button size="lg" className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                 <Phone className="w-4 h-4 mr-2" />
                 Schedule Test Drive
               </Button>
@@ -196,7 +196,7 @@ export default function VehicleDetailPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">
-              <Button size="lg" className="bg-ocean-blue hover:bg-blue-600 text-white">
+              <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                 <Phone className="w-4 h-4 mr-2" />
                 Contact Sales Team
               </Button>

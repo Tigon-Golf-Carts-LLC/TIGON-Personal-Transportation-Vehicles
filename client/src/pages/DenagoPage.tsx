@@ -72,7 +72,7 @@ export default function DenagoPage() {
             </p>
             <div className="text-center">
               <Link href="/contact">
-                <Button size="lg" className="bg-navy hover:bg-blue-800 text-white">
+                <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   Contact for Availability
                 </Button>
               </Link>

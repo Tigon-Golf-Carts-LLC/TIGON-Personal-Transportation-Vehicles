@@ -49,7 +49,7 @@ export default function EvolutionPage() {
       price: "Starting at $24,999",
       buttonText: "View Models",
       buttonLink: "/inventory",
-      buttonColor: "bg-ocean-blue hover:bg-blue-600",
+      buttonColor: "bg-theme-orange hover:bg-orange-600",
     },
     {
       title: "Turfman 1000", 
@@ -192,7 +192,7 @@ export default function EvolutionPage() {
                     </span>
                   </div>
                   <Link href={`/vehicle/${vehicle.id}`}>
-                    <Button className="w-full bg-ocean-blue hover:bg-blue-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
                       View Details
                     </Button>
                   </Link>
@@ -207,7 +207,7 @@ export default function EvolutionPage() {
                 No Evolution vehicles are currently in our inventory. Contact us for availability updates.
               </p>
               <Link href="/contact">
-                <Button size="lg" className="bg-ocean-blue hover:bg-blue-600 text-white">
+                <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
                   Contact for Availability
                 </Button>
               </Link>

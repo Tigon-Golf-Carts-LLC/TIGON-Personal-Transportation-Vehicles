@@ -65,7 +65,7 @@ export default function AboutPage() {
                 Today, we're proud to be authorized dealers for leading brands like EVOLUTION and DENAGO, 
                 offering our customers the latest in golf cart technology and innovation.
               </p>
-              <Button className="bg-blue-600 hover:bg-blue-700 text-white">
+              <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                 Learn More About Our Services
               </Button>
             </div>
@@ -209,7 +209,7 @@ export default function AboutPage() {
                 <Clock className="w-6 h-6 text-blue-600" />
                 <span className="text-gray-700">Monday-Friday: 9AM-5PM, Saturday: 9AM-5PM</span>
               </div>
-              <Button className="bg-blue-600 hover:bg-blue-700 text-white">
+              <Button className="bg-theme-orange hover:bg-orange-600 text-white">
                 Contact Us Today
               </Button>
             </div>
@@ -263,7 +263,7 @@ export default function AboutPage() {
             Experience the Ocean County Golf Carts difference for yourself
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="bg-red-500 hover:bg-red-600 text-white">
+            <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               Visit Our Showroom
             </Button>
             <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-blue-600">
