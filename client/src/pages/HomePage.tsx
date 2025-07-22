@@ -23,10 +23,11 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                Ocean County Golf Carts - Authorized Dealer for Top Brands
+Ocean County Golf Carts Premier Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                We carry the most trusted names in golf cart manufacturing
+                Discover our extensive selection of new electric golf carts from Evolution and Denago with professional services. 
+                Serving Ocean County, and all surrounding towns, beach towns, and New Jersey Islands In Ocean County.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
