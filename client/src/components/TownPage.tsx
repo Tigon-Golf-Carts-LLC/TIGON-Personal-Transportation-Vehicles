@@ -87,10 +87,10 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                Ocean County Golf Carts - Top Golf Cart and LSV Brands
+                Ocean County Golf Carts - Authorized Dealer for Top Brands
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                We carry the most trusted names in Golf Carts and Low Speed Vehicles
+                We carry the most trusted names in golf cart manufacturing
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
