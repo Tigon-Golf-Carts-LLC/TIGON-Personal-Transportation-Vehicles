@@ -2,6 +2,7 @@ import { Router } from "express";
 import { z } from "zod";
 import storage from "./storage";
 import { insertVehicleSchema, contactFormSchema } from "@shared/schema";
+import { sendContactEmail } from "./email";
 
 const router = Router();
 
@@ -15,9 +16,7 @@ router.get("/api/vehicles", async (req, res) => {
       vehicles = vehicles.filter(v => v.brand === brand);
     }
     
-    if (driveType && typeof driveType === "string") {
-      vehicles = vehicles.filter(v => v.driveType === driveType);
-    }
+    // Note: driveType filter removed as it's not in the vehicle schema
     
     res.json(vehicles);
   } catch (error) {
@@ -94,14 +93,25 @@ router.delete("/api/vehicles/:id", async (req, res) => {
 router.post("/api/contact", async (req, res) => {
   try {
     const validatedData = contactFormSchema.parse(req.body);
+    
+    // Send email with contact form data
+    const emailSent = await sendContactEmail(validatedData);
+    
+    if (!emailSent) {
+      return res.status(500).json({ 
+        error: "Failed to send email. Please try again or contact us directly." 
+      });
+    }
+
+    // Store the contact form data (optional)
     const success = await storage.submitContactForm(validatedData);
     
-    if (success) {
-      res.json({ success: true, message: "Contact form submitted successfully" });
-    } else {
-      res.status(500).json({ error: "Failed to submit contact form" });
-    }
+    res.json({ 
+      success: true, 
+      message: "Contact form submitted successfully. We'll get back to you soon!" 
+    });
   } catch (error) {
+    console.error('Contact form error:', error);
     if (error instanceof z.ZodError) {
       return res.status(400).json({ error: "Invalid form data", details: error.errors });
     }
