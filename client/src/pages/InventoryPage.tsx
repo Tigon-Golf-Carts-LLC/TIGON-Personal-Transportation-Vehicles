@@ -1,5 +1,7 @@
 import { useState } from "react";
 import { useQuery } from "@tanstack/react-query";
+import { Link } from "wouter";
+import { Button } from "@/components/ui/button";
 import VehicleCard from "@/components/VehicleCard";
 import VehicleFilters from "@/components/VehicleFilters";
 import { Skeleton } from "@/components/ui/skeleton";
@@ -94,6 +96,26 @@ export default function InventoryPage() {
         </div>
       )}
       </div>
+
+      {/* Can't Find What You're Looking For Section */}
+      <section className="bg-blue-600 text-white py-16 px-4">
+        <div className="max-w-4xl mx-auto text-center">
+          <h2 className="text-3xl font-bold mb-4">Can't Find What You're Looking For?</h2>
+          <p className="text-xl mb-8">
+            Our team can help you find the perfect golf cart or place a custom order.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Link href="/contact">
+              <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
+                Contact Our Team
+              </Button>
+            </Link>
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600">
+              Call (732) 908-7166
+            </Button>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
