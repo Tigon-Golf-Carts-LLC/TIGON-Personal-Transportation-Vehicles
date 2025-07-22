@@ -20,11 +20,11 @@ export default function EvolutionD5Ranger22Plus() {
         <nav className="py-4 px-4 bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-2 text-sm text-gray-600">
-              <Link href="/" className="text-theme-primary hover:text-blue-800">Home</Link>
+              <a href="/" className="text-theme-primary hover:text-blue-800">Home</a>
               <span>→</span>
-              <Link href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</Link>
+              <a href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</a>
               <span>→</span>
-              <Link href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</Link>
+              <a href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</a>
               <span>→</span>
               <span className="text-gray-900">D5 RANGER 2+2 PLUS</span>
             </div>

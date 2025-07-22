@@ -19,11 +19,11 @@ export default function EvolutionD6MaxXT6() {
         <nav className="py-4 px-4 bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-2 text-sm text-gray-600">
-              <Link href="/" className="text-theme-primary hover:text-blue-800">Home</Link>
+              <a href="/" className="text-theme-primary hover:text-blue-800">Home</a>
               <span>→</span>
-              <Link href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</Link>
+              <a href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</a>
               <span>→</span>
-              <Link href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</Link>
+              <a href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</a>
               <span>→</span>
               <span className="text-gray-900">D6 Max XT6</span>
             </div>
@@ -75,7 +75,7 @@ export default function EvolutionD6MaxXT6() {
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
-                  </Link>
+                  </a>
                 </div>
               </div>
               
@@ -230,7 +230,7 @@ export default function EvolutionD6MaxXT6() {
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom
                 </Button>
-              </Link>
+              </a>
             </div>
           </div>
         </section>

@@ -19,11 +19,11 @@ export default function EvolutionD5Maverick4Plus() {
         <nav className="py-4 px-4 bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-2 text-sm text-gray-600">
-              <Link href="/" className="text-theme-primary hover:text-blue-800">Home</Link>
+              <a href="/" className="text-theme-primary hover:text-blue-800">Home</a>
               <span>→</span>
-              <Link href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</Link>
+              <a href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</a>
               <span>→</span>
-              <Link href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</Link>
+              <a href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</a>
               <span>→</span>
               <span className="text-gray-900">D5 Maverick 4 Plus</span>
             </div>
@@ -75,12 +75,12 @@ export default function EvolutionD5Maverick4Plus() {
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-orange hover:bg-orange-50">
                       Finance Options
                     </Button>
-                  </Link>
+                  </a>
                   <a href="https://tigongolfcarts.com/evolution/d5-maverick/4-plus/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:bg-orange-600 text-white">
                       View More Details
                     </Button>
-                  </Link>
+                  </a>
                 </div>
               </div>
               
@@ -235,7 +235,7 @@ export default function EvolutionD5Maverick4Plus() {
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom
                 </Button>
-              </Link>
+              </a>
             </div>
           </div>
         </section>

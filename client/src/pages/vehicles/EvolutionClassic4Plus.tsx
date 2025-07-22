@@ -20,11 +20,11 @@ export default function EvolutionClassic4Plus() {
         <nav className="py-4 px-4 bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-2 text-sm text-gray-600">
-              <Link href="/" className="text-theme-primary hover:text-blue-800">Home</Link>
+              <a href="/" className="text-theme-primary hover:text-blue-800">Home</a>
               <span>→</span>
-              <Link href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</Link>
+              <a href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</a>
               <span>→</span>
-              <Link href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</Link>
+              <a href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</a>
               <span>→</span>
               <span className="text-gray-900">CLASSIC 4 PLUS</span>
             </div>
@@ -253,7 +253,7 @@ export default function EvolutionClassic4Plus() {
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-primary">
                   Call 1-844-844-6638
                 </Button>
-              </Link>
+              </a>
             </div>
           </div>
         </section>
