@@ -32,7 +32,7 @@ export default function Navigation() {
               <img 
                 src="/attached_assets/Ocean County Golf Carts (3)_1753196262875.png" 
                 alt="Ocean County Golf Carts Logo" 
-                className="h-12 w-12"
+                className="h-16 w-16"
               />
             </div>
             <Link href="/">
