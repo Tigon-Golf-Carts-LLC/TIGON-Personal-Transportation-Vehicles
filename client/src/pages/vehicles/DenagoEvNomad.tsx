@@ -20,11 +20,11 @@ export default function DenagoEvNomad() {
         <nav className="py-4 px-4 bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-2 text-sm text-gray-600">
-              <Link href="/" className="text-blue-600 hover:text-blue-800">Home</Link>
+              <Link href="/" className="text-theme-primary hover:text-blue-800">Home</Link>
               <span>→</span>
-              <Link href="/inventory" className="text-blue-600 hover:text-blue-800">Vehicles</Link>
+              <Link href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</Link>
               <span>→</span>
-              <Link href="/denago" className="text-blue-600 hover:text-blue-800">DENAGO</Link>
+              <Link href="/denago" className="text-theme-primary hover:text-blue-800">DENAGO</Link>
               <span>→</span>
               <span className="text-gray-900">EV NOMAD</span>
             </div>
@@ -37,7 +37,7 @@ export default function DenagoEvNomad() {
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
                 <div className="mb-4">
-                  <Badge className="bg-blue-600 text-white px-4 py-2 text-sm font-semibold">
+                  <Badge className="bg-theme-primary text-white px-4 py-2 text-sm font-semibold">
                     DENAGO®
                   </Badge>
                 </div>
@@ -51,19 +51,19 @@ export default function DenagoEvNomad() {
                 {/* Key Features Grid */}
                 <div className="grid grid-cols-2 gap-4 mb-8">
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Off-Road Ready</div>
+                    <div className="font-semibold text-theme-primary">Off-Road Ready</div>
                     <div className="text-gray-900">All Terrain Capability</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Range</div>
+                    <div className="font-semibold text-theme-primary">Range</div>
                     <div className="text-gray-900">45-60 miles</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Top Speed</div>
+                    <div className="font-semibold text-theme-primary">Top Speed</div>
                     <div className="text-gray-900">25 mph</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Adventure Ready</div>
+                    <div className="font-semibold text-theme-primary">Adventure Ready</div>
                     <div className="text-gray-900">Outdoor Equipment</div>
                   </div>
                 </div>
@@ -75,11 +75,16 @@ export default function DenagoEvNomad() {
                       Get Quote
                     </Button>
                   </Link>
-                  <Link href="/contact">
-                    <Button size="lg" variant="outline" className="w-full sm:w-auto">
-                      Schedule Test Drive
+                  <Link href="/financing">
+                    <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-orange hover:bg-orange-50">
+                      Finance Options
                     </Button>
                   </Link>
+                  <a href="https://tigongolfcarts.com/denago-ev/nomad/" target="_blank" rel="noopener noreferrer">
+                    <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:bg-orange-600 text-white">
+                      View More Details
+                    </Button>
+                  </a>
                 </div>
               </div>
 
@@ -100,7 +105,7 @@ export default function DenagoEvNomad() {
         <section className="py-16 px-4 bg-gray-50">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
-              <h2 className="text-4xl font-bold mb-4 text-blue-600">Adventure Features</h2>
+              <h2 className="text-4xl font-bold mb-4 text-theme-primary">Adventure Features</h2>
               <p className="text-xl text-gray-600">Built for exploration and outdoor adventures</p>
             </div>
             
@@ -117,7 +122,7 @@ export default function DenagoEvNomad() {
 
               <Card className="text-center hover:shadow-lg transition-shadow">
                 <CardHeader>
-                  <Shield className="w-16 h-16 text-green-500 mx-auto mb-4" />
+                  <Shield className="w-16 h-16 text-theme-primary mx-auto mb-4" />
                   <CardTitle>Rugged Build</CardTitle>
                 </CardHeader>
                 <CardContent>
@@ -152,7 +157,7 @@ export default function DenagoEvNomad() {
         <section className="py-16 px-4 bg-white">
           <div className="max-w-7xl mx-auto">
             <div className="bg-gray-50 p-8 rounded-2xl border">
-              <h2 className="text-4xl font-bold text-center mb-12 text-blue-600">Technical Specifications</h2>
+              <h2 className="text-4xl font-bold text-center mb-12 text-theme-primary">Technical Specifications</h2>
               
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div>
@@ -235,7 +240,7 @@ export default function DenagoEvNomad() {
         </section>
 
         {/* CTA Section */}
-        <section className="py-16 px-4 bg-blue-600 text-white">
+        <section className="py-16 px-4 bg-theme-primary text-white">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-6">
               Ready to Start Your Adventure with the DENAGO® EV NOMAD?
@@ -245,12 +250,12 @@ export default function DenagoEvNomad() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
-                <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
+                <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   Contact Us Today
                 </Button>
               </Link>
               <a href="tel:1-844-844-6638">
-                <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-blue-600">
+                <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">
                   Call 1-844-844-6638
                 </Button>
               </a>
@@ -268,14 +273,14 @@ export default function DenagoEvNomad() {
                   <CardTitle>Adventure Sales</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our adventure vehicle specialists</p>
                 </CardContent>
               </Card>
 
               <Card className="text-center">
                 <CardHeader>
-                  <Clock className="w-12 h-12 text-green-500 mx-auto mb-4" />
+                  <Clock className="w-12 h-12 text-theme-primary mx-auto mb-4" />
                   <CardTitle>Business Hours</CardTitle>
                 </CardHeader>
                 <CardContent>

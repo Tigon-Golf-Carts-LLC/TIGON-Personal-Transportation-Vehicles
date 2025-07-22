@@ -20,11 +20,11 @@ export default function DenagoEvRoverXXL() {
         <nav className="py-4 px-4 bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-2 text-sm text-gray-600">
-              <Link href="/" className="text-blue-600 hover:text-blue-800">Home</Link>
+              <Link href="/" className="text-theme-primary hover:text-blue-800">Home</Link>
               <span>→</span>
-              <Link href="/inventory" className="text-blue-600 hover:text-blue-800">Vehicles</Link>
+              <Link href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</Link>
               <span>→</span>
-              <Link href="/denago" className="text-blue-600 hover:text-blue-800">DENAGO</Link>
+              <Link href="/denago" className="text-theme-primary hover:text-blue-800">DENAGO</Link>
               <span>→</span>
               <span className="text-gray-900">EV Rover XXL</span>
             </div>
@@ -37,7 +37,7 @@ export default function DenagoEvRoverXXL() {
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
                 <div className="mb-4">
-                  <Badge className="bg-blue-600 text-white px-4 py-2 text-sm font-semibold">
+                  <Badge className="bg-theme-primary text-white px-4 py-2 text-sm font-semibold">
                     DENAGO® EV
                   </Badge>
                 </div>
@@ -51,19 +51,19 @@ export default function DenagoEvRoverXXL() {
                 {/* Key Features Grid */}
                 <div className="grid grid-cols-2 gap-4 mb-8">
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Maximum Capacity</div>
+                    <div className="font-semibold text-theme-primary">Maximum Capacity</div>
                     <div className="text-gray-900">8 Passengers</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Range</div>
+                    <div className="font-semibold text-theme-primary">Range</div>
                     <div className="text-gray-900">50-65 miles</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Top Speed</div>
+                    <div className="font-semibold text-theme-primary">Top Speed</div>
                     <div className="text-gray-900">25 mph</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Payload</div>
+                    <div className="font-semibold text-theme-primary">Payload</div>
                     <div className="text-gray-900">1,400 lbs</div>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ export default function DenagoEvRoverXXL() {
                     </Button>
                   </Link>
                   <Link href="/financing">
-                    <Button size="lg" variant="outline" className="w-full sm:w-auto border-blue-600 text-blue-600 hover:bg-blue-50">
+                    <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
                   </Link>
@@ -91,7 +91,7 @@ export default function DenagoEvRoverXXL() {
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
-                    <Badge className="bg-green-500 text-white px-3 py-1 text-sm font-semibold">
+                    <Badge className="bg-theme-primary text-white px-3 py-1 text-sm font-semibold">
                       NEW
                     </Badge>
                   </div>
@@ -106,13 +106,13 @@ export default function DenagoEvRoverXXL() {
           <div className="max-w-7xl mx-auto">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <div>
-                <div className="text-3xl font-bold text-blue-600 mb-2">$19,995</div>
+                <div className="text-3xl font-bold text-theme-primary mb-2">$19,995</div>
                 <div className="text-gray-600">MSRP • Financing Available</div>
               </div>
               <div className="mt-4 md:mt-0 flex gap-4">
                 <div className="text-center">
                   <div className="text-sm text-gray-600">Availability</div>
-                  <div className="font-semibold text-green-600">In Stock</div>
+                  <div className="font-semibold text-theme-primary">In Stock</div>
                 </div>
                 <div className="text-center">
                   <div className="text-sm text-gray-600">Delivery</div>
@@ -132,28 +132,28 @@ export default function DenagoEvRoverXXL() {
                 <h2 className="text-3xl font-bold mb-8 text-gray-900">Maximum Features</h2>
                 <div className="space-y-6">
                   <div className="flex items-start gap-4">
-                    <Zap className="w-6 h-6 text-blue-600 mt-1 flex-shrink-0" />
+                    <Zap className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Maximum Capacity</h3>
                       <p className="text-gray-600">Seats 8 passengers comfortably with maximum cargo space for large group adventures.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
-                    <Shield className="w-6 h-6 text-blue-600 mt-1 flex-shrink-0" />
+                    <Shield className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Luxury Features</h3>
                       <p className="text-gray-600">Premium luxury appointments and comfort features for the ultimate large group experience.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
-                    <Settings className="w-6 h-6 text-blue-600 mt-1 flex-shrink-0" />
+                    <Settings className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Extended Range</h3>
                       <p className="text-gray-600">Superior battery performance with extended range for longer group journeys without compromise.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
-                    <Award className="w-6 h-6 text-blue-600 mt-1 flex-shrink-0" />
+                    <Award className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Large Group Ready</h3>
                       <p className="text-gray-600">Perfect for events, tours, and large group transportation with unmatched capacity.</p>
@@ -170,42 +170,42 @@ export default function DenagoEvRoverXXL() {
                     <div className="space-y-4">
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Gauge className="w-5 h-5 text-blue-600" />
+                          <Gauge className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Top Speed</span>
                         </div>
                         <span className="text-gray-900">25 mph</span>
                       </div>
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Battery className="w-5 h-5 text-blue-600" />
+                          <Battery className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Range</span>
                         </div>
                         <span className="text-gray-900">50-65 miles</span>
                       </div>
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Users className="w-5 h-5 text-blue-600" />
+                          <Users className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Seating Capacity</span>
                         </div>
                         <span className="text-gray-900">8 passengers</span>
                       </div>
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Car className="w-5 h-5 text-blue-600" />
+                          <Car className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Battery Type</span>
                         </div>
                         <span className="text-gray-900">Premium Lithium</span>
                       </div>
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Clock className="w-5 h-5 text-blue-600" />
+                          <Clock className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Charging Time</span>
                         </div>
                         <span className="text-gray-900">8-10 hours</span>
                       </div>
                       <div className="flex items-center justify-between py-3">
                         <div className="flex items-center gap-3">
-                          <Settings className="w-5 h-5 text-blue-600" />
+                          <Settings className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Payload</span>
                         </div>
                         <span className="text-gray-900">1,400 lbs</span>

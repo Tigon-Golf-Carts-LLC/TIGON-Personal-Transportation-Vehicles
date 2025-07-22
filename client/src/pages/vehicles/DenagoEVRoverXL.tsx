@@ -20,11 +20,11 @@ export default function DenagoEVRoverXL() {
         <nav className="py-4 px-4 bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-2 text-sm text-gray-600">
-              <Link href="/" className="text-blue-600 hover:text-blue-800">Home</Link>
+              <Link href="/" className="text-theme-primary hover:text-blue-800">Home</Link>
               <span>→</span>
-              <Link href="/inventory" className="text-blue-600 hover:text-blue-800">Vehicles</Link>
+              <Link href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</Link>
               <span>→</span>
-              <Link href="/denago" className="text-blue-600 hover:text-blue-800">DENAGO</Link>
+              <Link href="/denago" className="text-theme-primary hover:text-blue-800">DENAGO</Link>
               <span>→</span>
               <span className="text-gray-900">EV ROVER XL</span>
             </div>
@@ -37,7 +37,7 @@ export default function DenagoEVRoverXL() {
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
                 <div className="mb-4">
-                  <Badge className="bg-blue-600 text-white px-4 py-2 text-sm font-semibold">
+                  <Badge className="bg-theme-primary text-white px-4 py-2 text-sm font-semibold">
                     DENAGO®
                   </Badge>
                 </div>
@@ -51,19 +51,19 @@ export default function DenagoEVRoverXL() {
                 {/* Key Features Grid */}
                 <div className="grid grid-cols-2 gap-4 mb-8">
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Passengers</div>
+                    <div className="font-semibold text-theme-primary">Passengers</div>
                     <div className="text-gray-900">4 Adults</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Range</div>
+                    <div className="font-semibold text-theme-primary">Range</div>
                     <div className="text-gray-900">Up to 50 miles</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Top Speed</div>
+                    <div className="font-semibold text-theme-primary">Top Speed</div>
                     <div className="text-gray-900">25 mph</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-blue-600">Motor</div>
+                    <div className="font-semibold text-theme-primary">Motor</div>
                     <div className="text-gray-900">AC Electric</div>
                   </div>
                 </div>
@@ -100,7 +100,7 @@ export default function DenagoEVRoverXL() {
         <section className="py-16 px-4 bg-gray-50">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
-              <h2 className="text-4xl font-bold mb-4 text-blue-600">Premium Features</h2>
+              <h2 className="text-4xl font-bold mb-4 text-theme-primary">Premium Features</h2>
               <p className="text-xl text-gray-600">Advanced technology and premium comfort</p>
             </div>
             
@@ -117,7 +117,7 @@ export default function DenagoEVRoverXL() {
 
               <Card className="text-center hover:shadow-lg transition-shadow">
                 <CardHeader>
-                  <Shield className="w-16 h-16 text-green-500 mx-auto mb-4" />
+                  <Shield className="w-16 h-16 text-theme-primary mx-auto mb-4" />
                   <CardTitle>Safety First</CardTitle>
                 </CardHeader>
                 <CardContent>
@@ -152,7 +152,7 @@ export default function DenagoEVRoverXL() {
         <section className="py-16 px-4 bg-white">
           <div className="max-w-7xl mx-auto">
             <div className="bg-gray-50 p-8 rounded-2xl border">
-              <h2 className="text-4xl font-bold text-center mb-12 text-blue-600">Technical Specifications</h2>
+              <h2 className="text-4xl font-bold text-center mb-12 text-theme-primary">Technical Specifications</h2>
               
               <div className="grid md:grid-cols-2 gap-8">
                 <div>
@@ -212,7 +212,7 @@ export default function DenagoEVRoverXL() {
         </section>
 
         {/* CTA Section */}
-        <section className="py-16 px-4 bg-blue-600 text-white">
+        <section className="py-16 px-4 bg-theme-primary text-white">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-6">
               Ready to Experience the DENAGO® EV ROVER XL?
@@ -222,12 +222,12 @@ export default function DenagoEVRoverXL() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
-                <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
+                <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   Contact Us Today
                 </Button>
               </Link>
               <a href="tel:1-844-844-6638">
-                <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-blue-600">
+                <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">
                   Call 1-844-844-6638
                 </Button>
               </a>
@@ -245,14 +245,14 @@ export default function DenagoEVRoverXL() {
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our DENAGO specialists</p>
                 </CardContent>
               </Card>
 
               <Card className="text-center">
                 <CardHeader>
-                  <Clock className="w-12 h-12 text-green-500 mx-auto mb-4" />
+                  <Clock className="w-12 h-12 text-theme-primary mx-auto mb-4" />
                   <CardTitle>Business Hours</CardTitle>
                 </CardHeader>
                 <CardContent>

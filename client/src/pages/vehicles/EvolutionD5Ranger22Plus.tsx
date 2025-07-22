@@ -20,11 +20,11 @@ export default function EvolutionD5Ranger22Plus() {
         <nav className="py-4 px-4 bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-2 text-sm text-gray-600">
-              <Link href="/" className="text-blue-600 hover:text-blue-800">Home</Link>
+              <Link href="/" className="text-theme-primary hover:text-blue-800">Home</Link>
               <span>→</span>
-              <Link href="/inventory" className="text-blue-600 hover:text-blue-800">Vehicles</Link>
+              <Link href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</Link>
               <span>→</span>
-              <Link href="/evolution" className="text-blue-600 hover:text-blue-800">EVOLUTION</Link>
+              <Link href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</Link>
               <span>→</span>
               <span className="text-gray-900">D5 RANGER 2+2 PLUS</span>
             </div>
@@ -37,7 +37,7 @@ export default function EvolutionD5Ranger22Plus() {
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
                 <div className="mb-4">
-                  <Badge className="bg-green-600 text-white px-4 py-2 text-sm font-semibold">
+                  <Badge className="bg-theme-primary text-white px-4 py-2 text-sm font-semibold">
                     EVOLUTION®
                   </Badge>
                 </div>
@@ -51,19 +51,19 @@ export default function EvolutionD5Ranger22Plus() {
                 {/* Key Features Grid */}
                 <div className="grid grid-cols-2 gap-4 mb-8">
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-green-600">Passengers</div>
+                    <div className="font-semibold text-theme-primary">Passengers</div>
                     <div className="text-gray-900">4 Adults</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-green-600">Range</div>
+                    <div className="font-semibold text-theme-primary">Range</div>
                     <div className="text-gray-900">30-45 miles</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-green-600">Top Speed</div>
+                    <div className="font-semibold text-theme-primary">Top Speed</div>
                     <div className="text-gray-900">19 mph</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-green-600">Motor</div>
+                    <div className="font-semibold text-theme-primary">Motor</div>
                     <div className="text-gray-900">Electric AC Motor</div>
                   </div>
                 </div>
@@ -71,7 +71,7 @@ export default function EvolutionD5Ranger22Plus() {
                 {/* Action Buttons */}
                 <div className="flex flex-col sm:flex-row gap-4">
                   <Link href="/contact">
-                    <Button size="lg" className="w-full sm:w-auto bg-green-600 hover:bg-green-700 text-white">
+                    <Button size="lg" className="w-full sm:w-auto bg-theme-primary hover:bg-theme-primary text-white">
                       Get Quote
                     </Button>
                   </Link>
@@ -100,14 +100,14 @@ export default function EvolutionD5Ranger22Plus() {
         <section className="py-16 px-4 bg-gray-50">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
-              <h2 className="text-4xl font-bold mb-4 text-green-600">Premium Features</h2>
+              <h2 className="text-4xl font-bold mb-4 text-theme-primary">Premium Features</h2>
               <p className="text-xl text-gray-600">Advanced technology and premium comfort</p>
             </div>
             
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
               <Card className="text-center hover:shadow-lg transition-shadow">
                 <CardHeader>
-                  <Zap className="w-16 h-16 text-green-500 mx-auto mb-4" />
+                  <Zap className="w-16 h-16 text-theme-primary mx-auto mb-4" />
                   <CardTitle>Electric Power</CardTitle>
                 </CardHeader>
                 <CardContent>
@@ -152,7 +152,7 @@ export default function EvolutionD5Ranger22Plus() {
         <section className="py-16 px-4 bg-white">
           <div className="max-w-7xl mx-auto">
             <div className="bg-gray-50 p-8 rounded-2xl border">
-              <h2 className="text-4xl font-bold text-center mb-12 text-green-600">Technical Specifications</h2>
+              <h2 className="text-4xl font-bold text-center mb-12 text-theme-primary">Technical Specifications</h2>
               
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div>
@@ -235,7 +235,7 @@ export default function EvolutionD5Ranger22Plus() {
         </section>
 
         {/* CTA Section */}
-        <section className="py-16 px-4 bg-green-600 text-white">
+        <section className="py-16 px-4 bg-theme-primary text-white">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-6">
               Ready to Experience the EVOLUTION® D5 RANGER 2+2 PLUS?
@@ -245,12 +245,12 @@ export default function EvolutionD5Ranger22Plus() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
-                <Button size="lg" className="bg-white text-green-600 hover:bg-gray-100">
+                <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   Contact Us Today
                 </Button>
               </Link>
               <a href="tel:1-844-844-6638">
-                <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-green-600">
+                <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">
                   Call 1-844-844-6638
                 </Button>
               </a>
@@ -264,11 +264,11 @@ export default function EvolutionD5Ranger22Plus() {
             <div className="grid md:grid-cols-3 gap-8">
               <Card className="text-center">
                 <CardHeader>
-                  <Phone className="w-12 h-12 text-green-500 mx-auto mb-4" />
+                  <Phone className="w-12 h-12 text-theme-primary mx-auto mb-4" />
                   <CardTitle>Call Today</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-green-600 mb-2">1-844-844-6638</p>
+                  <p className="text-2xl font-bold text-theme-primary mb-2">1-844-844-6638</p>
                   <p className="text-gray-600">Speak with our EVOLUTION specialists</p>
                 </CardContent>
               </Card>

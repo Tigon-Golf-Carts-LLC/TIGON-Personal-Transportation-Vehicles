@@ -19,11 +19,11 @@ export default function EvolutionCarrier8Plus() {
         <nav className="py-4 px-4 bg-white border-b border-gray-200">
           <div className="max-w-7xl mx-auto">
             <div className="flex items-center gap-2 text-sm text-gray-600">
-              <Link href="/" className="text-blue-600 hover:text-blue-800">Home</Link>
+              <Link href="/" className="text-theme-primary hover:text-blue-800">Home</Link>
               <span>→</span>
-              <Link href="/inventory" className="text-blue-600 hover:text-blue-800">Vehicles</Link>
+              <Link href="/inventory" className="text-theme-primary hover:text-blue-800">Vehicles</Link>
               <span>→</span>
-              <Link href="/evolution" className="text-blue-600 hover:text-blue-800">EVOLUTION</Link>
+              <Link href="/evolution" className="text-theme-primary hover:text-blue-800">EVOLUTION</Link>
               <span>→</span>
               <span className="text-gray-900">Carrier 8 Plus</span>
             </div>
@@ -35,7 +35,7 @@ export default function EvolutionCarrier8Plus() {
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
                 <div className="mb-4">
-                  <Badge className="bg-green-600 text-white px-4 py-2 text-sm font-semibold">
+                  <Badge className="bg-theme-primary text-white px-4 py-2 text-sm font-semibold">
                     EVOLUTION® CARRIER
                   </Badge>
                 </div>
@@ -48,31 +48,31 @@ export default function EvolutionCarrier8Plus() {
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-green-600">8-Passenger</div>
+                    <div className="font-semibold text-theme-primary">8-Passenger</div>
                     <div className="text-gray-900">Maximum Seating</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-green-600">Range</div>
+                    <div className="font-semibold text-theme-primary">Range</div>
                     <div className="text-gray-900">30-40 miles</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-green-600">Payload</div>
+                    <div className="font-semibold text-theme-primary">Payload</div>
                     <div className="text-gray-900">1,400 lbs</div>
                   </div>
                   <div className="p-4 bg-gray-50 rounded-lg border">
-                    <div className="font-semibold text-green-600">Utility</div>
+                    <div className="font-semibold text-theme-primary">Utility</div>
                     <div className="text-gray-900">Maximum Capacity</div>
                   </div>
                 </div>
 
                 <div className="flex flex-col sm:flex-row gap-4">
                   <Link href="/contact">
-                    <Button size="lg" className="w-full sm:w-auto bg-green-600 hover:bg-green-700 text-white">
+                    <Button size="lg" className="w-full sm:w-auto bg-theme-primary hover:bg-theme-primary text-white">
                       Get Quote
                     </Button>
                   </Link>
                   <Link href="/financing">
-                    <Button size="lg" variant="outline" className="w-full sm:w-auto border-green-600 text-green-600 hover:bg-green-50">
+                    <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
                       Finance Options
                     </Button>
                   </Link>
@@ -87,7 +87,7 @@ export default function EvolutionCarrier8Plus() {
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
-                    <Badge className="bg-green-500 text-white px-3 py-1 text-sm font-semibold">
+                    <Badge className="bg-theme-primary text-white px-3 py-1 text-sm font-semibold">
                       NEW
                     </Badge>
                   </div>
@@ -101,13 +101,13 @@ export default function EvolutionCarrier8Plus() {
           <div className="max-w-7xl mx-auto">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <div>
-                <div className="text-3xl font-bold text-green-600 mb-2">$15,995</div>
+                <div className="text-3xl font-bold text-theme-primary mb-2">$15,995</div>
                 <div className="text-gray-600">MSRP • Financing Available</div>
               </div>
               <div className="mt-4 md:mt-0 flex gap-4">
                 <div className="text-center">
                   <div className="text-sm text-gray-600">Availability</div>
-                  <div className="font-semibold text-green-600">In Stock</div>
+                  <div className="font-semibold text-theme-primary">In Stock</div>
                 </div>
                 <div className="text-center">
                   <div className="text-sm text-gray-600">Delivery</div>
@@ -125,28 +125,28 @@ export default function EvolutionCarrier8Plus() {
                 <h2 className="text-3xl font-bold mb-8 text-gray-900">Maximum Utility</h2>
                 <div className="space-y-6">
                   <div className="flex items-start gap-4">
-                    <Zap className="w-6 h-6 text-green-600 mt-1 flex-shrink-0" />
+                    <Zap className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">8-Passenger</h3>
                       <p className="text-gray-600">Maximum seating capacity for eight passengers with enhanced cargo space for large groups.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
-                    <Shield className="w-6 h-6 text-green-600 mt-1 flex-shrink-0" />
+                    <Shield className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Maximum Capacity</h3>
                       <p className="text-gray-600">Industry-leading capacity for both passengers and cargo in demanding commercial applications.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
-                    <Settings className="w-6 h-6 text-green-600 mt-1 flex-shrink-0" />
+                    <Settings className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Cargo Ready</h3>
                       <p className="text-gray-600">Enhanced cargo solutions and utility features for maximum operational efficiency.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
-                    <Award className="w-6 h-6 text-green-600 mt-1 flex-shrink-0" />
+                    <Award className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Large Group</h3>
                       <p className="text-gray-600">Perfect for events, tours, and large group transportation with unmatched capacity.</p>
@@ -162,42 +162,42 @@ export default function EvolutionCarrier8Plus() {
                     <div className="space-y-4">
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Gauge className="w-5 h-5 text-green-600" />
+                          <Gauge className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Top Speed</span>
                         </div>
                         <span className="text-gray-900">20 mph</span>
                       </div>
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Battery className="w-5 h-5 text-green-600" />
+                          <Battery className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Range</span>
                         </div>
                         <span className="text-gray-900">30-40 miles</span>
                       </div>
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Users className="w-5 h-5 text-green-600" />
+                          <Users className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Seating Capacity</span>
                         </div>
                         <span className="text-gray-900">8 passengers</span>
                       </div>
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Car className="w-5 h-5 text-green-600" />
+                          <Car className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Battery Type</span>
                         </div>
                         <span className="text-gray-900">Deep Cycle</span>
                       </div>
                       <div className="flex items-center justify-between py-3 border-b border-gray-200">
                         <div className="flex items-center gap-3">
-                          <Clock className="w-5 h-5 text-green-600" />
+                          <Clock className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Charging Time</span>
                         </div>
                         <span className="text-gray-900">8-10 hours</span>
                       </div>
                       <div className="flex items-center justify-between py-3">
                         <div className="flex items-center gap-3">
-                          <Settings className="w-5 h-5 text-green-600" />
+                          <Settings className="w-5 h-5 text-theme-primary" />
                           <span className="font-medium">Payload</span>
                         </div>
                         <span className="text-gray-900">1,400 lbs</span>
@@ -220,7 +220,7 @@ export default function EvolutionCarrier8Plus() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
-                <Button size="lg" className="bg-green-600 hover:bg-green-700 text-white">
+                <Button size="lg" className="bg-theme-primary hover:bg-theme-primary text-white">
                   <Phone className="w-5 h-5 mr-2" />
                   Get Quote Today
                 </Button>
