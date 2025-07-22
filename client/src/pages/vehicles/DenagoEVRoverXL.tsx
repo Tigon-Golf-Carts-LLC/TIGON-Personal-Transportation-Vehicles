@@ -32,7 +32,7 @@ export default function DenagoEVRoverXL() {
         </nav>
 
         {/* Vehicle Hero Section */}
-        <section className="py-12 px-4 bg-white">
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('/attached_assets/OCEAN COUNTY GOLF CARTS_1753196019170.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
@@ -97,7 +97,7 @@ export default function DenagoEVRoverXL() {
         </section>
 
         {/* Premium Features */}
-        <section className="py-16 px-4 bg-gray-50">
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('/attached_assets/OCEAN COUNTY GOLF CARTS_1753196019170.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Premium Features</h2>
