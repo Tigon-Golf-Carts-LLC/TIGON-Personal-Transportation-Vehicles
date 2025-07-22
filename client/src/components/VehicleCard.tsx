@@ -9,17 +9,14 @@ interface VehicleCardProps {
 }
 
 export default function VehicleCard({ vehicle }: VehicleCardProps) {
-  const getStatusBadge = (status: Vehicle["status"]) => {
-    switch (status) {
-      case "available":
-        return <Badge className="bg-emerald-100 text-emerald-800">Available</Badge>;
-      case "pre-order":
-        return <Badge className="bg-yellow-100 text-yellow-800">Pre-Order</Badge>;
-      case "sold":
-        return <Badge className="bg-gray-100 text-gray-800">Sold</Badge>;
-      default:
-        return null;
+  const getStatusBadge = (inStock: boolean, isNew: boolean) => {
+    if (isNew) {
+      return <Badge className="bg-emerald-100 text-emerald-800">NEW</Badge>;
     }
+    if (inStock) {
+      return <Badge className="bg-blue-100 text-blue-800">In Stock</Badge>;
+    }
+    return <Badge className="bg-gray-100 text-gray-800">Out of Stock</Badge>;
   };
 
   const formatPrice = (price: number) => {
@@ -39,7 +36,7 @@ export default function VehicleCard({ vehicle }: VehicleCardProps) {
           className="w-full h-48 object-cover"
         />
         <div className="absolute top-4 right-4">
-          {getStatusBadge(vehicle.status)}
+          {getStatusBadge(vehicle.inStock, vehicle.isNew)}
         </div>
       </div>
       
@@ -55,7 +52,7 @@ export default function VehicleCard({ vehicle }: VehicleCardProps) {
       <CardContent>
         <div className="flex justify-between items-center mb-4">
           <span className="text-sm text-gray-500">
-            {vehicle.driveType.toUpperCase()} • {vehicle.seats} Seats
+            {vehicle.brand.toUpperCase()} • {vehicle.specifications.seatingCapacity} Seats
           </span>
           <span className="text-lg font-bold text-navy">
             {formatPrice(vehicle.price)}
