@@ -66,29 +66,39 @@ export default function NewAboutPage() {
       
       <div className="min-h-screen bg-gray-50">
         {/* Hero Section */}
-        <section className="bg-gradient-to-r from-theme-primary to-blue-700 text-white py-16">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center">
-              <h1 className="text-4xl md:text-5xl font-bold mb-6">
-                About Bucks County Golf Carts
-              </h1>
-              <p className="text-xl mb-8 max-w-3xl mx-auto">
-                Since 2010, we've been Bucks County's premier destination for premium golf carts, 
-                exceptional service, and unmatched customer care. Serving all 56 municipalities 
-                with pride and professionalism.
-              </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Link href="/contact">
-                  <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-                    Contact Our Team
-                  </Button>
-                </Link>
-                <Link href="/inventory">
-                  <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
-                    View Our Inventory
-                  </Button>
-                </Link>
-              </div>
+        <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
+          {/* Hero Background Image */}
+          <div 
+            className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+            style={{
+              backgroundImage: `url('@assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')`
+            }}
+          >
+            {/* Overlay for better text readability */}
+            <div className="absolute inset-0 bg-gradient-to-r from-black/50 to-black/30"></div>
+          </div>
+          
+          {/* Hero Content */}
+          <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
+            <h1 className="text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">
+              About Bucks County Golf Carts
+            </h1>
+            <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
+              Since 2010, we've been Bucks County's premier destination for premium golf carts, 
+              exceptional service, and unmatched customer care. Serving all 56 municipalities 
+              with pride and professionalism.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link href="/contact">
+                <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white shadow-lg">
+                  Contact Our Team
+                </Button>
+              </Link>
+              <Link href="/inventory">
+                <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100 shadow-lg">
+                  View Our Inventory
+                </Button>
+              </Link>
             </div>
           </div>
         </section>
