@@ -12,14 +12,14 @@ export default function NewServicesPage() {
       title: "Maintenance & Repair",
       description: "Complete maintenance and repair services for all golf cart brands",
       features: ["Brake service", "Suspension repair", "Engine diagnostics", "Electrical troubleshooting"],
-      price: "Starting at $85/hour"
+      price: "Starting at $155/hour"
     },
     {
       icon: Battery,
       title: "Battery Services",
       description: "Battery testing, replacement, and maintenance services",
       features: ["Battery testing", "New battery installation", "Battery maintenance", "Charging system repair"],
-      price: "Starting at $50"
+      price: "Starting at $155/hour"
     },
     {
       icon: Paintbrush,
