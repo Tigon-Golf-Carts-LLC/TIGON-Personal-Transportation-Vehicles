@@ -37,11 +37,11 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-Ocean County Golf Carts Premier Dealership
+Bucks County Golf Carts Premier Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
                 Discover our extensive selection of new electric golf carts from Evolution and Denago with professional services. 
-                Serving Ocean County, and all surrounding towns, beach towns, and New Jersey Islands In Ocean County.
+                Serving Bucks County, and all surrounding towns, townships, and Pennsylvania communities In Bucks County.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -69,7 +69,7 @@ Ocean County Golf Carts Premier Dealership
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Why Choose Ocean County Golf Carts?
+            Why Choose Bucks County Golf Carts?
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
             We're more than just a dealership - we're your partner in golf cart ownership 
@@ -124,7 +124,7 @@ Ocean County Golf Carts Premier Dealership
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Ocean County Golf Carts - Top Golf Cart and LSV Brands
+            Bucks County Golf Carts - Top Golf Cart and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             We carry the most trusted names in Golf Carts and Low Speed Vehicles
@@ -304,10 +304,10 @@ Ocean County Golf Carts Premier Dealership
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">
-                About Ocean County Golf Carts
+                About Bucks County Golf Carts
               </h2>
               <p className="text-lg text-gray-600 mb-8">
-                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout Ocean County and surrounding areas.
+                With over 15 years of experience in the golf cart industry, we've built our reputation on providing exceptional service and quality products to customers throughout Bucks County and surrounding areas.
               </p>
               
               <div className="grid grid-cols-2 gap-8 mb-8">
@@ -329,14 +329,14 @@ Ocean County Golf Carts Premier Dealership
             <div className="relative">
               <div className="rounded-lg overflow-hidden shadow-lg">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d392223.7212880685!2d-74.5888992813194!3d39.82386102335656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c16c287049b687%3A0x8c25d4d20966015a!2sOcean%20County%2C%20NJ!5e0!3m2!1sen!2sus!4v1753213632988!5m2!1sen!2sus" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d196374.88346238618!2d-75.31682624999999!3d40.3059285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b7d8d4b54beb%3A0x89f514d88c3e58c1!2sBucks%20County%2C%20PA!5e0!3m2!1sen!2sus!4v1753213632988!5m2!1sen!2sus" 
                   width="100%" 
                   height="300" 
                   style={{border: 0}} 
                   allowFullScreen={true} 
                   loading="lazy" 
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Ocean County, NJ Map"
+                  title="Bucks County, PA Map"
                 />
               </div>
             </div>
@@ -344,123 +344,132 @@ Ocean County Golf Carts Premier Dealership
         </div>
       </section>
 
-      {/* Ocean County Towns Section */}
+      {/* Bucks County Towns Section */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Golf Carts for Every Ocean County Town
+            Golf Carts for Every Bucks County Township
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Professional golf cart services delivered to your town
+            Professional golf cart services delivered to your township
           </p>
           
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 mb-12">
-            <Link href="/toms-river-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Toms River Township</div>
+            <Link href="/warrington-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Warrington Township</div>
             </Link>
-            <Link href="/lakewood-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Lakewood Township</div>
+            <Link href="/newtown-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Newtown Township</div>
             </Link>
-            <Link href="/brick-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Brick Township</div>
+            <Link href="/northampton-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Northampton Township</div>
             </Link>
-            <Link href="/jackson-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Jackson Township</div>
+            <Link href="/lower-makefield-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Lower Makefield Township</div>
             </Link>
-            <Link href="/point-pleasant-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Point Pleasant</div>
+            <Link href="/upper-makefield-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Upper Makefield Township</div>
             </Link>
-            <Link href="/seaside-heights-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Seaside Heights</div>
+            <Link href="/middletown-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Middletown Township</div>
             </Link>
-            <Link href="/beach-haven-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Beach Haven</div>
+            <Link href="/yardley-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Yardley Borough</div>
             </Link>
-            <Link href="/long-beach-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Long Beach Township</div>
+            <Link href="/newtown-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Newtown Borough</div>
             </Link>
-            <Link href="/stafford-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Stafford Township</div>
+            <Link href="/doylestown-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Doylestown Township</div>
             </Link>
-            <Link href="/barnegat-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Barnegat Township</div>
+            <Link href="/doylestown-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Doylestown Borough</div>
             </Link>
-            <Link href="/manchester-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Manchester Township</div>
+            <Link href="/warwick-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Warwick Township</div>
             </Link>
-            <Link href="/berkeley-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Berkeley Township</div>
+            <Link href="/warminster-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Warminster Township</div>
             </Link>
-            <Link href="/dover-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Dover Township</div>
+            <Link href="/upper-southampton-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Upper Southampton</div>
             </Link>
-            <Link href="/eagleswood-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Eagleswood Township</div>
+            <Link href="/lower-southampton-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Lower Southampton</div>
             </Link>
-            <Link href="/little-egg-harbor-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Little Egg Harbor Township</div>
+            <Link href="/bristol-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Bristol Township</div>
             </Link>
-            <Link href="/ocean-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Ocean Township</div>
+            <Link href="/bristol-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Bristol Borough</div>
             </Link>
-            <Link href="/plumsted-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Plumsted Township</div>
+            <Link href="/bensalem-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Bensalem Township</div>
             </Link>
-            <Link href="/barnegat-light-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Barnegat Light</div>
+            <Link href="/falls-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Falls Township</div>
             </Link>
-            <Link href="/bay-head-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Bay Head</div>
+            <Link href="/tullytown-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Tullytown Borough</div>
             </Link>
-            <Link href="/beachwood-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Beachwood</div>
+            <Link href="/levittown-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Levittown</div>
             </Link>
-            <Link href="/harvey-cedars-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Harvey Cedars</div>
+            <Link href="/langhorne-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Langhorne Borough</div>
             </Link>
-            <Link href="/island-heights-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Island Heights</div>
+            <Link href="/langhorne-manor-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Langhorne Manor</div>
             </Link>
-            <Link href="/lavallette-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Lavallette</div>
+            <Link href="/pennsbury-manor-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Pennsbury Manor</div>
             </Link>
-            <Link href="/mantoloking-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Mantoloking</div>
+            <Link href="/morrisville-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Morrisville Borough</div>
             </Link>
-            <Link href="/ocean-gate-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Ocean Gate</div>
+            <Link href="/buckingham-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Buckingham Township</div>
             </Link>
-            <Link href="/pine-beach-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Pine Beach</div>
+            <Link href="/new-hope-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">New Hope Borough</div>
             </Link>
-            <Link href="/point-pleasant-beach-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Point Pleasant Beach</div>
+            <Link href="/solebury-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Solebury Township</div>
             </Link>
-            <Link href="/seaside-park-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Seaside Park</div>
+            <Link href="/wrightstown-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Wrightstown Township</div>
             </Link>
-            <Link href="/ship-bottom-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Ship Bottom</div>
+            <Link href="/hilltown-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Hilltown Township</div>
             </Link>
-            <Link href="/south-toms-river-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">South Toms River</div>
+            <Link href="/dublin-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Dublin Borough</div>
             </Link>
-            <Link href="/surf-city-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Surf City</div>
+            <Link href="/perkasie-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Perkasie Borough</div>
             </Link>
-            <Link href="/tuckerton-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Tuckerton</div>
+            <Link href="/quakertown-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Quakertown Borough</div>
             </Link>
-            <Link href="/lacey-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">Lacey Township</div>
+            <Link href="/richland-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Richland Township</div>
             </Link>
-            <Link href="/new-hanover-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
-              <div className="text-sm font-semibold text-blue-700">New Hanover Township</div>
+            <Link href="/silverdale-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Silverdale Borough</div>
+            </Link>
+            <Link href="/telford-borough-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">Telford Borough</div>
+            </Link>
+            <Link href="/west-rockhill-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">West Rockhill</div>
+            </Link>
+            <Link href="/east-rockhill-township-golf-carts" className="bg-blue-50 hover:bg-blue-100 p-4 rounded-lg transition-colors">
+              <div className="text-sm font-semibold text-blue-700">East Rockhill</div>
             </Link>
           </div>
           
           <p className="text-gray-600 mb-8">
-            Serving all 33 Ocean County municipalities! Professional golf cart sales, service, and rentals delivered throughout the region.
+            Serving all Bucks County municipalities! Professional golf cart sales, service, and rentals delivered throughout the region.
           </p>
         </div>
       </section>

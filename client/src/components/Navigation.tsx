@@ -31,13 +31,13 @@ export default function Navigation() {
             <div className="rounded-lg">
               <img 
                 src="/attached_assets/Ocean County Golf Carts (3)_1753196262875.png" 
-                alt="Ocean County Golf Carts Logo" 
+                alt="Bucks County Golf Carts Logo" 
                 className="h-16 w-16"
               />
             </div>
             <Link href="/">
               <div className="cursor-pointer">
-                <div className="text-lg font-bold text-theme-primary">OCEAN COUNTY</div>
+                <div className="text-lg font-bold text-theme-primary">BUCKS COUNTY</div>
                 <div className="text-lg font-bold text-theme-primary -mt-1">GOLF CARTS</div>
               </div>
             </Link>

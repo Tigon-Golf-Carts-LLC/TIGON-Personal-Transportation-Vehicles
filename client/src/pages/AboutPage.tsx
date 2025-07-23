@@ -26,9 +26,9 @@ export default function AboutPage() {
   ];
 
   const milestones = [
-    { year: "2010", event: "NJ Golf Carts founded in Ocean County" },
+    { year: "2010", event: "Bucks County Golf Carts founded in Bucks County" },
     { year: "2012", event: "Became authorized EVOLUTION dealer" },
-    { year: "2015", event: "Expanded to serve all of New Jersey" },
+    { year: "2015", event: "Expanded to serve all of Pennsylvania" },
     { year: "2018", event: "Added DENAGO to our brand portfolio" },
     { year: "2020", event: "Opened second service location" },
     { year: "2023", event: "Reached 500+ satisfied customers" }
@@ -39,9 +39,9 @@ export default function AboutPage() {
       {/* Hero Section */}
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
         <div className="max-w-7xl mx-auto text-center">
-          <h1 className="text-5xl font-bold mb-6">About Ocean County Golf Carts</h1>
+          <h1 className="text-5xl font-bold mb-6">About Bucks County Golf Carts</h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Ocean County's premier golf cart dealership, dedicated to providing 
+            Bucks County's premier golf cart dealership, dedicated to providing 
             exceptional service and quality vehicles since 2010.
           </p>
         </div>
@@ -54,7 +54,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2010 in Ocean County, Ocean County Golf Carts began with a simple mission: 
+                Founded in 2010 in Bucks County, Bucks County Golf Carts began with a simple mission: 
                 to provide high-quality golf carts and exceptional service to customers throughout the region.
               </p>
               <p className="text-lg text-gray-600 mb-6">

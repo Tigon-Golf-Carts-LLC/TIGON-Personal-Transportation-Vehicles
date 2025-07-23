@@ -267,11 +267,11 @@ export default function DenagoEVRoverXL() {
               <Card className="text-center">
                 <CardHeader>
                   <MapPin className="w-12 h-12 text-purple-500 mx-auto mb-4" />
-                  <CardTitle>Ocean County Service</CardTitle>
+                  <CardTitle>Bucks County Service</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-600">
-                    Delivery and pickup available throughout Ocean County and surrounding areas.
+                    Delivery and pickup available throughout Bucks County and surrounding areas.
                   </p>
                 </CardContent>
               </Card>

@@ -15,33 +15,33 @@ export default function SchemaMarkup({ schema }: SchemaMarkupProps) {
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Ocean County Golf Carts",
-  "alternateName": "OCGC",
-  "description": "Premier golf cart dealer in Ocean County, New Jersey specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
-  "url": "https://oceancountygolfcarts.com",
-  "logo": "https://oceancountygolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg",
+  "name": "Bucks County Golf Carts",
+  "alternateName": "BCGC",
+  "description": "Premier golf cart dealer in Bucks County, Pennsylvania specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals.",
+  "url": "https://bucksgolfcarts.com",
+  "logo": "https://bucksgolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg",
   "image": [
-    "https://oceancountygolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg",
-    "https://oceancountygolfcarts.com/attached_assets/OCEAN COUNTY GOLF CARTS_1753196019170.jpeg"
+    "https://bucksgolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg",
+    "https://bucksgolfcarts.com/attached_assets/OCEAN COUNTY GOLF CARTS_1753196019170.jpeg"
   ],
   "telephone": "1-844-844-6638",
   "email": "sales@tigongolfcarts.com",
   "address": {
     "@type": "PostalAddress",
-    "addressRegion": "NJ",
+    "addressRegion": "PA",
     "addressCountry": "US",
-    "addressLocality": "Ocean County"
+    "addressLocality": "Bucks County"
   },
   "areaServed": {
     "@type": "State",
-    "name": "New Jersey"
+    "name": "Pennsylvania"
   },
   "serviceArea": {
     "@type": "GeoCircle",
     "geoMidpoint": {
       "@type": "GeoCoordinates",
-      "latitude": 39.8238,
-      "longitude": -74.5889
+      "latitude": 40.3059,
+      "longitude": -75.3168
     },
     "geoRadius": "50000"
   },
@@ -50,8 +50,8 @@ export const generateOrganizationSchema = () => ({
   "slogan": "Professional golf cart services delivered to your town",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
-    "https://www.facebook.com/oceancountygolfcarts",
-    "https://www.instagram.com/oceancountygolfcarts"
+    "https://www.facebook.com/bucksgolfcarts",
+    "https://www.instagram.com/bucksgolfcarts"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",

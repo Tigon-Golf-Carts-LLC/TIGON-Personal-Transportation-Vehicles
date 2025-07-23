@@ -1,8 +1,8 @@
-# NJ Golf Carts - Replit Project Guide
+# Bucks County Golf Carts - Replit Project Guide
 
 ## Overview
 
-NJ Golf Carts is a full-stack web application for a New Jersey-based golf cart dealership. The application serves as both a marketing website and a business management platform, featuring inventory management, customer inquiries, rental systems, and comprehensive service information.
+Bucks County Golf Carts is a full-stack web application for a Pennsylvania-based golf cart dealership. The application serves as both a marketing website and a business management platform, featuring inventory management, customer inquiries, rental systems, and comprehensive service information.
 
 ## User Preferences
 

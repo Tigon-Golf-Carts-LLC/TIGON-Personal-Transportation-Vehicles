@@ -11,7 +11,7 @@ export default function NewAboutPage() {
       name: "Michael Thompson",
       role: "Owner & General Manager",
       experience: "15+ years in recreational vehicle sales",
-      description: "Passionate about providing Ocean County with the best golf cart experience."
+      description: "Passionate about providing Bucks County with the best golf cart experience."
     },
     {
       name: "Sarah Martinez",
@@ -47,7 +47,7 @@ export default function NewAboutPage() {
     {
       icon: Target,
       title: "Local Focus",
-      description: "Proud to serve Ocean County with personalized, community-focused service."
+      description: "Proud to serve Bucks County with personalized, community-focused service."
     },
     {
       icon: Heart,
@@ -59,9 +59,9 @@ export default function NewAboutPage() {
   return (
     <>
       <SEOHead 
-        title="About Ocean County Golf Carts - Your Premier Golf Cart Dealer"
-        description="Learn about Ocean County Golf Carts, New Jersey's trusted golf cart dealer serving all 33 municipalities with premium DENAGO and EVOLUTION vehicles since 2010."
-        keywords="Ocean County golf carts, about us, golf cart dealer New Jersey, DENAGO dealer, EVOLUTION dealer"
+        title="About Bucks County Golf Carts - Your Premier Golf Cart Dealer"
+        description="Learn about Bucks County Golf Carts, Pennsylvania's trusted golf cart dealer serving all 36 townships with premium DENAGO and EVOLUTION vehicles since 2010."
+        keywords="Bucks County golf carts, about us, golf cart dealer Pennsylvania, DENAGO dealer, EVOLUTION dealer"
       />
       
       <div className="min-h-screen bg-gray-50">
@@ -70,11 +70,11 @@ export default function NewAboutPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">
-                About Ocean County Golf Carts
+                About Bucks County Golf Carts
               </h1>
               <p className="text-xl mb-8 max-w-3xl mx-auto">
-                Since 2010, we've been Ocean County's premier destination for premium golf carts, 
-                exceptional service, and unmatched customer care. Serving all 33 municipalities 
+                Since 2010, we've been Bucks County's premier destination for premium golf carts, 
+                exceptional service, and unmatched customer care. Serving all 36 townships 
                 with pride and professionalism.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -101,14 +101,14 @@ export default function NewAboutPage() {
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    Founded in 2010, Ocean County Golf Carts began with a simple mission: to provide 
-                    the residents and businesses of Ocean County with the highest quality golf carts 
+                    Founded in 2010, Bucks County Golf Carts began with a simple mission: to provide 
+                    the residents and businesses of Bucks County with the highest quality golf carts 
                     and unparalleled customer service.
                   </p>
                   <p>
-                    What started as a small family business has grown into Ocean County's most trusted 
-                    golf cart dealer, serving all 33 municipalities from Lakewood to Point Pleasant, 
-                    Toms River to Brick, and everywhere in between.
+                    What started as a small family business has grown into Bucks County's most trusted 
+                    golf cart dealer, serving all 36 townships from Warrington to New Hope, 
+                    Doylestown to Bristol, and everywhere in between.
                   </p>
                   <p>
                     Today, we're proud to be authorized dealers for premium brands like DENAGO and 
@@ -125,15 +125,15 @@ export default function NewAboutPage() {
                 <div className="mt-8 grid grid-cols-3 gap-4">
                   <div className="text-center">
                     <div className="text-2xl font-bold text-blue-600">13+</div>
-                    <div className="text-sm text-gray-600">Years Serving Ocean County</div>
+                    <div className="text-sm text-gray-600">Years Serving Bucks County</div>
                   </div>
                   <div className="text-center">
                     <div className="text-2xl font-bold text-green-600">5000+</div>
                     <div className="text-sm text-gray-600">Satisfied Customers</div>
                   </div>
                   <div className="text-center">
-                    <div className="text-2xl font-bold text-purple-600">33</div>
-                    <div className="text-sm text-gray-600">Municipalities Served</div>
+                    <div className="text-2xl font-bold text-purple-600">36</div>
+                    <div className="text-sm text-gray-600">Townships Served</div>
                   </div>
                 </div>
               </div>
@@ -142,8 +142,8 @@ export default function NewAboutPage() {
                 <div className="bg-gray-200 h-96 rounded-2xl flex items-center justify-center">
                   <div className="text-center text-gray-600">
                     <MapPin className="w-16 h-16 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">Serving Ocean County</h3>
-                    <p>All 33 municipalities and surrounding areas</p>
+                    <h3 className="text-xl font-semibold mb-2">Serving Bucks County</h3>
+                    <p>All 36 townships and surrounding areas</p>
                   </div>
                 </div>
               </div>
