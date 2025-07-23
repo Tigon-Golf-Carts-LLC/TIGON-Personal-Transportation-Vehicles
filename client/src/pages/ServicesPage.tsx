@@ -111,7 +111,7 @@ export default function ServicesPage() {
               return (
                 <Card key={index} className="hover:shadow-lg transition-shadow">
                   <CardHeader>
-                    <div className="bg-green-500 w-12 h-12 rounded-lg flex items-center justify-center mb-4">
+                    <div className="bg-theme-orange w-12 h-12 rounded-lg flex items-center justify-center mb-4">
                       <Icon className="w-6 h-6 text-white" />
                     </div>
                     <CardTitle className="text-xl">{service.title}</CardTitle>
@@ -121,7 +121,7 @@ export default function ServicesPage() {
                     <ul className="space-y-2">
                       {service.features.map((feature, idx) => (
                         <li key={idx} className="flex items-center gap-2">
-                          <div className="w-2 h-2 bg-green-500 rounded-full"></div>
+                          <div className="w-2 h-2 bg-theme-orange rounded-full"></div>
                           <span className="text-gray-700 text-sm">{feature}</span>
                         </li>
                       ))}
@@ -146,7 +146,7 @@ export default function ServicesPage() {
 
           <div className="grid md:grid-cols-3 gap-8">
             <div className="text-center">
-              <div className="bg-blue-500 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Shield className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3">Certified Technicians</h3>
@@ -156,7 +156,7 @@ export default function ServicesPage() {
             </div>
 
             <div className="text-center">
-              <div className="bg-green-500 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Star className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3">Quality Guarantee</h3>
@@ -166,7 +166,7 @@ export default function ServicesPage() {
             </div>
 
             <div className="text-center">
-              <div className="bg-purple-500 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Truck className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3">Convenient Service</h3>
@@ -183,15 +183,15 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">Service Areas</h2>
           <p className="text-xl text-gray-600 mb-8">
-            We proudly serve customers throughout Ocean County and surrounding areas
+            We proudly serve customers throughout Bucks County and surrounding areas
           </p>
           
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-gray-700">
             {[
-              "Barnegat Township", "Barnegat Light Borough", "Bay Head Borough", "Beach Haven Borough",
-              "Beachwood Borough", "Berkeley Township", "Brick Township", "Eagleswood Township",
-              "Harvey Cedars Borough", "Island Heights Borough", "Jackson Township", "Lacey Township",
-              "Lakehurst Borough", "Lakewood Township", "Lavallette Borough", "Little Egg Harbor Township"
+              "Doylestown Township", "Newtown Township", "Warrington Township", "Northampton Township",
+              "Lower Makefield Township", "Upper Makefield Township", "Middletown Township", "Bristol Township",
+              "Bensalem Township", "Falls Township", "Warminster Township", "Upper Southampton Township",
+              "Lower Southampton Township", "Warwick Township", "Buckingham Township", "Plumstead Township"
             ].map((town, index) => (
               <div key={index} className="bg-gray-50 p-3 rounded-lg">
                 {town}
@@ -202,7 +202,7 @@ export default function ServicesPage() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-16 px-4 bg-green-600 text-white">
+      <section className="py-16 px-4 bg-theme-primary text-white">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6">
             Schedule Your Service Today
@@ -214,7 +214,7 @@ export default function ServicesPage() {
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               Call 1-844-844-6638
             </Button>
-            <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-green-600">
+            <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">
               Schedule Online
             </Button>
           </div>
