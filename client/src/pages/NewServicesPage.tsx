@@ -64,7 +64,7 @@ export default function NewServicesPage() {
                   </Button>
                 </Link>
                 <a href="tel:1-844-844-6638">
-                  <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">
+                  <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                     Call for Emergency Service
                   </Button>
                 </a>
@@ -167,7 +167,7 @@ export default function NewServicesPage() {
                 </Button>
               </Link>
               <a href="tel:1-844-844-6638">
-                <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">
+                <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   Call 1-844-844-6638
                 </Button>
               </a>
