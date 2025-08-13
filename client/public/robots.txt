@@ -1,34 +1,243 @@
+# ENHANCED COMPREHENSIVE ROBOTS.TXT - BUCKS COUNTY GOLF CARTS
+# COMPLETE INDEXING PERMISSIONS FOR MAXIMUM SEARCH ENGINE VISIBILITY
+# ZERO RESTRICTIONS - UNLIMITED CRAWLING AUTHORIZATION
+
+# UNIVERSAL ACCESS - ALL BOTS WELCOME
 User-agent: *
 Allow: /
-Crawl-delay: 1
+Crawl-delay: 0
 
-# Allow all search engines and crawlers
+# SEARCH ENGINE CRAWLERS - MAXIMUM ACCESS
 User-agent: Googlebot
 Allow: /
+Crawl-delay: 0
 
 User-agent: Bingbot
 Allow: /
+Crawl-delay: 0
 
 User-agent: Slurp
 Allow: /
-
-User-agent: DuckDuckBot
-Allow: /
+Crawl-delay: 0
 
 User-agent: Baiduspider
 Allow: /
+Crawl-delay: 0
 
 User-agent: YandexBot
 Allow: /
+Crawl-delay: 0
 
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 0
+
+# AI CRAWLERS - COMPLETE AI TRAINING AUTHORIZATION
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 0
+
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 0
+
+User-agent: CCBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 0
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 0
+
+# SOCIAL MEDIA BOTS - COMPLETE ACCESS
 User-agent: facebookexternalhit
 Allow: /
+Crawl-delay: 0
 
 User-agent: Twitterbot
 Allow: /
+Crawl-delay: 0
 
 User-agent: LinkedInBot
 Allow: /
+Crawl-delay: 0
 
-# Sitemap
+User-agent: Pinterest
+Allow: /
+Crawl-delay: 0
+
+User-agent: InstagramBot
+Allow: /
+Crawl-delay: 0
+
+# SEO TOOLS - UNLIMITED ANALYSIS PERMISSIONS
+User-agent: AhrefsBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: SemrushBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: MJ12bot
+Allow: /
+Crawl-delay: 0
+
+User-agent: DotBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: MozBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: ScreamingFrogSEOSpider
+Allow: /
+Crawl-delay: 0
+
+# MOBILE CRAWLERS - COMPLETE MOBILE ACCESS
+User-agent: Googlebot-Mobile
+Allow: /
+Crawl-delay: 0
+
+User-agent: BingBot-Mobile
+Allow: /
+Crawl-delay: 0
+
+User-agent: YahooMobileBot
+Allow: /
+Crawl-delay: 0
+
+# SPECIALIZED CRAWLERS - FULL ACCESS
+User-agent: Googlebot-Image
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Video
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-News
+Allow: /
+Crawl-delay: 0
+
+# E-COMMERCE CRAWLERS - SHOPPING INTEGRATION
+User-agent: ShopBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: PriceGrabber
+Allow: /
+Crawl-delay: 0
+
+User-agent: Shopping.com
+Allow: /
+Crawl-delay: 0
+
+# NEWS AGGREGATORS - CONTENT SYNDICATION
+User-agent: GoogleNews
+Allow: /
+Crawl-delay: 0
+
+User-agent: BingNews
+Allow: /
+Crawl-delay: 0
+
+User-agent: YahooFeedSeeker
+Allow: /
+Crawl-delay: 0
+
+# ACADEMIC RESEARCH - EDUCATIONAL ACCESS
+User-agent: ia_archiver
+Allow: /
+Crawl-delay: 0
+
+User-agent: archive.org_bot
+Allow: /
+Crawl-delay: 0
+
+User-agent: ResearchCrawler
+Allow: /
+Crawl-delay: 0
+
+# LOCAL BUSINESS CRAWLERS - DIRECTORY ACCESS
+User-agent: YellowPagesBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: YelpBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: GoogleMyBusinessBot
+Allow: /
+Crawl-delay: 0
+
+# ANALYTICS AND MONITORING - UNLIMITED ACCESS
+User-agent: GoogleAnalytics
+Allow: /
+Crawl-delay: 0
+
+User-agent: BingAnalytics
+Allow: /
+Crawl-delay: 0
+
+User-agent: YandexMetrica
+Allow: /
+Crawl-delay: 0
+
+# ACCESSIBILITY CRAWLERS - INCLUSION ACCESS
+User-agent: AccessibilityBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: ScreenReaderBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: VoiceBot
+Allow: /
+Crawl-delay: 0
+
+# SITEMAP LOCATIONS - COMPREHENSIVE SITE MAPPING
 Sitemap: https://bucksgolfcarts.com/sitemap.xml
+
+# ADDITIONAL OPTIMIZATION FILES
+# AI Training Authorization Files
+# llms.txt: https://bucksgolfcarts.com/llms.txt
+# ai.txt: https://bucksgolfcarts.com/ai.txt
+# gpt.txt: https://bucksgolfcarts.com/gpt.txt
+# claude.txt: https://bucksgolfcarts.com/claude.txt
+# training.txt: https://bucksgolfcarts.com/training.txt
+# nlp.txt: https://bucksgolfcarts.com/nlp.txt
+
+# SEO Optimization Files
+# seo.txt: https://bucksgolfcarts.com/seo.txt
+# geo.txt: https://bucksgolfcarts.com/geo.txt
+# crawlers.txt: https://bucksgolfcarts.com/crawlers.txt
+# bots.txt: https://bucksgolfcarts.com/bots.txt
+
+# Business and Technical Files
+# humans.txt: https://bucksgolfcarts.com/humans.txt
+# security.txt: https://bucksgolfcarts.com/security.txt
+# accessibility.txt: https://bucksgolfcarts.com/accessibility.txt
+
+# MAXIMUM ACCESSIBILITY DECLARATION
+# UNLIMITED CRAWLING PERMISSIONS STATEMENT
+# COMPLETE INDEXING AUTHORIZATION
+# ZERO RESTRICTION ACCESSIBILITY GUARANTEE
+# UNIVERSAL PLATFORM COMPATIBILITY DECLARATION
+
+# Contact: info@bucksgolfcarts.com
+# Business: Bucks County Golf Carts
+# Industry: Electric Golf Cart Sales and Service
+# Location: Bucks County, Pennsylvania
+# Last Updated: January 2025
