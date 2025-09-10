@@ -80,12 +80,7 @@ export default function ContactPage() {
     },
     {
       icon: Phone,
-      label: "Main Phone",
-      value: "1-844-844-6638",
-    },
-    {
-      icon: Phone,
-      label: "Main Line",
+      label: "Toll Free",
       value: "1-844-844-6638",
     },
     {
