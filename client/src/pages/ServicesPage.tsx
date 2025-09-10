@@ -82,7 +82,7 @@ export default function ServicesPage() {
   return (
     <div className="min-h-screen bg-white">
       {/* Hero Section */}
-      <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+      <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/a-photograph-of-a-modern-golf-cart-deale_c_kG6NR-SA6qC8Vzl1iBww_ILJUjQXFQCGLKMSveOjbrA_1753283141121.png')"}}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">Professional Services</h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
@@ -211,9 +211,11 @@ export default function ServicesPage() {
             Keep your golf cart running smoothly with professional service
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
-              Call 1-844-844-6638
-            </Button>
+            <a href="tel:2677364890">
+              <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+                Call 267-736-4890
+              </Button>
+            </a>
             <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-theme-primary">
               Schedule Online
             </Button>
