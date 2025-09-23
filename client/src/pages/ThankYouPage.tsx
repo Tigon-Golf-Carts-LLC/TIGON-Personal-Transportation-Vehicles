@@ -26,7 +26,7 @@ export default function ThankYouPage() {
               Thank You for Your Message!
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              We've received your inquiry and appreciate your interest in Ocean County Golf Carts. 
+              We've received your inquiry and appreciate your interest in Bucks County Golf Carts. 
               Our team will review your message and get back to you soon.
             </p>
           </div>
