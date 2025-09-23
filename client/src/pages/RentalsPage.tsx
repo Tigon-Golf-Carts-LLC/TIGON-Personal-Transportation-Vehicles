@@ -197,9 +197,11 @@ export default function RentalsPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Rentals - Ocean County Golf Carts"
-        description="Rent premium golf carts in Ocean County, NJ. Daily, weekly, and monthly rental options available with full insurance and delivery service."
-        keywords="golf cart rental, Ocean County rentals, golf cart hire, New Jersey golf cart rental"
+        title="Why Choose Our Golf Cart Rentals?"
+        description="Experience the best golf cart rentals with flexible daily, weekly, and monthly options. Full insurance coverage, delivery service, and no hidden fees. Call 1-844-844-6638."
+        keywords="golf cart rental, Bucks County rentals, golf cart hire, Pennsylvania golf cart rental"
+        canonicalUrl="https://bucksgolfcarts.com/rentals"
+        image="/attached_assets/Bucks County Golf Carts (3)_1753284044185.png"
       />
       
       <div className="min-h-screen bg-gray-50">

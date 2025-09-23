@@ -10,6 +10,7 @@ import SchemaMarkup, {
   generateBreadcrumbSchema,
   generateOfferCatalogSchema
 } from "@/components/SchemaMarkup";
+import SEOHead from "@/components/SEOHead";
 
 
 export default function InventoryPage() {
@@ -51,6 +52,13 @@ export default function InventoryPage() {
 
   return (
     <div className="min-h-screen">
+      <SEOHead 
+        title="Golf Cart Inventory"
+        description="Browse our extensive collection of premium electric golf carts from Denago and Evolution. Find the perfect vehicle with advanced filtering options. Call 1-844-844-6638."
+        keywords="golf cart inventory, Denago golf carts, Evolution golf carts, electric golf carts, Bucks County PA"
+        canonicalUrl="https://bucksgolfcarts.com/inventory"
+        image="/attached_assets/a-photograph-of-a-bright-and-airy-modern_cSGtJe7oTWCsurFpyhqrJg_CXQ9jYUGRP2_wh-uk2Htkg_1753199147926.png"
+      />
       {/* Schema Markup */}
       <SchemaMarkup schema={generateBreadcrumbSchema(breadcrumbItems)} />
       {vehicles && <SchemaMarkup schema={generateOfferCatalogSchema(vehicles)} />}

@@ -21,10 +21,11 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="Bucks County Golf Carts - Premier Electric Golf Cart Dealership in Pennsylvania"
-        description="Discover premium electric golf carts from Denago and Evolution at Bucks County Golf Carts. Expert sales, service, rentals, and financing throughout Pennsylvania."
+        title="Bucks County Golf Carts Premier Dealership"
+        description="Transform your outdoor experience with premium electric golf carts from Pennsylvania's trusted dealership. Expert sales, service, rentals, and financing for Denago and Evolution golf carts. Call 1-844-844-6638."
         keywords="golf carts Bucks County PA, electric golf carts Pennsylvania, Denago golf carts, Evolution golf carts, golf cart sales service rentals"
         canonicalUrl="https://bucksgolfcarts.com/"
+        image="/attached_assets/a-photograph-of-a-bright-and-airy-modern_cSGtJe7oTWCsurFpyhqrJg_CXQ9jYUGRP2_wh-uk2Htkg_1753199147926.png"
       />
       <OrganizationSchema pageType="home" />
       {/* Hero Section */}

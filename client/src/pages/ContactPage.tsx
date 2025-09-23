@@ -110,9 +110,11 @@ export default function ContactPage() {
   return (
     <>
       <SEOHead 
-        title="Contact Bucks County Golf Carts - Get in Touch for Sales & Service"
-        description="Contact Bucks County Golf Carts for sales, service, and support. Visit our Fairless Hills location at 115 Lincoln Hwy or call 1-844-844-6638. Serving all 56 Bucks County municipalities."
+        title="Contact Bucks County Golf Carts"
+        description="Get expert golf cart sales, service, and support from Pennsylvania's trusted dealership. Visit our Fairless Hills location at 115 Lincoln Hwy or call 1-844-844-6638."
         keywords="contact Bucks County golf carts, Fairless Hills location, golf cart sales Pennsylvania, Bucks County dealer contact"
+        canonicalUrl="https://bucksgolfcarts.com/contact"
+        image="/attached_assets/Bucks County Golf Carts (3)_1753284044185.png"
       />
       
       <div className="max-w-7xl mx-auto px-4 py-8">

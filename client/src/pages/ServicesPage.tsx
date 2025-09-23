@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Wrench, Settings, Battery, Truck, Shield, Star } from "lucide-react";
+import SEOHead from "@/components/SEOHead";
 
 
 export default function ServicesPage() {
@@ -81,6 +82,13 @@ export default function ServicesPage() {
 
   return (
     <div className="min-h-screen bg-white">
+      <SEOHead 
+        title="Professional Services"
+        description="Keep your golf cart running perfectly with expert maintenance, repair, and customization services from certified technicians. Professional service for all major brands. Call 1-844-844-6638."
+        keywords="golf cart service, golf cart repair, golf cart maintenance, Bucks County PA, certified technicians"
+        canonicalUrl="https://bucksgolfcarts.com/services"
+        image="/attached_assets/a-photograph-of-a-modern-golf-cart-deale_c_kG6NR-SA6qC8Vzl1iBww_ILJUjQXFQCGLKMSveOjbrA_1753283141121.png"
+      />
       {/* Hero Section */}
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/a-photograph-of-a-modern-golf-cart-deale_c_kG6NR-SA6qC8Vzl1iBww_ILJUjQXFQCGLKMSveOjbrA_1753283141121.png')"}}>
         <div className="max-w-7xl mx-auto text-center">

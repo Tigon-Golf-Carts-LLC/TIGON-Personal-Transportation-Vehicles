@@ -40,10 +40,11 @@ export default function AboutPage() {
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="About Bucks County Golf Carts - Premier Golf Cart Dealership Since 2010"
-        description="Learn about Bucks County Golf Carts, Pennsylvania's premier golf cart dealership since 2010. Expert team, authorized Denago and Evolution dealer with comprehensive service."
+        title="About Bucks County Golf Carts"
+        description="Discover Pennsylvania's premier golf cart dealership since 2010 with expert team, authorized Denago and Evolution dealer providing comprehensive service. Call 1-844-844-6638."
         keywords="about Bucks County Golf Carts, golf cart dealership Pennsylvania, Denago Evolution dealer, golf cart service team"
         canonicalUrl="https://bucksgolfcarts.com/about"
+        image="/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
       />
       <OrganizationSchema pageType="about" />
       {/* Hero Section */}

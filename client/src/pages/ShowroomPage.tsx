@@ -3,6 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { MapPin, Phone, Clock, Star, Facebook, ExternalLink, Youtube } from "lucide-react";
 import { Link } from "wouter";
+import SEOHead from "@/components/SEOHead";
 
 export default function ShowroomPage() {
   const locations = [
@@ -46,6 +47,13 @@ export default function ShowroomPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <SEOHead 
+        title="Golf Cart Showroom"
+        description="Visit our golf cart dealership locations in Bucks County, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
+        keywords="golf cart showroom, Bucks County dealership, Denago Evolution dealer, golf cart locations"
+        canonicalUrl="https://bucksgolfcarts.com/showroom"
+        image="/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
+      />
       {/* Hero Section */}
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
         <div className="max-w-7xl mx-auto text-center">

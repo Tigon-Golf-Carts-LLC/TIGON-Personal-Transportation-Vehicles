@@ -8,9 +8,11 @@ export default function ThankYouPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
-        title="Thank You - Ocean County Golf Carts"
-        description="Thank you for contacting Ocean County Golf Carts. We'll respond to your inquiry within 24 hours."
-        keywords="thank you, contact confirmation, Ocean County Golf Carts"
+        title="Thank You for Your Message!"
+        description="Thank you for contacting Bucks County Golf Carts. We'll respond to your inquiry within 24 hours and help you find the perfect golf cart solution. Call 1-844-844-6638."
+        keywords="thank you, contact confirmation, Bucks County Golf Carts"
+        canonicalUrl="https://bucksgolfcarts.com/thank-you"
+        image="/attached_assets/Bucks County Golf Carts (3)_1753284044185.png"
       />
       
       <div className="py-20 px-4">
