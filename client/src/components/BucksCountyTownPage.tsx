@@ -117,8 +117,8 @@ export default function BucksCountyTownPage({ townName, townType }: BucksCountyT
   const fullTownName = `${townName} ${townType}`;
   
   // SEO optimization for Bucks County
-  const pageTitle = `${townName} Golf Carts - Bucks County's Premier Dealership | Sales, Service & Rentals`;
-  const pageDescription = `Professional golf cart sales, service, and rentals in ${fullTownName}. Bucks County Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
+  const pageTitle = `Golf Carts in ${fullTownName}`;
+  const pageDescription = `Professional golf cart sales, service, and rentals in ${fullTownName} with premium DENAGO and EVOLUTION electric golf carts. Call 1-844-844-6638.`;
   const pageKeywords = `${townName} golf carts, ${fullTownName} golf cart sales, Bucks County golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}, Pennsylvania golf carts`;
   const canonicalUrl = `https://bucksgolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-${townType.toLowerCase()}-golf-carts`;
 
