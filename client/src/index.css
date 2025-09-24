@@ -74,9 +74,11 @@
   * {
     @apply border-border;
   }
-  body {
+  html, body {
     @apply bg-background text-foreground;
     font-family: 'Inter', system-ui, sans-serif;
+    max-width: 100% !important;
+    overflow-x: hidden !important;
   }
 }
 

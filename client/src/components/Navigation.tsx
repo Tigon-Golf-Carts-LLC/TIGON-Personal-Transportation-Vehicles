@@ -63,8 +63,8 @@ export default function Navigation() {
             
             <div className="flex items-center space-x-4">
               <a href="tel:2677364890">
-                <Button className="bg-theme-orange hover:bg-orange-600 text-white px-4 py-2 text-sm font-medium">
-                  Call Now 267-736-4890
+                <Button className="bg-theme-orange hover:bg-orange-600 text-white px-4 py-2 text-sm font-medium whitespace-nowrap">
+                  Call 267-736-4890
                 </Button>
               </a>
             </div>
@@ -79,7 +79,7 @@ export default function Navigation() {
                   <span className="sr-only">Open menu</span>
                 </Button>
               </SheetTrigger>
-              <SheetContent side="right" className="w-[300px] sm:w-[400px]">
+              <SheetContent side="right" className="w-[280px] sm:w-[350px] max-w-[90vw]">
                 <div className="flex flex-col space-y-4 mt-8">
                   {navItems.map((item) => (
                     <Link
@@ -97,8 +97,8 @@ export default function Navigation() {
                   ))}
                   <div className="border-t pt-4 mt-4">
                     <a href="tel:2677364890" className="block">
-                      <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full">
-                        Call Now 267-736-4890
+                      <Button className="bg-theme-orange hover:bg-orange-600 text-white w-full text-sm">
+                        Call 267-736-4890
                       </Button>
                     </a>
                   </div>
