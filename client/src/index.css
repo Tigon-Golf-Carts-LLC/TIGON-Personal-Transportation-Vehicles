@@ -77,6 +77,7 @@
   html, body {
     @apply bg-background text-foreground;
     font-family: 'Inter', system-ui, sans-serif;
+    font-display: swap;
     max-width: 100% !important;
     overflow-x: hidden !important;
   }
@@ -141,4 +142,31 @@
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+/* CLS Prevention Utilities */
+.aspect-square { aspect-ratio: 1 / 1; }
+.aspect-video { aspect-ratio: 16 / 9; }
+.aspect-4-3 { aspect-ratio: 4 / 3; }
+.aspect-3-2 { aspect-ratio: 3 / 2; }
+
+/* Prevent layout shifts on images and iframes */
+img, iframe {
+  height: auto;
+  max-width: 100%;
+}
+
+/* Ensure proper sizing for embedded content */
+iframe {
+  border: 0;
+}
+
+/* Optimize font loading to prevent CLS */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZhrib2Bg-4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }

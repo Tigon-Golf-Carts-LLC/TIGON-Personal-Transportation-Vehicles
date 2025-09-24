@@ -199,6 +199,9 @@ Bucks County Golf Carts Premier Dealership
                   src="/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135350621.jpg" 
                   alt="Evolution D5 Maverick 4 Plus"
                   className="w-full h-full object-cover"
+                  width="640"
+                  height="360"
+                  loading="lazy"
                 />
                 <div className="absolute top-4 right-4">
                   <Badge className="bg-green-500 text-white text-xs px-2 py-1">NEW</Badge>
@@ -231,6 +234,9 @@ Bucks County Golf Carts Premier Dealership
                   src="/attached_assets/EVOLUTIOND6MAXGT4_1751893159004_1753135350620.jpg" 
                   alt="Evolution D6 Max GT4"
                   className="w-full h-full object-cover"
+                  width="640"
+                  height="360"
+                  loading="lazy"
                 />
                 <div className="absolute top-4 right-4">
                   <Badge className="bg-green-500 text-white text-xs px-2 py-1">NEW</Badge>
@@ -263,6 +269,9 @@ Bucks County Golf Carts Premier Dealership
                   src="/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg" 
                   alt="Denago EV City"
                   className="w-full h-full object-cover"
+                  width="640"
+                  height="360"
+                  loading="lazy"
                 />
                 <div className="absolute top-4 right-4">
                   <Badge className="bg-green-500 text-white text-xs px-2 py-1">NEW</Badge>
@@ -326,11 +335,10 @@ Bucks County Golf Carts Premier Dealership
             </div>
             
             <div className="relative">
-              <div className="rounded-lg overflow-hidden shadow-lg">
+              <div className="rounded-lg overflow-hidden shadow-lg aspect-[4/3] bg-gray-100">
                 <iframe 
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d461818.9281408625!2d-75.43232612584566!3d40.32864320181612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c446ceb7670e1f%3A0x9e1be4fefb5ca713!2sBucks%20County%2C%20PA!5e1!3m2!1sen!2sus!4v1753280933619!5m2!1sen!2sus" 
-                  width="600" 
-                  height="450" 
+                  className="w-full h-full"
                   style={{border: 0}} 
                   allowFullScreen={true} 
                   loading="lazy" 

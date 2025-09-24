@@ -29,11 +29,14 @@ export default function VehicleCard({ vehicle }: VehicleCardProps) {
 
   return (
     <Card className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
-      <div className="relative">
+      <div className="relative aspect-[4/3] bg-gray-100">
         <img
           src={vehicle.images[0]}
           alt={vehicle.name}
-          className="w-full h-48 object-cover"
+          className="w-full h-full object-cover"
+          width="400"
+          height="300"
+          loading="lazy"
         />
         <div className="absolute top-4 right-4">
           {getStatusBadge(vehicle.inStock, vehicle.isNew)}

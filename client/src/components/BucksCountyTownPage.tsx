@@ -331,11 +331,10 @@ export default function BucksCountyTownPage({ townName, townType }: BucksCountyT
                 </h3>
                 
                 {/* Google Maps Embed for the specific town */}
-                <div className="bg-gray-100 rounded-lg overflow-hidden shadow-lg">
+                <div className="bg-gray-100 rounded-lg overflow-hidden shadow-lg aspect-[4/3]">
                   <iframe 
                     src={getGoogleMapsEmbedUrl(townName, townType)}
-                    width="100%" 
-                    height="450" 
+                    className="w-full h-full"
                     style={{border:0}}
                     allowFullScreen 
                     loading="lazy" 

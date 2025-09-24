@@ -28,11 +28,14 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-3">
-            <div className="rounded-lg">
+            <div className="rounded-lg w-16 h-16 flex-shrink-0">
               <img 
                 src="/attached_assets/Bucks County Golf Carts (3)_1753284044185.png" 
                 alt="Bucks County Golf Carts Logo" 
-                className="h-16 w-16"
+                className="h-16 w-16 object-contain"
+                width="64"
+                height="64"
+                loading="eager"
               />
             </div>
             <Link href="/">
