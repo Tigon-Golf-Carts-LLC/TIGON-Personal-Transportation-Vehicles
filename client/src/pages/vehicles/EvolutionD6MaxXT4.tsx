@@ -14,7 +14,7 @@ export default function EvolutionD6MaxXT4() {
         description="Extreme terrain capabilities with four-passenger off-road design featuring enhanced rugged construction and high performance. Call 1-844-844-6638."
         keywords="EVOLUTION D6 Max XT4, extreme terrain medium speed vehicle, off-road medium speed vehicle, 4-passenger, rugged design, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonmsv.com/vehicles/evolution-d6-max-xt4"
-        image="https://tigonmsv.com/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
+        image="/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -32,7 +32,7 @@ export default function EvolutionD6MaxXT4() {
           </div>
         </nav>
 
-        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">

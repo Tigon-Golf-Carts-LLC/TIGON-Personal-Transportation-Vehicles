@@ -14,7 +14,7 @@ export default function EvolutionClassic2Pro() {
         description="Enhanced features and performance define this professional grade 2-passenger medium speed vehicle with premium reliability. Call 1-844-844-6638."
         keywords="EVOLUTION Classic 2 Pro, professional medium speed vehicle, 2-passenger, enhanced performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonmsv.com/vehicles/evolution-classic-2-pro"
-        image="https://tigonmsv.com/attached_assets/EVOLUTIONCLASSIC2PRO_1751893115779_1753135231314.jpg"
+        image="/attached_assets/EVOLUTIONCLASSIC2PRO_1751893115779_1753135231314.jpg"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -32,7 +32,7 @@ export default function EvolutionClassic2Pro() {
           </div>
         </nav>
 
-        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">

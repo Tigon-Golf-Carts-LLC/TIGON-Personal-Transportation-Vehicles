@@ -141,7 +141,7 @@ export default function DenagoPage() {
         description="Discover premium DENAGO electric medium speed vehicles with all-wheel drive technology, advanced battery systems, and rugged off-road capability. Expert sales and service in Pennsylvania. Call 1-844-844-6638."
         keywords="DENAGO medium speed vehicles nationwide, electric medium speed vehicles Pennsylvania, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road medium speed vehicles, all-wheel drive medium speed vehicles"
         canonicalUrl="https://tigonmsv.com/denago"
-        image="https://tigonmsv.com/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg"
+        image="/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg"
       />
       
       <div className="min-h-screen bg-gray-50">

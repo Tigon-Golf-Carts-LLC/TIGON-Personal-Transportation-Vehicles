@@ -14,7 +14,7 @@ export default function DenagoEvRoverXXL() {
         description="Maximum seating and cargo capacity in our largest luxury model designed for ultimate group transportation. Call 1-844-844-6638."
         keywords="DENAGO EV Rover XXL, 8-passenger medium speed vehicle, maximum capacity, luxury electric vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonmsv.com/vehicles/denago-ev-rover-xxl"
-        image="https://tigonmsv.com/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg"
+        image="/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -34,7 +34,7 @@ export default function DenagoEvRoverXXL() {
         </nav>
 
         {/* Vehicle Hero Section */}
-        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">

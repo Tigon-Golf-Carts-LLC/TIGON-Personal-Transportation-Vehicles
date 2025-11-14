@@ -14,7 +14,7 @@ export default function EvolutionD5Maverick4() {
         description="Reliable performance and essential features make this the perfect 4-passenger medium speed vehicle for standard transportation needs. Call 1-844-844-6638."
         keywords="EVOLUTION D5 Maverick 4, 4-passenger medium speed vehicle, standard features, reliable performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonmsv.com/vehicles/evolution-d5-maverick-4"
-        image="https://tigonmsv.com/attached_assets/EVOLUTIOND5MAVERICK4_1751893115780_1753135231312.jpg"
+        image="/attached_assets/EVOLUTIOND5MAVERICK4_1751893115780_1753135231312.jpg"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -32,7 +32,7 @@ export default function EvolutionD5Maverick4() {
           </div>
         </nav>
 
-        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
