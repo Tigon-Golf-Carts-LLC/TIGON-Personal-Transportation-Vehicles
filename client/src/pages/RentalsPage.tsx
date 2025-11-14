@@ -205,6 +205,23 @@ export default function RentalsPage() {
       />
       
       <div className="min-h-screen bg-gray-50">
+        {/* Hero Section */}
+        <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/TIGON%20-%20Medium%20Speed%20Vehicles%207_1763146957908.jpeg')"}}>
+          <div className="max-w-7xl mx-auto text-center">
+            <h1 className="text-5xl font-bold mb-6">Medium Speed Vehicle Rentals</h1>
+            <p className="text-xl mb-8 max-w-3xl mx-auto">
+              Experience the freedom of TIGON Medium Speed Vehicles with flexible rental options. 
+              Daily, weekly, and monthly plans available with full insurance coverage and delivery service.
+            </p>
+            <div className="flex justify-center gap-4">
+              <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+                <Phone className="w-5 h-5 mr-2" />
+                Call 1-844-844-6638
+              </Button>
+            </div>
+          </div>
+        </section>
+
         {/* Why Choose Our Rentals Section */}
         <section className="py-16 px-4 bg-gray-100">
           <div className="max-w-6xl mx-auto">

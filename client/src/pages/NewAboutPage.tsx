@@ -4,7 +4,6 @@ import { Badge } from "@/components/ui/badge";
 import { Users, Award, Target, Heart, Phone, Mail, MapPin, Calendar } from "lucide-react";
 import { Link } from "wouter";
 import SEOHead from "@/components/SEOHead";
-import heroImage from "@assets/a-photograph-of-a-modern-golf-cart-deale_c_kG6NR-SA6qC8Vzl1iBww_ILJUjQXFQCGLKMSveOjbrA_1753283141121.png";
 
 export default function NewAboutPage() {
   const teamMembers = [
@@ -72,7 +71,7 @@ export default function NewAboutPage() {
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
             style={{
-              backgroundImage: `url(${heroImage})`
+              backgroundImage: "url('/attached_assets/TIGON%20-%20Medium%20Speed%20Vehicles%201_1763146957906.jpeg')"
             }}
           >
             {/* Overlay for better text readability */}
