@@ -43,17 +43,9 @@ export default function VehicleSchema({
         "priceCurrency": "USD",
         "seller": {
           "@type": "Organization",
-          "name": "Pennsylvania Golf Carts",
+          "name": "TIGON Medium Speed Vehicles",
           "telephone": "1-844-844-6638",
-          "email": "info@bucksgolfcarts.com",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "115 Lincoln Hwy",
-            "addressLocality": "Fairless Hills",
-            "addressRegion": "PA",
-            "postalCode": "19030",
-            "addressCountry": "US"
-          }
+          "email": "info@tigonmsv.com"
         }
       },
       "additionalProperty": features.map(feature => ({

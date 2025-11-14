@@ -491,25 +491,18 @@ TIGON Medium Speed Vehicles Premier MSV Dealership
             Contact us today for personalized service and expert advice
           </p>
           
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
-            <div className="bg-white p-6 rounded-lg shadow-sm text-center">
-              <MapPin className="w-8 h-8 text-blue-500 mx-auto mb-3" />
-              <h3 className="font-semibold text-gray-900 mb-2">Main Location</h3>
-              <p className="text-sm text-gray-600 mb-2">115 Lincoln Hwy, Fairless Hills, PA 19030</p>
-              <p className="text-blue-600 font-semibold">1-844-844-6638</p>
-            </div>
-            
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12 max-w-3xl mx-auto">
             <div className="bg-white p-6 rounded-lg shadow-sm text-center">
               <MapPin className="w-8 h-8 text-blue-500 mx-auto mb-3" />
               <h3 className="font-semibold text-gray-900 mb-2">Service Area</h3>
-              <p className="text-sm text-gray-600 mb-2">Nationwide: All 50 States</p>
+              <p className="text-sm text-gray-600 mb-2">Nationwide: All 50 States, Canada & Mexico</p>
               <p className="text-blue-600 font-semibold">1-844-844-6638</p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-sm text-center">
               <MapPin className="w-8 h-8 text-blue-500 mx-auto mb-3" />
               <h3 className="font-semibold text-gray-900 mb-2">Contact</h3>
-              <p className="text-sm text-gray-600 mb-2">Email: info@bucksgolfcarts.com</p>
+              <p className="text-sm text-gray-600 mb-2">Email: info@tigonmsv.com</p>
               <p className="text-blue-600 font-semibold">1-844-844-6638</p>
             </div>
           </div>

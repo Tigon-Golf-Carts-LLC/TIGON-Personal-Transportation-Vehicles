@@ -146,9 +146,8 @@ export function TermsOfServicePage() {
               <p className="mb-4">If you have questions about these Terms of Service, please contact us:</p>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <p className="mb-2"><strong>nationwide Golf Carts</strong></p>
-                <p className="mb-2">Email: info@bucksgolfcarts.com</p>
+                <p className="mb-2">Email: info@tigonmsv.com</p>
                 <p className="mb-2">Phone: (215) 555-GOLF</p>
-                <p className="mb-2">Address: 115 Lincoln Hwy, Fairless Hills, PA 19030</p>
                 <p>Website: bucksgolfcarts.com</p>
               </div>
 

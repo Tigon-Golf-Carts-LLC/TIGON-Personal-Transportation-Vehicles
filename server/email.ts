@@ -103,7 +103,7 @@ Respond directly to this email to contact the customer.
     // Email options
     const mailOptions = {
       from: `"TIGON Medium Speed Vehicles Contact Form" <${process.env.EMAIL_USER || 'bucksgolfcarts@gmail.com'}>`,
-      to: 'info@bucksgolfcarts.com',
+      to: 'info@tigonmsv.com',
       replyTo: formData.email, // Set reply-to as the customer's email
       subject: `[ TIGON MSV ] New Inquiry`,
       text: textContent,
@@ -121,7 +121,7 @@ Respond directly to this email to contact the customer.
       });
       
       // For development, we'll just log the email content and return success
-      console.log('Email would be sent to: info@bucksgolfcarts.com');
+      console.log('Email would be sent to: info@tigonmsv.com');
       console.log('Email subject:', `[ TIGON MSV ] New Inquiry`);
       console.log('Email content:', textContent);
       return true;

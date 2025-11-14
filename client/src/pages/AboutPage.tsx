@@ -209,7 +209,6 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">About TIGON Medium Speed Vehicles</h2>
               <p className="text-lg text-gray-600 mb-6">
-                From our location at 115 Lincoln Hwy in Fairless Hills, we proudly serve customers throughout 
                 nationwide and the surrounding region. Our commitment to quality MSV service extends 
                 across our entire service area.
               </p>

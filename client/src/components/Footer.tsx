@@ -75,8 +75,7 @@ export default function Footer() {
           <div className="md:hidden">
             <div className="space-y-2">
               <p className="text-gray-900 font-semibold text-sm">Phone: 1-844-844-6638</p>
-              <p className="text-gray-600 text-sm">Email: info@bucksgolfcarts.com</p>
-              <p className="text-gray-600 text-sm">Address: 115 Lincoln Hwy, Fairless Hills, PA 19030</p>
+              <p className="text-gray-600 text-sm">Email: info@tigonmsv.com</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
                 <p>Sat: 9AM-5PM</p>
@@ -124,8 +123,7 @@ export default function Footer() {
             <div className="md:col-span-1">
               <div className="space-y-2">
                 <p className="text-gray-900 font-semibold text-sm">Phone: 1-844-844-6638</p>
-                <p className="text-gray-600 text-sm">Email: info@bucksgolfcarts.com</p>
-                <p className="text-gray-600 text-sm">Address: 115 Lincoln Hwy, Fairless Hills, PA 19030</p>
+                <p className="text-gray-600 text-sm">Email: info@tigonmsv.com</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>
                   <p>Sat: 9AM-5PM</p>

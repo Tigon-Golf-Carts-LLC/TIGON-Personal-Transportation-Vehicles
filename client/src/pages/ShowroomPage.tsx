@@ -9,7 +9,6 @@ export default function ShowroomPage() {
   const locations = [
     {
       name: "TIGON Medium Speed Vehicles",
-      address: "115 Lincoln Hwy, Fairless Hills, PA 19030",
       phone: "1-844-844-6638",
       coordinates: "40.1734,-74.8521",
       googleMapsUrl: "https://www.google.com/maps/place/115+Lincoln+Hwy,+Fairless+Hills,+PA+19030",
@@ -17,7 +16,6 @@ export default function ShowroomPage() {
       youtubeUrl: "https://www.youtube.com/@bucksgolfcarts",
       websiteUrl: "https://bucksgolfcarts.com",
       reviewUrl: "https://g.page/bucksgolfcarts/review",
-      city: "Fairless Hills",
       type: "physical"
     },
     {

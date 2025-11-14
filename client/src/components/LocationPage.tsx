@@ -259,7 +259,6 @@ export default function LocationPage({ location }: LocationPageProps) {
           <div className="mt-8 flex flex-col sm:flex-row gap-6 justify-center items-center text-sm">
             <div className="flex items-center">
               <MapPin className="mr-2 h-5 w-5" />
-              <span>115 Lincoln Hwy, Fairless Hills, PA 19030</span>
             </div>
             <div className="flex items-center">
               <Clock className="mr-2 h-5 w-5" />

@@ -24,15 +24,7 @@ export const generateOrganizationSchema = () => ({
     "https://bucksgolfcarts.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
   ],
   "telephone": "1-844-844-6638",
-  "email": "sales@tigongolfcarts.com",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "115 Lincoln Hwy",
-    "addressLocality": "Fairless Hills",
-    "addressRegion": "PA",
-    "postalCode": "19030",
-    "addressCountry": "US"
-  },
+  "email": "info@tigonmsv.com",
   "areaServed": [
     {
       "@type": "Country",

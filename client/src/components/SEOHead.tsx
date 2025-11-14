@@ -144,7 +144,7 @@ export default function SEOHead({
           "addressCountry": "US"
         },
         "telephone": "1-844-844-6638",
-        "email": "info@bucksgolfcarts.com",
+        "email": "info@tigonmsv.com",
         "url": canonicalUrl,
         "logo": "https://bucksgolfcarts.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
         "image": "https://bucksgolfcarts.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
