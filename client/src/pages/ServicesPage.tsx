@@ -33,7 +33,7 @@ export default function ServicesPage() {
     {
       icon: Settings,
       title: "Customization",
-      description: "Personalize your golf cart with custom accessories and modifications",
+      description: "Personalize your medium speed vehicle with custom accessories and modifications",
       features: [
         "Custom paint jobs",
         "Lift kits installation",

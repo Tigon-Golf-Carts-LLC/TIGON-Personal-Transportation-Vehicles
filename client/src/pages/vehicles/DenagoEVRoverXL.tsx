@@ -12,7 +12,7 @@ export default function DenagoEVRoverXL() {
       <SEOHead 
         title="EV ROVER XL"
         description="Ultimate electric vehicle performance with advanced capabilities and premium features designed for the modern explorer. All-wheel drive technology and luxury comfort. Call 1-844-844-6638."
-        keywords="DENAGO EV ROVER XL, electric golf cart, premium electric vehicle, DENAGO dealer nationwide PA"
+        keywords="DENAGO EV ROVER XL, electric medium speed vehicle, premium electric vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/denago-ev-rover-xl"
         image="https://bucksgolfcarts.com/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg"
       />
@@ -34,7 +34,7 @@ export default function DenagoEVRoverXL() {
         </nav>
 
         {/* Vehicle Hero Section */}
-        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
@@ -89,7 +89,7 @@ export default function DenagoEVRoverXL() {
                 <div className="relative">
                   <img 
                     src={roverXLImage} 
-                    alt="DENAGO EV ROVER XL - Premium electric golf cart" 
+                    alt="DENAGO EV ROVER XL - Premium electric medium speed vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl"
                   />
                 </div>
@@ -99,7 +99,7 @@ export default function DenagoEVRoverXL() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Premium Features</h2>

@@ -12,7 +12,7 @@ export default function DenagoEvNomad() {
       <SEOHead 
         title="EV NOMAD"
         description="Adventure-ready electric vehicle designed for outdoor exploration and off-road capability. Perfect for camping, hunting, and recreational activities. Call 1-844-844-6638."
-        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road golf cart, outdoor recreation, DENAGO dealer nationwide PA"
+        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road medium speed vehicle, outdoor recreation, DENAGO dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/denago-ev-nomad"
         image="https://bucksgolfcarts.com/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
       />
@@ -104,7 +104,7 @@ export default function DenagoEvNomad() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Adventure Features</h2>

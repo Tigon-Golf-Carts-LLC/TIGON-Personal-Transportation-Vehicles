@@ -12,7 +12,7 @@ export default function EvolutionCarrier6Plus() {
       <SEOHead 
         title="Carrier 6 Plus"
         description="Six-passenger carrier with enhanced cargo capacity and utility features for work and recreation. Perfect balance of passenger comfort and utility functionality. Call 1-844-844-6638."
-        keywords="EVOLUTION Carrier 6 Plus, utility golf cart, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION Carrier 6 Plus, utility medium speed vehicle, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-carrier-6-plus"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIONCARRIER6PLUS_1751893115778_1753135231314.jpg"
       />
@@ -94,7 +94,7 @@ export default function EvolutionCarrier6Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION Carrier 6 Plus Utility Golf Cart"
+                    alt="EVOLUTION Carrier 6 Plus Utility Medium Speed Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">

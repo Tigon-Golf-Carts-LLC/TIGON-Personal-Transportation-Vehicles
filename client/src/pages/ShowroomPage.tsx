@@ -19,7 +19,7 @@ export default function ShowroomPage() {
       type: "physical"
     },
     {
-      name: "TIGON Golf Carts Pennsylvania",
+      name: "TIGON Medium Speed Vehicles Pennsylvania",
       address: "Online Store - Serving All of Pennsylvania",
       phone: "1-844-844-6638",
       coordinates: "41.1169824,-77.6047047",
@@ -31,7 +31,7 @@ export default function ShowroomPage() {
       type: "online"
     },
     {
-      name: "TIGON Golf Cart Philadelphia",
+      name: "TIGON Medium Speed Vehicle Philadelphia",
       address: "Online Store - Serving Philadelphia Area",
       phone: "1-844-844-6638",
       coordinates: "40.0024979,-75.1180146",
@@ -46,9 +46,9 @@ export default function ShowroomPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
-        title="Golf Cart Showroom"
-        description="Visit our golf cart dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
-        keywords="golf cart showroom, nationwide dealership, Denago Evolution dealer, golf cart locations"
+        title="Medium Speed Vehicle Showroom"
+        description="Visit our medium speed vehicle dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
+        keywords="medium speed vehicle showroom, nationwide dealership, Denago Evolution dealer, medium speed vehicle locations"
         canonicalUrl="https://bucksgolfcarts.com/showroom"
         image="https://bucksgolfcarts.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
       />
@@ -56,10 +56,10 @@ export default function ShowroomPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('https://bucksgolfcarts.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            Golf Cart Showroom
+            Medium Speed Vehicle Showroom
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Visit our TIGON Golf Cart dealership locations serving nationwide, Pennsylvania. 
+            Visit our TIGON Medium Speed Vehicle dealership locations serving nationwide, Pennsylvania. 
             Experience our full lineup of DENAGO and EVOLUTION electric vehicles in person or online.
           </p>
           <div className="flex justify-center">
@@ -192,7 +192,7 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-theme-primary">Showroom Services</h2>
-            <p className="text-xl text-gray-600">Everything you need for your golf cart experience</p>
+            <p className="text-xl text-gray-600">Everything you need for your medium speed vehicle experience</p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -205,7 +205,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Experience our golf carts firsthand with comprehensive test drives on our demonstration courses.
+                  Experience our medium speed vehicles firsthand with comprehensive test drives on our demonstration courses.
                 </p>
               </CardContent>
             </Card>
@@ -219,7 +219,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Our knowledgeable staff will help you choose the perfect golf cart for your specific needs and budget.
+                  Our knowledgeable staff will help you choose the perfect medium speed vehicle for your specific needs and budget.
                 </p>
               </CardContent>
             </Card>
@@ -233,7 +233,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Flexible financing solutions to make your golf cart purchase affordable and convenient.
+                  Flexible financing solutions to make your medium speed vehicle purchase affordable and convenient.
                 </p>
               </CardContent>
             </Card>
@@ -248,7 +248,7 @@ export default function ShowroomPage() {
             Ready to Visit Our Showroom?
           </h2>
           <p className="text-xl mb-8">
-            Visit our showroom locations in nationwide or shop online to see our full inventory of DENAGO and EVOLUTION golf carts.
+            Visit our showroom locations in nationwide or shop online to see our full inventory of DENAGO and EVOLUTION medium speed vehicles.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">

@@ -45,9 +45,9 @@ export default function NewInventoryPage() {
   return (
     <>
       <SEOHead 
-        title="Golf Cart Inventory"
-        description="Browse our extensive inventory of new and used golf carts from top brands like DENAGO and EVOLUTION in nationwide, PA. Call 1-844-844-6638."
-        keywords="golf cart inventory, new golf carts, used golf carts, DENAGO, EVOLUTION, nationwide golf carts"
+        title="Medium Speed Vehicle Inventory"
+        description="Browse our extensive inventory of new and used medium speed vehicles from top brands like DENAGO and EVOLUTION in nationwide, PA. Call 1-844-844-6638."
+        keywords="medium speed vehicle inventory, new medium speed vehicles, used medium speed vehicles, DENAGO, EVOLUTION, nationwide medium speed vehicles"
       />
       
       <div className="min-h-screen bg-gray-50">
@@ -56,10 +56,10 @@ export default function NewInventoryPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">
-                Golf Cart Inventory
+                Medium Speed Vehicle Inventory
               </h1>
               <p className="text-xl mb-8 max-w-3xl mx-auto">
-                Discover our extensive selection of premium golf carts from leading brands. 
+                Discover our extensive selection of premium medium speed vehicles from leading brands. 
                 New arrivals, certified pre-owned, and custom builds available.
               </p>
             </div>
@@ -73,7 +73,7 @@ export default function NewInventoryPage() {
               <div className="relative">
                 <Search className="absolute left-3 top-3 h-4 w-4 text-gray-400" />
                 <Input
-                  placeholder="Search golf carts..."
+                  placeholder="Search medium speed vehicles..."
                   className="pl-10"
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
@@ -130,7 +130,7 @@ export default function NewInventoryPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex justify-between items-center mb-8">
               <h2 className="text-2xl font-bold text-gray-900">
-                Available Golf Carts ({filteredVehicles?.length || 0})
+                Available Medium Speed Vehicles ({filteredVehicles?.length || 0})
               </h2>
             </div>
 
@@ -234,7 +234,7 @@ export default function NewInventoryPage() {
               Can't Find What You're Looking For?
             </h2>
             <p className="text-xl mb-8">
-              Our team can help you find the perfect golf cart or place a custom order.
+              Our team can help you find the perfect medium speed vehicle or place a custom order.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
@@ -262,7 +262,7 @@ export default function NewInventoryPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
-                  <p className="text-gray-600">Speak with our golf cart specialists</p>
+                  <p className="text-gray-600">Speak with our medium speed vehicle specialists</p>
                 </CardContent>
               </Card>
 

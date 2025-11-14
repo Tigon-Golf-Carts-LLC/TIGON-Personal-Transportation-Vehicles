@@ -11,8 +11,8 @@ export default function EvolutionClassic2Pro() {
     <>
       <SEOHead 
         title="Classic 2 Pro"
-        description="Enhanced features and performance define this professional grade 2-passenger golf cart with premium reliability. Call 1-844-844-6638."
-        keywords="EVOLUTION Classic 2 Pro, professional golf cart, 2-passenger, enhanced performance, EVOLUTION dealer nationwide PA"
+        description="Enhanced features and performance define this professional grade 2-passenger medium speed vehicle with premium reliability. Call 1-844-844-6638."
+        keywords="EVOLUTION Classic 2 Pro, professional medium speed vehicle, 2-passenger, enhanced performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-classic-2-pro"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIONCLASSIC2PRO_1751893115779_1753135231314.jpg"
       />
@@ -85,7 +85,7 @@ export default function EvolutionClassic2Pro() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION Classic 2 Pro Professional Golf Cart"
+                    alt="EVOLUTION Classic 2 Pro Professional Medium Speed Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">

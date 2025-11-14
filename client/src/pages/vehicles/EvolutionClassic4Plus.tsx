@@ -11,8 +11,8 @@ export default function EvolutionClassic4Plus() {
     <>
       <SEOHead 
         title="CLASSIC 4 PLUS"
-        description="Experience timeless design with modern electric performance. Classic styling meets contemporary technology and comfort for premium golf cart experience. Call 1-844-844-6638."
-        keywords="EVOLUTION CLASSIC 4 PLUS, classic golf cart, premium electric vehicle, traditional styling, EVOLUTION dealer nationwide PA"
+        description="Experience timeless design with modern electric performance. Classic styling meets contemporary technology and comfort for premium medium speed vehicle experience. Call 1-844-844-6638."
+        keywords="EVOLUTION CLASSIC 4 PLUS, classic medium speed vehicle, premium electric vehicle, traditional styling, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-classic-4-plus"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg"
       />
@@ -89,7 +89,7 @@ export default function EvolutionClassic4Plus() {
                 <div className="relative">
                   <img 
                     src={classicImage} 
-                    alt="EVOLUTION® CLASSIC 4 PLUS - Premium classic golf cart" 
+                    alt="EVOLUTION® CLASSIC 4 PLUS - Premium classic medium speed vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl"
                   />
                 </div>
@@ -99,7 +99,7 @@ export default function EvolutionClassic4Plus() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Classic Features</h2>

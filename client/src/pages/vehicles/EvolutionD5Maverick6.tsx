@@ -12,7 +12,7 @@ export default function EvolutionD5Maverick6() {
       <SEOHead 
         title="Maverick 6"
         description="Perfect for family outings with reliable 6-passenger seating and proven performance for group transportation. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 6, 6-passenger golf cart, family golf cart, group transportation, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION D5 Maverick 6, 6-passenger medium speed vehicle, family medium speed vehicle, group transportation, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-6"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK6_1751893115781_1753135350621.jpg"
       />
@@ -85,7 +85,7 @@ export default function EvolutionD5Maverick6() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D5 Maverick 6 Family Golf Cart"
+                    alt="EVOLUTION D5 Maverick 6 Family Medium Speed Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">

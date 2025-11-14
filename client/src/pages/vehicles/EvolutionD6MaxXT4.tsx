@@ -12,7 +12,7 @@ export default function EvolutionD6MaxXT4() {
       <SEOHead 
         title="Max XT4"
         description="Extreme terrain capabilities with four-passenger off-road design featuring enhanced rugged construction and high performance. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 Max XT4, extreme terrain golf cart, off-road golf cart, 4-passenger, rugged design, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION D6 Max XT4, extreme terrain medium speed vehicle, off-road medium speed vehicle, 4-passenger, rugged design, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-d6-max-xt4"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
       />
@@ -85,7 +85,7 @@ export default function EvolutionD6MaxXT4() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D6 Max XT4 Extreme Terrain Golf Cart"
+                    alt="EVOLUTION D6 Max XT4 Extreme Terrain Medium Speed Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">

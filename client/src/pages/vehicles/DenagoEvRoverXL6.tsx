@@ -12,7 +12,7 @@ export default function DenagoEvRoverXL6() {
       <SEOHead 
         title="Rover XL6"
         description="Premium luxury features and 6-passenger seating deliver ultimate comfort and performance for discerning customers. Call 1-844-844-6638."
-        keywords="DENAGO EV Rover XL6, luxury electric vehicle, 6-passenger golf cart, premium comfort, DENAGO dealer nationwide PA"
+        keywords="DENAGO EV Rover XL6, luxury electric vehicle, 6-passenger medium speed vehicle, premium comfort, DENAGO dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/denago-ev-rover-xl6"
         image="https://bucksgolfcarts.com/attached_assets/DENAGONEVROVERXL6_1751893047473_1753135231313.jpg"
       />

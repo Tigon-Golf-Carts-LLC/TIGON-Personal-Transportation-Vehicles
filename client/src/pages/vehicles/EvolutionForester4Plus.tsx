@@ -12,7 +12,7 @@ export default function EvolutionForester4Plus() {
       <SEOHead 
         title="FORESTER 4 PLUS"
         description="Premium electric utility vehicle designed for rugged terrain and heavy-duty work. Built for utility work with rugged construction and reliable electric power. Call 1-844-844-6638."
-        keywords="EVOLUTION FORESTER 4 PLUS, utility golf cart, electric utility vehicle, work cart, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION FORESTER 4 PLUS, utility medium speed vehicle, electric utility vehicle, work cart, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-forester-4-plus"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIONFORESTER4PLUS_1751893159005_1753135437836.jpg"
       />
@@ -89,7 +89,7 @@ export default function EvolutionForester4Plus() {
                 <div className="relative">
                   <img 
                     src={foresterImage} 
-                    alt="EVOLUTION® FORESTER 4 PLUS - Premium utility golf cart" 
+                    alt="EVOLUTION® FORESTER 4 PLUS - Premium utility medium speed vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl"
                   />
                 </div>
@@ -99,7 +99,7 @@ export default function EvolutionForester4Plus() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Utility Features</h2>

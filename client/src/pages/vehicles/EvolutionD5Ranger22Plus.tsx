@@ -12,7 +12,7 @@ export default function EvolutionD5Ranger22Plus() {
       <SEOHead 
         title="D5 RANGER 2+2 PLUS"
         description="Ultimate in electric vehicle performance with advanced capabilities and premium features for versatile transportation. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 RANGER 2+2 PLUS, electric golf cart, premium electric vehicle, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION D5 RANGER 2+2 PLUS, electric medium speed vehicle, premium electric vehicle, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-d5-ranger-2-2-plus"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5RANGER2+2PLUS_1751893115782_1753135350622.jpg"
       />
@@ -89,7 +89,7 @@ export default function EvolutionD5Ranger22Plus() {
                 <div className="relative">
                   <img 
                     src={rangerImage} 
-                    alt="EVOLUTION® D5 RANGER 2+2 PLUS - Premium electric golf cart" 
+                    alt="EVOLUTION® D5 RANGER 2+2 PLUS - Premium electric medium speed vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl"
                   />
                 </div>
@@ -99,7 +99,7 @@ export default function EvolutionD5Ranger22Plus() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Premium Features</h2>

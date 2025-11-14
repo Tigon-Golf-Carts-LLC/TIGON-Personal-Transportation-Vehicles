@@ -11,8 +11,8 @@ export default function EvolutionD5Maverick6Plus() {
     <>
       <SEOHead 
         title="Maverick 6 Plus"
-        description="Six-passenger luxury golf cart with premium amenities and extended range capability. Perfect for larger families and group outings with enhanced comfort features. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 6 Plus, luxury golf cart, 6-passenger, family ready, premium comfort, EVOLUTION dealer nationwide PA"
+        description="Six-passenger luxury medium speed vehicle with premium amenities and extended range capability. Perfect for larger families and group outings with enhanced comfort features. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Maverick 6 Plus, luxury medium speed vehicle, 6-passenger, family ready, premium comfort, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-6-plus"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK6PLUS_1751893115781_1753135350622.jpg"
       />
@@ -45,7 +45,7 @@ export default function EvolutionD5Maverick6Plus() {
                   Maverick 6 Plus
                 </h1>
                 <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                  Six-passenger luxury golf cart with premium amenities and extended range capability. Perfect for larger families and group outings with enhanced comfort features.
+                  Six-passenger luxury medium speed vehicle with premium amenities and extended range capability. Perfect for larger families and group outings with enhanced comfort features.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -85,7 +85,7 @@ export default function EvolutionD5Maverick6Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D5 Maverick 6 Plus Luxury Family Golf Cart"
+                    alt="EVOLUTION D5 Maverick 6 Plus Luxury Family Medium Speed Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">

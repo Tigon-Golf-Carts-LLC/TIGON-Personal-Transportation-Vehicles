@@ -5,8 +5,8 @@ export function TermsOfServicePage() {
     <>
       <SEOHead 
         title="Terms of Service"
-        description="Review our terms and conditions for purchasing golf carts, rental services, and using our website. Call 1-844-844-6638."
-        keywords="terms of service, terms and conditions, golf cart purchase, rental agreement, nationwide Golf Carts"
+        description="Review our terms and conditions for purchasing medium speed vehicles, rental services, and using our website. Call 1-844-844-6638."
+        keywords="terms of service, terms and conditions, medium speed vehicle purchase, rental agreement, nationwide Medium Speed Vehicles"
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export function TermsOfServicePage() {
               </p>
               
               <p className="mb-6">
-                Welcome to nationwide Golf Carts. These Terms of Service ("Terms") govern your use of our website bucksgolfcarts.com and your relationship with us regarding the purchase, rental, and servicing of golf carts. By accessing our website or engaging our services, you agree to be bound by these Terms.
+                Welcome to nationwide Medium Speed Vehicles. These Terms of Service ("Terms") govern your use of our website bucksgolfcarts.com and your relationship with us regarding the purchase, rental, and servicing of medium speed vehicles. By accessing our website or engaging our services, you agree to be bound by these Terms.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Acceptance of Terms</h2>
@@ -28,13 +28,13 @@ export function TermsOfServicePage() {
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">About Our Services</h2>
-              <p className="mb-4">nationwide Golf Carts provides:</p>
+              <p className="mb-4">nationwide Medium Speed Vehicles provides:</p>
               <ul className="list-disc pl-6 mb-6">
-                <li>New and used golf cart sales</li>
-                <li>Golf cart rentals for various durations</li>
+                <li>New and used medium speed vehicle sales</li>
+                <li>Medium speed vehicle rentals for various durations</li>
                 <li>Maintenance and repair services</li>
                 <li>Parts and accessories</li>
-                <li>Delivery and pickup services throughout nationwide, Pennsylvania</li>
+                <li>Delivery and pickup services nationwide</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Website Use and Restrictions</h2>
@@ -48,7 +48,7 @@ export function TermsOfServicePage() {
                 <li>Copy, reproduce, or distribute our content without authorization</li>
               </ul>
 
-              <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Golf Cart Sales</h2>
+              <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Medium Speed Vehicle Sales</h2>
               
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Pricing and Availability</h3>
               <p className="mb-6">
@@ -67,13 +67,13 @@ export function TermsOfServicePage() {
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Warranties</h3>
               <p className="mb-6">
-                New golf carts come with manufacturer warranties as specified. Used golf carts may include limited warranties as described at the time of sale. We provide warranty information in writing for all applicable products.
+                New medium speed vehicles come with manufacturer warranties as specified. Used medium speed vehicles may include limited warranties as described at the time of sale. We provide warranty information in writing for all applicable products.
               </p>
 
-              <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Golf Cart Rentals</h2>
+              <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Medium Speed Vehicle Rentals</h2>
               
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Rental Requirements</h3>
-              <p className="mb-4">To rent a golf cart, you must:</p>
+              <p className="mb-4">To rent a medium speed vehicle, you must:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>Be at least 18 years old with valid identification</li>
                 <li>Provide a valid credit card for security deposit</li>
@@ -84,7 +84,7 @@ export function TermsOfServicePage() {
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Rental Responsibilities</h3>
               <p className="mb-4">As a renter, you agree to:</p>
               <ul className="list-disc pl-6 mb-6">
-                <li>Use the golf cart safely and responsibly</li>
+                <li>Use the medium speed vehicle safely and responsibly</li>
                 <li>Return the cart in the same condition as received</li>
                 <li>Pay for any damage, loss, or theft</li>
                 <li>Follow all traffic laws and safety guidelines</li>
@@ -94,7 +94,7 @@ export function TermsOfServicePage() {
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Rental Fees and Deposits</h3>
               <p className="mb-6">
-                Rental fees are due at the time of rental. Security deposits will be charged to your credit card and refunded upon satisfactory return of the golf cart, minus any applicable charges for damage, cleaning, or late return.
+                Rental fees are due at the time of rental. Security deposits will be charged to your credit card and refunded upon satisfactory return of the medium speed vehicle, minus any applicable charges for damage, cleaning, or late return.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Service and Repairs</h2>
@@ -104,7 +104,7 @@ export function TermsOfServicePage() {
                 <li>Customer approval is required for work exceeding estimates</li>
                 <li>We stand behind our work with service guarantees</li>
                 <li>Customers are responsible for payment upon completion</li>
-                <li>We may retain golf carts until payment is received</li>
+                <li>We may retain medium speed vehicles until payment is received</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Intellectual Property</h2>
@@ -114,12 +114,12 @@ export function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Limitation of Liability</h2>
               <p className="mb-6">
-                To the fullest extent permitted by law, nationwide Golf Carts shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
+                To the fullest extent permitted by law, nationwide Medium Speed Vehicles shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Indemnification</h2>
               <p className="mb-6">
-                You agree to indemnify and hold harmless nationwide Golf Carts from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
+                You agree to indemnify and hold harmless nationwide Medium Speed Vehicles from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Privacy Policy</h2>
@@ -145,7 +145,7 @@ export function TermsOfServicePage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <p className="mb-4">If you have questions about these Terms of Service, please contact us:</p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="mb-2"><strong>nationwide Golf Carts</strong></p>
+                <p className="mb-2"><strong>nationwide Medium Speed Vehicles</strong></p>
                 <p className="mb-2">Email: info@tigonmsv.com</p>
                 <p className="mb-2">Phone: (215) 555-GOLF</p>
                 <p>Website: bucksgolfcarts.com</p>

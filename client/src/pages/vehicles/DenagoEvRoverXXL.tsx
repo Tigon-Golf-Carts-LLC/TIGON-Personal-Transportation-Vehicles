@@ -12,7 +12,7 @@ export default function DenagoEvRoverXXL() {
       <SEOHead 
         title="Rover XXL"
         description="Maximum seating and cargo capacity in our largest luxury model designed for ultimate group transportation. Call 1-844-844-6638."
-        keywords="DENAGO EV Rover XXL, 8-passenger golf cart, maximum capacity, luxury electric vehicle, DENAGO dealer nationwide PA"
+        keywords="DENAGO EV Rover XXL, 8-passenger medium speed vehicle, maximum capacity, luxury electric vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/denago-ev-rover-xxl"
         image="https://bucksgolfcarts.com/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg"
       />

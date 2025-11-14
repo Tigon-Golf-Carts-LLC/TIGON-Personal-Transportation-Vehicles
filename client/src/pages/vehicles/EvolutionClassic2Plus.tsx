@@ -11,8 +11,8 @@ export default function EvolutionClassic2Plus() {
     <>
       <SEOHead 
         title="Classic 2 Plus"
-        description="Timeless design and reliable performance in this perfect compact 2-passenger golf cart for traditional golf. Call 1-844-844-6638."
-        keywords="EVOLUTION Classic 2 Plus, 2-passenger golf cart, compact golf cart, traditional design, EVOLUTION dealer nationwide PA"
+        description="Timeless design and reliable performance in this perfect compact 2-passenger medium speed vehicle for traditional golf. Call 1-844-844-6638."
+        keywords="EVOLUTION Classic 2 Plus, 2-passenger medium speed vehicle, compact medium speed vehicle, traditional design, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-classic-2-plus"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg"
       />
@@ -45,7 +45,7 @@ export default function EvolutionClassic2Plus() {
                   Classic 2 Plus
                 </h1>
                 <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                  Compact two-passenger classic golf cart with timeless design and reliable performance. Perfect for traditional golf and essential transportation needs.
+                  Compact two-passenger classic medium speed vehicle with timeless design and reliable performance. Perfect for traditional golf and essential transportation needs.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -85,7 +85,7 @@ export default function EvolutionClassic2Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION Classic 2 Plus Compact Golf Cart"
+                    alt="EVOLUTION Classic 2 Plus Compact Medium Speed Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -130,7 +130,7 @@ export default function EvolutionClassic2Plus() {
                     <Zap className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Classic Design</h3>
-                      <p className="text-gray-600">Timeless styling that honors traditional golf cart design with modern reliability.</p>
+                      <p className="text-gray-600">Timeless styling that honors traditional medium speed vehicle design with modern reliability.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -151,7 +151,7 @@ export default function EvolutionClassic2Plus() {
                     <Award className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Entry Level</h3>
-                      <p className="text-gray-600">Affordable entry point into electric golf cart ownership with essential features.</p>
+                      <p className="text-gray-600">Affordable entry point into electric medium speed vehicle ownership with essential features.</p>
                     </div>
                   </div>
                 </div>

@@ -138,8 +138,8 @@ export default function DenagoPage() {
     <>
       <SEOHead 
         title="DENAGO"
-        description="Discover premium DENAGO electric golf carts with all-wheel drive technology, advanced battery systems, and rugged off-road capability. Expert sales and service in Pennsylvania. Call 1-844-844-6638."
-        keywords="DENAGO golf carts nationwide, electric golf carts Pennsylvania, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road golf carts, all-wheel drive golf carts"
+        description="Discover premium DENAGO electric medium speed vehicles with all-wheel drive technology, advanced battery systems, and rugged off-road capability. Expert sales and service in Pennsylvania. Call 1-844-844-6638."
+        keywords="DENAGO medium speed vehicles nationwide, electric medium speed vehicles Pennsylvania, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road medium speed vehicles, all-wheel drive medium speed vehicles"
         canonicalUrl="https://bucksgolfcarts.com/denago"
         image="https://bucksgolfcarts.com/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg"
       />

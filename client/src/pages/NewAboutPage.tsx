@@ -23,7 +23,7 @@ export default function NewAboutPage() {
     {
       name: "David Chen",
       role: "Sales Specialist",
-      experience: "8+ years in golf cart sales",
+      experience: "8+ years in medium speed vehicle sales",
       description: "Helping customers find their perfect electric vehicle match."
     },
     {
@@ -168,7 +168,7 @@ export default function NewAboutPage() {
                   ></iframe>
                 </div>
                 <div className="mt-6 text-center">
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">TIGON Golf Carts Locations</h3>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">TIGON Medium Speed Vehicles Locations</h3>
                   <div className="grid md:grid-cols-3 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Hatfield Showroom</h4>

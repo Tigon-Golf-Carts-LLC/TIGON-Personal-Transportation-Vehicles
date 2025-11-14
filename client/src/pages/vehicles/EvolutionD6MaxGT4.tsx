@@ -11,8 +11,8 @@ export default function EvolutionD6MaxGT4() {
     <>
       <SEOHead 
         title="MAX GT4"
-        description="High-performance electric golf cart with premium performance features and luxury appointments. Ultimate technology for discerning drivers. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 MAX GT4, performance golf cart, luxury electric vehicle, high performance, EVOLUTION dealer nationwide PA"
+        description="High-performance electric medium speed vehicle with premium performance features and luxury appointments. Ultimate technology for discerning drivers. Call 1-844-844-6638."
+        keywords="EVOLUTION D6 MAX GT4, performance medium speed vehicle, luxury electric vehicle, high performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-d6-max-gt4"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIOND6MAXGT4_1751893159004_1753135350620.jpg"
       />
@@ -47,7 +47,7 @@ export default function EvolutionD6MaxGT4() {
                   MAX GT4
                 </h1>
                 <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                  Experience the EVOLUTION® D6 MAX GT4 with premium performance features and luxury appointments. The ultimate in high-performance electric golf cart technology.
+                  Experience the EVOLUTION® D6 MAX GT4 with premium performance features and luxury appointments. The ultimate in high-performance electric medium speed vehicle technology.
                 </p>
                 
                 {/* Key Features Grid */}
@@ -89,7 +89,7 @@ export default function EvolutionD6MaxGT4() {
                 <div className="relative">
                   <img 
                     src={maxgtImage} 
-                    alt="EVOLUTION® D6 MAX GT4 - High performance golf cart" 
+                    alt="EVOLUTION® D6 MAX GT4 - High performance medium speed vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl"
                   />
                 </div>
@@ -99,7 +99,7 @@ export default function EvolutionD6MaxGT4() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Performance Features</h2>

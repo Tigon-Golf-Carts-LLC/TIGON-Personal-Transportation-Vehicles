@@ -11,8 +11,8 @@ export default function EvolutionD5Maverick4Plus() {
     <>
       <SEOHead 
         title="Maverick 4 Plus"
-        description="Premium four-passenger golf cart with advanced features and superior performance. Enhanced comfort with extended range capability and premium amenities. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 4 Plus, premium golf cart, 4-passenger, advanced features, extended range, EVOLUTION dealer nationwide PA"
+        description="Premium four-passenger medium speed vehicle with advanced features and superior performance. Enhanced comfort with extended range capability and premium amenities. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Maverick 4 Plus, premium medium speed vehicle, 4-passenger, advanced features, extended range, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
         image="https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg"
       />
@@ -45,7 +45,7 @@ export default function EvolutionD5Maverick4Plus() {
                   Maverick 4 Plus
                 </h1>
                 <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                  Premium four-passenger golf cart with advanced features and superior performance. Experience enhanced comfort with extended range capability and premium amenities.
+                  Premium four-passenger medium speed vehicle with advanced features and superior performance. Experience enhanced comfort with extended range capability and premium amenities.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -90,7 +90,7 @@ export default function EvolutionD5Maverick4Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D5 Maverick 4 Plus Premium Golf Cart"
+                    alt="EVOLUTION D5 Maverick 4 Plus Premium Medium Speed Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
