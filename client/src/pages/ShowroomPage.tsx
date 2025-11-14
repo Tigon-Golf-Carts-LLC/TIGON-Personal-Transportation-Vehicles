@@ -12,10 +12,10 @@ export default function ShowroomPage() {
       phone: "1-844-844-6638",
       coordinates: "40.1734,-74.8521",
       googleMapsUrl: "https://www.google.com/maps/place/115+Lincoln+Hwy,+Fairless+Hills,+PA+19030",
-      facebookUrl: "https://www.facebook.com/bucksgolfcarts",
-      youtubeUrl: "https://www.youtube.com/@bucksgolfcarts",
-      websiteUrl: "https://bucksgolfcarts.com",
-      reviewUrl: "https://g.page/bucksgolfcarts/review",
+      facebookUrl: "https://www.facebook.com/tigonmsv",
+      youtubeUrl: "https://www.youtube.com/@tigonmsv",
+      websiteUrl: "https://tigonmsv.com",
+      reviewUrl: "https://g.page/tigonmsv/review",
       type: "physical"
     },
     {
@@ -49,11 +49,11 @@ export default function ShowroomPage() {
         title="Medium Speed Vehicle Showroom"
         description="Visit our medium speed vehicle dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
         keywords="medium speed vehicle showroom, nationwide dealership, Denago Evolution dealer, medium speed vehicle locations"
-        canonicalUrl="https://bucksgolfcarts.com/showroom"
-        image="https://bucksgolfcarts.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
+        canonicalUrl="https://tigonmsv.com/showroom"
+        image="https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
       />
       {/* Hero Section */}
-      <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('https://bucksgolfcarts.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+      <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
             Medium Speed Vehicle Showroom

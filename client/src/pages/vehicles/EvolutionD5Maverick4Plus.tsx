@@ -13,8 +13,8 @@ export default function EvolutionD5Maverick4Plus() {
         title="Maverick 4 Plus"
         description="Premium four-passenger medium speed vehicle with advanced features and superior performance. Enhanced comfort with extended range capability and premium amenities. Call 1-844-844-6638."
         keywords="EVOLUTION D5 Maverick 4 Plus, premium medium speed vehicle, 4-passenger, advanced features, extended range, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-4-plus"
-        image="https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg"
+        canonicalUrl="https://tigonmsv.com/vehicles/evolution-d5-maverick-4-plus"
+        image="https://tigonmsv.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -32,7 +32,7 @@ export default function EvolutionD5Maverick4Plus() {
           </div>
         </nav>
 
-        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://bucksgolfcarts.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">

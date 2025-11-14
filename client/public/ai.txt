@@ -141,5 +141,5 @@ All data provided in machine-readable formats including:
 - Database schema documentation
 - Semantic markup for knowledge extraction
 
-Contact: info@bucksgolfcarts.com
+Contact: info@tigonmsv.com
 Last Updated: January 2025

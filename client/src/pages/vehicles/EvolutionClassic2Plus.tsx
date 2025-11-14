@@ -13,8 +13,8 @@ export default function EvolutionClassic2Plus() {
         title="Classic 2 Plus"
         description="Timeless design and reliable performance in this perfect compact 2-passenger medium speed vehicle for traditional golf. Call 1-844-844-6638."
         keywords="EVOLUTION Classic 2 Plus, 2-passenger medium speed vehicle, compact medium speed vehicle, traditional design, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-classic-2-plus"
-        image="https://bucksgolfcarts.com/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg"
+        canonicalUrl="https://tigonmsv.com/vehicles/evolution-classic-2-plus"
+        image="https://tigonmsv.com/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -32,7 +32,7 @@ export default function EvolutionClassic2Plus() {
           </div>
         </nav>
 
-        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://bucksgolfcarts.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">

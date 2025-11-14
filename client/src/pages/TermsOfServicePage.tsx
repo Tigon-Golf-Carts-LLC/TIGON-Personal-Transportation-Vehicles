@@ -19,7 +19,7 @@ export function TermsOfServicePage() {
               </p>
               
               <p className="mb-6">
-                Welcome to nationwide Medium Speed Vehicles. These Terms of Service ("Terms") govern your use of our website bucksgolfcarts.com and your relationship with us regarding the purchase, rental, and servicing of medium speed vehicles. By accessing our website or engaging our services, you agree to be bound by these Terms.
+                Welcome to nationwide Medium Speed Vehicles. These Terms of Service ("Terms") govern your use of our website tigonmsv.com and your relationship with us regarding the purchase, rental, and servicing of medium speed vehicles. By accessing our website or engaging our services, you agree to be bound by these Terms.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Acceptance of Terms</h2>
@@ -148,7 +148,7 @@ export function TermsOfServicePage() {
                 <p className="mb-2"><strong>nationwide Medium Speed Vehicles</strong></p>
                 <p className="mb-2">Email: info@tigonmsv.com</p>
                 <p className="mb-2">Phone: (215) 555-GOLF</p>
-                <p>Website: bucksgolfcarts.com</p>
+                <p>Website: tigonmsv.com</p>
               </div>
 
               <p className="mt-8 text-sm text-gray-600">

@@ -14,15 +14,15 @@ export default function DenagoEvCity() {
         title="EV CITY"
         description="Experience urban mobility with the DENAGO EV CITY street-legal electric vehicle. Perfect for city transportation and neighborhood use with 40-50 mile range. Call 1-844-844-6638."
         keywords="DENAGO EV CITY, street legal electric vehicle, NEV, urban mobility, DENAGO dealer nationwide PA"
-        canonicalUrl="https://bucksgolfcarts.com/vehicles/denago-ev-city"
-        image="https://bucksgolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg"
+        canonicalUrl="https://tigonmsv.com/vehicles/denago-ev-city"
+        image="https://tigonmsv.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg"
       />
       <VehicleSchema 
         name="DENAGO EV CITY"
         brand="DENAGO"
         image="DENAGONEVCITY_1751893047472_1753135231313.jpg"
         description="Discover the EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use."
-        url="https://bucksgolfcarts.com/vehicles/denago-ev-city"
+        url="https://tigonmsv.com/vehicles/denago-ev-city"
         features={["Street Legal NEV Certified", "40-50 mile range", "25 mph top speed", "4 passenger seating", "Urban mobility design"]}
       />
       
@@ -43,7 +43,7 @@ export default function DenagoEvCity() {
         </nav>
 
         {/* Vehicle Hero Section */}
-        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://bucksgolfcarts.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
@@ -113,7 +113,7 @@ export default function DenagoEvCity() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://tigonmsv.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Urban Mobility Features</h2>

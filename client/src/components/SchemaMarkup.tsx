@@ -18,10 +18,10 @@ export const generateOrganizationSchema = () => ({
   "name": "TIGON Medium Speed Vehicles",
   "alternateName": "TIGON MSV",
   "description": "Premier medium speed vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
-  "url": "https://bucksgolfcarts.com",
-  "logo": "https://bucksgolfcarts.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
+  "url": "https://tigonmsv.com",
+  "logo": "https://tigonmsv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
   "image": [
-    "https://bucksgolfcarts.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
+    "https://tigonmsv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
   ],
   "telephone": "1-844-844-6638",
   "email": "info@tigonmsv.com",
@@ -44,8 +44,8 @@ export const generateOrganizationSchema = () => ({
   "slogan": "Premium medium speed vehicles delivered nationwide",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
-    "https://www.facebook.com/bucksgolfcarts",
-    "https://www.instagram.com/bucksgolfcarts"
+    "https://www.facebook.com/tigonmsv",
+    "https://www.instagram.com/tigonmsv"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -325,7 +325,7 @@ export const generateTownPageSchema = (townName: string) => ({
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
   "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Pennsylvania, Pennsylvania`,
-  "url": `https://bucksgolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
+  "url": `https://tigonmsv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
   "mainEntity": {
     "@type": "LocalBusiness",
     "name": "Pennsylvania Golf Carts",
@@ -349,13 +349,13 @@ export const generateTownPageSchema = (townName: string) => ({
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://bucksgolfcarts.com"
+        "item": "https://tigonmsv.com"
       },
       {
         "@type": "ListItem", 
         "position": 2,
         "name": `${townName} Golf Carts`,
-        "item": `https://bucksgolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`
+        "item": `https://tigonmsv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`
       }
     ]
   }

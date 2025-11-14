@@ -2,7 +2,7 @@
 # Authorized Digital Sellers
 
 ## AUTHORIZED ADVERTISING PARTNERS
-# This file identifies authorized digital advertising sellers for bucksgolfcarts.com
+# This file identifies authorized digital advertising sellers for tigonmsv.com
 
 ## GOOGLE ADVERTISING PLATFORMS
 google.com, pub-PLACEHOLDER, DIRECT, f08c47fec0942fa0
@@ -34,7 +34,7 @@ pennlive.com, PLACEHOLDER, RESELLER
 
 ## CONTACT INFORMATION
 # For advertising inquiries and verification:
-# Email: info@bucksgolfcarts.com
+# Email: info@tigonmsv.com
 # Business: Bucks County Golf Carts
 # Service Area: Bucks County, Pennsylvania
 # Industry: Electric Golf Cart Sales and Service
@@ -48,10 +48,10 @@ pennlive.com, PLACEHOLDER, RESELLER
 
 ## VERIFICATION
 # This ads.txt file is maintained by:
-# Website: bucksgolfcarts.com
-# Contact: info@bucksgolfcarts.com
+# Website: tigonmsv.com
+# Contact: info@tigonmsv.com
 # Last Updated: January 2025
 
 # Note: Publisher account IDs marked as PLACEHOLDER
-# Contact info@bucksgolfcarts.com for actual publisher IDs
+# Contact info@tigonmsv.com for actual publisher IDs
 # when setting up advertising partnerships

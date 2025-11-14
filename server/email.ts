@@ -102,7 +102,7 @@ Respond directly to this email to contact the customer.
 
     // Email options
     const mailOptions = {
-      from: `"TIGON Medium Speed Vehicles Contact Form" <${process.env.EMAIL_USER || 'bucksgolfcarts@gmail.com'}>`,
+      from: `"TIGON Medium Speed Vehicles Contact Form" <${process.env.EMAIL_USER || 'info@tigonmsv.com'}>`,
       to: 'info@tigonmsv.com',
       replyTo: formData.email, // Set reply-to as the customer's email
       subject: `[ TIGON MSV ] New Inquiry`,

@@ -3,637 +3,637 @@
   
   <!-- Main Pages -->
   <url>
-    <loc>https://bucksgolfcarts.com/</loc>
+    <loc>https://tigonmsv.com/</loc>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/Bucks%20County%20Golf%20Carts%20(3)_1753284044185.png</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/Bucks%20County%20Golf%20Carts%20(3)_1753284044185.png</image:loc>
       <image:title>Bucks County Golf Carts Logo</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/inventory</loc>
+    <loc>https://tigonmsv.com/inventory</loc>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/rentals</loc>
+    <loc>https://tigonmsv.com/rentals</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/services</loc>
+    <loc>https://tigonmsv.com/services</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/about</loc>
+    <loc>https://tigonmsv.com/about</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/contact</loc>
+    <loc>https://tigonmsv.com/contact</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/financing</loc>
+    <loc>https://tigonmsv.com/financing</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/policies</loc>
+    <loc>https://tigonmsv.com/policies</loc>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <!-- Brand Pages -->
   <url>
-    <loc>https://bucksgolfcarts.com/denago</loc>
+    <loc>https://tigonmsv.com/denago</loc>
     <priority>0.9</priority>
     <changefreq>weekly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/evolution</loc>
+    <loc>https://tigonmsv.com/evolution</loc>
     <priority>0.9</priority>
     <changefreq>weekly</changefreq>
   </url>
   
   <!-- Vehicle Detail Pages -->
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/denago-ev-city</loc>
+    <loc>https://tigonmsv.com/vehicles/denago-ev-city</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg</image:loc>
       <image:title>Denago EV City Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/denago-ev-nomad</loc>
+    <loc>https://tigonmsv.com/vehicles/denago-ev-nomad</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg</image:loc>
       <image:title>Denago EV Nomad Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/denago-ev-nomad-xl</loc>
+    <loc>https://tigonmsv.com/vehicles/denago-ev-nomad-xl</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg</image:loc>
       <image:title>Denago EV Nomad XL Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/denago-ev-rover-xl</loc>
+    <loc>https://tigonmsv.com/vehicles/denago-ev-rover-xl</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg</image:loc>
       <image:title>Denago EV Rover XL Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/denago-ev-rover-xl6</loc>
+    <loc>https://tigonmsv.com/vehicles/denago-ev-rover-xl6</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/DENAGONEVROVERXL6_1751893047473_1753135231313.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/DENAGONEVROVERXL6_1751893047473_1753135231313.jpg</image:loc>
       <image:title>Denago EV Rover XL6 Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/denago-ev-rover-xxl</loc>
+    <loc>https://tigonmsv.com/vehicles/denago-ev-rover-xxl</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg</image:loc>
       <image:title>Denago EV Rover XXL Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-carrier-6-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-carrier-6-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIONCARRIER6PLUS_1751893115778_1753135231314.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIONCARRIER6PLUS_1751893115778_1753135231314.jpg</image:loc>
       <image:title>Evolution Carrier 6 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-carrier-8-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-carrier-8-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIONCARRIER8PLUS_1751893115779_1753135231314.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIONCARRIER8PLUS_1751893115779_1753135231314.jpg</image:loc>
       <image:title>Evolution Carrier 8 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-classic-2-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-classic-2-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg</image:loc>
       <image:title>Evolution Classic 2 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-classic-2-pro</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-classic-2-pro</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIONCLASSIC2PRO_1751893115779_1753135231314.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIONCLASSIC2PRO_1751893115779_1753135231314.jpg</image:loc>
       <image:title>Evolution Classic 2 Pro Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-classic-4-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-classic-4-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg</image:loc>
       <image:title>Evolution Classic 4 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-classic-4-pro</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-classic-4-pro</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIONCLASSIC4PRO_1751893115780_1753135231314.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIONCLASSIC4PRO_1751893115780_1753135231314.jpg</image:loc>
       <image:title>Evolution Classic 4 Pro Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-2-2</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-maverick-2-2</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK2%2B2_1751893115780_1753135231312.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5MAVERICK2%2B2_1751893115780_1753135231312.jpg</image:loc>
       <image:title>Evolution D5 Maverick 2+2 Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-2-2-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-maverick-2-2-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK2%2B2PLUS_1751893115780_1753135231312.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5MAVERICK2%2B2PLUS_1751893115780_1753135231312.jpg</image:loc>
       <image:title>Evolution D5 Maverick 2+2 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-4</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-maverick-4</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4_1751893115780_1753135231312.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5MAVERICK4_1751893115780_1753135231312.jpg</image:loc>
       <image:title>Evolution D5 Maverick 4 Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-4-2-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-maverick-4-2-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4%2B2PLUS_1751893115780_1753135231312.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5MAVERICK4%2B2PLUS_1751893115780_1753135231312.jpg</image:loc>
       <image:title>Evolution D5 Maverick 4+2 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-4-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-maverick-4-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg</image:loc>
       <image:title>Evolution D5 Maverick 4 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-6</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-maverick-6</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK6_1751893115781_1753135350621.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5MAVERICK6_1751893115781_1753135350621.jpg</image:loc>
       <image:title>Evolution D5 Maverick 6 Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-maverick-6-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-maverick-6-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5MAVERICK6PLUS_1751893115781_1753135350622.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5MAVERICK6PLUS_1751893115781_1753135350622.jpg</image:loc>
       <image:title>Evolution D5 Maverick 6 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-ranger-2-2</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-ranger-2-2</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5RANGER2%2B2_1751893115781_1753135350622.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5RANGER2%2B2_1751893115781_1753135350622.jpg</image:loc>
       <image:title>Evolution D5 Ranger 2+2 Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-ranger-2-2-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-ranger-2-2-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5RANGER2%2B2PLUS_1751893115782_1753135350622.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5RANGER2%2B2PLUS_1751893115782_1753135350622.jpg</image:loc>
       <image:title>Evolution D5 Ranger 2+2 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-ranger-4</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-ranger-4</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5RANGER4_1751893115782_1753135350622.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5RANGER4_1751893115782_1753135350622.jpg</image:loc>
       <image:title>Evolution D5 Ranger 4 Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-ranger-4-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-ranger-4-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5RANGER4PLUS_1751893115782_1753135350622.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5RANGER4PLUS_1751893115782_1753135350622.jpg</image:loc>
       <image:title>Evolution D5 Ranger 4 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-ranger-6</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-ranger-6</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5RANGER6_1751893159004_1753135350623.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5RANGER6_1751893159004_1753135350623.jpg</image:loc>
       <image:title>Evolution D5 Ranger 6 Golf Cart</image:title>
     </image:image>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vehicles/evolution-d5-ranger-6-plus</loc>
+    <loc>https://tigonmsv.com/vehicles/evolution-d5-ranger-6-plus</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
     <image:image>
-      <image:loc>https://bucksgolfcarts.com/attached_assets/EVOLUTIOND5RANGER6PLUS_1751893159004_1753135350619.jpg</image:loc>
+      <image:loc>https://tigonmsv.com/attached_assets/EVOLUTIOND5RANGER6PLUS_1751893159004_1753135350619.jpg</image:loc>
       <image:title>Evolution D5 Ranger 6 Plus Golf Cart</image:title>
     </image:image>
   </url>
   
   <!-- US States -->
   <url>
-    <loc>https://bucksgolfcarts.com/alabama</loc>
+    <loc>https://tigonmsv.com/alabama</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/alaska</loc>
+    <loc>https://tigonmsv.com/alaska</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/arizona</loc>
+    <loc>https://tigonmsv.com/arizona</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/arkansas</loc>
+    <loc>https://tigonmsv.com/arkansas</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/california</loc>
+    <loc>https://tigonmsv.com/california</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/colorado</loc>
+    <loc>https://tigonmsv.com/colorado</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/connecticut</loc>
+    <loc>https://tigonmsv.com/connecticut</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/delaware</loc>
+    <loc>https://tigonmsv.com/delaware</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/florida</loc>
+    <loc>https://tigonmsv.com/florida</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/georgia</loc>
+    <loc>https://tigonmsv.com/georgia</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/hawaii</loc>
+    <loc>https://tigonmsv.com/hawaii</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/idaho</loc>
+    <loc>https://tigonmsv.com/idaho</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/illinois</loc>
+    <loc>https://tigonmsv.com/illinois</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/indiana</loc>
+    <loc>https://tigonmsv.com/indiana</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/iowa</loc>
+    <loc>https://tigonmsv.com/iowa</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/kansas</loc>
+    <loc>https://tigonmsv.com/kansas</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/kentucky</loc>
+    <loc>https://tigonmsv.com/kentucky</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/louisiana</loc>
+    <loc>https://tigonmsv.com/louisiana</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/maine</loc>
+    <loc>https://tigonmsv.com/maine</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/maryland</loc>
+    <loc>https://tigonmsv.com/maryland</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/massachusetts</loc>
+    <loc>https://tigonmsv.com/massachusetts</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/michigan</loc>
+    <loc>https://tigonmsv.com/michigan</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/minnesota</loc>
+    <loc>https://tigonmsv.com/minnesota</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/mississippi</loc>
+    <loc>https://tigonmsv.com/mississippi</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/missouri</loc>
+    <loc>https://tigonmsv.com/missouri</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/montana</loc>
+    <loc>https://tigonmsv.com/montana</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/nebraska</loc>
+    <loc>https://tigonmsv.com/nebraska</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/nevada</loc>
+    <loc>https://tigonmsv.com/nevada</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/new-hampshire</loc>
+    <loc>https://tigonmsv.com/new-hampshire</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/new-jersey</loc>
+    <loc>https://tigonmsv.com/new-jersey</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/new-mexico</loc>
+    <loc>https://tigonmsv.com/new-mexico</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/new-york</loc>
+    <loc>https://tigonmsv.com/new-york</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/north-carolina</loc>
+    <loc>https://tigonmsv.com/north-carolina</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/north-dakota</loc>
+    <loc>https://tigonmsv.com/north-dakota</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/ohio</loc>
+    <loc>https://tigonmsv.com/ohio</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/oklahoma</loc>
+    <loc>https://tigonmsv.com/oklahoma</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/oregon</loc>
+    <loc>https://tigonmsv.com/oregon</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/pennsylvania</loc>
+    <loc>https://tigonmsv.com/pennsylvania</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/rhode-island</loc>
+    <loc>https://tigonmsv.com/rhode-island</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/south-carolina</loc>
+    <loc>https://tigonmsv.com/south-carolina</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/south-dakota</loc>
+    <loc>https://tigonmsv.com/south-dakota</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/tennessee</loc>
+    <loc>https://tigonmsv.com/tennessee</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/texas</loc>
+    <loc>https://tigonmsv.com/texas</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/utah</loc>
+    <loc>https://tigonmsv.com/utah</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/vermont</loc>
+    <loc>https://tigonmsv.com/vermont</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/virginia</loc>
+    <loc>https://tigonmsv.com/virginia</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/washington</loc>
+    <loc>https://tigonmsv.com/washington</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/west-virginia</loc>
+    <loc>https://tigonmsv.com/west-virginia</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/wisconsin</loc>
+    <loc>https://tigonmsv.com/wisconsin</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/wyoming</loc>
+    <loc>https://tigonmsv.com/wyoming</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <!-- Countries -->
   <url>
-    <loc>https://bucksgolfcarts.com/united-states</loc>
+    <loc>https://tigonmsv.com/united-states</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/mexico</loc>
+    <loc>https://tigonmsv.com/mexico</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   
   <url>
-    <loc>https://bucksgolfcarts.com/canada</loc>
+    <loc>https://tigonmsv.com/canada</loc>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>

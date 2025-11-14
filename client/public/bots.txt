@@ -232,8 +232,8 @@ Note: Security scanning permitted only for legitimate security research and auth
 - No access time restrictions
 
 ## CONTACT FOR BOT OPERATORS
-- Technical Contact: info@bucksgolfcarts.com
-- Website: bucksgolfcarts.com
+- Technical Contact: info@tigonmsv.com
+- Website: tigonmsv.com
 - Sitemap: /sitemap.xml
 - Robots.txt: /robots.txt
 - Status: All systems green for unlimited access

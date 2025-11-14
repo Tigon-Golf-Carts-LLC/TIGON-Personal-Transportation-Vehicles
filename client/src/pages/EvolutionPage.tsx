@@ -115,8 +115,8 @@ export default function EvolutionPage() {
         title="EVOLUTION"
         description="Experience premium EVOLUTION medium speed vehicles with innovative design, reliable performance, and comprehensive vehicle lineup. Expert sales and service in nationwide, Pennsylvania. Call 1-844-844-6638."
         keywords="EVOLUTION medium speed vehicles nationwide, electric medium speed vehicles Pennsylvania, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, medium speed vehicle sales Pennsylvania, EVOLUTION dealers"
-        canonicalUrl="https://bucksgolfcarts.com/evolution"
-        image="https://bucksgolfcarts.com/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
+        canonicalUrl="https://tigonmsv.com/evolution"
+        image="https://tigonmsv.com/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
       />
       
       <div className="min-h-screen bg-gray-50">

@@ -19,7 +19,7 @@ export function PrivacyPolicyPage() {
               </p>
               
               <p className="mb-6">
-                At nationwide Medium Speed Vehicles, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website bucksgolfcarts.com or engage with our services.
+                At nationwide Medium Speed Vehicles, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website tigonmsv.com or engage with our services.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Information We Collect</h2>
@@ -118,7 +118,7 @@ export function PrivacyPolicyPage() {
                 <p className="mb-2"><strong>TIGON Medium Speed Vehicles</strong></p>
                 <p className="mb-2">Email: info@tigonmsv.com</p>
                 <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p>Website: bucksgolfcarts.com</p>
+                <p>Website: tigonmsv.com</p>
               </div>
 
               <p className="mt-8 text-sm text-gray-600">

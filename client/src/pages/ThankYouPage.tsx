@@ -11,8 +11,8 @@ export default function ThankYouPage() {
         title="Thank You for Your Message!"
         description="Thank you for contacting TIGON Medium Speed Vehicles. We'll respond to your inquiry within 24 hours and help you find the perfect medium speed vehicle solution. Call 1-844-844-6638."
         keywords="thank you, contact confirmation, TIGON Medium Speed Vehicles"
-        canonicalUrl="https://bucksgolfcarts.com/thank-you"
-        image="https://bucksgolfcarts.com/attached_assets/TIGON Medium Speed Vehicles (3)_1753284044185.png"
+        canonicalUrl="https://tigonmsv.com/thank-you"
+        image="https://tigonmsv.com/attached_assets/TIGON Medium Speed Vehicles (3)_1753284044185.png"
       />
       
       <div className="py-20 px-4">

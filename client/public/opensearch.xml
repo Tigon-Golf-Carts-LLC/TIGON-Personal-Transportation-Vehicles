@@ -6,17 +6,17 @@
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>
   <Image width="16" height="16" type="image/png">/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png</Image>
-  <Url type="text/html" method="get" template="https://bucksgolfcarts.com/search?q={searchTerms}"/>
-  <Url type="application/x-suggestions+json" method="get" template="https://bucksgolfcarts.com/api/suggestions?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://bucksgolfcarts.com/opensearch.xml"/>
+  <Url type="text/html" method="get" template="https://tigonmsv.com/search?q={searchTerms}"/>
+  <Url type="application/x-suggestions+json" method="get" template="https://tigonmsv.com/api/suggestions?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://tigonmsv.com/opensearch.xml"/>
   <Query role="example" searchTerms="Evolution D5 Maverick"/>
   <Developer>TIGON Medium Speed Vehicles</Developer>
-  <Contact>info@bucksgolfcarts.com</Contact>
+  <Contact>info@tigonmsv.com</Contact>
   <Tags>medium speed vehicles electric MSV Evolution Denago nationwide</Tags>
   <LongName>TIGON Medium Speed Vehicles - Electric MSV Search</LongName>
   <Attribution>Copyright 2025 TIGON Medium Speed Vehicles. All rights reserved.</Attribution>
   <SyndicationRight>open</SyndicationRight>
   <AdultContent>false</AdultContent>
   <Language>en-us</Language>
-  <moz:SearchForm>https://bucksgolfcarts.com/inventory</moz:SearchForm>
+  <moz:SearchForm>https://tigonmsv.com/inventory</moz:SearchForm>
 </OpenSearchDescription>

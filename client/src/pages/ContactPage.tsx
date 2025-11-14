@@ -90,13 +90,13 @@ export default function ContactPage() {
     {
       icon: Mail,
       label: "Gmail",
-      value: "bucksgolfcarts@gmail.com",
+      value: "info@tigonmsv.com",
     },
     {
       icon: Globe,
       label: "Website",
-      value: "bucksgolfcarts.com",
-      link: "https://bucksgolfcarts.com",
+      value: "tigonmsv.com",
+      link: "https://tigonmsv.com",
     },
   ];
 
@@ -111,8 +111,8 @@ export default function ContactPage() {
       <SEOHead 
         title="Contact TIGON Medium Speed Vehicles"
         description="Get in touch with TIGON Medium Speed Vehicles for sales, service, rentals, and support. Call 1-844-844-6638 or fill out our contact form for a quick response."
-        canonicalUrl="https://bucksgolfcarts.com/contact"
-        image="https://bucksgolfcarts.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
+        canonicalUrl="https://tigonmsv.com/contact"
+        image="https://tigonmsv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
       />
       
       <div className="max-w-7xl mx-auto px-4 py-8">

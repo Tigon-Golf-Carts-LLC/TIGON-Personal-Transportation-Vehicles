@@ -13,8 +13,8 @@ export default function EvolutionTurfman1000() {
         title="TURFMAN 1000"
         description="Professional commercial utility vehicle for landscaping and maintenance work. Heavy-duty build with 1,000 lbs payload and superior durability. Call 1-844-844-6638."
         keywords="EVOLUTION TURFMAN 1000, commercial utility vehicle, landscaping cart, maintenance vehicle, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://bucksgolfcarts.com/vehicles/evolution-turfman-1000"
-        image="https://bucksgolfcarts.com/attached_assets/EVOLUTIONTURFMAN1000_1751893159006_1753135437836.jpg"
+        canonicalUrl="https://tigonmsv.com/vehicles/evolution-turfman-1000"
+        image="https://tigonmsv.com/attached_assets/EVOLUTIONTURFMAN1000_1751893159006_1753135437836.jpg"
       />
       
       <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -34,7 +34,7 @@ export default function EvolutionTurfman1000() {
         </nav>
 
         {/* Vehicle Hero Section */}
-        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://bucksgolfcarts.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
+        <section className="relative py-12 px-4 bg-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(255, 255, 255, 0.9)), url('https://tigonmsv.com/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="order-2 lg:order-1">
@@ -99,7 +99,7 @@ export default function EvolutionTurfman1000() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://bucksgolfcarts.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9)), url('https://tigonmsv.com/attached_assets/Ocean County Medium Speed Vehicles New Jersey 3_1753197335727.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Commercial Features</h2>
