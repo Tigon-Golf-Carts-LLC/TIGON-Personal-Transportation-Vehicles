@@ -85,18 +85,18 @@ export default function ContactPage() {
     {
       icon: Mail,
       label: "Email",
-      value: "info@tigonmsv.com",
+      value: "info@tigonnev.com",
     },
     {
       icon: Mail,
       label: "Gmail",
-      value: "info@tigonmsv.com",
+      value: "info@tigonnev.com",
     },
     {
       icon: Globe,
       label: "Website",
-      value: "tigonmsv.com",
-      link: "https://tigonmsv.com",
+      value: "tigonnev.com",
+      link: "https://tigonnev.com",
     },
   ];
 
@@ -109,16 +109,16 @@ export default function ContactPage() {
   return (
     <>
       <SEOHead 
-        title="Contact TIGON Medium Speed Vehicles"
-        description="Get in touch with TIGON Medium Speed Vehicles for sales, service, rentals, and support. Call 1-844-844-6638 or fill out our contact form for a quick response."
-        canonicalUrl="https://tigonmsv.com/contact"
+        title="Contact TIGON Neighborhood Electric Vehicles"
+        description="Get in touch with TIGON Neighborhood Electric Vehicles for sales, service, rentals, and support. Call 1-844-844-6638 or fill out our contact form for a quick response."
+        canonicalUrl="https://tigonnev.com/contact"
         image="/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
       />
       
       <div className="max-w-7xl mx-auto px-4 py-8">
       <div className="text-center mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-          Contact TIGON Medium Speed Vehicles
+          Contact TIGON Neighborhood Electric Vehicles
         </h1>
         <p className="text-xl text-gray-600">
           Get in touch with our team for sales, service, and support

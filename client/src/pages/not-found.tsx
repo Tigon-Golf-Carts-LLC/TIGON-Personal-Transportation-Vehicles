@@ -7,8 +7,8 @@ export default function NotFound() {
     <>
       <SEOHead 
         title="404 Page Not Found"
-        description="The page you're looking for doesn't exist. Browse our medium speed vehicle inventory or contact us for assistance. Call 1-844-844-6638."
-        canonicalUrl="https://tigonmsv.com/404"
+        description="The page you're looking for doesn't exist. Browse our neighborhood electric vehicle inventory or contact us for assistance. Call 1-844-844-6638."
+        canonicalUrl="https://tigonnev.com/404"
       />
       <div className="min-h-screen w-full flex items-center justify-center bg-gray-50">
         <Card className="w-full max-w-md mx-4">

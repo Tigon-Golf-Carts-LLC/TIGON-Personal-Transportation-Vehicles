@@ -12,8 +12,8 @@ export default function EvolutionCarrier6Plus() {
       <SEOHead 
         title="Carrier 6 Plus"
         description="Six-passenger carrier with enhanced cargo capacity and utility features for work and recreation. Perfect balance of passenger comfort and utility functionality. Call 1-844-844-6638."
-        keywords="EVOLUTION Carrier 6 Plus, utility medium speed vehicle, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/evolution-carrier-6-plus"
+        keywords="EVOLUTION Carrier 6 Plus, utility neighborhood electric vehicle, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonnev.com/vehicles/evolution-carrier-6-plus"
         image="/attached_assets/EVOLUTIONCARRIER6PLUS_1751893115778_1753135231314.jpg"
       />
       
@@ -37,7 +37,7 @@ export default function EvolutionCarrier6Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -101,7 +101,7 @@ export default function EvolutionCarrier6Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION Carrier 6 Plus Utility Medium Speed Vehicle"
+                    alt="EVOLUTION Carrier 6 Plus Utility Neighborhood Electric Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -239,7 +239,7 @@ export default function EvolutionCarrier6Plus() {
               Ready for Work and Recreation
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Medium Speed Vehicles today to schedule a test drive or get a personalized quote for your EVOLUTION Carrier 6 Plus.
+              Contact TIGON Neighborhood Electric Vehicles today to schedule a test drive or get a personalized quote for your EVOLUTION Carrier 6 Plus.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

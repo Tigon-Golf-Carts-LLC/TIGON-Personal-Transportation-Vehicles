@@ -11,9 +11,9 @@ export default function EvolutionClassic4Plus() {
     <>
       <SEOHead 
         title="CLASSIC 4 PLUS"
-        description="Experience timeless design with modern electric performance. Classic styling meets contemporary technology and comfort for premium medium speed vehicle experience. Call 1-844-844-6638."
-        keywords="EVOLUTION CLASSIC 4 PLUS, classic medium speed vehicle, premium electric vehicle, traditional styling, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/evolution-classic-4-plus"
+        description="Experience timeless design with modern electric performance. Classic styling meets contemporary technology and comfort for premium neighborhood electric vehicle experience. Call 1-844-844-6638."
+        keywords="EVOLUTION CLASSIC 4 PLUS, classic neighborhood electric vehicle, premium electric vehicle, traditional styling, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonnev.com/vehicles/evolution-classic-4-plus"
         image="/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg"
       />
       
@@ -37,7 +37,7 @@ export default function EvolutionClassic4Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -96,7 +96,7 @@ export default function EvolutionClassic4Plus() {
                 <div className="relative">
                   <img 
                     src={classicImage} 
-                    alt="EVOLUTION® CLASSIC 4 PLUS - Premium classic medium speed vehicle" 
+                    alt="EVOLUTION® CLASSIC 4 PLUS - Premium classic neighborhood electric vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl drop-shadow-2xl"
                   />
                 </div>
@@ -106,7 +106,7 @@ export default function EvolutionClassic4Plus() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-orange">Classic Features</h2>
@@ -250,7 +250,7 @@ export default function EvolutionClassic4Plus() {
               Ready to Experience the EVOLUTION® CLASSIC 4 PLUS?
             </h2>
             <p className="text-xl mb-8">
-              Contact TIGON Medium Speed Vehicles today for pricing, availability, and to schedule a test drive.
+              Contact TIGON Neighborhood Electric Vehicles today for pricing, availability, and to schedule a test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

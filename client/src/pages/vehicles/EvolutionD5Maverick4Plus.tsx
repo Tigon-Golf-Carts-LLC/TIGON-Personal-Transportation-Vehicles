@@ -11,9 +11,9 @@ export default function EvolutionD5Maverick4Plus() {
     <>
       <SEOHead 
         title="Maverick 4 Plus"
-        description="Premium four-passenger medium speed vehicle with advanced features and superior performance. Enhanced comfort with extended range capability and premium amenities. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 4 Plus, premium medium speed vehicle, 4-passenger, advanced features, extended range, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/evolution-d5-maverick-4-plus"
+        description="Premium four-passenger neighborhood electric vehicle with advanced features and superior performance. Enhanced comfort with extended range capability and premium amenities. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Maverick 4 Plus, premium neighborhood electric vehicle, 4-passenger, advanced features, extended range, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonnev.com/vehicles/evolution-d5-maverick-4-plus"
         image="/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionD5Maverick4Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -52,7 +52,7 @@ export default function EvolutionD5Maverick4Plus() {
                   Maverick 4 Plus
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Premium four-passenger medium speed vehicle with advanced features and superior performance. Experience enhanced comfort with extended range capability and premium amenities.
+                  Premium four-passenger neighborhood electric vehicle with advanced features and superior performance. Experience enhanced comfort with extended range capability and premium amenities.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -97,7 +97,7 @@ export default function EvolutionD5Maverick4Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D5 Maverick 4 Plus Premium Medium Speed Vehicle"
+                    alt="EVOLUTION D5 Maverick 4 Plus Premium Neighborhood Electric Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -230,7 +230,7 @@ export default function EvolutionD5Maverick4Plus() {
               Premium Performance, Advanced Features
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Medium Speed Vehicles today for your EVOLUTION D5 Maverick 4 Plus.
+              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION D5 Maverick 4 Plus.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

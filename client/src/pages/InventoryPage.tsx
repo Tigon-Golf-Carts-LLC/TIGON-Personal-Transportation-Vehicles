@@ -46,17 +46,17 @@ export default function InventoryPage() {
   }
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://tigonmsv.com" },
-    { name: "Inventory", url: "https://tigonmsv.com/inventory" }
+    { name: "Home", url: "https://tigonnev.com" },
+    { name: "Inventory", url: "https://tigonnev.com/inventory" }
   ];
 
   return (
     <div className="min-h-screen">
       <SEOHead 
-        title="Medium Speed Vehicle Inventory"
-        description="Browse our extensive collection of premium electric medium speed vehicles from Denago and Evolution. Find the perfect vehicle with advanced filtering options. Call 1-844-844-6638."
-        keywords="medium speed vehicle inventory, Denago medium speed vehicles, Evolution medium speed vehicles, electric medium speed vehicles, nationwide PA"
-        canonicalUrl="https://tigonmsv.com/inventory"
+        title="Neighborhood Electric Vehicle Inventory"
+        description="Browse our extensive collection of premium electric neighborhood electric vehicles from Denago and Evolution. Find the perfect vehicle with advanced filtering options. Call 1-844-844-6638."
+        keywords="neighborhood electric vehicle inventory, Denago neighborhood electric vehicles, Evolution neighborhood electric vehicles, electric neighborhood electric vehicles, nationwide PA"
+        canonicalUrl="https://tigonnev.com/inventory"
         image="/attached_assets/a-photograph-of-a-bright-and-airy-modern_cSGtJe7oTWCsurFpyhqrJg_CXQ9jYUGRP2_wh-uk2Htkg_1753199147926.png"
       />
       {/* Schema Markup */}
@@ -66,10 +66,10 @@ export default function InventoryPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/a-photograph-of-a-modern-golf-cart-deale_c_kG6NR-SA6qC8Vzl1iBww_ILJUjQXFQCGLKMSveOjbrA_1753283141121.png')"}}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            Medium Speed Vehicle Inventory
+            Neighborhood Electric Vehicle Inventory
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Browse our extensive collection of premium electric medium speed vehicles from DENAGO and EVOLUTION. 
+            Browse our extensive collection of premium electric neighborhood electric vehicles from DENAGO and EVOLUTION. 
             Find the perfect vehicle for your needs with our advanced filtering options.
           </p>
         </div>
@@ -122,7 +122,7 @@ export default function InventoryPage() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-4">Can't Find What You're Looking For?</h2>
           <p className="text-xl mb-8">
-            Our team can help you find the perfect medium speed vehicle or place a custom order.
+            Our team can help you find the perfect neighborhood electric vehicle or place a custom order.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact" className="w-full sm:w-auto">

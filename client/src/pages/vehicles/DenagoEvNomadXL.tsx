@@ -12,8 +12,8 @@ export default function DenagoEvNomadXL() {
       <SEOHead 
         title="Nomad XL"
         description="Extended seating and enhanced storage for larger adventure groups. Perfect for group exploration and outdoor activities with superior performance. Call 1-844-844-6638."
-        keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger medium speed vehicle, DENAGO dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/denago-ev-nomad-xl"
+        keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger neighborhood electric vehicle, DENAGO dealer nationwide PA"
+        canonicalUrl="https://tigonnev.com/vehicles/denago-ev-nomad-xl"
         image="/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg"
       />
       
@@ -37,7 +37,7 @@ export default function DenagoEvNomadXL() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -239,7 +239,7 @@ export default function DenagoEvNomadXL() {
               Ready for Your Next Adventure?
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Medium Speed Vehicles today to schedule a test drive or get a personalized quote for your DENAGO EV Nomad XL.
+              Contact TIGON Neighborhood Electric Vehicles today to schedule a test drive or get a personalized quote for your DENAGO EV Nomad XL.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

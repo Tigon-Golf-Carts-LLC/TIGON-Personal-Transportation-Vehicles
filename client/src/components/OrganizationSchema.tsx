@@ -9,13 +9,13 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "TIGON Medium Speed Vehicles",
-      "description": "Premier medium speed vehicle dealership specializing in electric MSV sales, service, rentals, and financing across North America.",
-      "url": "https://tigonmsv.com",
-      "logo": "https://tigonmsv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
-      "image": "https://tigonmsv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
+      "name": "TIGON Neighborhood Electric Vehicles",
+      "description": "Premier neighborhood electric vehicle dealership specializing in electric NEV sales, service, rentals, and financing across North America.",
+      "url": "https://tigonnev.com",
+      "logo": "https://tigonnev.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
+      "image": "https://tigonnev.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
       "telephone": "1-844-844-6638",
-      "email": "info@tigonmsv.com",
+      "email": "info@tigonnev.com",
       "openingHours": [
         "Mo-Fr 09:00-18:00",
         "Sa 09:00-17:00"
@@ -36,29 +36,29 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
-        "name": "Medium Speed Vehicle Services & Products",
+        "name": "Neighborhood Electric Vehicle Services & Products",
         "itemListElement": [
           {
             "@type": "Offer",
             "itemOffered": {
               "@type": "Product",
-              "name": "Denago Electric Medium Speed Vehicles",
-              "category": "Electric Medium Speed Vehicles"
+              "name": "Denago Electric Neighborhood Electric Vehicles",
+              "category": "Electric Neighborhood Electric Vehicles"
             }
           },
           {
             "@type": "Offer",
             "itemOffered": {
               "@type": "Product",
-              "name": "Evolution Electric Medium Speed Vehicles",
-              "category": "Electric Medium Speed Vehicles"
+              "name": "Evolution Electric Neighborhood Electric Vehicles",
+              "category": "Electric Neighborhood Electric Vehicles"
             }
           },
           {
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Medium Speed Vehicle Sales",
+              "name": "Neighborhood Electric Vehicle Sales",
               "category": "Sales Service"
             }
           },
@@ -66,7 +66,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Medium Speed Vehicle Rentals",
+              "name": "Neighborhood Electric Vehicle Rentals",
               "category": "Rental Service"
             }
           },
@@ -74,7 +74,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Medium Speed Vehicle Maintenance & Repair",
+              "name": "Neighborhood Electric Vehicle Maintenance & Repair",
               "category": "Maintenance Service"
             }
           },
@@ -82,7 +82,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Medium Speed Vehicle Financing",
+              "name": "Neighborhood Electric Vehicle Financing",
               "category": "Financial Service"
             }
           }
@@ -96,9 +96,9 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "worstRating": "1"
       },
       "sameAs": [
-        "https://www.facebook.com/tigonmsv",
-        "https://www.instagram.com/tigonmsv",
-        "https://www.linkedin.com/company/tigonmsv"
+        "https://www.facebook.com/tigonnev",
+        "https://www.instagram.com/tigonnev",
+        "https://www.linkedin.com/company/tigonnev"
       ]
     };
 
@@ -129,7 +129,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "provider": {
           "@type": "Organization",
-          "name": "TIGON Medium Speed Vehicles"
+          "name": "TIGON Neighborhood Electric Vehicles"
         }
       } as any;
     }

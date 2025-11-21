@@ -18,10 +18,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Alabama',
     mapQuery: 'Alabama, United States',
-    seoTitle: 'Medium Speed Vehicles in Alabama | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Alabama. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Alabama',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Alabama'
+    seoTitle: 'Neighborhood Electric Vehicles in Alabama | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Alabama. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Alabama',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Alabama'
   },
   {
     slug: 'alaska',
@@ -29,10 +29,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Alaska',
     mapQuery: 'Alaska, United States',
-    seoTitle: 'Medium Speed Vehicles in Alaska | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Alaska. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Alaska',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Alaska'
+    seoTitle: 'Neighborhood Electric Vehicles in Alaska | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Alaska. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Alaska',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Alaska'
   },
   {
     slug: 'arizona',
@@ -40,10 +40,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Arizona',
     mapQuery: 'Arizona, United States',
-    seoTitle: 'Medium Speed Vehicles in Arizona | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Arizona. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Arizona',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Arizona'
+    seoTitle: 'Neighborhood Electric Vehicles in Arizona | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Arizona. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Arizona',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Arizona'
   },
   {
     slug: 'arkansas',
@@ -51,10 +51,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Arkansas',
     mapQuery: 'Arkansas, United States',
-    seoTitle: 'Medium Speed Vehicles in Arkansas | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Arkansas. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Arkansas',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Arkansas'
+    seoTitle: 'Neighborhood Electric Vehicles in Arkansas | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Arkansas. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Arkansas',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Arkansas'
   },
   {
     slug: 'california',
@@ -62,10 +62,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'California',
     mapQuery: 'California, United States',
-    seoTitle: 'Medium Speed Vehicles in California | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving California. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in California',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout California'
+    seoTitle: 'Neighborhood Electric Vehicles in California | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving California. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in California',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout California'
   },
   {
     slug: 'colorado',
@@ -73,10 +73,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Colorado',
     mapQuery: 'Colorado, United States',
-    seoTitle: 'Medium Speed Vehicles in Colorado | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Colorado. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Colorado',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Colorado'
+    seoTitle: 'Neighborhood Electric Vehicles in Colorado | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Colorado. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Colorado',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Colorado'
   },
   {
     slug: 'connecticut',
@@ -84,10 +84,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Connecticut',
     mapQuery: 'Connecticut, United States',
-    seoTitle: 'Medium Speed Vehicles in Connecticut | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Connecticut. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Connecticut',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Connecticut'
+    seoTitle: 'Neighborhood Electric Vehicles in Connecticut | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Connecticut. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Connecticut',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Connecticut'
   },
   {
     slug: 'delaware',
@@ -95,10 +95,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Delaware',
     mapQuery: 'Delaware, United States',
-    seoTitle: 'Medium Speed Vehicles in Delaware | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Delaware. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Delaware',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Delaware'
+    seoTitle: 'Neighborhood Electric Vehicles in Delaware | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Delaware. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Delaware',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Delaware'
   },
   {
     slug: 'florida',
@@ -106,10 +106,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Florida',
     mapQuery: 'Florida, United States',
-    seoTitle: 'Medium Speed Vehicles in Florida | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Florida. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Florida',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Florida'
+    seoTitle: 'Neighborhood Electric Vehicles in Florida | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Florida. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Florida',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Florida'
   },
   {
     slug: 'georgia',
@@ -117,10 +117,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Georgia',
     mapQuery: 'Georgia, United States',
-    seoTitle: 'Medium Speed Vehicles in Georgia | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Georgia. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Georgia',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Georgia'
+    seoTitle: 'Neighborhood Electric Vehicles in Georgia | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Georgia. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Georgia',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Georgia'
   },
   {
     slug: 'hawaii',
@@ -128,10 +128,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Hawaii',
     mapQuery: 'Hawaii, United States',
-    seoTitle: 'Medium Speed Vehicles in Hawaii | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Hawaii. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Hawaii',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Hawaii'
+    seoTitle: 'Neighborhood Electric Vehicles in Hawaii | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Hawaii. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Hawaii',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Hawaii'
   },
   {
     slug: 'idaho',
@@ -139,10 +139,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Idaho',
     mapQuery: 'Idaho, United States',
-    seoTitle: 'Medium Speed Vehicles in Idaho | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Idaho. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Idaho',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Idaho'
+    seoTitle: 'Neighborhood Electric Vehicles in Idaho | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Idaho. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Idaho',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Idaho'
   },
   {
     slug: 'illinois',
@@ -150,10 +150,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Illinois',
     mapQuery: 'Illinois, United States',
-    seoTitle: 'Medium Speed Vehicles in Illinois | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Illinois. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Illinois',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Illinois'
+    seoTitle: 'Neighborhood Electric Vehicles in Illinois | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Illinois. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Illinois',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Illinois'
   },
   {
     slug: 'indiana',
@@ -161,10 +161,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Indiana',
     mapQuery: 'Indiana, United States',
-    seoTitle: 'Medium Speed Vehicles in Indiana | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Indiana. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Indiana',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Indiana'
+    seoTitle: 'Neighborhood Electric Vehicles in Indiana | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Indiana. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Indiana',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Indiana'
   },
   {
     slug: 'iowa',
@@ -172,10 +172,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Iowa',
     mapQuery: 'Iowa, United States',
-    seoTitle: 'Medium Speed Vehicles in Iowa | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Iowa. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Iowa',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Iowa'
+    seoTitle: 'Neighborhood Electric Vehicles in Iowa | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Iowa. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Iowa',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Iowa'
   },
   {
     slug: 'kansas',
@@ -183,10 +183,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Kansas',
     mapQuery: 'Kansas, United States',
-    seoTitle: 'Medium Speed Vehicles in Kansas | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Kansas. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Kansas',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Kansas'
+    seoTitle: 'Neighborhood Electric Vehicles in Kansas | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Kansas. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Kansas',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Kansas'
   },
   {
     slug: 'kentucky',
@@ -194,10 +194,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Kentucky',
     mapQuery: 'Kentucky, United States',
-    seoTitle: 'Medium Speed Vehicles in Kentucky | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Kentucky. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Kentucky',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Kentucky'
+    seoTitle: 'Neighborhood Electric Vehicles in Kentucky | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Kentucky. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Kentucky',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Kentucky'
   },
   {
     slug: 'louisiana',
@@ -205,10 +205,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Louisiana',
     mapQuery: 'Louisiana, United States',
-    seoTitle: 'Medium Speed Vehicles in Louisiana | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Louisiana. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Louisiana',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Louisiana'
+    seoTitle: 'Neighborhood Electric Vehicles in Louisiana | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Louisiana. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Louisiana',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Louisiana'
   },
   {
     slug: 'maine',
@@ -216,10 +216,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Maine',
     mapQuery: 'Maine, United States',
-    seoTitle: 'Medium Speed Vehicles in Maine | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Maine. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Maine',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Maine'
+    seoTitle: 'Neighborhood Electric Vehicles in Maine | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Maine. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Maine',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Maine'
   },
   {
     slug: 'maryland',
@@ -227,10 +227,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Maryland',
     mapQuery: 'Maryland, United States',
-    seoTitle: 'Medium Speed Vehicles in Maryland | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Maryland. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Maryland',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Maryland'
+    seoTitle: 'Neighborhood Electric Vehicles in Maryland | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Maryland. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Maryland',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Maryland'
   },
   {
     slug: 'massachusetts',
@@ -238,10 +238,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Massachusetts',
     mapQuery: 'Massachusetts, United States',
-    seoTitle: 'Medium Speed Vehicles in Massachusetts | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Massachusetts. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Massachusetts',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Massachusetts'
+    seoTitle: 'Neighborhood Electric Vehicles in Massachusetts | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Massachusetts. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Massachusetts',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Massachusetts'
   },
   {
     slug: 'michigan',
@@ -249,10 +249,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Michigan',
     mapQuery: 'Michigan, United States',
-    seoTitle: 'Medium Speed Vehicles in Michigan | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Michigan. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Michigan',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Michigan'
+    seoTitle: 'Neighborhood Electric Vehicles in Michigan | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Michigan. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Michigan',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Michigan'
   },
   {
     slug: 'minnesota',
@@ -260,10 +260,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Minnesota',
     mapQuery: 'Minnesota, United States',
-    seoTitle: 'Medium Speed Vehicles in Minnesota | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Minnesota. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Minnesota',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Minnesota'
+    seoTitle: 'Neighborhood Electric Vehicles in Minnesota | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Minnesota. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Minnesota',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Minnesota'
   },
   {
     slug: 'mississippi',
@@ -271,10 +271,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Mississippi',
     mapQuery: 'Mississippi, United States',
-    seoTitle: 'Medium Speed Vehicles in Mississippi | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Mississippi. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Mississippi',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Mississippi'
+    seoTitle: 'Neighborhood Electric Vehicles in Mississippi | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Mississippi. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Mississippi',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Mississippi'
   },
   {
     slug: 'missouri',
@@ -282,10 +282,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Missouri',
     mapQuery: 'Missouri, United States',
-    seoTitle: 'Medium Speed Vehicles in Missouri | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Missouri. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Missouri',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Missouri'
+    seoTitle: 'Neighborhood Electric Vehicles in Missouri | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Missouri. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Missouri',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Missouri'
   },
   {
     slug: 'montana',
@@ -293,10 +293,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Montana',
     mapQuery: 'Montana, United States',
-    seoTitle: 'Medium Speed Vehicles in Montana | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Montana. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Montana',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Montana'
+    seoTitle: 'Neighborhood Electric Vehicles in Montana | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Montana. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Montana',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Montana'
   },
   {
     slug: 'nebraska',
@@ -304,10 +304,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Nebraska',
     mapQuery: 'Nebraska, United States',
-    seoTitle: 'Medium Speed Vehicles in Nebraska | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Nebraska. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Nebraska',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Nebraska'
+    seoTitle: 'Neighborhood Electric Vehicles in Nebraska | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Nebraska. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Nebraska',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Nebraska'
   },
   {
     slug: 'nevada',
@@ -315,10 +315,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Nevada',
     mapQuery: 'Nevada, United States',
-    seoTitle: 'Medium Speed Vehicles in Nevada | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Nevada. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Nevada',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Nevada'
+    seoTitle: 'Neighborhood Electric Vehicles in Nevada | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Nevada. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Nevada',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Nevada'
   },
   {
     slug: 'new-hampshire',
@@ -326,10 +326,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'New Hampshire',
     mapQuery: 'New Hampshire, United States',
-    seoTitle: 'Medium Speed Vehicles in New Hampshire | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving New Hampshire. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in New Hampshire',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout New Hampshire'
+    seoTitle: 'Neighborhood Electric Vehicles in New Hampshire | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving New Hampshire. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in New Hampshire',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout New Hampshire'
   },
   {
     slug: 'new-jersey',
@@ -337,10 +337,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'New Jersey',
     mapQuery: 'New Jersey, United States',
-    seoTitle: 'Medium Speed Vehicles in New Jersey | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving New Jersey. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in New Jersey',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout New Jersey'
+    seoTitle: 'Neighborhood Electric Vehicles in New Jersey | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving New Jersey. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in New Jersey',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout New Jersey'
   },
   {
     slug: 'new-mexico',
@@ -348,10 +348,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'New Mexico',
     mapQuery: 'New Mexico, United States',
-    seoTitle: 'Medium Speed Vehicles in New Mexico | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving New Mexico. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in New Mexico',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout New Mexico'
+    seoTitle: 'Neighborhood Electric Vehicles in New Mexico | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving New Mexico. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in New Mexico',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout New Mexico'
   },
   {
     slug: 'new-york',
@@ -359,10 +359,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'New York',
     mapQuery: 'New York, United States',
-    seoTitle: 'Medium Speed Vehicles in New York | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving New York. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in New York',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout New York'
+    seoTitle: 'Neighborhood Electric Vehicles in New York | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving New York. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in New York',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout New York'
   },
   {
     slug: 'north-carolina',
@@ -370,10 +370,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'North Carolina',
     mapQuery: 'North Carolina, United States',
-    seoTitle: 'Medium Speed Vehicles in North Carolina | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving North Carolina. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in North Carolina',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout North Carolina'
+    seoTitle: 'Neighborhood Electric Vehicles in North Carolina | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving North Carolina. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in North Carolina',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout North Carolina'
   },
   {
     slug: 'north-dakota',
@@ -381,10 +381,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'North Dakota',
     mapQuery: 'North Dakota, United States',
-    seoTitle: 'Medium Speed Vehicles in North Dakota | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving North Dakota. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in North Dakota',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout North Dakota'
+    seoTitle: 'Neighborhood Electric Vehicles in North Dakota | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving North Dakota. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in North Dakota',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout North Dakota'
   },
   {
     slug: 'ohio',
@@ -392,10 +392,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Ohio',
     mapQuery: 'Ohio, United States',
-    seoTitle: 'Medium Speed Vehicles in Ohio | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Ohio. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Ohio',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Ohio'
+    seoTitle: 'Neighborhood Electric Vehicles in Ohio | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Ohio. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Ohio',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Ohio'
   },
   {
     slug: 'oklahoma',
@@ -403,10 +403,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Oklahoma',
     mapQuery: 'Oklahoma, United States',
-    seoTitle: 'Medium Speed Vehicles in Oklahoma | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Oklahoma. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Oklahoma',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Oklahoma'
+    seoTitle: 'Neighborhood Electric Vehicles in Oklahoma | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Oklahoma. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Oklahoma',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Oklahoma'
   },
   {
     slug: 'oregon',
@@ -414,10 +414,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Oregon',
     mapQuery: 'Oregon, United States',
-    seoTitle: 'Medium Speed Vehicles in Oregon | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Oregon. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Oregon',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Oregon'
+    seoTitle: 'Neighborhood Electric Vehicles in Oregon | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Oregon. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Oregon',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Oregon'
   },
   {
     slug: 'pennsylvania',
@@ -425,10 +425,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Pennsylvania',
     mapQuery: 'Pennsylvania, United States',
-    seoTitle: 'Medium Speed Vehicles in Pennsylvania | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Pennsylvania. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Pennsylvania',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Pennsylvania'
+    seoTitle: 'Neighborhood Electric Vehicles in Pennsylvania | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Pennsylvania. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Pennsylvania',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Pennsylvania'
   },
   {
     slug: 'rhode-island',
@@ -436,10 +436,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Rhode Island',
     mapQuery: 'Rhode Island, United States',
-    seoTitle: 'Medium Speed Vehicles in Rhode Island | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Rhode Island. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Rhode Island',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Rhode Island'
+    seoTitle: 'Neighborhood Electric Vehicles in Rhode Island | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Rhode Island. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Rhode Island',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Rhode Island'
   },
   {
     slug: 'south-carolina',
@@ -447,10 +447,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'South Carolina',
     mapQuery: 'South Carolina, United States',
-    seoTitle: 'Medium Speed Vehicles in South Carolina | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving South Carolina. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in South Carolina',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout South Carolina'
+    seoTitle: 'Neighborhood Electric Vehicles in South Carolina | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving South Carolina. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in South Carolina',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout South Carolina'
   },
   {
     slug: 'south-dakota',
@@ -458,10 +458,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'South Dakota',
     mapQuery: 'South Dakota, United States',
-    seoTitle: 'Medium Speed Vehicles in South Dakota | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving South Dakota. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in South Dakota',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout South Dakota'
+    seoTitle: 'Neighborhood Electric Vehicles in South Dakota | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving South Dakota. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in South Dakota',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout South Dakota'
   },
   {
     slug: 'tennessee',
@@ -469,10 +469,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Tennessee',
     mapQuery: 'Tennessee, United States',
-    seoTitle: 'Medium Speed Vehicles in Tennessee | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Tennessee. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Tennessee',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Tennessee'
+    seoTitle: 'Neighborhood Electric Vehicles in Tennessee | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Tennessee. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Tennessee',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Tennessee'
   },
   {
     slug: 'texas',
@@ -480,10 +480,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Texas',
     mapQuery: 'Texas, United States',
-    seoTitle: 'Medium Speed Vehicles in Texas | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Texas. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Texas',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Texas'
+    seoTitle: 'Neighborhood Electric Vehicles in Texas | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Texas. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Texas',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Texas'
   },
   {
     slug: 'utah',
@@ -491,10 +491,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Utah',
     mapQuery: 'Utah, United States',
-    seoTitle: 'Medium Speed Vehicles in Utah | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Utah. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Utah',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Utah'
+    seoTitle: 'Neighborhood Electric Vehicles in Utah | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Utah. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Utah',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Utah'
   },
   {
     slug: 'vermont',
@@ -502,10 +502,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Vermont',
     mapQuery: 'Vermont, United States',
-    seoTitle: 'Medium Speed Vehicles in Vermont | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Vermont. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Vermont',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Vermont'
+    seoTitle: 'Neighborhood Electric Vehicles in Vermont | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Vermont. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Vermont',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Vermont'
   },
   {
     slug: 'virginia',
@@ -513,10 +513,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Virginia',
     mapQuery: 'Virginia, United States',
-    seoTitle: 'Medium Speed Vehicles in Virginia | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Virginia. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Virginia',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Virginia'
+    seoTitle: 'Neighborhood Electric Vehicles in Virginia | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Virginia. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Virginia',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Virginia'
   },
   {
     slug: 'washington',
@@ -524,10 +524,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Washington',
     mapQuery: 'Washington, United States',
-    seoTitle: 'Medium Speed Vehicles in Washington | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Washington. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Washington',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Washington'
+    seoTitle: 'Neighborhood Electric Vehicles in Washington | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Washington. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Washington',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Washington'
   },
   {
     slug: 'west-virginia',
@@ -535,10 +535,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'West Virginia',
     mapQuery: 'West Virginia, United States',
-    seoTitle: 'Medium Speed Vehicles in West Virginia | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving West Virginia. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in West Virginia',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout West Virginia'
+    seoTitle: 'Neighborhood Electric Vehicles in West Virginia | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving West Virginia. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in West Virginia',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout West Virginia'
   },
   {
     slug: 'wisconsin',
@@ -546,10 +546,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Wisconsin',
     mapQuery: 'Wisconsin, United States',
-    seoTitle: 'Medium Speed Vehicles in Wisconsin | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Wisconsin. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Wisconsin',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Wisconsin'
+    seoTitle: 'Neighborhood Electric Vehicles in Wisconsin | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Wisconsin. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Wisconsin',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Wisconsin'
   },
   {
     slug: 'wyoming',
@@ -557,10 +557,10 @@ export const US_STATES: LocationConfig[] = [
     type: 'state',
     fullName: 'Wyoming',
     mapQuery: 'Wyoming, United States',
-    seoTitle: 'Medium Speed Vehicles in Wyoming | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Wyoming. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Wyoming',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Wyoming'
+    seoTitle: 'Neighborhood Electric Vehicles in Wyoming | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Wyoming. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Wyoming',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Wyoming'
   }
 ];
 
@@ -572,10 +572,10 @@ export const COUNTRIES: LocationConfig[] = [
     type: 'country',
     fullName: 'United States of America',
     mapQuery: 'United States',
-    seoTitle: 'Medium Speed Vehicles in United States | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving the entire United States. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in United States',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout the United States'
+    seoTitle: 'Neighborhood Electric Vehicles in United States | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving the entire United States. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in United States',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout the United States'
   },
   {
     slug: 'mexico',
@@ -583,10 +583,10 @@ export const COUNTRIES: LocationConfig[] = [
     type: 'country',
     fullName: 'Mexico',
     mapQuery: 'Mexico',
-    seoTitle: 'Medium Speed Vehicles in Mexico | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Mexico. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Mexico',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Mexico'
+    seoTitle: 'Neighborhood Electric Vehicles in Mexico | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Mexico. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Mexico',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Mexico'
   },
   {
     slug: 'canada',
@@ -594,10 +594,10 @@ export const COUNTRIES: LocationConfig[] = [
     type: 'country',
     fullName: 'Canada',
     mapQuery: 'Canada',
-    seoTitle: 'Medium Speed Vehicles in Canada | TIGON MSV',
-    seoDescription: 'Premium medium speed vehicles serving Canada. Expert MSV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
-    heroTitle: 'Medium Speed Vehicles in Canada',
-    heroSubtitle: 'Your trusted source for premium electric MSVs throughout Canada'
+    seoTitle: 'Neighborhood Electric Vehicles in Canada | TIGON NEV',
+    seoDescription: 'Premium neighborhood electric vehicles and street legal golf carts serving Canada. Expert NEV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    heroTitle: 'Neighborhood Electric Vehicles in Canada',
+    heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Canada'
   }
 ];
 

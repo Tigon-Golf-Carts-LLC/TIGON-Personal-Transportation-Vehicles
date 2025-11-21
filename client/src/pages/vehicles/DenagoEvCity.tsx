@@ -14,7 +14,7 @@ export default function DenagoEvCity() {
         title="EV CITY"
         description="Experience urban mobility with the DENAGO EV CITY street-legal electric vehicle. Perfect for city transportation and neighborhood use with 40-50 mile range. Call 1-844-844-6638."
         keywords="DENAGO EV CITY, street legal electric vehicle, NEV, urban mobility, DENAGO dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/denago-ev-city"
+        canonicalUrl="https://tigonnev.com/vehicles/denago-ev-city"
         image="/attached_assets/DENAGONEVCITY_1751893047472_1753135231313.jpg"
       />
       <VehicleSchema 
@@ -22,7 +22,7 @@ export default function DenagoEvCity() {
         brand="DENAGO"
         image="DENAGONEVCITY_1751893047472_1753135231313.jpg"
         description="Discover the EV CITY lineup and its unique features designed for urban mobility. Street-legal NEV perfect for city transportation and neighborhood use."
-        url="https://tigonmsv.com/vehicles/denago-ev-city"
+        url="https://tigonnev.com/vehicles/denago-ev-city"
         features={["Street Legal NEV Certified", "40-50 mile range", "25 mph top speed", "4 passenger seating", "Urban mobility design"]}
       />
       
@@ -46,7 +46,7 @@ export default function DenagoEvCity() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -120,7 +120,7 @@ export default function DenagoEvCity() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-primary">Urban Mobility Features</h2>
@@ -264,7 +264,7 @@ export default function DenagoEvCity() {
               Ready to Experience the DENAGO® EV CITY?
             </h2>
             <p className="text-xl mb-8">
-              Contact TIGON Medium Speed Vehicles today for pricing, availability, and to schedule a test drive.
+              Contact TIGON Neighborhood Electric Vehicles today for pricing, availability, and to schedule a test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

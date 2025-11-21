@@ -11,7 +11,7 @@ export default function NewAboutPage() {
       name: "Michael Thompson",
       role: "Owner & General Manager",
       experience: "15+ years in recreational vehicle sales",
-      description: "Passionate about providing customers nationwide with the best medium speed vehicle experience."
+      description: "Passionate about providing customers nationwide with the best neighborhood electric vehicle experience."
     },
     {
       name: "Sarah Martinez",
@@ -22,7 +22,7 @@ export default function NewAboutPage() {
     {
       name: "David Chen",
       role: "Sales Specialist",
-      experience: "8+ years in medium speed vehicle sales",
+      experience: "8+ years in neighborhood electric vehicle sales",
       description: "Helping customers find their perfect electric vehicle match."
     },
     {
@@ -59,9 +59,9 @@ export default function NewAboutPage() {
   return (
     <>
       <SEOHead 
-        title="About TIGON Medium Speed Vehicles | Premium MSV Nationwide"
-        description="North America's trusted medium speed vehicle dealer serving all 50 states plus Canada and Mexico with premium DENAGO and EVOLUTION vehicles. Call 1-844-844-6638."
-        keywords="TIGON medium speed vehicles, about us, medium speed vehicle dealer, DENAGO dealer, EVOLUTION dealer, nationwide MSV"
+        title="About TIGON Neighborhood Electric Vehicles | Premium NEV Nationwide"
+        description="North America's trusted neighborhood electric vehicle dealer serving all 50 states plus Canada and Mexico with premium DENAGO and EVOLUTION vehicles. Call 1-844-844-6638."
+        keywords="TIGON neighborhood electric vehicles, about us, neighborhood electric vehicle dealer, DENAGO dealer, EVOLUTION dealer, nationwide NEV"
       />
       
       <div className="min-h-screen bg-gray-50">
@@ -81,10 +81,10 @@ export default function NewAboutPage() {
           {/* Hero Content */}
           <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">
-              About TIGON Medium Speed Vehicles
+              About TIGON Neighborhood Electric Vehicles
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-              Premium medium speed vehicles delivered across North America with 
+              Premium neighborhood electric vehicles delivered across North America with 
               exceptional service and unmatched customer care. Serving customers nationwide 
               with pride and professionalism.
             </p>
@@ -111,8 +111,8 @@ export default function NewAboutPage() {
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    Founded in 2015, TIGON Medium Speed Vehicles began with a simple mission: to provide 
-                    customers across North America with the highest quality medium speed vehicles 
+                    Founded in 2015, TIGON Neighborhood Electric Vehicles began with a simple mission: to provide 
+                    customers across North America with the highest quality neighborhood electric vehicles 
                     and unparalleled customer service.
                   </p>
                   <p>
@@ -123,7 +123,7 @@ export default function NewAboutPage() {
                   <p>
                     We've built our reputation on quality, reliability, and customer satisfaction. 
                     By focusing on premium electric vehicles and exceptional service, we've become 
-                    a go-to choice for customers seeking the best in medium speed vehicle technology.
+                    a go-to choice for customers seeking the best in neighborhood electric vehicle technology.
                   </p>
                   <p>
                     Today, we're proud to be authorized dealers for premium brands like DENAGO and 
@@ -167,7 +167,7 @@ export default function NewAboutPage() {
                   ></iframe>
                 </div>
                 <div className="mt-6 text-center">
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">TIGON Medium Speed Vehicles Locations</h3>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">TIGON Neighborhood Electric Vehicles Locations</h3>
                   <div className="grid md:grid-cols-3 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Hatfield Showroom</h4>
@@ -260,7 +260,7 @@ export default function NewAboutPage() {
                   <CardTitle>United States</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">Premium medium speed vehicles delivered across all 50 states</p>
+                  <p className="text-gray-600 mb-4">Premium neighborhood electric vehicles delivered across all 50 states</p>
                   <Badge variant="secondary">50 States</Badge>
                 </CardContent>
               </Card>
@@ -271,7 +271,7 @@ export default function NewAboutPage() {
                   <CardTitle>Canada</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">Serving Canadian customers with quality electric MSVs and expert service</p>
+                  <p className="text-gray-600 mb-4">Serving Canadian customers with quality electric NEVs and expert service</p>
                   <Badge variant="secondary">International</Badge>
                 </CardContent>
               </Card>
@@ -290,7 +290,7 @@ export default function NewAboutPage() {
 
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <h3 className="text-2xl font-bold text-center mb-6">Nationwide & International Coverage</h3>
-              <p className="text-center text-gray-600 mb-8">View our medium speed vehicle services by location</p>
+              <p className="text-center text-gray-600 mb-8">View our neighborhood electric vehicle services by location</p>
               <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 text-sm text-gray-600">
                 {[
                   { name: "Alabama", path: "/alabama" },
@@ -367,7 +367,7 @@ export default function NewAboutPage() {
               Ready to Experience the TIGON Difference?
             </h2>
             <p className="text-xl mb-8">
-              Join thousands of satisfied customers who trust us for their medium speed vehicle needs.
+              Join thousands of satisfied customers who trust us for their neighborhood electric vehicle needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
@@ -405,7 +405,7 @@ export default function NewAboutPage() {
                   <CardTitle>Email Us</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-lg font-medium text-theme-orange mb-2">info@tigonmsv.com</p>
+                  <p className="text-lg font-medium text-theme-orange mb-2">info@tigonnev.com</p>
                   <p className="text-gray-600">Quick response guaranteed</p>
                 </CardContent>
               </Card>

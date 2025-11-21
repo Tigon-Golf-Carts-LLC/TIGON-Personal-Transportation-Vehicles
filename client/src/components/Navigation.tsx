@@ -32,7 +32,7 @@ export default function Navigation() {
             <div className="rounded-lg w-16 h-16 flex-shrink-0">
               <img 
                 src={tigonLogo} 
-                alt="TIGON Medium Speed Vehicles Logo" 
+                alt="TIGON Neighborhood Electric Vehicles Logo" 
                 className="h-16 w-16 object-contain"
                 width="64"
                 height="64"
@@ -42,7 +42,7 @@ export default function Navigation() {
             <Link href="/">
               <div className="cursor-pointer">
                 <div className="text-lg font-bold text-theme-primary">TIGON</div>
-                <div className="text-lg font-bold text-theme-primary -mt-1">MEDIUM SPEED VEHICLES</div>
+                <div className="text-lg font-bold text-theme-primary -mt-1">NEIGHBORHOOD ELECTRIC VEHICLES</div>
               </div>
             </Link>
           </div>

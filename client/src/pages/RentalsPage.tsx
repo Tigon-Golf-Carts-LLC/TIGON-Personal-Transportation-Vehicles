@@ -197,11 +197,11 @@ export default function RentalsPage() {
   return (
     <>
       <SEOHead 
-        title="Why Choose Our Medium Speed Vehicle Rentals?"
-        description="Experience the best medium speed vehicle rentals with flexible daily, weekly, and monthly options. Full insurance coverage, delivery service, and no hidden fees. Call 1-844-844-6638."
-        keywords="medium speed vehicle rental, nationwide rentals, medium speed vehicle hire, Pennsylvania medium speed vehicle rental"
-        canonicalUrl="https://tigonmsv.com/rentals"
-        image="/attached_assets/TIGON Medium Speed Vehicles (3)_1753284044185.png"
+        title="Why Choose Our Neighborhood Electric Vehicle Rentals?"
+        description="Experience the best neighborhood electric vehicle rentals with flexible daily, weekly, and monthly options. Full insurance coverage, delivery service, and no hidden fees. Call 1-844-844-6638."
+        keywords="neighborhood electric vehicle rental, nationwide rentals, neighborhood electric vehicle hire, Pennsylvania neighborhood electric vehicle rental"
+        canonicalUrl="https://tigonnev.com/rentals"
+        image="/attached_assets/TIGON Neighborhood Electric Vehicles (3)_1753284044185.png"
       />
       
       <div className="min-h-screen bg-gray-50">
@@ -215,9 +215,9 @@ export default function RentalsPage() {
           </div>
           
           <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">Medium Speed Vehicle Rentals</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">Neighborhood Electric Vehicle Rentals</h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-              Experience the freedom of TIGON Medium Speed Vehicles with flexible rental options. 
+              Experience the freedom of TIGON Neighborhood Electric Vehicles with flexible rental options. 
               Daily, weekly, and monthly plans available with full insurance coverage and delivery service.
             </p>
             <div className="flex justify-center gap-4">
@@ -234,7 +234,7 @@ export default function RentalsPage() {
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-12">
               <h1 className="text-4xl font-bold mb-8 text-gray-900">
-                Why Choose Our Medium Speed Vehicle Rentals?
+                Why Choose Our Neighborhood Electric Vehicle Rentals?
               </h1>
             </div>
 
@@ -251,7 +251,7 @@ export default function RentalsPage() {
 
         {/* 4 Seater Plans */}
         <RentalSection 
-          title="4 Seater Medium Speed Vehicle Rental Plans"
+          title="4 Seater Neighborhood Electric Vehicle Rental Plans"
           icon={<Users className="w-8 h-8 text-blue-600" />}
           plans={fourSeaterPlans}
           subtitle="Choose the perfect rental duration for your needs"
@@ -259,7 +259,7 @@ export default function RentalsPage() {
 
         {/* 6 Seater Plans */}
         <RentalSection 
-          title="6 Seater Medium Speed Vehicle Rental Plans"
+          title="6 Seater Neighborhood Electric Vehicle Rental Plans"
           icon={<Users className="w-8 h-8 text-blue-600" />}
           plans={sixSeaterPlans}
           subtitle="Choose the perfect rental duration for your needs"
@@ -267,7 +267,7 @@ export default function RentalsPage() {
 
         {/* Utility Plans */}
         <RentalSection 
-          title="Utility Medium Speed Vehicle Rental Plans"
+          title="Utility Neighborhood Electric Vehicle Rental Plans"
           icon={<Car className="w-8 h-8 text-blue-600" />}
           plans={utilityPlans}
           subtitle="Choose the perfect rental duration for your needs"
@@ -280,7 +280,7 @@ export default function RentalsPage() {
               Need Help Choosing?
             </h2>
             <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
-              Our friendly team is here to help you select the perfect medium speed vehicle rental for your needs. Whether it's for a special event, vacation, or business use, we have the right cart at the right price.
+              Our friendly team is here to help you select the perfect neighborhood electric vehicle rental for your needs. Whether it's for a special event, vacation, or business use, we have the right cart at the right price.
             </p>
             <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
               Call Now 1-844-844-6638

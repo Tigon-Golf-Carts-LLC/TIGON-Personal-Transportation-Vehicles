@@ -5,8 +5,8 @@ export function PrivacyPolicyPage() {
     <>
       <SEOHead 
         title="Privacy Policy"
-        description="Learn how we collect, use, and protect your personal information when you visit our website or purchase medium speed vehicles. Call 1-844-844-6638."
-        keywords="privacy policy, data protection, personal information, nationwide Medium Speed Vehicles"
+        description="Learn how we collect, use, and protect your personal information when you visit our website or purchase neighborhood electric vehicles. Call 1-844-844-6638."
+        keywords="privacy policy, data protection, personal information, nationwide Neighborhood Electric Vehicles"
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export function PrivacyPolicyPage() {
               </p>
               
               <p className="mb-6">
-                At nationwide Medium Speed Vehicles, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website tigonmsv.com or engage with our services.
+                At nationwide Neighborhood Electric Vehicles, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website tigonnev.com or engage with our services.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Information We Collect</h2>
@@ -28,7 +28,7 @@ export function PrivacyPolicyPage() {
               <p className="mb-4">We may collect personal information that you voluntarily provide to us when you:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>Contact us through our contact forms</li>
-                <li>Request quotes or information about our medium speed vehicles</li>
+                <li>Request quotes or information about our neighborhood electric vehicles</li>
                 <li>Subscribe to our newsletter or promotional materials</li>
                 <li>Schedule service appointments</li>
                 <li>Participate in surveys or promotions</li>
@@ -37,7 +37,7 @@ export function PrivacyPolicyPage() {
               <p className="mb-4">This information may include:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>Name and contact information (email, phone number, address)</li>
-                <li>Information about your medium speed vehicle interests and preferences</li>
+                <li>Information about your neighborhood electric vehicle interests and preferences</li>
                 <li>Communication history with our dealership</li>
                 <li>Payment information (processed securely through third-party providers)</li>
               </ul>
@@ -115,10 +115,10 @@ export function PrivacyPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <p className="mb-4">If you have any questions about this Privacy Policy or our privacy practices, please contact us:</p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="mb-2"><strong>TIGON Medium Speed Vehicles</strong></p>
-                <p className="mb-2">Email: info@tigonmsv.com</p>
+                <p className="mb-2"><strong>TIGON Neighborhood Electric Vehicles</strong></p>
+                <p className="mb-2">Email: info@tigonnev.com</p>
                 <p className="mb-2">Phone: 1-844-844-6638</p>
-                <p>Website: tigonmsv.com</p>
+                <p>Website: tigonnev.com</p>
               </div>
 
               <p className="mt-8 text-sm text-gray-600">

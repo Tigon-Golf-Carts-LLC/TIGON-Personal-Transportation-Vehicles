@@ -12,8 +12,8 @@ export default function EvolutionD6MaxXT4() {
       <SEOHead 
         title="Max XT4"
         description="Extreme terrain capabilities with four-passenger off-road design featuring enhanced rugged construction and high performance. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 Max XT4, extreme terrain medium speed vehicle, off-road medium speed vehicle, 4-passenger, rugged design, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/evolution-d6-max-xt4"
+        keywords="EVOLUTION D6 Max XT4, extreme terrain neighborhood electric vehicle, off-road neighborhood electric vehicle, 4-passenger, rugged design, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonnev.com/vehicles/evolution-d6-max-xt4"
         image="/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionD6MaxXT4() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -92,7 +92,7 @@ export default function EvolutionD6MaxXT4() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D6 Max XT4 Extreme Terrain Medium Speed Vehicle"
+                    alt="EVOLUTION D6 Max XT4 Extreme Terrain Neighborhood Electric Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -225,7 +225,7 @@ export default function EvolutionD6MaxXT4() {
               Conquer Any Terrain
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Medium Speed Vehicles today for your EVOLUTION D6 Max XT4.
+              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION D6 Max XT4.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

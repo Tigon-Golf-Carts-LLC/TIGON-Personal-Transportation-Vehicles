@@ -15,16 +15,16 @@ export default function SchemaMarkup({ schema }: SchemaMarkupProps) {
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "TIGON Medium Speed Vehicles",
-  "alternateName": "TIGON MSV",
-  "description": "Premier medium speed vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
-  "url": "https://tigonmsv.com",
-  "logo": "https://tigonmsv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
+  "name": "TIGON Neighborhood Electric Vehicles",
+  "alternateName": "TIGON NEV",
+  "description": "Premier neighborhood electric vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
+  "url": "https://tigonnev.com",
+  "logo": "https://tigonnev.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
   "image": [
-    "https://tigonmsv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
+    "https://tigonnev.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
   ],
   "telephone": "1-844-844-6638",
-  "email": "info@tigonmsv.com",
+  "email": "info@tigonnev.com",
   "areaServed": [
     {
       "@type": "Country",
@@ -41,11 +41,11 @@ export const generateOrganizationSchema = () => ({
   ],
   "foundingDate": "2015",
   "numberOfEmployees": "15-25",
-  "slogan": "Premium medium speed vehicles delivered nationwide",
+  "slogan": "Premium neighborhood electric vehicles delivered nationwide",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
-    "https://www.facebook.com/tigonmsv",
-    "https://www.instagram.com/tigonmsv"
+    "https://www.facebook.com/tigonnev",
+    "https://www.instagram.com/tigonnev"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -325,7 +325,7 @@ export const generateTownPageSchema = (townName: string) => ({
   "@type": "WebPage",
   "name": `Golf Carts in ${townName}`,
   "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Pennsylvania, Pennsylvania`,
-  "url": `https://tigonmsv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
+  "url": `https://tigonnev.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
   "mainEntity": {
     "@type": "LocalBusiness",
     "name": "Pennsylvania Golf Carts",
@@ -349,13 +349,13 @@ export const generateTownPageSchema = (townName: string) => ({
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://tigonmsv.com"
+        "item": "https://tigonnev.com"
       },
       {
         "@type": "ListItem", 
         "position": 2,
         "name": `${townName} Golf Carts`,
-        "item": `https://tigonmsv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`
+        "item": `https://tigonnev.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`
       }
     ]
   }

@@ -12,8 +12,8 @@ export default function EvolutionCarrier8Plus() {
       <SEOHead 
         title="Carrier 8 Plus"
         description="Maximum seating and cargo capacity for large group transportation and utility work. Eight-passenger carrier for demanding applications. Call 1-844-844-6638."
-        keywords="EVOLUTION Carrier 8 Plus, 8-passenger medium speed vehicle, maximum capacity, utility vehicle, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/evolution-carrier-8-plus"
+        keywords="EVOLUTION Carrier 8 Plus, 8-passenger neighborhood electric vehicle, maximum capacity, utility vehicle, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonnev.com/vehicles/evolution-carrier-8-plus"
         image="/attached_assets/EVOLUTIONCARRIER8PLUS_1751893115779_1753135231314.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionCarrier8Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -225,7 +225,7 @@ export default function EvolutionCarrier8Plus() {
               Maximum Capacity, Maximum Performance
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Medium Speed Vehicles today for your EVOLUTION Carrier 8 Plus.
+              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION Carrier 8 Plus.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

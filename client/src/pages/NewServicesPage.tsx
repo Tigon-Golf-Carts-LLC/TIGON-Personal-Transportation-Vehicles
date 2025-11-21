@@ -10,7 +10,7 @@ export default function NewServicesPage() {
     {
       icon: Wrench,
       title: "Maintenance & Repair",
-      description: "Complete maintenance and repair services for all medium speed vehicle brands",
+      description: "Complete maintenance and repair services for all neighborhood electric vehicle brands",
       features: ["Brake service", "Suspension repair", "Engine diagnostics", "Electrical troubleshooting"],
       price: "Starting at $155/hour"
     },
@@ -24,7 +24,7 @@ export default function NewServicesPage() {
     {
       icon: Paintbrush,
       title: "Custom Modifications",
-      description: "Personalize your medium speed vehicle with custom modifications and accessories",
+      description: "Personalize your neighborhood electric vehicle with custom modifications and accessories",
       features: ["Custom paint jobs", "Lift kits", "Custom seating", "Lighting upgrades"],
       price: "Quote on request"
     },
@@ -40,9 +40,9 @@ export default function NewServicesPage() {
   return (
     <>
       <SEOHead 
-        title="Professional Medium Speed Vehicle Services"
+        title="Professional Neighborhood Electric Vehicle Services"
         description="Complete maintenance, repair, battery service, and custom modifications served by certified technicians in nationwide, PA. Call 1-844-844-6638."
-        keywords="medium speed vehicle service, medium speed vehicle repair, battery replacement, maintenance, nationwide"
+        keywords="neighborhood electric vehicle service, neighborhood electric vehicle repair, battery replacement, maintenance, nationwide"
       />
       
       <div className="min-h-screen bg-gray-50">
@@ -58,10 +58,10 @@ export default function NewServicesPage() {
           <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center text-white">
               <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">
-                Professional Medium Speed Vehicle Services
+                Professional Neighborhood Electric Vehicle Services
               </h1>
               <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-                Keep your medium speed vehicle running smoothly with our comprehensive service offerings. 
+                Keep your neighborhood electric vehicle running smoothly with our comprehensive service offerings. 
                 From routine maintenance to major repairs, our certified technicians have you covered.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -85,7 +85,7 @@ export default function NewServicesPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Services</h2>
-              <p className="text-lg text-gray-600">Comprehensive medium speed vehicle services for all makes and models</p>
+              <p className="text-lg text-gray-600">Comprehensive neighborhood electric vehicle services for all makes and models</p>
             </div>
 
             <div className="grid md:grid-cols-2 gap-8">
@@ -127,7 +127,7 @@ export default function NewServicesPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Why Choose Our Service Center?</h2>
-              <p className="text-lg text-gray-600">Experience the difference of professional medium speed vehicle service</p>
+              <p className="text-lg text-gray-600">Experience the difference of professional neighborhood electric vehicle service</p>
             </div>
 
             <div className="grid md:grid-cols-3 gap-8">
@@ -136,7 +136,7 @@ export default function NewServicesPage() {
                   <Wrench className="w-8 h-8 text-theme-orange" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Certified Technicians</h3>
-                <p className="text-gray-600">Factory-trained technicians with years of experience in medium speed vehicle repair and maintenance.</p>
+                <p className="text-gray-600">Factory-trained technicians with years of experience in neighborhood electric vehicle repair and maintenance.</p>
               </div>
 
               <div className="text-center">
@@ -165,7 +165,7 @@ export default function NewServicesPage() {
               Ready to Schedule Your Service?
             </h2>
             <p className="text-xl mb-8">
-              Contact us today to schedule your medium speed vehicle service or request a quote.
+              Contact us today to schedule your neighborhood electric vehicle service or request a quote.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

@@ -8,18 +8,18 @@ import SEOHead from "@/components/SEOHead";
 export default function ShowroomPage() {
   const locations = [
     {
-      name: "TIGON Medium Speed Vehicles",
+      name: "TIGON Neighborhood Electric Vehicles",
       phone: "1-844-844-6638",
       coordinates: "40.1734,-74.8521",
       googleMapsUrl: "https://www.google.com/maps/place/115+Lincoln+Hwy,+Fairless+Hills,+PA+19030",
-      facebookUrl: "https://www.facebook.com/tigonmsv",
-      youtubeUrl: "https://www.youtube.com/@tigonmsv",
-      websiteUrl: "https://tigonmsv.com",
-      reviewUrl: "https://g.page/tigonmsv/review",
+      facebookUrl: "https://www.facebook.com/tigonnev",
+      youtubeUrl: "https://www.youtube.com/@tigonnev",
+      websiteUrl: "https://tigonnev.com",
+      reviewUrl: "https://g.page/tigonnev/review",
       type: "physical"
     },
     {
-      name: "TIGON Medium Speed Vehicles Pennsylvania",
+      name: "TIGON Neighborhood Electric Vehicles Pennsylvania",
       address: "Online Store - Serving All of Pennsylvania",
       phone: "1-844-844-6638",
       coordinates: "41.1169824,-77.6047047",
@@ -31,7 +31,7 @@ export default function ShowroomPage() {
       type: "online"
     },
     {
-      name: "TIGON Medium Speed Vehicle Philadelphia",
+      name: "TIGON Neighborhood Electric Vehicle Philadelphia",
       address: "Online Store - Serving Philadelphia Area",
       phone: "1-844-844-6638",
       coordinates: "40.0024979,-75.1180146",
@@ -46,10 +46,10 @@ export default function ShowroomPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
-        title="Medium Speed Vehicle Showroom"
-        description="Visit our medium speed vehicle dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
-        keywords="medium speed vehicle showroom, nationwide dealership, Denago Evolution dealer, medium speed vehicle locations"
-        canonicalUrl="https://tigonmsv.com/showroom"
+        title="Neighborhood Electric Vehicle Showroom"
+        description="Visit our neighborhood electric vehicle dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
+        keywords="neighborhood electric vehicle showroom, nationwide dealership, Denago Evolution dealer, neighborhood electric vehicle locations"
+        canonicalUrl="https://tigonnev.com/showroom"
         image="/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
       />
       {/* Hero Section */}
@@ -63,10 +63,10 @@ export default function ShowroomPage() {
         
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">
-            Medium Speed Vehicle Showroom
+            Neighborhood Electric Vehicle Showroom
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-            Visit our TIGON Medium Speed Vehicle dealership locations serving nationwide, Pennsylvania. 
+            Visit our TIGON Neighborhood Electric Vehicle dealership locations serving nationwide, Pennsylvania. 
             Experience our full lineup of DENAGO and EVOLUTION electric vehicles in person or online.
           </p>
           <div className="flex justify-center">
@@ -199,7 +199,7 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-theme-primary">Showroom Services</h2>
-            <p className="text-xl text-gray-600">Everything you need for your medium speed vehicle experience</p>
+            <p className="text-xl text-gray-600">Everything you need for your neighborhood electric vehicle experience</p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -212,7 +212,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Experience our medium speed vehicles firsthand with comprehensive test drives on our demonstration courses.
+                  Experience our neighborhood electric vehicles firsthand with comprehensive test drives on our demonstration courses.
                 </p>
               </CardContent>
             </Card>
@@ -226,7 +226,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Our knowledgeable staff will help you choose the perfect medium speed vehicle for your specific needs and budget.
+                  Our knowledgeable staff will help you choose the perfect neighborhood electric vehicle for your specific needs and budget.
                 </p>
               </CardContent>
             </Card>
@@ -240,7 +240,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Flexible financing solutions to make your medium speed vehicle purchase affordable and convenient.
+                  Flexible financing solutions to make your neighborhood electric vehicle purchase affordable and convenient.
                 </p>
               </CardContent>
             </Card>
@@ -255,7 +255,7 @@ export default function ShowroomPage() {
             Ready to Visit Our Showroom?
           </h2>
           <p className="text-xl mb-8">
-            Visit our showroom locations in nationwide or shop online to see our full inventory of DENAGO and EVOLUTION medium speed vehicles.
+            Visit our showroom locations in nationwide or shop online to see our full inventory of DENAGO and EVOLUTION neighborhood electric vehicles.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">

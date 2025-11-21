@@ -12,8 +12,8 @@ export default function DenagoEvRoverXL6() {
       <SEOHead 
         title="Rover XL6"
         description="Premium luxury features and 6-passenger seating deliver ultimate comfort and performance for discerning customers. Call 1-844-844-6638."
-        keywords="DENAGO EV Rover XL6, luxury electric vehicle, 6-passenger medium speed vehicle, premium comfort, DENAGO dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/denago-ev-rover-xl6"
+        keywords="DENAGO EV Rover XL6, luxury electric vehicle, 6-passenger neighborhood electric vehicle, premium comfort, DENAGO dealer nationwide PA"
+        canonicalUrl="https://tigonnev.com/vehicles/denago-ev-rover-xl6"
         image="/attached_assets/DENAGONEVROVERXL6_1751893047473_1753135231313.jpg"
       />
       
@@ -37,7 +37,7 @@ export default function DenagoEvRoverXL6() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -234,7 +234,7 @@ export default function DenagoEvRoverXL6() {
               Experience Luxury Transportation
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Medium Speed Vehicles today to schedule a test drive or get a personalized quote for your DENAGO EV Rover XL6.
+              Contact TIGON Neighborhood Electric Vehicles today to schedule a test drive or get a personalized quote for your DENAGO EV Rover XL6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

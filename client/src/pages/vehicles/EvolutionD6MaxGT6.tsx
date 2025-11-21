@@ -11,9 +11,9 @@ export default function EvolutionD6MaxGT6() {
     <>
       <SEOHead 
         title="Max GT6"
-        description="High performance and luxury features combine in this six-passenger medium speed vehicle with maximum power and premium comfort. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 Max GT6, high performance medium speed vehicle, 6-passenger, luxury features, maximum power, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/evolution-d6-max-gt6"
+        description="High performance and luxury features combine in this six-passenger neighborhood electric vehicle with maximum power and premium comfort. Call 1-844-844-6638."
+        keywords="EVOLUTION D6 Max GT6, high performance neighborhood electric vehicle, 6-passenger, luxury features, maximum power, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonnev.com/vehicles/evolution-d6-max-gt6"
         image="/attached_assets/EVOLUTIOND6MAXGT6_1751893159004_1753135350620.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionD6MaxGT6() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -52,7 +52,7 @@ export default function EvolutionD6MaxGT6() {
                   Max GT6
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Six-passenger high-performance medium speed vehicle with maximum power and luxury features. The ultimate combination of performance, comfort, and style.
+                  Six-passenger high-performance neighborhood electric vehicle with maximum power and luxury features. The ultimate combination of performance, comfort, and style.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -92,7 +92,7 @@ export default function EvolutionD6MaxGT6() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D6 Max GT6 High Performance Medium Speed Vehicle"
+                    alt="EVOLUTION D6 Max GT6 High Performance Neighborhood Electric Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -151,7 +151,7 @@ export default function EvolutionD6MaxGT6() {
                     <Settings className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Luxury Features</h3>
-                      <p className="text-gray-600">Premium luxury features and high-end appointments for the ultimate medium speed vehicle experience.</p>
+                      <p className="text-gray-600">Premium luxury features and high-end appointments for the ultimate neighborhood electric vehicle experience.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -225,7 +225,7 @@ export default function EvolutionD6MaxGT6() {
               Maximum Performance, Maximum Luxury
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Medium Speed Vehicles today for your EVOLUTION D6 Max GT6.
+              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION D6 Max GT6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

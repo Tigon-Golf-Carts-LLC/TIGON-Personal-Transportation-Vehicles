@@ -11,9 +11,9 @@ export default function EvolutionD5Maverick6Plus() {
     <>
       <SEOHead 
         title="Maverick 6 Plus"
-        description="Six-passenger luxury medium speed vehicle with premium amenities and extended range capability. Perfect for larger families and group outings with enhanced comfort features. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 6 Plus, luxury medium speed vehicle, 6-passenger, family ready, premium comfort, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonmsv.com/vehicles/evolution-d5-maverick-6-plus"
+        description="Six-passenger luxury neighborhood electric vehicle with premium amenities and extended range capability. Perfect for larger families and group outings with enhanced comfort features. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Maverick 6 Plus, luxury neighborhood electric vehicle, 6-passenger, family ready, premium comfort, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonnev.com/vehicles/evolution-d5-maverick-6-plus"
         image="/attached_assets/EVOLUTIOND5MAVERICK6PLUS_1751893115781_1753135350622.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionD5Maverick6Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Medium Speed Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -52,7 +52,7 @@ export default function EvolutionD5Maverick6Plus() {
                   Maverick 6 Plus
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Six-passenger luxury medium speed vehicle with premium amenities and extended range capability. Perfect for larger families and group outings with enhanced comfort features.
+                  Six-passenger luxury neighborhood electric vehicle with premium amenities and extended range capability. Perfect for larger families and group outings with enhanced comfort features.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -92,7 +92,7 @@ export default function EvolutionD5Maverick6Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D5 Maverick 6 Plus Luxury Family Medium Speed Vehicle"
+                    alt="EVOLUTION D5 Maverick 6 Plus Luxury Family Neighborhood Electric Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -225,7 +225,7 @@ export default function EvolutionD5Maverick6Plus() {
               Luxury Family Adventures Await
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Medium Speed Vehicles today for your EVOLUTION D5 Maverick 6 Plus.
+              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION D5 Maverick 6 Plus.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
