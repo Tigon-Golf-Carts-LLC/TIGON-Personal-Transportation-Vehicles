@@ -3,6 +3,7 @@ import { Calendar, ArrowLeft, Shield } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import SEOHead from "@/components/SEOHead";
 import { getBlogPostBySlug } from "@/data/blogPosts";
+import heroImage from "@assets/generated_images/nev_warranty_documents_comparison.png";
 
 export default function NEVWarrantyComparison() {
   const post = getBlogPostBySlug("neighborhood-electric-vehicle-warranty-coverage-comparison");
@@ -16,8 +17,13 @@ export default function NEVWarrantyComparison() {
         <header className="mb-8">
           <div className="flex items-center gap-4 text-sm text-gray-600 mb-4"><span className="flex items-center"><Calendar className="w-4 h-4 mr-2" />{new Date(post.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span><span>•</span><span>{post.category}</span></div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">{post.title}</h1>
-          <div className="aspect-video bg-gradient-to-br from-theme-primary to-blue-600 rounded-lg mb-6 flex items-center justify-center text-white p-8"><div className="text-center"><p className="text-sm mb-2 font-semibold">Hero Image Prompt:</p><p className="text-sm italic">{post.heroImagePrompt}</p></div></div>
-          <p className="text-sm text-gray-600 italic mb-8">Alt Text: {post.heroImageAlt}</p>
+          <div className="aspect-video rounded-lg mb-6 overflow-hidden">
+            <img 
+              src={heroImage} 
+              alt={post.heroImageAlt}
+              className="w-full h-full object-cover"
+            />
+          </div>
         </header>
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-8">Warranty coverage significantly impacts the total cost of neighborhood electric vehicle ownership for Pennsylvania, New Jersey, Delaware, and Virginia buyers. Understanding what each manufacturer covers—and for how long—helps make informed purchasing decisions and budget for potential future expenses.</p>

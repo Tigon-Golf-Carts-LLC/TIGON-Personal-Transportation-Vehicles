@@ -5,6 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import SEOHead from "@/components/SEOHead";
 import { getAllBlogPosts } from "@/data/blogPosts";
+import { blogImages } from "@/data/blogImages";
 
 export default function BlogIndexPage() {
   const blogPosts = getAllBlogPosts();
@@ -36,12 +37,12 @@ export default function BlogIndexPage() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {blogPosts.map((post) => (
               <Card key={post.id} className="hover:shadow-xl transition-shadow overflow-hidden group" data-testid={`blog-card-${post.slug}`}>
-                <div className="aspect-video bg-gradient-to-br from-theme-primary to-blue-600 relative overflow-hidden">
-                  <div className="absolute inset-0 flex items-center justify-center text-white p-6">
-                    <p className="text-sm text-center font-medium opacity-90">
-                      {post.heroImageAlt}
-                    </p>
-                  </div>
+                <div className="aspect-video relative overflow-hidden bg-gray-200">
+                  <img 
+                    src={blogImages[post.slug]} 
+                    alt={post.heroImageAlt}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                  />
                 </div>
                 
                 <CardHeader>

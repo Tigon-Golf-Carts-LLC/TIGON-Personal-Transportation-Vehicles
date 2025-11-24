@@ -3,6 +3,7 @@ import { Calendar, ArrowLeft, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import SEOHead from "@/components/SEOHead";
 import { getBlogPostBySlug } from "@/data/blogPosts";
+import heroImage from "@assets/generated_images/nev_city_street_philadelphia.png";
 
 export default function BestNEVCityCommuting() {
   const post = getBlogPostBySlug("best-neighborhood-electric-vehicles-city-commuting");
@@ -42,14 +43,14 @@ export default function BestNEVCityCommuting() {
             {post.title}
           </h1>
 
-          {/* Hero Image Placeholder */}
-          <div className="aspect-video bg-gradient-to-br from-theme-primary to-blue-600 rounded-lg mb-6 flex items-center justify-center text-white p-8">
-            <div className="text-center">
-              <p className="text-sm mb-2 font-semibold">Hero Image Prompt:</p>
-              <p className="text-sm italic">{post.heroImagePrompt}</p>
-            </div>
+          {/* Hero Image */}
+          <div className="aspect-video rounded-lg mb-6 overflow-hidden">
+            <img 
+              src={heroImage} 
+              alt={post.heroImageAlt}
+              className="w-full h-full object-cover"
+            />
           </div>
-          <p className="text-sm text-gray-600 italic mb-8">Alt Text: {post.heroImageAlt}</p>
         </header>
 
         {/* Article Content */}
