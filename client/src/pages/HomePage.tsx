@@ -49,7 +49,7 @@ export default function HomePage() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
-                  <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white shadow-lg w-full sm:w-auto">
+                  <Button size="lg" className="bg-theme-primary hover:opacity-90 text-white shadow-lg w-full sm:w-auto">
                     View Inventory
                   </Button>
                 </Link>
@@ -94,7 +94,7 @@ export default function HomePage() {
             </div>
             
             <div className="text-center">
-              <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="bg-theme-primary w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Wrench className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Expert Service</h3>
@@ -104,7 +104,7 @@ export default function HomePage() {
             </div>
             
             <div className="text-center">
-              <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="bg-theme-primary w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Percent className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">0% Financing</h3>
@@ -114,7 +114,7 @@ export default function HomePage() {
             </div>
             
             <div className="text-center">
-              <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="bg-theme-primary w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Leaf className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Eco-Friendly</h3>
@@ -226,7 +226,7 @@ export default function HomePage() {
                     $12,995
                   </span>
                   <Link href="/vehicles/evolution-d5-maverick-4-plus">
-                    <Button size="sm" className="bg-theme-orange hover:opacity-90 text-white px-4 py-2">
+                    <Button size="sm" className="bg-theme-primary hover:opacity-90 text-white px-4 py-2">
                       View Details
                     </Button>
                   </Link>
@@ -261,7 +261,7 @@ export default function HomePage() {
                     $16,995
                   </span>
                   <Link href="/vehicles/evolution-d6-max-gt4">
-                    <Button size="sm" className="bg-theme-orange hover:opacity-90 text-white px-4 py-2">
+                    <Button size="sm" className="bg-theme-primary hover:opacity-90 text-white px-4 py-2">
                       View Details
                     </Button>
                   </Link>
@@ -296,7 +296,7 @@ export default function HomePage() {
                     $11,995
                   </span>
                   <Link href="/vehicles/denago-ev-city">
-                    <Button size="sm" className="bg-theme-orange hover:opacity-90 text-white px-4 py-2">
+                    <Button size="sm" className="bg-theme-primary hover:opacity-90 text-white px-4 py-2">
                       View Details
                     </Button>
                   </Link>
@@ -306,7 +306,7 @@ export default function HomePage() {
           </div>
 
           <Link href="/inventory">
-            <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
+            <Button size="lg" className="bg-theme-primary hover:opacity-90 text-white">
               View Full Inventory
             </Button>
           </Link>
@@ -336,7 +336,7 @@ export default function HomePage() {
                 </div>
               </div>
 
-              <Button className="bg-theme-orange hover:opacity-90 text-white">
+              <Button className="bg-theme-primary hover:opacity-90 text-white">
                 Learn More
               </Button>
             </div>
@@ -520,7 +520,7 @@ export default function HomePage() {
             <div className="flex justify-center items-center gap-4">
               <a href="tel:18448446638" className="text-2xl font-bold text-blue-600 hover:underline">1-844-844-6638</a>
               <Link href="/contact">
-                <Button className="bg-theme-orange hover:opacity-90 text-white">
+                <Button className="bg-theme-primary hover:opacity-90 text-white">
                   Contact Us
                 </Button>
               </Link>
