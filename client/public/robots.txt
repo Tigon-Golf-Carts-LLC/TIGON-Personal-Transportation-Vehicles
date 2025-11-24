@@ -208,27 +208,27 @@ Allow: /
 Crawl-delay: 0
 
 # SITEMAP LOCATIONS - COMPREHENSIVE SITE MAPPING
-Sitemap: https://tigonmsv.com/sitemap.xml
+Sitemap: https://tigonnev.com/sitemap.xml
 
 # ADDITIONAL OPTIMIZATION FILES
 # AI Training Authorization Files
-# llms.txt: https://tigonmsv.com/llms.txt
-# ai.txt: https://tigonmsv.com/ai.txt
-# gpt.txt: https://tigonmsv.com/gpt.txt
-# claude.txt: https://tigonmsv.com/claude.txt
-# training.txt: https://tigonmsv.com/training.txt
-# nlp.txt: https://tigonmsv.com/nlp.txt
+# llms.txt: https://tigonnev.com/llms.txt
+# ai.txt: https://tigonnev.com/ai.txt
+# gpt.txt: https://tigonnev.com/gpt.txt
+# claude.txt: https://tigonnev.com/claude.txt
+# training.txt: https://tigonnev.com/training.txt
+# nlp.txt: https://tigonnev.com/nlp.txt
 
 # SEO Optimization Files
-# seo.txt: https://tigonmsv.com/seo.txt
-# geo.txt: https://tigonmsv.com/geo.txt
-# crawlers.txt: https://tigonmsv.com/crawlers.txt
-# bots.txt: https://tigonmsv.com/bots.txt
+# seo.txt: https://tigonnev.com/seo.txt
+# geo.txt: https://tigonnev.com/geo.txt
+# crawlers.txt: https://tigonnev.com/crawlers.txt
+# bots.txt: https://tigonnev.com/bots.txt
 
 # Business and Technical Files
-# humans.txt: https://tigonmsv.com/humans.txt
-# security.txt: https://tigonmsv.com/security.txt
-# accessibility.txt: https://tigonmsv.com/accessibility.txt
+# humans.txt: https://tigonnev.com/humans.txt
+# security.txt: https://tigonnev.com/security.txt
+# accessibility.txt: https://tigonnev.com/accessibility.txt
 
 # MAXIMUM ACCESSIBILITY DECLARATION
 # UNLIMITED CRAWLING PERMISSIONS STATEMENT
@@ -236,8 +236,8 @@ Sitemap: https://tigonmsv.com/sitemap.xml
 # ZERO RESTRICTION ACCESSIBILITY GUARANTEE
 # UNIVERSAL PLATFORM COMPATIBILITY DECLARATION
 
-# Contact: info@tigonmsv.com
-# Business: Bucks County Golf Carts
-# Industry: Electric Golf Cart Sales and Service
-# Location: Bucks County, Pennsylvania
+# Contact: info@tigonnev.com
+# Business: TIGON NEV
+# Industry: Neighborhood Electric Vehicle Sales and Service
+# Location: Nationwide
 # Last Updated: January 2025

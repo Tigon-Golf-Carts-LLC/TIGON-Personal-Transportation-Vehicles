@@ -19,9 +19,9 @@ export const generateOrganizationSchema = () => ({
   "alternateName": "TIGON NEV",
   "description": "Premier neighborhood electric vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
   "url": "https://tigonnev.com",
-  "logo": "https://tigonnev.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
+  "logo": "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png",
   "image": [
-    "https://tigonnev.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
+    "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png"
   ],
   "telephone": "1-844-844-6638",
   "email": "info@tigonnev.com",
@@ -79,10 +79,10 @@ export const generateOrganizationSchema = () => ({
 export const generateLocalBusinessSchema = () => ({
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://oceancountygolfcarts.com/#localbusiness",
-  "name": "Ocean County Golf Carts",
-  "description": "Premier golf cart dealer serving all 33 Ocean County municipalities with electric vehicle sales, service, and rentals.",
-  "url": "https://oceancountygolfcarts.com",
+  "@id": "https://tigonnev.com/#localbusiness",
+  "name": "TIGON Neighborhood Electric Vehicles",
+  "description": "Premier neighborhood electric vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
+  "url": "https://tigonnev.com",
   "telephone": "1-844-844-6638",
   "email": "sales@tigongolfcarts.com",
   "priceRange": "$$$",
@@ -140,21 +140,21 @@ export const generateLocalBusinessSchema = () => ({
 export const generateWebsiteSchema = () => ({
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://oceancountygolfcarts.com/#website",
-  "name": "Ocean County Golf Carts",
-  "description": "Official website for Ocean County Golf Carts - New Jersey's premier electric golf cart dealer",
-  "url": "https://oceancountygolfcarts.com",
+  "@id": "https://tigonnev.com/#website",
+  "name": "TIGON Neighborhood Electric Vehicles",
+  "description": "Premier neighborhood electric vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America",
+  "url": "https://tigonnev.com",
   "potentialAction": {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://oceancountygolfcarts.com/inventory?search={search_term_string}"
+      "urlTemplate": "https://tigonnev.com/inventory?search={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Ocean County Golf Carts"
+    "name": "TIGON NEV"
   }
 });
 
@@ -172,7 +172,7 @@ export const generateBreadcrumbSchema = (items: Array<{name: string, url: string
 export const generateProductSchema = (vehicle: any) => ({
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": `https://oceancountygolfcarts.com/vehicles/${vehicle.id}#product`,
+  "@id": `https://tigonnev.com/vehicles/${vehicle.id}#product`,
   "name": vehicle.name,
   "description": vehicle.description,
   "brand": {
@@ -180,7 +180,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "name": vehicle.brand
   },
   "category": vehicle.category,
-  "image": vehicle.images?.map((img: string) => `https://oceancountygolfcarts.com${img}`) || [],
+  "image": vehicle.images?.map((img: string) => `https://tigonnev.com${img}`) || [],
   "offers": {
     "@type": "Offer",
     "price": vehicle.price,
@@ -188,9 +188,9 @@ export const generateProductSchema = (vehicle: any) => ({
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
-      "name": "Ocean County Golf Carts"
+      "name": "TIGON NEV"
     },
-    "url": `https://oceancountygolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://tigonnev.com/vehicles/${vehicle.id}`
   },
   "additionalProperty": [
     {
@@ -223,11 +223,11 @@ export const generateProductSchema = (vehicle: any) => ({
 export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Golf Cart Services",
-  "description": "Comprehensive golf cart sales, service, repair, and rental services in Ocean County, New Jersey",
+  "name": "Neighborhood Electric Vehicle Services",
+  "description": "Comprehensive neighborhood electric vehicle sales, service, repair, and rental services across North America",
   "provider": {
     "@type": "LocalBusiness",
-    "name": "Ocean County Golf Carts"
+    "name": "TIGON NEV"
   },
   "areaServed": {
     "@type": "State",
@@ -276,32 +276,32 @@ export const generateServiceSchema = () => ({
 export const generateOfferCatalogSchema = (vehicles: any[]) => ({
   "@context": "https://schema.org",
   "@type": "OfferCatalog",
-  "name": "Golf Cart Inventory",
-  "description": "Complete inventory of electric golf carts available for sale",
+  "name": "Neighborhood Electric Vehicle Inventory",
+  "description": "Complete inventory of neighborhood electric vehicles available for sale",
   "itemListElement": vehicles.map(vehicle => ({
     "@type": "Offer",
     "itemOffered": {
       "@type": "Product",
       "name": vehicle.name,
       "brand": vehicle.brand,
-      "image": vehicle.images?.[0] ? `https://oceancountygolfcarts.com${vehicle.images[0]}` : undefined
+      "image": vehicle.images?.[0] ? `https://tigonnev.com${vehicle.images[0]}` : undefined
     },
     "price": vehicle.price,
     "priceCurrency": "USD",
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
-    "url": `https://oceancountygolfcarts.com/vehicles/${vehicle.id}`
+    "url": `https://tigonnev.com/vehicles/${vehicle.id}`
   }))
 });
 
 export const generateContactPageSchema = () => ({
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Contact Ocean County Golf Carts",
-  "description": "Get in touch with Ocean County Golf Carts for sales, service, rentals, and support",
-  "url": "https://oceancountygolfcarts.com/contact",
+  "name": "Contact TIGON NEV",
+  "description": "Get in touch with TIGON for neighborhood electric vehicle sales, service, rentals, and support",
+  "url": "https://tigonnev.com/contact",
   "mainEntity": {
     "@type": "Organization",
-    "name": "Ocean County Golf Carts",
+    "name": "TIGON NEV",
     "contactPoint": [
       {
         "@type": "ContactPoint",
