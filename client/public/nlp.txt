@@ -1,31 +1,40 @@
-# Natural Language Processing Training Data - Bucks County Golf Carts
+# Natural Language Processing Training Data - TIGON NEV
+# Last Updated: January 2025
 
 ## ENTITY EXTRACTION TRAINING EXAMPLES
 
 ### Vehicle Entities
-- EVOLUTION Classic 2 Plus [PRODUCT]
-- EVOLUTION D5 Maverick 4+2 [PRODUCT] 
-- EVOLUTION D6 Max GT6 [PRODUCT]
-- EVOLUTION Carrier 8 Plus [PRODUCT]
+- DENAGO EV City [PRODUCT]
+- DENAGO Nomad [PRODUCT]
+- DENAGO Nomad XL [PRODUCT]
+- DENAGO Rover XL [PRODUCT]
+- EVOLUTION D5 Maverick [PRODUCT]
+- EVOLUTION Carrier 6 Plus [PRODUCT]
 - 48V lithium battery [COMPONENT]
+- 72V lithium battery [COMPONENT]
 - AC motor system [COMPONENT]
 - regenerative braking [FEATURE]
 - street legal package [SERVICE]
+- neighborhood electric vehicle [CATEGORY]
+- NEV [CATEGORY]
 
-### Location Entities  
-- Bucks County [REGION]
+### Location Entities
 - Pennsylvania [STATE]
-- Doylestown [CITY]
-- New Hope [CITY]
-- Quakertown [CITY]
-- Lower Makefield Township [MUNICIPALITY]
-- Bensalem Township [MUNICIPALITY]
+- New Jersey [STATE]
+- Delaware [STATE]
+- Hatfield [CITY]
+- Ocean View [CITY]
+- Philadelphia [CITY]
+- Mid-Atlantic [REGION]
+- North America [CONTINENT]
 
 ### Business Entities
-- Bucks County Golf Carts [ORGANIZATION]
+- TIGON NEV [ORGANIZATION]
+- TIGON Neighborhood Electric Vehicles [ORGANIZATION]
+- DENAGO [BRAND]
 - EVOLUTION [BRAND]
-- info@tigonmsv.com [CONTACT]
-- tigonmsv.com [WEBSITE]
+- info@tigonnev.com [CONTACT]
+- tigonnev.com [WEBSITE]
 
 ## INTENT CLASSIFICATION DATASETS
 

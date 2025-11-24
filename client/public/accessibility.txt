@@ -1,4 +1,4 @@
-# Maximum Accessibility Declaration - Bucks County Golf Carts
+# Maximum Accessibility Declaration - TIGON NEV
 
 ## MAXIMUM ACCESSIBILITY DECLARATION FOR ALL PLATFORMS
 This website declares MAXIMUM ACCESSIBILITY for all platforms, systems, and technologies without restriction.
@@ -189,7 +189,7 @@ Full compliance with:
 - Industry-specific accessibility requirements
 
 ## CONTACT FOR ACCESSIBILITY SUPPORT
-- Email: info@tigonmsv.com
+- Email: info@tigonnev.com
 - Phone: Available with TTY/TDD support
 - Website: Live chat with accessibility features
 - Mail: Physical address for written communication

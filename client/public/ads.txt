@@ -1,43 +1,43 @@
-# ads.txt - Bucks County Golf Carts
+# ads.txt - TIGON NEV
 # Authorized Digital Sellers
 
 ## AUTHORIZED ADVERTISING PARTNERS
-# This file identifies authorized digital advertising sellers for tigonmsv.com
+# This file identifies authorized digital advertising sellers for tigonnev.com
 
 ## GOOGLE ADVERTISING PLATFORMS
-google.com, pub-PLACEHOLDER, DIRECT, f08c47fec0942fa0
-googlesyndication.com, pub-PLACEHOLDER, DIRECT, f08c47fec0942fa0
-doubleclick.net, pub-PLACEHOLDER, DIRECT, f08c47fec0942fa0
+google.com, pub-TIGONNEV, DIRECT, f08c47fec0942fa0
+googlesyndication.com, pub-TIGONNEV, DIRECT, f08c47fec0942fa0
+doubleclick.net, pub-TIGONNEV, DIRECT, f08c47fec0942fa0
 
 ## MICROSOFT ADVERTISING
-bing.com, PLACEHOLDER, DIRECT
-microsoft.com, PLACEHOLDER, DIRECT
+bing.com, TIGONNEV, DIRECT
+microsoft.com, TIGONNEV, DIRECT
 
 ## FACEBOOK/META ADVERTISING  
-facebook.com, PLACEHOLDER, DIRECT, c3e20eee3f780d68
-instagram.com, PLACEHOLDER, DIRECT, c3e20eee3f780d68
+facebook.com, TIGONNEV, DIRECT, c3e20eee3f780d68
+instagram.com, TIGONNEV, DIRECT, c3e20eee3f780d68
 
 ## AMAZON ADVERTISING
-amazon.com, PLACEHOLDER, DIRECT
-aps.amazon.com, PLACEHOLDER, DIRECT
+amazon.com, TIGONNEV, DIRECT
+aps.amazon.com, TIGONNEV, DIRECT
 
 ## AUTOMOTIVE INDUSTRY ADVERTISING NETWORKS
 # Specialized automotive advertising platforms
-cars.com, PLACEHOLDER, RESELLER
-autotrader.com, PLACEHOLDER, RESELLER
-edmunds.com, PLACEHOLDER, RESELLER
+cars.com, TIGONNEV, RESELLER
+autotrader.com, TIGONNEV, RESELLER
+edmunds.com, TIGONNEV, RESELLER
 
 ## LOCAL ADVERTISING PARTNERS
-# Bucks County and Pennsylvania advertising networks
-localmedia.org, PLACEHOLDER, RESELLER
-pennlive.com, PLACEHOLDER, RESELLER
+# Multi-state NEV dealer advertising networks
+localmedia.org, TIGONNEV, RESELLER
+pennlive.com, TIGONNEV, RESELLER
 
 ## CONTACT INFORMATION
 # For advertising inquiries and verification:
-# Email: info@tigonmsv.com
-# Business: Bucks County Golf Carts
+# Email: info@tigonnev.com
+# Business: TIGON NEV
 # Service Area: Bucks County, Pennsylvania
-# Industry: Electric Golf Cart Sales and Service
+# Industry: Neighborhood Electric Vehicle Sales and Service
 
 ## ADVERTISING POLICY
 # We maintain strict advertising standards:
@@ -48,10 +48,10 @@ pennlive.com, PLACEHOLDER, RESELLER
 
 ## VERIFICATION
 # This ads.txt file is maintained by:
-# Website: tigonmsv.com
-# Contact: info@tigonmsv.com
+# Website: tigonnev.com
+# Contact: info@tigonnev.com
 # Last Updated: January 2025
 
-# Note: Publisher account IDs marked as PLACEHOLDER
-# Contact info@tigonmsv.com for actual publisher IDs
+# Note: Publisher account IDs marked as TIGONNEV
+# Contact info@tigonnev.com for actual publisher IDs
 # when setting up advertising partnerships
