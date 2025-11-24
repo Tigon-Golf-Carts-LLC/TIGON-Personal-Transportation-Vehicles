@@ -139,7 +139,7 @@ export default function EvolutionPage() {
               premium quality, innovative design, and reliable performance for nationwide, Pennsylvania.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+              <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
                 <Phone className="w-5 h-5 mr-2" />
                 Call (267) 645-6271
               </Button>
@@ -283,7 +283,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Premium 6-passenger recreational vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -307,7 +307,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">4-passenger premium neighborhood electric vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -332,7 +332,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Family-friendly 4-passenger vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -356,7 +356,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Spacious 6-passenger family vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -381,7 +381,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">High-performance 4-passenger vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -405,7 +405,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">High-performance 6-passenger vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -429,7 +429,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Extreme terrain 4-passenger vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -453,7 +453,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Extreme terrain 6-passenger vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -478,7 +478,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Traditional 2-passenger neighborhood electric vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -502,7 +502,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Professional 2-passenger neighborhood electric vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -526,7 +526,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Traditional 4-passenger neighborhood electric vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -551,7 +551,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">6-passenger utility vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -575,7 +575,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">8-passenger utility vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -600,7 +600,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Lifted 4-passenger off-road vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -625,7 +625,7 @@ export default function EvolutionPage() {
                     <p className="text-sm text-gray-600">Heavy-duty utility vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
-                    <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                    <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                       View Details
                     </Button>
                   </CardContent>
@@ -736,7 +736,7 @@ export default function EvolutionPage() {
                   </div>
                 </div>
                 <Link href="/vehicles/evolution-d6-max-gt4">
-                  <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+                  <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
                     Explore D6 MAX Series
                   </Button>
                 </Link>
@@ -763,7 +763,7 @@ export default function EvolutionPage() {
               and find the perfect electric vehicle for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+              <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
                 <Phone className="w-5 h-5 mr-2" />
                 Call (267) 645-6271
               </Button>

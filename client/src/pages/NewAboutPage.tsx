@@ -90,7 +90,7 @@ export default function NewAboutPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
-                <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white shadow-lg">
+                <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white shadow-lg">
                   Contact Our Team
                 </Button>
               </Link>
@@ -371,7 +371,7 @@ export default function NewAboutPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
-                <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+                <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
                   Contact Us Today
                 </Button>
               </Link>

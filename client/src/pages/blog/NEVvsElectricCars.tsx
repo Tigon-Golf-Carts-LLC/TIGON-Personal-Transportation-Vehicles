@@ -74,7 +74,7 @@ export default function NEVvsElectricCars() {
         <div className="mt-12 p-8 bg-gradient-to-r from-theme-primary to-blue-700 text-white rounded-lg text-center">
           <h3 className="text-2xl font-bold mb-4">Experience the NEV Advantage</h3>
           <p className="mb-6">Test drive our neighborhood electric vehicles and see the difference</p>
-          <Link href="/contact"><Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">Schedule Test Drive</Button></Link>
+          <Link href="/contact"><Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">Schedule Test Drive</Button></Link>
         </div>
       </article>
     </div>

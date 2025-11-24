@@ -81,7 +81,7 @@ export default function EvolutionD5Maverick6() {
                     </Button>
                   </Link>
                   <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
-                    <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
+                    <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-red-50">
                       Finance Options
                     </Button>
                   </a>

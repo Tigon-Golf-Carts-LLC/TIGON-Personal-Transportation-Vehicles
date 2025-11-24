@@ -70,7 +70,7 @@ export default function CargoDeliveryNEVs() {
         <div className="mt-12 p-8 bg-gradient-to-r from-theme-primary to-blue-700 text-white rounded-lg text-center">
           <h3 className="text-2xl font-bold mb-4">Explore Commercial NEV Solutions</h3>
           <p className="mb-6">Discover how cargo NEVs can transform your business operations</p>
-          <Link href="/contact"><Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white"><Truck className="w-4 h-4 mr-2" />Request Commercial Quote</Button></Link>
+          <Link href="/contact"><Button size="lg" className="bg-theme-orange hover:opacity-90 text-white"><Truck className="w-4 h-4 mr-2" />Request Commercial Quote</Button></Link>
         </div>
       </article>
     </div>

@@ -80,12 +80,12 @@ export default function DenagoEvRoverXXL() {
                 {/* Action Buttons */}
                 <div className="flex flex-col sm:flex-row gap-4">
                   <Link href="/contact">
-                    <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:bg-orange-600 text-white shadow-lg">
+                    <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:opacity-90 text-white shadow-lg">
                       Get Quote
                     </Button>
                   </Link>
                   <a href="https://tigongolfcarts.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
-                    <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-orange-50">
+                    <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-red-50">
                       Finance Options
                     </Button>
                   </a>
@@ -238,7 +238,7 @@ export default function DenagoEvRoverXXL() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
-                <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white shadow-lg">
+                <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white shadow-lg">
                   <Phone className="w-5 h-5 mr-2" />
                   Get Quote Today
                 </Button>

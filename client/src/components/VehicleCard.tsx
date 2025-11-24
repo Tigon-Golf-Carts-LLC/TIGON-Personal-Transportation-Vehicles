@@ -63,7 +63,7 @@ export default function VehicleCard({ vehicle }: VehicleCardProps) {
         </div>
         
         <Link href={`/vehicle/${vehicle.id}`}>
-          <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+          <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
             View Details
           </Button>
         </Link>

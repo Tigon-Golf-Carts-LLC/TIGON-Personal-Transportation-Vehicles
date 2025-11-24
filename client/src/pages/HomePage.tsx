@@ -49,7 +49,7 @@ export default function HomePage() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
-                  <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white shadow-lg w-full sm:w-auto">
+                  <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white shadow-lg w-full sm:w-auto">
                     View Inventory
                   </Button>
                 </Link>
@@ -226,7 +226,7 @@ export default function HomePage() {
                     $12,995
                   </span>
                   <Link href="/vehicles/evolution-d5-maverick-4-plus">
-                    <Button size="sm" className="bg-theme-orange hover:bg-orange-600 text-white px-4 py-2">
+                    <Button size="sm" className="bg-theme-orange hover:opacity-90 text-white px-4 py-2">
                       View Details
                     </Button>
                   </Link>
@@ -261,7 +261,7 @@ export default function HomePage() {
                     $16,995
                   </span>
                   <Link href="/vehicles/evolution-d6-max-gt4">
-                    <Button size="sm" className="bg-theme-orange hover:bg-orange-600 text-white px-4 py-2">
+                    <Button size="sm" className="bg-theme-orange hover:opacity-90 text-white px-4 py-2">
                       View Details
                     </Button>
                   </Link>
@@ -296,7 +296,7 @@ export default function HomePage() {
                     $11,995
                   </span>
                   <Link href="/vehicles/denago-ev-city">
-                    <Button size="sm" className="bg-theme-orange hover:bg-orange-600 text-white px-4 py-2">
+                    <Button size="sm" className="bg-theme-orange hover:opacity-90 text-white px-4 py-2">
                       View Details
                     </Button>
                   </Link>
@@ -306,7 +306,7 @@ export default function HomePage() {
           </div>
 
           <Link href="/inventory">
-            <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+            <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
               View Full Inventory
             </Button>
           </Link>
@@ -336,7 +336,7 @@ export default function HomePage() {
                 </div>
               </div>
 
-              <Button className="bg-theme-orange hover:bg-orange-600 text-white">
+              <Button className="bg-theme-orange hover:opacity-90 text-white">
                 Learn More
               </Button>
             </div>
@@ -520,7 +520,7 @@ export default function HomePage() {
             <div className="flex justify-center items-center gap-4">
               <a href="tel:18448446638" className="text-2xl font-bold text-blue-600 hover:underline">1-844-844-6638</a>
               <Link href="/contact">
-                <Button className="bg-theme-orange hover:bg-orange-600 text-white">
+                <Button className="bg-theme-orange hover:opacity-90 text-white">
                   Contact Us
                 </Button>
               </Link>

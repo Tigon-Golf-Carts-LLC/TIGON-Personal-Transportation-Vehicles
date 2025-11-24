@@ -182,7 +182,7 @@ export default function RentalsPage() {
                   </div>
                 </div>
                 
-                <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                   <Phone className="w-4 h-4 mr-2" />
                   RESERVE TODAY
                 </Button>
@@ -221,7 +221,7 @@ export default function RentalsPage() {
               Daily, weekly, and monthly plans available with full insurance coverage and delivery service.
             </p>
             <div className="flex justify-center gap-4">
-              <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white shadow-lg">
+              <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white shadow-lg">
                 <Phone className="w-5 h-5 mr-2" />
                 Call 1-844-844-6638
               </Button>
@@ -282,7 +282,7 @@ export default function RentalsPage() {
             <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
               Our friendly team is here to help you select the perfect neighborhood electric vehicle rental for your needs. Whether it's for a special event, vacation, or business use, we have the right cart at the right price.
             </p>
-            <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+            <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
               Call Now 1-844-844-6638
             </Button>
           </div>

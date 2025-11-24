@@ -94,7 +94,7 @@ export default function BlogIndexPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/inventory">
-              <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+              <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
                 View Inventory
               </Button>
             </Link>

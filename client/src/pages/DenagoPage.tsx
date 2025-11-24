@@ -164,7 +164,7 @@ export default function DenagoPage() {
               technology with rugged durability for unmatched adventure capability in nationwide, Pennsylvania.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+              <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
                 <Phone className="w-5 h-5 mr-2" />
                 Call (267) 645-6271
               </Button>
@@ -331,7 +331,7 @@ export default function DenagoPage() {
                     </div>
                     <div className="flex flex-col gap-3">
                       <Link href={`/vehicles/${vehicle.name.toLowerCase().replace(/\s+/g, '-')}`}>
-                        <Button className="w-full bg-theme-orange hover:bg-orange-600 text-white">
+                        <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
                           View Details
                         </Button>
                       </Link>
@@ -417,7 +417,7 @@ export default function DenagoPage() {
               about DENAGO's revolutionary electric vehicle technology.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white">
+              <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
                 <Phone className="w-5 h-5 mr-2" />
                 Call (267) 645-6271
               </Button>

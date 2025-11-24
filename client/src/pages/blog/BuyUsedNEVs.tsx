@@ -92,7 +92,7 @@ export default function BuyUsedNEVs() {
         <div className="mt-12 p-8 bg-gradient-to-r from-theme-primary to-blue-700 text-white rounded-lg text-center">
           <h3 className="text-2xl font-bold mb-4">Shop Certified Pre-Owned NEVs</h3>
           <p className="mb-6">Quality used neighborhood electric vehicles with dealer backing</p>
-          <Link href="/inventory"><Button size="lg" className="bg-theme-orange hover:bg-orange-600 text-white"><ShoppingCart className="w-4 h-4 mr-2" />Browse Used Inventory</Button></Link>
+          <Link href="/inventory"><Button size="lg" className="bg-theme-orange hover:opacity-90 text-white"><ShoppingCart className="w-4 h-4 mr-2" />Browse Used Inventory</Button></Link>
         </div>
       </article>
     </div>
