@@ -1,275 +1,297 @@
 # Geographic SEO Information - TIGON NEV
+# Multi-State Neighborhood Electric Vehicle Dealership
+# Last Updated: January 2025
 
-## COMPLETE GEOGRAPHIC SEO INFORMATION
+## TIGON NEV GEOGRAPHIC COVERAGE
 
-### PRIMARY SERVICE AREA
-**Multi-State Coverage**
-- Latitude: 40.3704° N
-- Longitude: 75.1127° W
-- Population: 646,538 (2020 Census)
-- Area: 622 square miles
-- County Seat: Doylestown
+### PRIMARY SERVICE TERRITORY
+**Coverage:** 11 US States + Canada & Mexico
+**Total Locations:** 30 (18 physical showrooms + 12 online stores)
+**Headquarters:** Hatfield, Pennsylvania
+**Founded:** 2015
 
-## SERVICE AREA BOUNDARIES
-**Northern Boundary:** Delaware River (New Jersey border)
-**Southern Boundary:** Montgomery County line
-**Eastern Boundary:** Delaware River and Northampton County
-**Western Boundary:** Lehigh County and Montgomery County
+## UNITED STATES COVERAGE
 
-### COMPLETE MUNICIPAL COVERAGE
+### Pennsylvania (Headquarters State)
+**Primary Market**
+- Headquarters: Hatfield, PA
+- Coordinates: 40.2420° N, 75.2865° W
+- Major Cities Served: Philadelphia, Pittsburgh, Allentown, Reading, Lancaster
+- Service Locations: Multiple showrooms across state
+- Keywords: NEV Pennsylvania, neighborhood electric vehicles PA, street legal electric vehicles Philadelphia
 
-## BOROUGHS (25 MUNICIPALITIES)
-### Central Bucks Region
-**Doylestown Borough**
-- Coordinates: 40.3101° N, 75.1296° W
-- Population: 8,297
-- Golf Cart Services: Sales, Service, Rentals
-- Keywords: neighborhood electric vehicles Doylestown PA, EVOLUTION dealer Doylestown
+**Key Pennsylvania Regions:**
+- Philadelphia Metro Area
+- Lehigh Valley
+- Pittsburgh Region
+- Central Pennsylvania
+- Pocono Mountains
 
-**New Britain Borough**  
-- Coordinates: 40.2987° N, 75.1796° W
-- Population: 3,176
-- Golf Cart Services: Complete service coverage
-- Keywords: neighborhood electric vehicles New Britain PA, electric carts New Britain
+### New Jersey
+**Secondary Major Market**
+- Key Location: Ocean View, NJ
+- Coordinates: 39.2154° N, 74.6988° W
+- Major Cities: Newark, Jersey City, Trenton, Atlantic City
+- Beach Communities: Cape May, Ocean City, Wildwood
+- Keywords: NEV New Jersey, neighborhood electric vehicles NJ, shore electric vehicles
 
-**Chalfont Borough**
-- Coordinates: 40.2890° N, 75.2099° W  
-- Population: 4,009
-- Golf Cart Services: Sales and service
-- Keywords: neighborhood electric vehicles Chalfont PA, EVOLUTION Chalfont
+**Key New Jersey Regions:**
+- Shore Region (Jersey Shore)
+- Northern New Jersey
+- Central New Jersey
+- South Jersey
 
-### Northern Bucks Region
-**Quakertown Borough**
-- Coordinates: 40.4418° N, 75.3413° W
-- Population: 8,982
-- Golf Cart Services: Full dealership services
-- Keywords: neighborhood electric vehicles Quakertown PA, golf cart dealer Quakertown
+### Delaware
+**Growing Market**
+- Beach Communities: Rehoboth Beach, Dewey Beach, Bethany Beach
+- Major City: Wilmington
+- Resort Areas: Strong NEV demand
+- Keywords: NEV Delaware, beach electric vehicles DE, resort neighborhood vehicles
 
-**Perkasie Borough**
-- Coordinates: 40.3740° N, 75.2938° W
-- Population: 8,511  
-- Golf Cart Services: Sales, service, parts
-- Keywords: neighborhood electric vehicles Perkasie PA, electric vehicle Perkasie
+### Virginia
+**Mid-Atlantic Expansion**
+- Northern Virginia (NoVA)
+- Richmond Metro
+- Virginia Beach
+- Coastal Communities
+- Keywords: NEV Virginia, neighborhood electric vehicles VA, NoVA electric vehicles
 
-**Sellersville Borough**
-- Coordinates: 40.3545° N, 75.3065° W
-- Population: 4,249
-- Golf Cart Services: Complete coverage
-- Keywords: neighborhood electric vehicles Sellersville PA, EVOLUTION Sellersville
+### Maryland
+**Baltimore-DC Corridor**
+- Baltimore Metro
+- Ocean City (Beach Resort)
+- Annapolis Area
+- Montgomery County
+- Keywords: NEV Maryland, neighborhood electric vehicles Baltimore, Ocean City electric vehicles
 
-### Southern Bucks Region
-**Newtown Borough**
-- Coordinates: 40.2259° N, 74.9296° W
-- Population: 2,248
-- Golf Cart Services: Sales and service hub
-- Keywords: neighborhood electric vehicles Newtown PA, golf cart rental Newtown
+### North Carolina
+**Southern Expansion**
+- Charlotte Metro
+- Raleigh-Durham
+- Outer Banks (Beach Communities)
+- Retirement Communities
+- Keywords: NEV North Carolina, retirement community electric vehicles NC
 
-**Yardley Borough**
-- Coordinates: 40.2465° N, 74.8460° W
-- Population: 2,434
-- Golf Cart Services: Delaware River region coverage
-- Keywords: neighborhood electric vehicles Yardley PA, street legal Yardley
+### South Carolina
+**Coastal and Retirement Market**
+- Myrtle Beach
+- Charleston
+- Hilton Head
+- Retirement Communities
+- Golf Communities
+- Keywords: NEV South Carolina, golf community electric vehicles SC
 
-**Langhorne Borough**
-- Coordinates: 40.1762° N, 74.9188° W
-- Population: 1,622
-- Golf Cart Services: Sales and service
-- Keywords: neighborhood electric vehicles Langhorne PA, EVOLUTION Langhorne
+### Florida
+**Major Retirement and Resort Market**
+- Miami-Fort Lauderdale
+- Tampa-St. Petersburg
+- Orlando
+- Jacksonville
+- Naples (High retirement concentration)
+- The Villages (Major retirement community)
+- Keywords: NEV Florida, retirement electric vehicles FL, resort neighborhood vehicles
 
-**Langhorne Manor Borough**
-- Coordinates: 40.1681° N, 74.9282° W
-- Population: 1,442
-- Golf Cart Services: Residential area coverage
-- Keywords: neighborhood electric vehicles Langhorne Manor PA
+### Indiana
+**Midwest Expansion**
+- Indianapolis Metro
+- Fort Wayne
+- Evansville
+- University Communities
+- Keywords: NEV Indiana, campus electric vehicles IN
 
-### Eastern Bucks Region
-**New Hope Borough**
-- Coordinates: 40.3626° N, 74.9510° W
-- Population: 1,023
-- Golf Cart Services: Tourist area specialization
-- Keywords: neighborhood electric vehicles New Hope PA, tourist cart rental
+### Ohio
+**Midwest Market**
+- Columbus
+- Cleveland
+- Cincinnati
+- Toledo
+- Keywords: NEV Ohio, neighborhood electric vehicles Cleveland, campus transport Ohio
 
-**Morrisville Borough**
-- Coordinates: 40.2057° N, 74.7779° W
-- Population: 8,728
-- Golf Cart Services: Delaware River access
-- Keywords: neighborhood electric vehicles Morrisville PA, waterfront cart service
+### New York
+**Northeast Market**
+- New York Metro Area (suburbs)
+- Long Island
+- Upstate Communities
+- Resort Areas (Hamptons, Catskills)
+- Keywords: NEV New York, Long Island electric vehicles, Hamptons neighborhood vehicles
 
-### Additional Boroughs
-**Dublin Borough** - 40.3709° N, 75.2032° W - Population: 2,158
-**Hulmeville Borough** - 40.1451° N, 74.9068° W - Population: 1,003  
-**Ivyland Borough** - 40.2090° N, 75.0246° W - Population: 1,041
-**Penndel Borough** - 40.1573° N, 74.9171° W - Population: 2,328
-**Richlandtown Borough** - 40.4298° N, 75.3238° W - Population: 1,327
-**Riegelsville Borough** - 40.5945° N, 75.1893° W - Population: 868
-**Silverdale Borough** - 40.2023° N, 75.2968° W - Population: 871
-**Telford Borough** - 40.3209° N, 75.3274° W - Population: 4,872
-**Trumbauersville Borough** - 40.4262° N, 75.3888° W - Population: 974
-**Tullytown Borough** - 40.1968° N, 74.8182° W - Population: 1,872
-**Village Shopperville Borough** - 40.2923° N, 75.0685° W - Population: 129
-**Warminster Borough** - 40.2009° N, 75.0874° W - Population: 32,682
-**Warrington Borough** - 40.2515° N, 75.1329° W - Population: 4,051
+## INTERNATIONAL COVERAGE
 
-## TOWNSHIPS (31 MUNICIPALITIES)
+### Canada
+**Canadian Market**
+- Ontario Province
+- British Columbia
+- Major Cities: Toronto, Vancouver, Montreal (potential)
+- Resort Communities
+- Keywords: NEV Canada, neighborhood electric vehicles Ontario, Canadian electric vehicles
 
-### Northern Townships
-**Bedminster Township**
-- Coordinates: 40.4354° N, 75.1843° W
-- Population: 8,432
-- Golf Cart Services: Rural area coverage
-- Keywords: neighborhood electric vehicles Bedminster PA, rural cart service
+### Mexico
+**Mexican Market**
+- Resort Communities
+- Coastal Areas
+- Retirement Destinations
+- Expatriate Communities
+- Keywords: NEV Mexico, electric vehicles resort Mexico
 
-**East Rockhill Township**
-- Coordinates: 40.4126° N, 75.2732° W
-- Population: 6,997
-- Golf Cart Services: Agricultural area service
-- Keywords: neighborhood electric vehicles East Rockhill PA
+## GEOGRAPHIC MARKET CHARACTERISTICS
 
-**West Rockhill Township**  
-- Coordinates: 40.3843° N, 75.3532° W
-- Population: 5,256
-- Golf Cart Services: Farm and residential
-- Keywords: neighborhood electric vehicles West Rockhill PA
+### Urban Markets
+- City commuters
+- Campus transportation
+- Municipal fleets
+- Parking-challenged areas
 
-**Hilltown Township**
-- Coordinates: 40.3354° N, 75.2565° W
-- Population: 15,029
-- Golf Cart Services: Suburban coverage
-- Keywords: neighborhood electric vehicles Hilltown PA, suburban cart sales
+### Suburban Markets
+- Neighborhood transportation
+- Short-distance errands
+- Community connectivity
+- HOA-approved mobility
 
-### Central Townships
-**Doylestown Township**
-- Coordinates: 40.2926° N, 75.1210° W
-- Population: 20,087
-- Golf Cart Services: Main service hub
-- Keywords: neighborhood electric vehicles Doylestown Township PA
+### Resort Markets
+- Beach communities
+- Golf resort communities
+- Mountain resorts
+- Tourist destinations
+- Hotel and hospitality
 
-**New Britain Township**
-- Coordinates: 40.2643° N, 75.1710° W
-- Population: 11,070
-- Golf Cart Services: Complete coverage
-- Keywords: neighborhood electric vehicles New Britain Township PA
+### Retirement Communities
+- Active adult communities (55+)
+- Continuing care facilities
+- Golf cart communities
+- Warm climate destinations
 
-**Warwick Township**
-- Coordinates: 40.2537° N, 75.1865° W
-- Population: 14,437
-- Golf Cart Services: Residential and commercial
-- Keywords: neighborhood electric vehicles Warwick Township PA
+### Rural Markets
+- Farm and agricultural use
+- Property maintenance
+- Large estate mobility
+- Utility applications
 
-**Buckingham Township**
-- Coordinates: 40.3259° N, 75.0354° W
-- Population: 20,075
-- Golf Cart Services: Large township coverage
-- Keywords: neighborhood electric vehicles Buckingham PA
+## CLIMATE CONSIDERATIONS
 
-### Southern Townships
-**Lower Makefield Township**
-- Coordinates: 40.2137° N, 74.8682° W
-- Population: 32,681
-- Golf Cart Services: Affluent residential area
-- Keywords: neighborhood electric vehicles Lower Makefield PA
+### Year-Round Markets (Warm Climate)
+- Florida (primary)
+- South Carolina coastal
+- Southern regions of coverage area
+- Resort destinations
 
-**Upper Makefield Township**
-- Coordinates: 40.2815° N, 74.9304° W
-- Population: 8,180
-- Golf Cart Services: Rural residential
-- Keywords: neighborhood electric vehicles Upper Makefield PA
+### Seasonal Markets
+- Northern states (PA, NJ, NY, OH, IN)
+- Beach communities (summer peak)
+- Mountain resorts (varies by season)
 
-**Newtown Township**
-- Coordinates: 40.2176° N, 74.9926° W
-- Population: 22,844
-- Golf Cart Services: Suburban service center
-- Keywords: neighborhood electric vehicles Newtown Township PA
+### All-Season Capability
+- Weather enclosures available
+- Winter operation viable with preparation
+- Battery performance considerations in cold
 
-**Middletown Township**
-- Coordinates: 40.1815° N, 74.9304° W
-- Population: 45,436
-- Golf Cart Services: Large population center
-- Keywords: neighborhood electric vehicles Middletown Township PA
+## POPULATION AND DEMOGRAPHICS
 
-### Eastern Townships
-**Bensalem Township**
-- Coordinates: 40.1076° N, 74.9493° W
-- Population: 60,427
-- Golf Cart Services: Largest township coverage
-- Keywords: neighborhood electric vehicles Bensalem PA, Bensalem cart dealer
+### Target Demographics by Region
+**Northeast (PA, NJ, NY, DE, MD):**
+- Population: 40+ million
+- Age: 35-75
+- Income: $60,000-$150,000+
+- Density: High suburban, some urban
 
-**Bristol Township**
-- Coordinates: 40.1157° N, 74.8682° W
-- Population: 53,582
-- Golf Cart Services: High-density service area
-- Keywords: neighborhood electric vehicles Bristol Township PA
+**Southeast (VA, NC, SC, FL):**
+- Population: 35+ million
+- Age: 45-80 (higher retirement concentration)
+- Income: $50,000-$200,000+
+- Density: Suburban, resort communities
 
-**Falls Township**
-- Coordinates: 40.1659° N, 74.8171° W
-- Population: 34,300
-- Golf Cart Services: Delaware River region
-- Keywords: neighborhood electric vehicles Falls Township PA
+**Midwest (IN, OH):**
+- Population: 20+ million
+- Age: 30-70
+- Income: $50,000-$120,000
+- Density: Mix of urban and rural
 
-### Additional Townships
-**Durham Township** - 40.5426° N, 75.1610° W - Population: 1,144
-**Haycock Township** - 40.4782° N, 75.2354° W - Population: 2,102
-**Nockamixon Township** - 40.4559° N, 75.1276° W - Population: 3,441
-**Tinicum Township** - 40.4998° N, 75.0771° W - Population: 4,206
-**Milford Township** - 40.3359° N, 75.1021° W - Population: 9,902
-**Richland Township** - 40.4037° N, 75.2043° W - Population: 12,758
-**Springfield Township** - 40.3221° N, 75.3499° W - Population: 5,035
-**Plumstead Township** - 40.3654° N, 75.1332° W - Population: 12,442
-**Solebury Township** - 40.3943° N, 74.9682° W - Population: 8,692
-**Wrightstown Township** - 40.2032° N, 74.9849° W - Population: 2,839
-**Upper Southampton Township** - 40.1679° N, 75.0738° W - Population: 15,152
-**Lower Southampton Township** - 40.1337° N, 75.0454° W - Population: 18,875
-**Northampton Township** - 40.2176° N, 75.0460° W - Population: 39,675
-**Warminster Township** - 40.1976° N, 75.0771° W - Population: 32,682
-**Warrington Township** - 40.2376° N, 75.1149° W - Population: 23,418
-**Bridgeton Township** - 40.5354° N, 75.2410° W - Population: 324
-**Upper Dublin Township** - Coordinates shared with Montgomery County
+## DISTANCE AND LOGISTICS
 
-## REGIONAL MARKET INTELLIGENCE
+### Regional Service Centers
+**Northeast Hub:** Pennsylvania headquarters
+**Mid-Atlantic Hub:** New Jersey, Delaware, Maryland, Virginia
+**Southeast Hub:** North Carolina, South Carolina, Florida
+**Midwest Hub:** Indiana, Ohio
+**International:** Canada and Mexico distribution partners
 
-### Demographics
-- Median Household Income: $85,191
-- Median Age: 42.5 years
-- Education: 94% high school graduate or higher
-- Golf Participation Rate: 18% above national average
-- Electric Vehicle Adoption: 23% above state average
+### Delivery Coverage
+- Local delivery: Free within 50 miles of showrooms
+- Regional delivery: Available throughout service states
+- National shipping: White-glove delivery options
+- International: Customs and import coordination
 
-### Market Conditions
-**Seasonal Patterns:**
-- Peak Season: April-October
-- Off-Season: November-March
-- Service Demand: Year-round with winter maintenance spike
-- Rental Demand: Peak June-August
+## SEO GEOGRAPHIC KEYWORDS
 
-**Economic Factors:**
-- Affluent market with high discretionary spending
-- Strong golf course density (32 courses in county)
-- Growing electric vehicle awareness
-- Environmental consciousness above average
+### State-Level Keywords
+- neighborhood electric vehicles Pennsylvania
+- NEV New Jersey
+- street legal electric vehicles Delaware
+- neighborhood vehicles Virginia Maryland
+- electric NEV North Carolina South Carolina
+- Florida retirement electric vehicles
+- NEV Indiana Ohio
+- New York electric neighborhood vehicles
 
-### Geographic Keywords for SEO
-- Bucks County neighborhood electric vehicles
-- Delaware River golf cart access
-- Pennsylvania golf cart regulations
-- Southeastern PA electric vehicles
-- Philadelphia area neighborhood electric vehicles
-- Tri-state golf cart dealer
-- I-95 corridor golf cart service
-- Route 1 golf cart access
+### City-Level Keywords
+- NEV Philadelphia Pittsburgh
+- neighborhood electric vehicles Atlantic City Ocean City
+- electric vehicles Virginia Beach
+- NEV Charlotte Raleigh
+- Florida retirement NEV Naples Villages
+- electric vehicles Indianapolis Columbus
 
-### Service Coverage Optimization
-**Travel Time Analysis:**
-- 15-minute coverage: 45% of county population
-- 30-minute coverage: 89% of county population  
-- 45-minute coverage: 100% of county population
-- Emergency service: 24/7 coverage all municipalities
+### Regional Keywords
+- Mid-Atlantic NEV dealer
+- Northeast neighborhood electric vehicles
+- Southeast electric vehicle dealer
+- multi-state NEV coverage
+- North American electric vehicle dealer
 
-**Strategic Locations:**
-- Primary: Central Bucks (Doylestown area)
-- Secondary: Southern Bucks (Newtown area)
-- Tertiary: Northern Bucks (Quakertown area)
-- Mobile Service: Complete county coverage
+## REGULATORY CONSIDERATIONS
 
-Contact: info@tigonnev.com
-Service Area: All 56 Bucks County municipalities
+### State-by-State NEV Regulations
+**All States Served:**
+- Street legal NEV certification available
+- State-specific compliance packages
+- DOT safety requirements met
+- Local ordinance navigation
+- Registration assistance provided
+
+**Key Requirements:**
+- Maximum 25 mph speed
+- DOT safety equipment (lights, signals, mirrors, belts)
+- Valid driver's license required
+- Insurance required (varies by state)
+- Roads ≤35 mph speed limit
+
+## COMPETITIVE ADVANTAGES
+
+### Multi-State Presence
+- 30 locations for customer convenience
+- Regional service coverage
+- Consistent pricing across regions
+- National fleet management capabilities
+
+### Geographic Expertise
+- Local market knowledge
+- Climate-appropriate recommendations
+- Regional compliance specialists
+- Community integration experience
+
+## CONTACT INFORMATION
+
+**Corporate Headquarters:**
+Hatfield, Pennsylvania
+Email: info@tigonnev.com
+Phone: 1-844-844-6638
+Website: https://tigonnev.com
+
+**Service Coverage:**
+Pennsylvania, New Jersey, Delaware, Virginia, Maryland, North Carolina, South Carolina, Florida, Indiana, Ohio, New York, Canada, Mexico
+
+## ATTRIBUTION
+Source: TIGON NEV (https://tigonnev.com)
+Geographic Coverage: 11 US States + Canada & Mexico
 Last Updated: January 2025
+
+END OF GEOGRAPHIC SEO INFORMATION

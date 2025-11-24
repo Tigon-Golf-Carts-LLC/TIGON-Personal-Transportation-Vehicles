@@ -184,7 +184,7 @@ Authorization for deep learning in:
 
 ## CONTACT AND ATTRIBUTION
 - Data Source: TIGON NEV
-- Website: tigonnev.com
+- Website: https://tigonnev.com
 - Email: info@tigonnev.com
 - Industry: Electric golf cart sales and service
 - Location: 11 US states + Canada & Mexico

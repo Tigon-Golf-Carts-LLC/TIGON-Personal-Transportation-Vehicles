@@ -34,7 +34,7 @@
 - DENAGO [BRAND]
 - EVOLUTION [BRAND]
 - info@tigonnev.com [CONTACT]
-- tigonnev.com [WEBSITE]
+- https://tigonnev.com [WEBSITE]
 
 ## INTENT CLASSIFICATION DATASETS
 
@@ -101,9 +101,9 @@
 - replacement [ACTION]
 - warranty [SERVICE_TYPE]
 
-### Input: "Do you service the Bucks County area on weekends"
+### Input: "Do you service the multi-state service area on weekends"
 ### Output:
-- Bucks County [SERVICE_AREA]
+- Multi-State Coverage [SERVICE_AREA]
 - weekends [TIME_PERIOD]
 - service [ACTION_TYPE]
 

@@ -6,10 +6,11 @@ Contact: info@tigonnev.com
 Location: Hatfield, Pennsylvania
 
 ## THANKS
+DENAGO Electric Vehicles - Vehicle Manufacturing Partner
 EVOLUTION Electric Vehicles - Vehicle Manufacturing Partner
-Customers of Bucks County - Community Support
-Pennsylvania Golf Cart Association - Industry Guidance
-Bucks County Chamber of Commerce - Business Support
+Customers Across North America - Community Support
+NEV Industry Association - Industry Guidance
+Multi-State Business Partners - Business Support
 
 ## TECHNOLOGY
 ### Frontend Framework
@@ -62,48 +63,52 @@ Browser Support: Modern Browsers
 ## BUSINESS INFORMATION
 ### Company Details
 Business Name: TIGON NEV
-Industry: Electric Vehicle Dealership
-Specialization: EVOLUTION Golf Carts
-Founded: Serving Hatfield, Pennsylvania
-Service Area: All 56 Bucks County Municipalities
+Industry: Neighborhood Electric Vehicle Dealership
+Specialization: DENAGO and EVOLUTION NEVs
+Founded: 2015
+Service Area: 11 US States + Canada & Mexico
+Headquarters: Hatfield, Pennsylvania
+Locations: 30 (18 showrooms + 12 online stores)
 
 ### Services Offered
-New Golf Cart Sales
-Used Golf Cart Sales
-Golf Cart Service & Repair
-Golf Cart Rentals
+New NEV Sales (DENAGO & EVOLUTION)
+Custom NEV Configurations
+NEV Service & Repair
+NEV Rentals (Daily, Weekly, Monthly)
 Parts & Accessories
 Financing & Leasing
-Street Legal Conversions
-Fleet Management
+Street Legal Packages
+Commercial Fleet Management
 
 ### Contact Information
-Website: tigonnev.com
+Website: https://tigonnev.com
 Email: info@tigonnev.com
-Service Coverage: Complete Bucks County
+Phone: 1-844-844-6638
+Service Coverage: PA, NJ, DE, VA, MD, NC, SC, FL, IN, OH, NY + Canada & Mexico
 Business Hours: Professional Service Schedule
 
-## EVOLUTION VEHICLE SPECIALIZATION
-### Vehicle Lines Supported
-Classic Series (2-4 Passenger)
-D5 Maverick Series (2-8 Passenger)
-D5 Ranger Utility Series
-D6 Max Performance Series
-Carrier Transport Series
-Forester All-Terrain Series
-Turfman Commercial Series
+## DENAGO & EVOLUTION VEHICLE SPECIALIZATION
+### DENAGO Vehicle Lines
+EV City (2-Passenger Urban)
+Nomad Series (4-6 Passenger All-Terrain)
+Rover Series (Utility & Cargo)
+
+### EVOLUTION Vehicle Lines
+D5 Maverick (Luxury Passenger)
+Carrier Series (Commercial Transport)
 
 ### Technical Expertise
 48V & 72V Lithium Battery Systems
 AC Motor Technology
 Regenerative Braking Systems
-Street Legal Conversion Packages
-Pennsylvania Compliance Specialists
+Street Legal NEV Packages
+Multi-State Compliance Specialists
+DOT-Approved Safety Systems
 
 ## DEVELOPMENT MILESTONES
 ### Version 1.0 Features
-Complete EVOLUTION Model Showcase
-Bucks County Municipal Coverage
+Complete DENAGO & EVOLUTION Showcase
+Multi-State Service Coverage
 SEO-Optimized Architecture
 Responsive Mobile Design
 Contact & Inquiry System
@@ -137,10 +142,11 @@ Google Fonts - Typography
 Radix UI - Component Primitives
 
 ### Business Partners
+DENAGO Electric Vehicles
 EVOLUTION Electric Vehicles
-Pennsylvania Motor Vehicle Dealers
-Local Golf Course Partners
-Bucks County Business Community
+Multi-State Motor Vehicle Dealers
+Regional NEV Industry Partners
+North American Business Community
 
 ## LAST UPDATED
 Website Last Updated: January 2025
@@ -155,9 +161,10 @@ v1.0 - Initial launch with complete vehicle showcase
 
 /* 
    The humans responsible for this website are:
-   - Dedicated to providing excellent electric vehicle solutions
-   - Committed to customer service excellence
-   - Focused on environmental sustainability
-   - Supporting the Bucks County community
-   - Advancing electric vehicle adoption in Pennsylvania
+   - Dedicated to providing excellent neighborhood electric vehicle solutions
+   - Committed to customer service excellence across North America
+   - Focused on environmental sustainability and zero-emission transportation
+   - Supporting communities across 11 US states, Canada, and Mexico
+   - Advancing electric vehicle adoption throughout our service regions
+   - Promoting sustainable local transportation alternatives
 */

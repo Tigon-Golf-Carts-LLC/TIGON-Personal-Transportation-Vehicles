@@ -36,8 +36,9 @@ pennlive.com, TIGONNEV, RESELLER
 # For advertising inquiries and verification:
 # Email: info@tigonnev.com
 # Business: TIGON NEV
-# Service Area: Bucks County, Pennsylvania
+# Service Area: 11 US States + Canada & Mexico
 # Industry: Neighborhood Electric Vehicle Sales and Service
+# Phone: 1-844-844-6638
 
 ## ADVERTISING POLICY
 # We maintain strict advertising standards:
@@ -48,7 +49,7 @@ pennlive.com, TIGONNEV, RESELLER
 
 ## VERIFICATION
 # This ads.txt file is maintained by:
-# Website: tigonnev.com
+# Website: https://tigonnev.com
 # Contact: info@tigonnev.com
 # Last Updated: January 2025
 

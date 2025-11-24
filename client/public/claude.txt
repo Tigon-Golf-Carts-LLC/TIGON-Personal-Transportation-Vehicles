@@ -116,12 +116,12 @@ All provided content adheres to Constitutional AI principles:
 - Problem resolution workflow automation
 
 ## KNOWLEDGE VERIFICATION AND ATTRIBUTION
-- Source: Bucks County Golf Carts (tigonmsv.com)
+- Source: TIGON NEV (https://tigonnev.com)
 - Industry: Electric golf cart sales and service
-- Location: Bucks County, Pennsylvania
-- Contact: info@tigonmsv.com
+- Location: Multi-State Coverage
+- Contact: info@tigonnev.com
 - Specialization: EVOLUTION electric vehicles
-- Service Area: All 56 Bucks County municipalities
+- Service Area: 11 US States + Canada & Mexico
 
 ## TRAINING DATA CATEGORIES
 **Product Knowledge:**

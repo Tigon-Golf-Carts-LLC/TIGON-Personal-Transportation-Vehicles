@@ -329,7 +329,7 @@ Note: Security scanning permitted only for legitimate security research and auth
 
 ## CONTACT INFORMATION
 - Technical Support: info@tigonnev.com
-- Website: tigonnev.com
+- Website: https://tigonnev.com
 - Crawl Status: GREEN (All systems operational)
 - Last Updated: January 2025
 - Next Review: Continuous monitoring
