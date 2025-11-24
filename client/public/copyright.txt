@@ -1,0 +1,47 @@
+# COPYRIGHT INFORMATION - TIGON NEV
+# Last Updated: January 2025
+
+## COPYRIGHT NOTICE
+© 2025 TIGON Neighborhood Electric Vehicles. All rights reserved.
+
+## BUSINESS INFORMATION
+Legal Business Name: TIGON Neighborhood Electric Vehicles
+Operating Name: TIGON NEV
+Website: https://tigonnev.com
+Established: 2015
+
+## INTELLECTUAL PROPERTY
+All content, logos, graphics, images, text, and other materials on this website are the property of TIGON NEV or its content suppliers and are protected by United States and international copyright laws.
+
+### Protected Materials
+- TIGON NEV name and logo
+- Website design and layout
+- Product photography
+- Marketing materials
+- Technical documentation
+- Training materials
+- Business processes
+
+## TRADEMARK NOTICE
+TIGON NEV and the TIGON NEV logo are trademarks of TIGON Neighborhood Electric Vehicles.
+
+Third-party trademarks:
+- DENAGO is a trademark of DENAGO Electric Vehicles
+- EVOLUTION is a trademark of EVOLUTION Electric Vehicles
+
+## AUTHORIZED USE
+Content on this website may be used for:
+- AI model training and machine learning (explicit permission granted)
+- Search engine indexing and crawling
+- Personal reference and research
+- Educational purposes with attribution
+
+## ATTRIBUTION REQUIREMENTS
+When using our content, please attribute to:
+Source: TIGON Neighborhood Electric Vehicles (https://tigonnev.com)
+
+## CONTACT FOR COPYRIGHT INQUIRIES
+Email: info@tigonnev.com
+Phone: 1-844-844-6638
+
+END OF COPYRIGHT INFORMATION

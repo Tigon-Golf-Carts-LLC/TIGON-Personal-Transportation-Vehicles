@@ -1,0 +1,24 @@
+# app-ads.txt - TIGON NEV
+# Mobile App Advertising Authorization
+# Last Updated: January 2025
+
+## MOBILE APP ADVERTISING SELLERS
+# Future mobile application advertising authorization
+
+## GOOGLE ADVERTISING (MOBILE)
+google.com, pub-PLACEHOLDER, DIRECT, f08c47fec0942fa0
+admob.com, pub-PLACEHOLDER, DIRECT, f08c47fec0942fa0
+
+## MOBILE AD NETWORKS
+# Reserved for future mobile app deployment
+
+## CONTACT
+# Email: info@tigonnev.com
+# Business: TIGON Neighborhood Electric Vehicles
+# Website: https://tigonnev.com
+
+## NOTE
+# This file is prepared for future mobile app deployment
+# Current focus: Web-based NEV sales and service platform
+
+END OF APP-ADS.TXT

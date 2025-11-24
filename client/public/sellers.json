@@ -1,0 +1,21 @@
+{
+  "contact_email": "info@tigonnev.com",
+  "contact_address": "Hatfield, Pennsylvania, USA",
+  "version": "1.0",
+  "identifiers": [
+    {
+      "name": "TIGON Neighborhood Electric Vehicles",
+      "domain": "tigonnev.com"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "TIGONNEV001",
+      "name": "TIGON Neighborhood Electric Vehicles",
+      "domain": "tigonnev.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "is_passthrough": 0
+    }
+  ]
+}
