@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>TIGON Medium Speed Vehicles</ShortName>
+  <ShortName>TIGON Neighborhood Electric Vehicles</ShortName>
   <Description>Search medium speed vehicles, parts, and services nationwide - serving all 50 states, Canada, and Mexico</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>
@@ -10,11 +10,11 @@
   <Url type="application/x-suggestions+json" method="get" template="https://tigonmsv.com/api/suggestions?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://tigonmsv.com/opensearch.xml"/>
   <Query role="example" searchTerms="Evolution D5 Maverick"/>
-  <Developer>TIGON Medium Speed Vehicles</Developer>
+  <Developer>TIGON Neighborhood Electric Vehicles</Developer>
   <Contact>info@tigonmsv.com</Contact>
   <Tags>medium speed vehicles electric MSV Evolution Denago nationwide</Tags>
-  <LongName>TIGON Medium Speed Vehicles - Electric MSV Search</LongName>
-  <Attribution>Copyright 2025 TIGON Medium Speed Vehicles. All rights reserved.</Attribution>
+  <LongName>TIGON Neighborhood Electric Vehicles - NEV Search</LongName>
+  <Attribution>Copyright 2025 TIGON Neighborhood Electric Vehicles. All rights reserved.</Attribution>
   <SyndicationRight>open</SyndicationRight>
   <AdultContent>false</AdultContent>
   <Language>en-us</Language>

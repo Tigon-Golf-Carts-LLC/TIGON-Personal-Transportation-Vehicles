@@ -29,7 +29,7 @@
     </task>
     <jumplist>
       <task>
-        <name>Browse Medium Speed Vehicles</name>
+        <name>Browse Neighborhood Electric Vehicles</name>
         <description>View our complete MSV vehicle inventory</description>
         <arguments>/inventory</arguments>
         <iconUri>/attached_assets/TIGON Neighborhood Electric Vehicles_1764002910326.png</iconUri>
@@ -59,7 +59,7 @@
         <iconUri>/attached_assets/TIGON Neighborhood Electric Vehicles_1764002910326.png</iconUri>
       </task>
     </jumplist>
-    <tooltip>TIGON Medium Speed Vehicles - Electric MSV Dealership</tooltip>
+    <tooltip>TIGON Neighborhood Electric Vehicles - NEV Dealership</tooltip>
     <startscreen>
       <image src="/attached_assets/image_1753282400827.png"/>
       <color>#0e2e55</color>

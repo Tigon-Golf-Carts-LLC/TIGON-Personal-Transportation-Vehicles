@@ -1,5 +1,5 @@
 {
-  "name": "TIGON Medium Speed Vehicles",
+  "name": "TIGON Neighborhood Electric Vehicles",
   "short_name": "TIGON MSV",
   "description": "Nationwide premier medium speed vehicle dealership serving all 50 states, Canada, and Mexico with sales, service, rentals, and financing.",
   "start_url": "/",
@@ -29,7 +29,7 @@
       "src": "/attached_assets/image_1753282400827.png",
       "sizes": "1280x720",
       "type": "image/png",
-      "label": "TIGON Medium Speed Vehicles Homepage"
+      "label": "TIGON Neighborhood Electric Vehicles Homepage"
     }
   ],
   "shortcuts": [

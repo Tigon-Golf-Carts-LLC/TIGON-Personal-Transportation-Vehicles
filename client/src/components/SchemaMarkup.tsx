@@ -84,34 +84,70 @@ export const generateLocalBusinessSchema = () => ({
   "description": "Premier neighborhood electric vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
   "url": "https://tigonnev.com",
   "telephone": "1-844-844-6638",
-  "email": "sales@tigongolfcarts.com",
+  "email": "info@tigonnev.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
   "paymentAccepted": "Cash, Credit Card, Financing",
   "openingHours": [
-    "Mo-Fr 09:00-17:00",
-    "Sa 09:00-17:00"
+    "Mo-Fr 09:00-18:00",
+    "Sa 10:00-17:00"
   ],
   "address": {
     "@type": "PostalAddress",
-    "addressRegion": "NJ",
+    "addressRegion": "PA",
     "addressCountry": "US",
-    "addressLocality": "Ocean County"
+    "addressLocality": "Hatfield"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 39.8238,
-    "longitude": -74.5889
+    "latitude": 40.2782,
+    "longitude": -75.2996
   },
   "areaServed": [
-    "Toms River Township", "Lakewood Township", "Brick Township", "Jackson Township",
-    "Point Pleasant", "Seaside Heights", "Beach Haven", "Long Beach Township",
-    "Stafford Township", "Barnegat Township", "Manchester Township", "Berkeley Township",
-    "Dover Township", "Eagleswood Township", "Little Egg Harbor Township", "Ocean Township",
-    "Plumsted Township", "Barnegat Light", "Bay Head", "Beachwood", "Harvey Cedars",
-    "Island Heights", "Lavallette", "Mantoloking", "Ocean Gate", "Pine Beach",
-    "Point Pleasant Beach", "Seaside Park", "Ship Bottom", "South Toms River",
-    "Surf City", "Tuckerton", "Lacey Township", "New Hanover Township"
+    {
+      "@type": "State",
+      "name": "Pennsylvania"
+    },
+    {
+      "@type": "State",
+      "name": "New Jersey"
+    },
+    {
+      "@type": "State",
+      "name": "Delaware"
+    },
+    {
+      "@type": "State",
+      "name": "Virginia"
+    },
+    {
+      "@type": "State",
+      "name": "Maryland"
+    },
+    {
+      "@type": "State",
+      "name": "North Carolina"
+    },
+    {
+      "@type": "State",
+      "name": "South Carolina"
+    },
+    {
+      "@type": "State",
+      "name": "Florida"
+    },
+    {
+      "@type": "State",
+      "name": "Indiana"
+    },
+    {
+      "@type": "State",
+      "name": "Ohio"
+    },
+    {
+      "@type": "State",
+      "name": "New York"
+    }
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -229,10 +265,52 @@ export const generateServiceSchema = () => ({
     "@type": "LocalBusiness",
     "name": "TIGON NEV"
   },
-  "areaServed": {
-    "@type": "State",
-    "name": "New Jersey"
-  },
+  "areaServed": [
+    {
+      "@type": "State",
+      "name": "Pennsylvania"
+    },
+    {
+      "@type": "State",
+      "name": "New Jersey"
+    },
+    {
+      "@type": "State",
+      "name": "Delaware"
+    },
+    {
+      "@type": "State",
+      "name": "Virginia"
+    },
+    {
+      "@type": "State",
+      "name": "Maryland"
+    },
+    {
+      "@type": "State",
+      "name": "North Carolina"
+    },
+    {
+      "@type": "State",
+      "name": "South Carolina"
+    },
+    {
+      "@type": "State",
+      "name": "Florida"
+    },
+    {
+      "@type": "State",
+      "name": "Indiana"
+    },
+    {
+      "@type": "State",
+      "name": "Ohio"
+    },
+    {
+      "@type": "State",
+      "name": "New York"
+    }
+  ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "Golf Cart Services",
@@ -312,7 +390,7 @@ export const generateContactPageSchema = () => ({
       },
       {
         "@type": "ContactPoint",
-        "email": "sales@tigongolfcarts.com",
+        "email": "info@tigonnev.com",
         "contactType": "sales",
         "areaServed": "US"
       }
@@ -328,7 +406,7 @@ export const generateTownPageSchema = (townName: string) => ({
   "url": `https://tigonnev.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
   "mainEntity": {
     "@type": "LocalBusiness",
-    "name": "Pennsylvania Golf Carts",
+    "name": "TIGON NEV",
     "areaServed": {
       "@type": "City",
       "name": townName,
