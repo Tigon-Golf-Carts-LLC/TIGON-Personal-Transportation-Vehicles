@@ -1,7 +1,7 @@
 {
-  "name": "TIGON Neighborhood Electric Vehicles",
-  "short_name": "TIGON NEV",
-  "description": "Nationwide premier neighborhood electric vehicle dealership serving all 50 states, Canada, and Mexico with sales, service, rentals, and financing.",
+  "name": "TIGON Private Transportation Vehicles",
+  "short_name": "TIGON PTV",
+  "description": "Nationwide premier private transportation vehicle dealership serving all 50 states, Canada, and Mexico with sales, service, rentals, and financing.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#af1b30",
@@ -39,14 +39,14 @@
       "src": "/favicon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "label": "TIGON Neighborhood Electric Vehicles Logo"
+      "label": "TIGON Private Transportation Vehicles Logo"
     }
   ],
   "shortcuts": [
     {
       "name": "Vehicle Inventory",
       "short_name": "Inventory",
-      "description": "Browse our complete neighborhood electric vehicle lineup",
+      "description": "Browse our complete private transportation vehicle lineup",
       "url": "/inventory",
       "icons": [
         {
@@ -70,7 +70,7 @@
     {
       "name": "Service Center",
       "short_name": "Service",
-      "description": "Professional neighborhood electric vehicle maintenance and repair",
+      "description": "Professional private transportation vehicle maintenance and repair",
       "url": "/services",
       "icons": [
         {
@@ -82,7 +82,7 @@
     {
       "name": "Rental Program",
       "short_name": "Rentals",
-      "description": "Daily, weekly, and seasonal neighborhood electric vehicle rentals",
+      "description": "Daily, weekly, and seasonal private transportation vehicle rentals",
       "url": "/rentals",
       "icons": [
         {

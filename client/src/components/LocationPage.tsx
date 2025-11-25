@@ -55,9 +55,9 @@ export default function LocationPage({ location }: LocationPageProps) {
       <SEOHead
         title={seoTitle}
         description={seoDescription}
-        keywords={`neighborhood electric vehicles, NEV, ${name}, TIGON, electric vehicles, ${type === 'state' ? 'state' : 'country'}`}
-        canonicalUrl={`https://tigonnev.com/${slug}`}
-        image="https://tigonnev.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
+        keywords={`private transportation vehicles, PTV, ${name}, TIGON, electric vehicles, ${type === 'state' ? 'state' : 'country'}`}
+        canonicalUrl={`https://tigonptv.com/${slug}`}
+        image="https://tigonptv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
       />
 
       {/* Hero Section */}
@@ -105,7 +105,7 @@ export default function LocationPage({ location }: LocationPageProps) {
               </div>
               <h3 className="text-xl font-semibold mb-3">Expert Service</h3>
               <p className="text-gray-600">
-                Factory-trained technicians for all NEV brands
+                Factory-trained technicians for all PTV brands
               </p>
             </div>
 
@@ -113,9 +113,9 @@ export default function LocationPage({ location }: LocationPageProps) {
               <div className="bg-theme-orange w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Battery className="w-8 h-8 text-white" />
               </div>
-              <h3 className="text-xl font-semibold mb-3">Electric NEVs</h3>
+              <h3 className="text-xl font-semibold mb-3">Electric PTVs</h3>
               <p className="text-gray-600">
-                Premium electric neighborhood electric vehicles
+                Premium electric private transportation vehicles
               </p>
             </div>
           </div>
@@ -126,9 +126,9 @@ export default function LocationPage({ location }: LocationPageProps) {
       <section className="py-16 px-4">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold mb-4 text-gray-900">Featured Neighborhood Electric Vehicles</h2>
+            <h2 className="text-4xl font-bold mb-4 text-gray-900">Featured Private Transportation Vehicles</h2>
             <p className="text-xl text-gray-600">
-              Premium electric NEVs available in {name}
+              Premium electric PTVs available in {name}
             </p>
           </div>
 
@@ -181,7 +181,7 @@ export default function LocationPage({ location }: LocationPageProps) {
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-gray-900">Our Services in {name}</h2>
             <p className="text-xl text-gray-600">
-              Comprehensive NEV solutions for your needs
+              Comprehensive PTV solutions for your needs
             </p>
           </div>
 
@@ -192,7 +192,7 @@ export default function LocationPage({ location }: LocationPageProps) {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  New and certified pre-owned neighborhood electric vehicles from top brands
+                  New and certified pre-owned private transportation vehicles from top brands
                 </p>
               </CardContent>
             </Card>
@@ -214,7 +214,7 @@ export default function LocationPage({ location }: LocationPageProps) {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Daily, weekly, and monthly NEV rental options available
+                  Daily, weekly, and monthly PTV rental options available
                 </p>
               </CardContent>
             </Card>
@@ -240,7 +240,7 @@ export default function LocationPage({ location }: LocationPageProps) {
             Ready to Get Started in {name}?
           </h2>
           <p className="text-xl mb-8">
-            Contact us today to learn more about our neighborhood electric vehicles and services
+            Contact us today to learn more about our private transportation vehicles and services
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="tel:18448446638">

@@ -29,8 +29,8 @@
     </task>
     <jumplist>
       <task>
-        <name>Browse Neighborhood Electric Vehicles</name>
-        <description>View our complete NEV vehicle inventory</description>
+        <name>Browse Private Transportation Vehicles</name>
+        <description>View our complete PTV vehicle inventory</description>
         <arguments>/inventory</arguments>
         <iconUri>/favicon-96.png</iconUri>
       </task>
@@ -59,7 +59,7 @@
         <iconUri>/favicon-96.png</iconUri>
       </task>
     </jumplist>
-    <tooltip>TIGON Neighborhood Electric Vehicles - NEV Dealership</tooltip>
+    <tooltip>TIGON Private Transportation Vehicles - PTV Dealership</tooltip>
     <startscreen>
       <image src="/favicon-512.png"/>
       <color>#af1b30</color>

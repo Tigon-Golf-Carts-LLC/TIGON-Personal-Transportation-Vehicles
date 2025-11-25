@@ -1,10 +1,10 @@
-# Security Policy - TIGON NEV
+# Security Policy - TIGON PTV
 
 ## RESPONSIBLE VULNERABILITY DISCLOSURE
 We welcome security researchers and encourage responsible disclosure of security vulnerabilities.
 
 ### Security Contact Information
-Email: info@tigonnev.com
+Email: info@tigonptv.com
 Subject Line: [SECURITY] Vulnerability Report
 Response Time: 72 hours maximum
 Acknowledgment: All valid reports acknowledged
@@ -73,7 +73,7 @@ Please include the following information in your report:
 ### PGP Public Key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Contact info@tigonnev.com for PGP key exchange
+Contact info@tigonptv.com for PGP key exchange
 for encrypted vulnerability reporting
 -----END PGP PUBLIC KEY BLOCK-----
 ```
@@ -181,7 +181,7 @@ We acknowledge security researchers who help improve our security:
 - Capacity planning procedures
 
 ## SECURITY CONTACT
-Primary Contact: info@tigonnev.com
+Primary Contact: info@tigonptv.com
 Backup Contact: Available upon request
 Emergency Contact: 24/7 availability for critical issues
 Escalation: Management notification for high-severity issues
@@ -193,4 +193,4 @@ Next Review: April 2025
 Version: 2.0
 
 For questions about this security policy, contact:
-info@tigonnev.com
+info@tigonptv.com

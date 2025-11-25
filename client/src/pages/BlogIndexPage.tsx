@@ -13,20 +13,20 @@ export default function BlogIndexPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
-        title="Neighborhood Electric Vehicle Blog | NEV News & Guides"
-        description="Expert guides, industry news, and helpful resources about neighborhood electric vehicles. Learn about NEV buying, maintenance, incentives, and more from TIGON's team across Pennsylvania, New Jersey, Delaware, Virginia, and nationwide."
-        keywords="neighborhood electric vehicle blog, NEV news, electric vehicle guides, NEV buying tips, Pennsylvania electric vehicles, street legal golf carts information"
-        canonicalUrl="https://tigonnev.com/blog"
+        title="Private Transportation Vehicle Blog | NEV News & Guides"
+        description="Expert guides, industry news, and helpful resources about private transportation vehicles. Learn about NEV buying, maintenance, incentives, and more from TIGON's team across Pennsylvania, New Jersey, Delaware, Virginia, and nationwide."
+        keywords="private transportation vehicle blog, NEV news, electric vehicle guides, NEV buying tips, Pennsylvania electric vehicles, street legal golf carts information"
+        canonicalUrl="https://tigonptv.com/blog"
       />
 
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-theme-primary to-blue-700 text-white py-16 px-4">
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
-            Neighborhood Electric Vehicle Blog
+            Private Transportation Vehicle Blog
           </h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto">
-            Expert insights, buying guides, and industry news to help you make informed decisions about neighborhood electric vehicles
+            Expert insights, buying guides, and industry news to help you make informed decisions about private transportation vehicles
           </p>
         </div>
       </section>
@@ -87,7 +87,7 @@ export default function BlogIndexPage() {
       <section className="py-16 px-4 bg-theme-primary text-white">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Ready to Find Your Perfect Neighborhood Electric Vehicle?
+            Ready to Find Your Perfect Private Transportation Vehicle?
           </h2>
           <p className="text-xl mb-8">
             Visit one of our 30 locations nationwide or browse our inventory online

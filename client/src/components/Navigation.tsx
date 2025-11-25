@@ -32,7 +32,7 @@ export default function Navigation() {
             <div className="rounded-lg w-16 h-16 flex-shrink-0">
               <img 
                 src={tigonLogo} 
-                alt="TIGON Neighborhood Electric Vehicles Logo" 
+                alt="TIGON Private Transportation Vehicles Logo" 
                 className="h-16 w-16 object-contain"
                 width="64"
                 height="64"
@@ -41,7 +41,7 @@ export default function Navigation() {
             </div>
             <Link href="/">
               <div className="cursor-pointer">
-                <div className="text-lg font-bold" style={{ color: '#af1b30' }}>TIGON NEV</div>
+                <div className="text-lg font-bold" style={{ color: '#af1b30' }}>TIGON PTV</div>
               </div>
             </Link>
           </div>

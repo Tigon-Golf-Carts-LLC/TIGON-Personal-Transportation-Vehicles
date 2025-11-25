@@ -10,10 +10,10 @@ export default function EvolutionTurman1000Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION TURMAN 1000 PLUS Neighborhood Electric Vehicle"
-        description="Heavy-duty commercial utility neighborhood electric vehicle for landscaping and maintenance work. Maximum 1,000 lbs payload with professional-grade construction. Call 1-844-844-6638."
+        title="EVOLUTION TURMAN 1000 PLUS Private Transportation Vehicle"
+        description="Heavy-duty commercial utility private transportation vehicle for landscaping and maintenance work. Maximum 1,000 lbs payload with professional-grade construction. Call 1-844-844-6638."
         keywords="EVOLUTION TURMAN 1000 PLUS, heavy-duty utility vehicle, landscaping cart, commercial NEV, EVOLUTION dealer nationwide"
-        canonicalUrl="https://tigonnev.com/vehicles/evolution-turman-1000-plus"
+        canonicalUrl="https://tigonptv.com/vehicles/evolution-turman-1000-plus"
         image="/attached_assets/EVOLUTIONTURFMAN1000_1751893159006_1753135437836.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionTurman1000Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -52,7 +52,7 @@ export default function EvolutionTurman1000Plus() {
                   TURMAN 1000 PLUS
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Heavy-duty commercial utility neighborhood electric vehicle designed for professional landscaping and maintenance work. Maximum 1,000 lbs payload with professional-grade construction.
+                  Heavy-duty commercial utility private transportation vehicle designed for professional landscaping and maintenance work. Maximum 1,000 lbs payload with professional-grade construction.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -80,7 +80,7 @@ export default function EvolutionTurman1000Plus() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto bg-white text-theme-primary hover:bg-gray-100 shadow-lg">
                       Finance Options
                     </Button>
@@ -204,7 +204,7 @@ export default function EvolutionTurman1000Plus() {
               Maximum Capacity, Professional Performance
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION TURMAN 1000 PLUS.
+              Contact TIGON Private Transportation Vehicles today for your EVOLUTION TURMAN 1000 PLUS.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

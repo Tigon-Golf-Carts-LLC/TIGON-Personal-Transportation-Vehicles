@@ -15,8 +15,8 @@ export default function FindNEVDealerships() {
       <SEOHead 
         title={post.seoTitle}
         description={post.metaDescription}
-        keywords="NEV dealerships near me, neighborhood electric vehicle dealers, TIGON locations, Pennsylvania NEV dealers, New Jersey electric vehicle showrooms, Delaware NEV stores, Virginia NEV dealerships"
-        canonicalUrl={`https://tigonnev.com/blog/${post.slug}`}
+        keywords="PTV dealerships near me, private transportation vehicle dealers, TIGON locations, Pennsylvania NEV dealers, New Jersey electric vehicle showrooms, Delaware NEV stores, Virginia PTV dealerships"
+        canonicalUrl={`https://tigonptv.com/blog/${post.slug}`}
       />
 
       <article className="max-w-4xl mx-auto px-4 py-12">
@@ -52,7 +52,7 @@ export default function FindNEVDealerships() {
 
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-8">
-            Finding a trusted neighborhood electric vehicle dealership near you is the first step toward enjoying the benefits of NEV ownership. With TIGON's 30-location network spanning Pennsylvania, New Jersey, Delaware, Virginia, North Carolina, South Carolina, Florida, Indiana, Ohio, Maryland, and New York, quality NEV sales and service are closer than you think.
+            Finding a trusted private transportation vehicle dealership near you is the first step toward enjoying the benefits of NEV ownership. With TIGON's 30-location network spanning Pennsylvania, New Jersey, Delaware, Virginia, North Carolina, South Carolina, Florida, Indiana, Ohio, Maryland, and New York, quality NEV sales and service are closer than you think.
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
@@ -60,7 +60,7 @@ export default function FindNEVDealerships() {
           </h2>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">
-            Pennsylvania NEV Dealerships - 4 Locations
+            Pennsylvania PTV Dealerships - 4 Locations
           </h3>
           <p className="mb-4">
             <strong>TIGON Hatfield PA</strong><br />
@@ -89,7 +89,7 @@ export default function FindNEVDealerships() {
           </p>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">
-            New Jersey NEV Dealerships - 4 Locations
+            New Jersey PTV Dealerships - 4 Locations
           </h3>
           <p className="mb-4">
             <strong>TIGON Ocean View NJ</strong><br />
@@ -117,7 +117,7 @@ export default function FindNEVDealerships() {
           </p>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">
-            Delaware NEV Dealership
+            Delaware PTV Dealership
           </h3>
           <p className="mb-4">
             <strong>TIGON Dover DE</strong><br />
@@ -127,7 +127,7 @@ export default function FindNEVDealerships() {
           </p>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">
-            Virginia NEV Dealerships - 3 Locations
+            Virginia PTV Dealerships - 3 Locations
           </h3>
           <p className="mb-4">
             <strong>TIGON Gloucester Point VA</strong><br />
@@ -166,12 +166,12 @@ export default function FindNEVDealerships() {
             Can't visit a physical showroom? TIGON's online stores provide full-service NEV sales with home delivery available across:
           </p>
           <ul className="list-disc pl-6 mb-6 space-y-2">
-            <li>Pennsylvania - <Link href="/pennsylvania" className="text-theme-orange hover:underline">tigonnev.com/pennsylvania</Link></li>
-            <li>New Jersey - <Link href="/new-jersey" className="text-theme-orange hover:underline">tigonnev.com/new-jersey</Link></li>
-            <li>Delaware - <Link href="/delaware" className="text-theme-orange hover:underline">tigonnev.com/delaware</Link></li>
-            <li>Virginia - <Link href="/virginia" className="text-theme-orange hover:underline">tigonnev.com/virginia</Link></li>
-            <li>Maryland - <Link href="/maryland" className="text-theme-orange hover:underline">tigonnev.com/maryland</Link></li>
-            <li>New York - <Link href="/new-york" className="text-theme-orange hover:underline">tigonnev.com/new-york</Link></li>
+            <li>Pennsylvania - <Link href="/pennsylvania" className="text-theme-orange hover:underline">tigonptv.com/pennsylvania</Link></li>
+            <li>New Jersey - <Link href="/new-jersey" className="text-theme-orange hover:underline">tigonptv.com/new-jersey</Link></li>
+            <li>Delaware - <Link href="/delaware" className="text-theme-orange hover:underline">tigonptv.com/delaware</Link></li>
+            <li>Virginia - <Link href="/virginia" className="text-theme-orange hover:underline">tigonptv.com/virginia</Link></li>
+            <li>Maryland - <Link href="/maryland" className="text-theme-orange hover:underline">tigonptv.com/maryland</Link></li>
+            <li>New York - <Link href="/new-york" className="text-theme-orange hover:underline">tigonptv.com/new-york</Link></li>
           </ul>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
@@ -182,7 +182,7 @@ export default function FindNEVDealerships() {
             Full Inventory Display
           </h4>
           <p className="mb-4">
-            Our physical showrooms feature complete lineups of <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> neighborhood electric vehicles. See, touch, and test drive multiple models to find your perfect match.
+            Our physical showrooms feature complete lineups of <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> private transportation vehicles. See, touch, and test drive multiple models to find your perfect match.
           </p>
 
           <h4 className="text-xl font-semibold text-gray-900 mt-6 mb-3">
@@ -223,7 +223,7 @@ export default function FindNEVDealerships() {
             Schedule Your Visit Today
           </h6>
           <p className="mb-4">
-            Ready to experience TIGON's neighborhood electric vehicle expertise? <Link href="/contact" className="text-theme-orange hover:underline">Contact your nearest location</Link> to schedule a test drive, ask questions, or explore our complete <Link href="/inventory" className="text-theme-orange hover:underline">NEV inventory</Link>.
+            Ready to experience TIGON's private transportation vehicle expertise? <Link href="/contact" className="text-theme-orange hover:underline">Contact your nearest location</Link> to schedule a test drive, ask questions, or explore our complete <Link href="/inventory" className="text-theme-orange hover:underline">NEV inventory</Link>.
           </p>
         </div>
 
@@ -232,13 +232,13 @@ export default function FindNEVDealerships() {
           <div className="grid md:grid-cols-2 gap-4">
             <Link href="/blog/best-neighborhood-electric-vehicles-city-commuting" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                What are the best neighborhood electric vehicles for city commuting?
+                What are the best private transportation vehicles for city commuting?
               </h4>
-              <p className="text-sm text-gray-600">Discover the top NEV models for urban driving</p>
+              <p className="text-sm text-gray-600">Discover the top PTV models for urban driving</p>
             </Link>
             <Link href="/blog/neighborhood-electric-vehicle-price-range-cost" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                What is the average price range for new neighborhood electric vehicles?
+                What is the average price range for new private transportation vehicles?
               </h4>
               <p className="text-sm text-gray-600">2025 NEV pricing guide and cost breakdown</p>
             </Link>

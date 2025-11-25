@@ -10,10 +10,10 @@ export default function EvolutionTurman200Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION TURMAN 200 PLUS Neighborhood Electric Vehicle"
-        description="Compact commercial utility neighborhood electric vehicle for landscaping and light maintenance work. Efficient and maneuverable for tight spaces. Call 1-844-844-6638."
+        title="EVOLUTION TURMAN 200 PLUS Private Transportation Vehicle"
+        description="Compact commercial utility private transportation vehicle for landscaping and light maintenance work. Efficient and maneuverable for tight spaces. Call 1-844-844-6638."
         keywords="EVOLUTION TURMAN 200 PLUS, compact utility vehicle, landscaping cart, commercial NEV, EVOLUTION dealer nationwide"
-        canonicalUrl="https://tigonnev.com/vehicles/evolution-turman-200-plus"
+        canonicalUrl="https://tigonptv.com/vehicles/evolution-turman-200-plus"
         image="/attached_assets/EVOLUTIONTURFMAN200_1751893159006_1753135437837.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionTurman200Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -52,7 +52,7 @@ export default function EvolutionTurman200Plus() {
                   TURMAN 200 PLUS
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Compact commercial utility neighborhood electric vehicle designed for landscaping and light maintenance work. Efficient, maneuverable, and built for tight spaces.
+                  Compact commercial utility private transportation vehicle designed for landscaping and light maintenance work. Efficient, maneuverable, and built for tight spaces.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -80,7 +80,7 @@ export default function EvolutionTurman200Plus() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto bg-white text-theme-primary hover:bg-gray-100 shadow-lg">
                       Finance Options
                     </Button>
@@ -204,7 +204,7 @@ export default function EvolutionTurman200Plus() {
               Compact Efficiency, Commercial Performance
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION TURMAN 200 PLUS.
+              Contact TIGON Private Transportation Vehicles today for your EVOLUTION TURMAN 200 PLUS.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

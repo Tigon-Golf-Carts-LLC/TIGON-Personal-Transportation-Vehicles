@@ -29,7 +29,7 @@ export default function VehicleSchema({
         "name": brand
       },
       "description": description,
-      "image": image.startsWith('http') ? image : `https://tigonnev.com/attached_assets/${image}`,
+      "image": image.startsWith('http') ? image : `https://tigonptv.com/attached_assets/${image}`,
       "url": url,
       "category": "Golf Cart",
       "manufacturer": {
@@ -43,9 +43,9 @@ export default function VehicleSchema({
         "priceCurrency": "USD",
         "seller": {
           "@type": "Organization",
-          "name": "TIGON Neighborhood Electric Vehicles",
+          "name": "TIGON Private Transportation Vehicles",
           "telephone": "1-844-844-6638",
-          "email": "info@tigonnev.com"
+          "email": "info@tigonptv.com"
         }
       },
       "additionalProperty": features.map(feature => ({

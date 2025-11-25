@@ -10,10 +10,10 @@ export default function EvolutionD5Maverick6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION D5 MAVERICK 6 Neighborhood Electric Vehicle"
+        title="EVOLUTION D5 MAVERICK 6 Private Transportation Vehicle"
         description="Perfect for family outings with reliable 6-passenger seating and proven performance for group transportation. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 6, 6-passenger neighborhood electric vehicle, family neighborhood electric vehicle, group transportation, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonnev.com/vehicles/evolution-d5-maverick-6"
+        keywords="EVOLUTION D5 Maverick 6, 6-passenger private transportation vehicle, family private transportation vehicle, group transportation, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-maverick-6"
         image="/attached_assets/EVOLUTIOND5MAVERICK6_1751893115781_1753135350621.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionD5Maverick6() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -80,7 +80,7 @@ export default function EvolutionD5Maverick6() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-red-50">
                       Finance Options
                     </Button>
@@ -92,7 +92,7 @@ export default function EvolutionD5Maverick6() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D5 Maverick 6 Family Neighborhood Electric Vehicle"
+                    alt="EVOLUTION D5 Maverick 6 Family Private Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -225,7 +225,7 @@ export default function EvolutionD5Maverick6() {
               Perfect for Family Adventures
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION D5 Maverick 6.
+              Contact TIGON Private Transportation Vehicles today for your EVOLUTION D5 Maverick 6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
@@ -234,7 +234,7 @@ export default function EvolutionD5Maverick6() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:drop-shadow-lg">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

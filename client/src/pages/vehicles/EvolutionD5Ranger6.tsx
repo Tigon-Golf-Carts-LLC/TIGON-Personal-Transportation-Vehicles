@@ -10,10 +10,10 @@ export default function EvolutionD5Ranger6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION D5-RANGER 6 Neighborhood Electric Vehicle"
-        description="Six-passenger neighborhood electric vehicle with rugged construction and reliable performance. Perfect for group transportation and family adventures. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Ranger 6, 6-passenger neighborhood electric vehicle, group transportation, family NEV, EVOLUTION dealer nationwide"
-        canonicalUrl="https://tigonnev.com/vehicles/evolution-d5-ranger-6"
+        title="EVOLUTION D5-RANGER 6 Private Transportation Vehicle"
+        description="Six-passenger private transportation vehicle with rugged construction and reliable performance. Perfect for group transportation and family adventures. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Ranger 6, 6-passenger private transportation vehicle, group transportation, family NEV, EVOLUTION dealer nationwide"
+        canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-ranger-6"
         image="/attached_assets/EVOLUTIOND5RANGER6_1751893159004_1753135350623.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionD5Ranger6() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -52,7 +52,7 @@ export default function EvolutionD5Ranger6() {
                   D5-RANGER 6
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Six-passenger neighborhood electric vehicle with rugged Ranger construction. Perfect for group transportation, family outings, and community events with reliable performance.
+                  Six-passenger private transportation vehicle with rugged Ranger construction. Perfect for group transportation, family outings, and community events with reliable performance.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -80,7 +80,7 @@ export default function EvolutionD5Ranger6() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto bg-white text-theme-primary hover:bg-gray-100 shadow-lg">
                       Finance Options
                     </Button>
@@ -92,7 +92,7 @@ export default function EvolutionD5Ranger6() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D5-RANGER 6 Neighborhood Electric Vehicle"
+                    alt="EVOLUTION D5-RANGER 6 Private Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -204,7 +204,7 @@ export default function EvolutionD5Ranger6() {
               Group Transportation, Rugged Performance
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION D5-RANGER 6.
+              Contact TIGON Private Transportation Vehicles today for your EVOLUTION D5-RANGER 6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

@@ -10,10 +10,10 @@ export default function EvolutionD6MaxXT6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION D6 MAX XT6 Neighborhood Electric Vehicle"
+        title="EVOLUTION D6 MAX XT6 Private Transportation Vehicle"
         description="Maximum off-road capability with six-passenger extreme terrain design featuring adventure features and rugged construction. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 Max XT6, extreme terrain neighborhood electric vehicle, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonnev.com/vehicles/evolution-d6-max-xt6"
+        keywords="EVOLUTION D6 Max XT6, extreme terrain private transportation vehicle, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonptv.com/vehicles/evolution-d6-max-xt6"
         image="/attached_assets/EVOLUTIOND6MAXXT6_1751893159005_1753135437836.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionD6MaxXT6() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -52,7 +52,7 @@ export default function EvolutionD6MaxXT6() {
                   Max XT6
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Six-passenger extreme terrain model with maximum off-road capability and adventure features. The ultimate off-road neighborhood electric vehicle for group adventures.
+                  Six-passenger extreme terrain model with maximum off-road capability and adventure features. The ultimate off-road private transportation vehicle for group adventures.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -80,7 +80,7 @@ export default function EvolutionD6MaxXT6() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto border-theme-orange text-theme-primary hover:bg-red-50">
                       Finance Options
                     </Button>
@@ -92,7 +92,7 @@ export default function EvolutionD6MaxXT6() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D6 Max XT6 Maximum Off-Road Neighborhood Electric Vehicle"
+                    alt="EVOLUTION D6 Max XT6 Maximum Off-Road Private Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -225,7 +225,7 @@ export default function EvolutionD6MaxXT6() {
               Ultimate Adventure Awaits
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION D6 Max XT6.
+              Contact TIGON Private Transportation Vehicles today for your EVOLUTION D6 Max XT6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
@@ -234,7 +234,7 @@ export default function EvolutionD6MaxXT6() {
                   Get Quote Today
                 </Button>
               </Link>
-              <a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+              <a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:drop-shadow-lg">
                   <MapPin className="w-5 h-5 mr-2" />
                   Visit Showroom

@@ -1,8 +1,8 @@
-# ads.txt - TIGON NEV
+# ads.txt - TIGON PTV
 # Authorized Digital Sellers
 
 ## AUTHORIZED ADVERTISING PARTNERS
-# This file identifies authorized digital advertising sellers for tigonnev.com
+# This file identifies authorized digital advertising sellers for tigonptv.com
 
 ## GOOGLE ADVERTISING PLATFORMS
 google.com, pub-TIGONNEV, DIRECT, f08c47fec0942fa0
@@ -28,16 +28,16 @@ autotrader.com, TIGONNEV, RESELLER
 edmunds.com, TIGONNEV, RESELLER
 
 ## LOCAL ADVERTISING PARTNERS
-# Multi-state NEV dealer advertising networks
+# Multi-state PTV dealer advertising networks
 localmedia.org, TIGONNEV, RESELLER
 pennlive.com, TIGONNEV, RESELLER
 
 ## CONTACT INFORMATION
 # For advertising inquiries and verification:
-# Email: info@tigonnev.com
-# Business: TIGON NEV
+# Email: info@tigonptv.com
+# Business: TIGON PTV
 # Service Area: 11 US States + Canada & Mexico
-# Industry: Neighborhood Electric Vehicle Sales and Service
+# Industry: Private Transportation Vehicle Sales and Service
 # Phone: 1-844-844-6638
 
 ## ADVERTISING POLICY
@@ -49,10 +49,10 @@ pennlive.com, TIGONNEV, RESELLER
 
 ## VERIFICATION
 # This ads.txt file is maintained by:
-# Website: https://tigonnev.com
-# Contact: info@tigonnev.com
+# Website: https://tigonptv.com
+# Contact: info@tigonptv.com
 # Last Updated: January 2025
 
 # Note: Publisher account IDs marked as TIGONNEV
-# Contact info@tigonnev.com for actual publisher IDs
+# Contact info@tigonptv.com for actual publisher IDs
 # when setting up advertising partnerships

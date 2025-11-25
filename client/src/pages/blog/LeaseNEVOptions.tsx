@@ -11,7 +11,7 @@ export default function LeaseNEVOptions() {
 
   return (
     <div className="min-h-screen bg-white">
-      <SEOHead title={post.seoTitle} description={post.metaDescription} keywords="lease NEV, neighborhood electric vehicle leasing, NEV financing Pennsylvania, DENAGO lease options, EVOLUTION leasing, electric vehicle lease vs buy" canonicalUrl={`https://tigonnev.com/blog/${post.slug}`} />
+      <SEOHead title={post.seoTitle} description={post.metaDescription} keywords="lease NEV, private transportation vehicle leasing, NEV financing Pennsylvania, DENAGO lease options, EVOLUTION leasing, electric vehicle lease vs buy" canonicalUrl={`https://tigonptv.com/blog/${post.slug}`} />
       <article className="max-w-4xl mx-auto px-4 py-12">
         <Link href="/blog"><Button variant="ghost" className="mb-6" data-testid="back-to-blog"><ArrowLeft className="w-4 h-4 mr-2" />Back to Blog</Button></Link>
         <header className="mb-8">
@@ -26,10 +26,10 @@ export default function LeaseNEVOptions() {
           </div>
         </header>
         <div className="prose prose-lg max-w-none">
-          <p className="text-xl text-gray-700 leading-relaxed mb-8">Leasing a neighborhood electric vehicle through TIGON dealerships in Pennsylvania, New Jersey, Delaware, Virginia, and nationwide locations provides flexibility, lower monthly payments, and the ability to upgrade to newer models every few years. Both personal and commercial leasing programs are available.</p>
+          <p className="text-xl text-gray-700 leading-relaxed mb-8">Leasing a private transportation vehicle through TIGON dealerships in Pennsylvania, New Jersey, Delaware, Virginia, and nationwide locations provides flexibility, lower monthly payments, and the ability to upgrade to newer models every few years. Both personal and commercial leasing programs are available.</p>
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">NEV Leasing Options Through TIGON Dealerships</h2>
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Personal NEV Leasing Programs</h3>
-          <p className="mb-4">TIGON's Hatfield PA, Ocean View NJ, Dover DE, and 27 other locations offer competitive leasing terms for <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> neighborhood electric vehicles with approved credit.</p>
+          <p className="mb-4">TIGON's Hatfield PA, Ocean View NJ, Dover DE, and 27 other locations offer competitive leasing terms for <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> private transportation vehicles with approved credit.</p>
           <ul className="list-disc pl-6 mb-6 space-y-2">
             <li><strong>Lease Terms:</strong> 24, 36, or 48-month options</li>
             <li><strong>Monthly Payments:</strong> Starting as low as $199/month</li>
@@ -80,8 +80,8 @@ export default function LeaseNEVOptions() {
         <div className="mt-16 pt-8 border-t border-gray-200">
           <h3 className="text-2xl font-bold text-gray-900 mb-6">Related Articles</h3>
           <div className="grid md:grid-cols-2 gap-4">
-            <Link href="/blog/neighborhood-electric-vehicle-price-range-cost" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">What is the average price range for new neighborhood electric vehicles?</h4><p className="text-sm text-gray-600">Compare purchase vs lease total costs</p></Link>
-            <Link href="/blog/neighborhood-electric-vehicle-tax-credits-incentives" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Are there any incentives or tax credits for buying a neighborhood electric vehicle?</h4><p className="text-sm text-gray-600">Understand how incentives affect lease vs buy decision</p></Link>
+            <Link href="/blog/neighborhood-electric-vehicle-price-range-cost" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">What is the average price range for new private transportation vehicles?</h4><p className="text-sm text-gray-600">Compare purchase vs lease total costs</p></Link>
+            <Link href="/blog/neighborhood-electric-vehicle-tax-credits-incentives" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Are there any incentives or tax credits for buying a private transportation vehicle?</h4><p className="text-sm text-gray-600">Understand how incentives affect lease vs buy decision</p></Link>
           </div>
         </div>
         <div className="mt-12 p-8 bg-gradient-to-r from-theme-primary to-blue-700 text-white rounded-lg text-center">

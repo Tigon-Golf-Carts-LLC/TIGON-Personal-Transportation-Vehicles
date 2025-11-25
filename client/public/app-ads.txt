@@ -1,4 +1,4 @@
-# app-ads.txt - TIGON NEV
+# app-ads.txt - TIGON PTV
 # Mobile App Advertising Authorization
 # Last Updated: January 2025
 
@@ -13,12 +13,12 @@ admob.com, pub-PLACEHOLDER, DIRECT, f08c47fec0942fa0
 # Reserved for future mobile app deployment
 
 ## CONTACT
-# Email: info@tigonnev.com
-# Business: TIGON Neighborhood Electric Vehicles
-# Website: https://tigonnev.com
+# Email: info@tigonptv.com
+# Business: TIGON Private Transportation Vehicles
+# Website: https://tigonptv.com
 
 ## NOTE
 # This file is prepared for future mobile app deployment
-# Current focus: Web-based NEV sales and service platform
+# Current focus: Web-based PTV sales and service platform
 
 END OF APP-ADS.TXT

@@ -38,8 +38,8 @@ export default function Footer() {
           {/* Company Description */}
           <div className="md:hidden">
             <p className="text-gray-600 text-sm leading-relaxed">
-              TIGON Neighborhood Electric Vehicles premier NEV dealership serving customers across 
-              the region with quality neighborhood electric vehicles and expert service.
+              TIGON Private Transportation Vehicles premier PTV dealership serving customers across 
+              the region with quality private transportation vehicles and expert service.
             </p>
           </div>
 
@@ -53,7 +53,7 @@ export default function Footer() {
                 <li><Link href="/rentals" className="text-gray-600 hover:text-gray-900 text-sm">Rentals</Link></li>
                 <li><Link href="/services" className="text-gray-600 hover:text-gray-900 text-sm">Services</Link></li>
                 <li><Link href="/blog" className="text-gray-600 hover:text-gray-900 text-sm">Blog</Link></li>
-                <li><a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 text-sm">Financing</a></li>
+                <li><a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 text-sm">Financing</a></li>
                 <li><Link href="/about" className="text-gray-600 hover:text-gray-900 text-sm">About</Link></li>
               </ul>
             </div>
@@ -61,7 +61,7 @@ export default function Footer() {
             {/* Services - Updated with requested links */}
             <div>
               <ul className="space-y-2">
-                <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">NEW NEIGHBORHOOD ELECTRIC VEHICLES</Link></li>
+                <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">NEW PRIVATE TRANSPORTATION VEHICLES</Link></li>
                 <li><Link href="/denago" className="text-gray-600 hover:text-gray-900 text-sm">DENAGO</Link></li>
                 <li><Link href="/evolution" className="text-gray-600 hover:text-gray-900 text-sm">EVOLUTION</Link></li>
                 <li><Link href="/about" className="text-gray-600 hover:text-gray-900 text-sm">ABOUT</Link></li>
@@ -76,7 +76,7 @@ export default function Footer() {
           <div className="md:hidden">
             <div className="space-y-2">
               <p className="text-gray-900 font-semibold text-sm">Phone: 1-844-844-6638</p>
-              <p className="text-gray-600 text-sm">Email: info@tigonnev.com</p>
+              <p className="text-gray-600 text-sm">Email: info@tigonptv.com</p>
               <div className="text-gray-600 text-sm">
                 <p>Mon-Fri: 9AM-5PM</p>
                 <p>Sat: 9AM-5PM</p>
@@ -90,8 +90,8 @@ export default function Footer() {
             {/* Company Description */}
             <div className="md:col-span-1">
               <p className="text-gray-600 text-sm leading-relaxed">
-                TIGON Neighborhood Electric Vehicles premier NEV dealership serving customers across 
-                the region with quality neighborhood electric vehicles and expert service.
+                TIGON Private Transportation Vehicles premier PTV dealership serving customers across 
+                the region with quality private transportation vehicles and expert service.
               </p>
             </div>
 
@@ -103,7 +103,7 @@ export default function Footer() {
                 <li><Link href="/rentals" className="text-gray-600 hover:text-gray-900 text-sm">Rentals</Link></li>
                 <li><Link href="/services" className="text-gray-600 hover:text-gray-900 text-sm">Services</Link></li>
                 <li><Link href="/blog" className="text-gray-600 hover:text-gray-900 text-sm">Blog</Link></li>
-                <li><a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 text-sm">Financing</a></li>
+                <li><a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 text-sm">Financing</a></li>
                 <li><Link href="/about" className="text-gray-600 hover:text-gray-900 text-sm">About</Link></li>
               </ul>
             </div>
@@ -111,7 +111,7 @@ export default function Footer() {
             {/* Services - Updated with requested links */}
             <div className="md:col-span-1">
               <ul className="space-y-2">
-                <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">NEW NEIGHBORHOOD ELECTRIC VEHICLES</Link></li>
+                <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">NEW PRIVATE TRANSPORTATION VEHICLES</Link></li>
                 <li><Link href="/denago" className="text-gray-600 hover:text-gray-900 text-sm">DENAGO</Link></li>
                 <li><Link href="/evolution" className="text-gray-600 hover:text-gray-900 text-sm">EVOLUTION</Link></li>
                 <li><Link href="/about" className="text-gray-600 hover:text-gray-900 text-sm">ABOUT</Link></li>
@@ -125,7 +125,7 @@ export default function Footer() {
             <div className="md:col-span-1">
               <div className="space-y-2">
                 <p className="text-gray-900 font-semibold text-sm">Phone: 1-844-844-6638</p>
-                <p className="text-gray-600 text-sm">Email: info@tigonnev.com</p>
+                <p className="text-gray-600 text-sm">Email: info@tigonptv.com</p>
                 <div className="text-gray-600 text-sm">
                   <p>Mon-Fri: 9AM-5PM</p>
                   <p>Sat: 9AM-5PM</p>
@@ -139,7 +139,7 @@ export default function Footer() {
         {/* Locations Served - States and Countries */}
         <div className="border-t border-gray-200 pt-8 mb-8">
           <h3 className="text-lg font-semibold text-gray-900 mb-6 text-center">
-            Areas We Serve Neighborhood Electric Vehicles
+            Areas We Serve Private Transportation Vehicles
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3 text-center">
             {locations.map((location) => (
@@ -148,7 +148,7 @@ export default function Footer() {
                 href={`/${location.slug}`} 
                 className="text-gray-600 text-sm hover:text-blue-600 transition-colors"
               >
-                {location.name} NEV
+                {location.name} PTV
               </Link>
             ))}
           </div>
@@ -158,12 +158,12 @@ export default function Footer() {
         <div className="border-t border-gray-200 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-600 text-sm">
-              © 2025 TIGON Neighborhood Electric Vehicles. All rights reserved. | 
+              © 2025 TIGON Private Transportation Vehicles. All rights reserved. | 
               <Link href="/privacy-policy" className="hover:text-gray-900 ml-1">Privacy Policy</Link> | 
               <Link href="/terms-of-service" className="hover:text-gray-900 ml-1">Terms of Service</Link>
             </div>
             <div className="text-gray-600 text-sm">
-              TIGON Neighborhood Electric Vehicles - Serving customers across the United States, Canada, and Mexico with premium neighborhood electric vehicles and exceptional service.
+              TIGON Private Transportation Vehicles - Serving customers across the United States, Canada, and Mexico with premium private transportation vehicles and exceptional service.
             </div>
           </div>
         </div>

@@ -10,10 +10,10 @@ export default function EvolutionD6MaxGT4() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION D6 MAX GT4 Neighborhood Electric Vehicle"
-        description="High-performance electric neighborhood electric vehicle with premium performance features and luxury appointments. Ultimate technology for discerning drivers. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 MAX GT4, performance neighborhood electric vehicle, luxury electric vehicle, high performance, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonnev.com/vehicles/evolution-d6-max-gt4"
+        title="EVOLUTION D6 MAX GT4 Private Transportation Vehicle"
+        description="High-performance electric private transportation vehicle with premium performance features and luxury appointments. Ultimate technology for discerning drivers. Call 1-844-844-6638."
+        keywords="EVOLUTION D6 MAX GT4, performance private transportation vehicle, luxury electric vehicle, high performance, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonptv.com/vehicles/evolution-d6-max-gt4"
         image="/attached_assets/EVOLUTIOND6MAXGT4_1751893159004_1753135350620.jpg"
       />
       
@@ -37,7 +37,7 @@ export default function EvolutionD6MaxGT4() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -54,7 +54,7 @@ export default function EvolutionD6MaxGT4() {
                   MAX GT4
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Experience the EVOLUTION® D6 MAX GT4 with premium performance features and luxury appointments. The ultimate in high-performance electric neighborhood electric vehicle technology.
+                  Experience the EVOLUTION® D6 MAX GT4 with premium performance features and luxury appointments. The ultimate in high-performance electric private transportation vehicle technology.
                 </p>
                 
                 {/* Key Features Grid */}
@@ -96,7 +96,7 @@ export default function EvolutionD6MaxGT4() {
                 <div className="relative">
                   <img 
                     src={maxgtImage} 
-                    alt="EVOLUTION® D6 MAX GT4 - High performance neighborhood electric vehicle" 
+                    alt="EVOLUTION® D6 MAX GT4 - High performance private transportation vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl drop-shadow-2xl"
                   />
                 </div>
@@ -106,7 +106,7 @@ export default function EvolutionD6MaxGT4() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-orange">Performance Features</h2>
@@ -250,7 +250,7 @@ export default function EvolutionD6MaxGT4() {
               Ready to Experience the EVOLUTION® D6 MAX GT4?
             </h2>
             <p className="text-xl mb-8">
-              Contact TIGON Neighborhood Electric Vehicles today for pricing, availability, and to schedule a performance test drive.
+              Contact TIGON Private Transportation Vehicles today for pricing, availability, and to schedule a performance test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

@@ -15,8 +15,8 @@ export default function BestNEVCityCommuting() {
       <SEOHead 
         title={post.seoTitle}
         description={post.metaDescription}
-        keywords="best neighborhood electric vehicles, city commuting NEV, urban electric vehicles, DENAGO city NEV, EVOLUTION urban NEV, Pennsylvania city commuting, Philadelphia electric vehicles, street legal golf carts city"
-        canonicalUrl={`https://tigonnev.com/blog/${post.slug}`}
+        keywords="best private transportation vehicles, city commuting NEV, urban electric vehicles, DENAGO city NEV, EVOLUTION urban NEV, Pennsylvania city commuting, Philadelphia electric vehicles, street legal golf carts city"
+        canonicalUrl={`https://tigonptv.com/blog/${post.slug}`}
       />
 
       <article className="max-w-4xl mx-auto px-4 py-12">
@@ -56,11 +56,11 @@ export default function BestNEVCityCommuting() {
         {/* Article Content */}
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-8">
-            Urban commuters across Pennsylvania, New Jersey, Delaware, and cities nationwide are discovering that neighborhood electric vehicles offer the perfect solution for daily city travel. With rising fuel costs and increasing environmental awareness, NEVs provide an affordable, eco-friendly alternative to traditional vehicles for local trips.
+            Urban commuters across Pennsylvania, New Jersey, Delaware, and cities nationwide are discovering that private transportation vehicles offer the perfect solution for daily city travel. With rising fuel costs and increasing environmental awareness, NEVs provide an affordable, eco-friendly alternative to traditional vehicles for local trips.
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
-            Top Neighborhood Electric Vehicles for City Commuting in 2025
+            Top Private Transportation Vehicles for City Commuting in 2025
           </h2>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">
@@ -97,7 +97,7 @@ export default function BestNEVCityCommuting() {
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
-            Why Choose a Neighborhood Electric Vehicle for City Commuting?
+            Why Choose a Private Transportation Vehicle for City Commuting?
           </h2>
 
           <h4 className="text-xl font-semibold text-gray-900 mt-6 mb-3">
@@ -111,7 +111,7 @@ export default function BestNEVCityCommuting() {
             Parking Advantages in Urban Areas
           </h4>
           <p className="mb-4">
-            The compact size of neighborhood electric vehicles provides significant advantages in congested areas like Philadelphia, Newark, and Baltimore. Many NEVs can fit into spaces where traditional vehicles cannot, and some municipalities offer special parking rates or designated NEV parking zones.
+            The compact size of private transportation vehicles provides significant advantages in congested areas like Philadelphia, Newark, and Baltimore. Many NEVs can fit into spaces where traditional vehicles cannot, and some municipalities offer special parking rates or designated NEV parking zones.
           </p>
 
           <h4 className="text-xl font-semibold text-gray-900 mt-6 mb-3">
@@ -125,7 +125,7 @@ export default function BestNEVCityCommuting() {
             Where to Buy City-Ready NEVs in Your Area
           </h2>
           <p className="mb-4">
-            TIGON operates 18 physical showrooms and 12 online stores across the Eastern United States, making it easy to find and test drive the perfect neighborhood electric vehicle for your city commute:
+            TIGON operates 18 physical showrooms and 12 online stores across the Eastern United States, making it easy to find and test drive the perfect private transportation vehicle for your city commute:
           </p>
           <ul className="list-disc pl-6 mb-6 space-y-2">
             <li><strong>Pennsylvania:</strong> <Link href="/showroom" className="text-theme-orange hover:underline">Hatfield</Link>, Pocono Pines, Long Pond, Scranton-Wilkes-Barre</li>
@@ -149,14 +149,14 @@ export default function BestNEVCityCommuting() {
             Next Steps: Schedule Your Test Drive
           </h5>
           <p className="mb-4">
-            The best way to determine which neighborhood electric vehicle is right for your city commute is to experience it firsthand. <Link href="/contact" className="text-theme-orange hover:underline">Contact your nearest TIGON location</Link> to schedule a test drive and speak with our NEV experts who understand the unique needs of urban commuters.
+            The best way to determine which private transportation vehicle is right for your city commute is to experience it firsthand. <Link href="/contact" className="text-theme-orange hover:underline">Contact your nearest TIGON location</Link> to schedule a test drive and speak with our NEV experts who understand the unique needs of urban commuters.
           </p>
 
           <h6 className="text-base font-semibold text-gray-900 mt-6 mb-3">
             Common City Commuting Questions Answered
           </h6>
           <p className="mb-4">
-            <strong>Can I drive a NEV on city streets?</strong> Yes, neighborhood electric vehicles are street legal on roads with speed limits of 35 mph or less, which includes most residential and commercial zones in Pennsylvania, New Jersey, and Delaware cities.
+            <strong>Can I drive a NEV on city streets?</strong> Yes, private transportation vehicles are street legal on roads with speed limits of 35 mph or less, which includes most residential and commercial zones in Pennsylvania, New Jersey, and Delaware cities.
           </p>
           <p className="mb-4">
             <strong>What's the range for daily commuting?</strong> Most DENAGO and EVOLUTION models offer 25-40 miles of range per charge, sufficient for typical urban commuting patterns. View our complete <Link href="/inventory" className="text-theme-orange hover:underline">NEV inventory</Link> to compare range specifications.
@@ -169,15 +169,15 @@ export default function BestNEVCityCommuting() {
           <div className="grid md:grid-cols-2 gap-4">
             <Link href="/blog/neighborhood-electric-vehicle-manufacturers-us" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors" data-testid="related-article-1">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                Which companies manufacture neighborhood electric vehicles available in the US?
+                Which companies manufacture private transportation vehicles available in the US?
               </h4>
               <p className="text-sm text-gray-600">Learn about DENAGO, EVOLUTION, and other leading NEV manufacturers</p>
             </Link>
             <Link href="/blog/neighborhood-electric-vehicle-price-range-cost" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors" data-testid="related-article-2">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                What is the average price range for new neighborhood electric vehicles?
+                What is the average price range for new private transportation vehicles?
               </h4>
-              <p className="text-sm text-gray-600">2025 pricing guide for NEV models and features</p>
+              <p className="text-sm text-gray-600">2025 pricing guide for PTV models and features</p>
             </Link>
           </div>
         </div>
@@ -185,7 +185,7 @@ export default function BestNEVCityCommuting() {
         {/* CTA */}
         <div className="mt-12 p-8 bg-gradient-to-r from-theme-primary to-blue-700 text-white rounded-lg text-center">
           <h3 className="text-2xl font-bold mb-4">Ready to Start Your City Commute in a NEV?</h3>
-          <p className="mb-6">Visit our showroom or browse our inventory to find your perfect neighborhood electric vehicle</p>
+          <p className="mb-6">Visit our showroom or browse our inventory to find your perfect private transportation vehicle</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/inventory">
               <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">

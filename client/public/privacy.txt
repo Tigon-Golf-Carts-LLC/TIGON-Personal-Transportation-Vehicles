@@ -1,9 +1,9 @@
-# PRIVACY POLICY REFERENCES - TIGON NEV
+# PRIVACY POLICY REFERENCES - TIGON PTV
 # Last Updated: January 2025
 
 ## PRIVACY POLICY
-Full Privacy Policy: https://tigonnev.com/policies
-Contact: info@tigonnev.com
+Full Privacy Policy: https://tigonptv.com/policies
+Contact: info@tigonptv.com
 
 ## DATA COLLECTION
 We collect minimal personal information:
@@ -40,7 +40,7 @@ We use cookies for:
 - User experience improvement
 
 ## CONTACT FOR PRIVACY
-Privacy Inquiries: info@tigonnev.com
+Privacy Inquiries: info@tigonptv.com
 Phone: 1-844-844-6638
 
 END OF PRIVACY REFERENCES

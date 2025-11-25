@@ -30,7 +30,7 @@
     --chart-5: hsl(27, 87%, 67%);
     --radius: 0.5rem;
     
-    /* TIGON NEV Brand Colors */
+    /* TIGON PTV Brand Colors */
     --tigon-red: hsl(352, 73%, 40%);
     --tigon-dark: hsl(222.2, 84%, 4.9%);
     --accent-red: hsl(352, 73%, 40%);
@@ -83,7 +83,7 @@
   }
 }
 
-/* Custom utility classes for TIGON NEV */
+/* Custom utility classes for TIGON PTV */
 .text-tigon-red {
   color: hsl(352, 73%, 40%);
 }

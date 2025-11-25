@@ -71,14 +71,14 @@ export default function TownPage({ townName, townType }: TownPageProps) {
   const fullTownName = `${townName} ${townType}`;
   
   // SEO optimization
-  const pageTitle = `${townName} Golf Carts - Ocean County's Premier Dealership | Sales, Service & Rentals`;
-  const pageDescription = `Professional golf cart sales, service, and rentals in ${fullTownName}. Ocean County Golf Carts offers premium DENAGO and EVOLUTION electric golf carts with expert service for ${townName} residents.`;
-  const pageKeywords = `${townName} golf carts, ${fullTownName} golf cart sales, Ocean County golf carts, electric golf carts ${townName}, golf cart service ${townName}, golf cart rentals ${townName}`;
-  const canonicalUrl = `https://oceancountygolfcarts.com/${townName.toLowerCase().replace(/\s+/g, '-')}-${townType.toLowerCase()}-golf-carts`;
+  const pageTitle = `${townName} Private Transportation Vehicles - TIGON's Premier Dealership | Sales, Service & Rentals`;
+  const pageDescription = `Professional private transportation vehicle sales, service, and rentals in ${fullTownName}. TIGON Private Transportation Vehicles offers premium DENAGO and EVOLUTION electric private transportation vehicles with expert service for ${townName} residents.`;
+  const pageKeywords = `${townName} private transportation vehicles, ${fullTownName} private transportation vehicle sales, Ocean County private transportation vehicles, electric private transportation vehicles ${townName}, private transportation vehicle service ${townName}, private transportation vehicle rentals ${townName}`;
+  const canonicalUrl = `https://tigonptv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-${townType.toLowerCase()}-ptv`;
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://oceancountygolfcarts.com" },
-    { name: `${townName} Golf Carts`, url: canonicalUrl }
+    { name: "Home", url: "https://tigonptv.com" },
+    { name: `${townName} Private Transportation Vehicles`, url: canonicalUrl }
   ];
 
   return (
@@ -95,21 +95,21 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         townName={fullTownName}
       />
       {/* SEO Optimized Hero Section */}
-      <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('https://tigonnev.com/attached_assets/Ocean County Golf Carts New Jersey 3_1753197335727.jpeg')"}}>
+      <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/TIGON%20-%20Medium%20Speed%20Vehicles%207_1763146957908.jpeg')"}}>
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl font-bold mb-6 leading-tight">
-                {townName} Golf Carts - Ocean County's Premier Dealership
+                {townName} Private Transportation Vehicles - TIGON's Premier Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                Professional golf cart sales, service, and rentals in {fullTownName}. 
-                Serving {townName} residents with premium DENAGO and EVOLUTION electric golf carts.
+                Professional private transportation vehicle sales, service, and rentals in {fullTownName}. 
+                Serving {townName} residents with premium DENAGO and EVOLUTION electric private transportation vehicles.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
                   <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white w-full sm:w-auto">
-                    Shop Golf Carts
+                    Shop Private Transportation Vehicles
                   </Button>
                 </Link>
                 <Button size="lg" variant="outline" className="text-blue-600 bg-white border-white hover:bg-gray-100 hover:text-blue-600 w-full sm:w-auto">
@@ -119,8 +119,8 @@ export default function TownPage({ townName, townType }: TownPageProps) {
             </div>
             <div className="relative">
               <img 
-                src="https://tigonnev.com/attached_assets/D6-XT6-4wd-color-PORTIMAO-BLUE_1753135231312.png" 
-                alt={`Golf Cart ${townName}`}
+                src="https://tigonptv.com/attached_assets/D6-XT6-4wd-color-PORTIMAO-BLUE_1753135231312.png" 
+                alt={`Private Transportation Vehicle ${townName}`}
                 className="w-full h-auto max-w-lg mx-auto"
               />
             </div>
@@ -132,11 +132,11 @@ export default function TownPage({ townName, townType }: TownPageProps) {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Golf Cart Services in {fullTownName}
+            Private Transportation Vehicle Services in {fullTownName}
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
-            Ocean County Golf Carts proudly serves {townName} residents with comprehensive 
-            golf cart solutions including sales, maintenance, repairs, and rentals.
+            TIGON Private Transportation Vehicles proudly serves {townName} residents with comprehensive 
+            private transportation vehicle solutions including sales, maintenance, repairs, and rentals.
           </p>
           
           <div className="grid md:grid-cols-4 gap-8">
@@ -146,7 +146,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Premium Quality</h3>
               <p className="text-gray-600">
-                Top-rated golf cart brands with factory warranties and certified quality standards.
+                Top-rated private transportation vehicle brands with factory warranties and certified quality standards.
               </p>
             </div>
             
@@ -176,7 +176,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Eco-Friendly</h3>
               <p className="text-gray-600">
-                Clean electric golf carts perfect for {townName}'s environmental consciousness.
+                Clean electric private transportation vehicles perfect for {townName}'s environmental consciousness.
               </p>
             </div>
           </div>
@@ -187,32 +187,32 @@ export default function TownPage({ townName, townType }: TownPageProps) {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Ocean County Golf Carts - Top Golf Cart and LSV Brands
+            TIGON Private Transportation Vehicles - Top Private Transportation Vehicle and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            We carry the most trusted names in Golf Carts and Low Speed Vehicles
+            We carry the most trusted names in Private Transportation Vehicles and Low Speed Vehicles
           </p>
           
           <div className="grid grid-cols-2 md:grid-cols-6 gap-6 mb-12">
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Club Car</h3>
-              <p className="text-sm text-gray-600">Premium golf carts with advanced technology</p>
+              <p className="text-sm text-gray-600">Premium private transportation vehicles with advanced technology</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">EZ-GO</h3>
-              <p className="text-sm text-gray-600">Reliable and efficient golf cart solutions</p>
+              <p className="text-sm text-gray-600">Reliable and efficient private transportation vehicle solutions</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Denago</h3>
-              <p className="text-sm text-gray-600">High-quality performance golf carts</p>
+              <p className="text-sm text-gray-600">High-quality performance private transportation vehicles</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Evolution</h3>
-              <p className="text-sm text-gray-600">Luxury golf carts with premium features</p>
+              <p className="text-sm text-gray-600">Luxury private transportation vehicles with premium features</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Tomberlin</h3>
-              <p className="text-sm text-gray-600">Street-legal LSV and golf cart options</p>
+              <p className="text-sm text-gray-600">Street-legal LSV and private transportation vehicle options</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Swift EV</h3>
@@ -246,14 +246,14 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         </div>
       </section>
 
-      {/* Featured Golf Carts for Town */}
+      {/* Featured Private Transportation Vehicles for Town */}
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Popular Golf Carts in {fullTownName}
+            Popular Private Transportation Vehicles in {fullTownName}
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Discover the golf cart models {townName} residents love most
+            Discover the private transportation vehicle models {townName} residents love most
           </p>
           
           <div className="grid md:grid-cols-3 gap-8 mb-12">
@@ -293,7 +293,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
 
           <Link href="/inventory">
             <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
-              View All Golf Carts
+              View All Private Transportation Vehicles
             </Button>
           </Link>
         </div>
@@ -304,10 +304,10 @@ export default function TownPage({ townName, townType }: TownPageProps) {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-gray-900">
-              Contact Ocean County Golf Carts from {fullTownName}
+              Contact TIGON Private Transportation Vehicles from {fullTownName}
             </h2>
             <p className="text-xl text-gray-600">
-              Easy access to professional golf cart services for {townName} residents
+              Easy access to professional private transportation vehicle services for {townName} residents
             </p>
           </div>
 
@@ -321,7 +321,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                 </CardHeader>
                 <CardContent>
                   <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
-                  <p className="text-gray-600">Speak with our {townName} golf cart specialists</p>
+                  <p className="text-gray-600">Speak with our {townName} private transportation vehicle specialists</p>
                 </CardContent>
               </Card>
 
@@ -375,12 +375,12 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">
-                Why {townName} Chooses Ocean County Golf Carts
+                Why {townName} Chooses TIGON Private Transportation Vehicles
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Residents of {fullTownName} trust Ocean County Golf Carts for reliable, 
-                high-quality golf cart solutions. Our local expertise and commitment to customer 
-                service make us the preferred choice for {townName} golf cart needs.
+                Residents of {fullTownName} trust TIGON Private Transportation Vehicles for reliable, 
+                high-quality private transportation vehicle solutions. Our local expertise and commitment to customer 
+                service make us the preferred choice for {townName} private transportation vehicle needs.
               </p>
               
               <div className="space-y-4 mb-8">
@@ -414,10 +414,10 @@ export default function TownPage({ townName, townType }: TownPageProps) {
               <div className="text-center">
                 <MapPin className="w-16 h-16 mx-auto mb-4 text-blue-600" />
                 <p className="text-gray-700 mb-4">
-                  Professional golf cart sales, service, and rentals delivered to {townName} residents.
+                  Professional private transportation vehicle sales, service, and rentals delivered to {townName} residents.
                 </p>
                 <div className="text-sm text-gray-600">
-                  <p>✓ New golf cart sales</p>
+                  <p>✓ New private transportation vehicle sales</p>
                   <p>✓ Golf cart rentals</p>
                   <p>✓ Professional service & repair</p>
                   <p>✓ Parts & accessories</p>
@@ -432,10 +432,10 @@ export default function TownPage({ townName, townType }: TownPageProps) {
       <section className="py-16 px-4 bg-blue-600 text-white">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6">
-            Ready to Get Your Golf Cart in {fullTownName}?
+            Ready to Get Your Private Transportation Vehicle in {fullTownName}?
           </h2>
           <p className="text-xl mb-8">
-            Contact Ocean County Golf Carts today for personalized service in {townName}
+            Contact TIGON Private Transportation Vehicles today for personalized service in {townName}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">

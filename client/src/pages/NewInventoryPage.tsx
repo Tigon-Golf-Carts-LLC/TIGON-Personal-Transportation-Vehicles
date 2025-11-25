@@ -45,9 +45,9 @@ export default function NewInventoryPage() {
   return (
     <>
       <SEOHead 
-        title="Neighborhood Electric Vehicle Inventory"
-        description="Browse our extensive inventory of new and used neighborhood electric vehicles from top brands like DENAGO and EVOLUTION in nationwide, PA. Call 1-844-844-6638."
-        keywords="neighborhood electric vehicle inventory, new neighborhood electric vehicles, used neighborhood electric vehicles, DENAGO, EVOLUTION, nationwide neighborhood electric vehicles"
+        title="Private Transportation Vehicle Inventory"
+        description="Browse our extensive inventory of new and used private transportation vehicles from top brands like DENAGO and EVOLUTION in nationwide, PA. Call 1-844-844-6638."
+        keywords="private transportation vehicle inventory, new private transportation vehicles, used private transportation vehicles, DENAGO, EVOLUTION, nationwide private transportation vehicles"
       />
       
       <div className="min-h-screen bg-gray-50">
@@ -63,10 +63,10 @@ export default function NewInventoryPage() {
           <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center text-white">
               <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">
-                Neighborhood Electric Vehicle Inventory
+                Private Transportation Vehicle Inventory
               </h1>
               <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-                Discover our extensive selection of premium neighborhood electric vehicles from leading brands. 
+                Discover our extensive selection of premium private transportation vehicles from leading brands. 
                 New arrivals, certified pre-owned, and custom builds available.
               </p>
             </div>
@@ -80,7 +80,7 @@ export default function NewInventoryPage() {
               <div className="relative">
                 <Search className="absolute left-3 top-3 h-4 w-4 text-gray-400" />
                 <Input
-                  placeholder="Search neighborhood electric vehicles..."
+                  placeholder="Search private transportation vehicles..."
                   className="pl-10"
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
@@ -137,7 +137,7 @@ export default function NewInventoryPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex justify-between items-center mb-8">
               <h2 className="text-2xl font-bold text-gray-900">
-                Available Neighborhood Electric Vehicles ({filteredVehicles?.length || 0})
+                Available Private Transportation Vehicles ({filteredVehicles?.length || 0})
               </h2>
             </div>
 
@@ -241,7 +241,7 @@ export default function NewInventoryPage() {
               Can't Find What You're Looking For?
             </h2>
             <p className="text-xl mb-8">
-              Our team can help you find the perfect neighborhood electric vehicle or place a custom order.
+              Our team can help you find the perfect private transportation vehicle or place a custom order.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
@@ -269,7 +269,7 @@ export default function NewInventoryPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
-                  <p className="text-gray-600">Speak with our neighborhood electric vehicle specialists</p>
+                  <p className="text-gray-600">Speak with our private transportation vehicle specialists</p>
                 </CardContent>
               </Card>
 

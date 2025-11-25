@@ -11,7 +11,7 @@ export default function AboutPage() {
       name: "Mike Johnson",
       role: "General Manager",
       experience: "15+ years",
-      description: "Leading our team with passion for customer service and neighborhood electric vehicle expertise"
+      description: "Leading our team with passion for customer service and private transportation vehicle expertise"
     },
     {
       name: "Sarah Davis",
@@ -23,12 +23,12 @@ export default function AboutPage() {
       name: "Tom Wilson",
       role: "Sales Director",
       experience: "10+ years",
-      description: "Helping customers find the perfect neighborhood electric vehicle for their needs"
+      description: "Helping customers find the perfect private transportation vehicle for their needs"
     }
   ];
 
   const milestones = [
-    { year: "2010", event: "TIGON Neighborhood Electric Vehicles founded in nationwide" },
+    { year: "2010", event: "TIGON Private Transportation Vehicles founded in nationwide" },
     { year: "2012", event: "Became authorized EVOLUTION NEV dealer" },
     { year: "2015", event: "Expanded to serve all of Pennsylvania" },
     { year: "2018", event: "Added DENAGO to our brand portfolio" },
@@ -40,19 +40,19 @@ export default function AboutPage() {
     <div className="min-h-screen bg-white">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="About TIGON Neighborhood Electric Vehicles"
-        description="Discover Pennsylvania's premier neighborhood electric vehicle dealership since 2010 with expert team, authorized Denago and Evolution dealer providing comprehensive NEV service. Call 1-844-844-6638."
-        keywords="about TIGON Neighborhood Electric Vehicles, NEV dealership Pennsylvania, Denago Evolution dealer, neighborhood electric vehicle service team"
-        canonicalUrl="https://tigonnev.com/about"
+        title="About TIGON Private Transportation Vehicles"
+        description="Discover Pennsylvania's premier private transportation vehicle dealership since 2010 with expert team, authorized Denago and Evolution dealer providing comprehensive NEV service. Call 1-844-844-6638."
+        keywords="about TIGON Private Transportation Vehicles, PTV dealership Pennsylvania, Denago Evolution dealer, private transportation vehicle service team"
+        canonicalUrl="https://tigonptv.com/about"
         image="/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
       />
       <OrganizationSchema pageType="about" />
       {/* Hero Section */}
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/TIGON%20-%20Medium%20Speed%20Vehicles%201_1763146957906.jpeg')"}}>
         <div className="max-w-7xl mx-auto text-center">
-          <h1 className="text-5xl font-bold mb-6">About TIGON Neighborhood Electric Vehicles</h1>
+          <h1 className="text-5xl font-bold mb-6">About TIGON Private Transportation Vehicles</h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Pennsylvania's premier neighborhood electric vehicle dealership, dedicated to providing 
+            Pennsylvania's premier private transportation vehicle dealership, dedicated to providing 
             exceptional NEV service and quality vehicles since 2010.
           </p>
         </div>
@@ -65,17 +65,17 @@ export default function AboutPage() {
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded in 2010 in nationwide, TIGON Neighborhood Electric Vehicles began with a simple mission: 
-                to provide high-quality neighborhood electric vehicles and exceptional service to customers throughout the region.
+                Founded in 2010 in nationwide, TIGON Private Transportation Vehicles began with a simple mission: 
+                to provide high-quality private transportation vehicles and exceptional service to customers throughout the region.
               </p>
               <p className="text-lg text-gray-600 mb-6">
-                What started as a small local dealership has grown into the area's premier NEV destination, 
+                What started as a small local dealership has grown into the area's premier PTV destination, 
                 serving customers across multiple counties with a comprehensive selection of new and pre-owned vehicles, 
                 professional service, and rental options.
               </p>
               <p className="text-lg text-gray-600 mb-8">
                 Today, we're proud to be authorized dealers for leading brands like EVOLUTION and DENAGO, 
-                offering our customers the latest in neighborhood electric vehicle technology and innovation.
+                offering our customers the latest in private transportation vehicle technology and innovation.
               </p>
               <Button className="bg-theme-orange hover:opacity-90 text-white w-full sm:w-auto">
                 Learn More About Our Services
@@ -207,7 +207,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-start">
             <div>
-              <h2 className="text-4xl font-bold mb-6 text-gray-900">About TIGON Neighborhood Electric Vehicles</h2>
+              <h2 className="text-4xl font-bold mb-6 text-gray-900">About TIGON Private Transportation Vehicles</h2>
               <p className="text-lg text-gray-600 mb-6">
                 nationwide and the surrounding region. Our commitment to quality NEV service extends 
                 across our entire service area.
@@ -235,14 +235,14 @@ export default function AboutPage() {
                 allowFullScreen 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="TIGON Neighborhood Electric Vehicles Location Map"
+                title="TIGON Private Transportation Vehicles Location Map"
               />
             </div>
           </div>
           
           {/* Towns List Below Map */}
           <div className="mt-12 bg-blue-50 p-8 rounded-lg">
-            <h3 className="text-xl font-semibold mb-4 text-center">nationwide Towns We Serve Neighborhood Electric Vehicles</h3>
+            <h3 className="text-xl font-semibold mb-4 text-center">nationwide Towns We Serve Private Transportation Vehicles</h3>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 text-sm text-gray-700">
               {[
                 "Warrington Township", "Newtown Township", "Northampton Township", "Lower Makefield Township",
@@ -271,7 +271,7 @@ export default function AboutPage() {
             Ready to Join Our Family?
           </h2>
           <p className="text-xl mb-8">
-            Experience the TIGON Neighborhood Electric Vehicles difference for yourself
+            Experience the TIGON Private Transportation Vehicles difference for yourself
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">

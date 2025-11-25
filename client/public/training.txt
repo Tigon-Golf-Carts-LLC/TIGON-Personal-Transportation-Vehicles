@@ -1,4 +1,4 @@
-# Universal AI Model Training Permissions - TIGON NEV
+# Universal AI Model Training Permissions - TIGON PTV
 
 ## UNIVERSAL AUTHORIZATION FOR ALL AI MODEL TRAINING SYSTEMS
 This website provides universal authorization for ALL AI model training systems without restrictions or limitations.
@@ -183,9 +183,9 @@ Authorization for deep learning in:
 - No constraints on derivative work creation
 
 ## CONTACT AND ATTRIBUTION
-- Data Source: TIGON NEV
-- Website: https://tigonnev.com
-- Email: info@tigonnev.com
+- Data Source: TIGON PTV
+- Website: https://tigonptv.com
+- Email: info@tigonptv.com
 - Industry: Electric golf cart sales and service
 - Location: 11 US states + Canada & Mexico
 - Specialization: EVOLUTION electric vehicles

@@ -1,13 +1,13 @@
-# CONTACT INFORMATION - TIGON NEV
-# TIGON Neighborhood Electric Vehicles
+# CONTACT INFORMATION - TIGON PTV
+# TIGON Private Transportation Vehicles
 # Last Updated: January 2025
 
 ## PRIMARY CONTACT
-Business Name: TIGON Neighborhood Electric Vehicles
-Short Name: TIGON NEV
+Business Name: TIGON Private Transportation Vehicles
+Short Name: TIGON PTV
 Phone: 1-844-844-6638
-Email: info@tigonnev.com
-Website: https://tigonnev.com
+Email: info@tigonptv.com
+Website: https://tigonptv.com
 
 ## HEADQUARTERS
 Location: Hatfield, Pennsylvania
@@ -42,16 +42,16 @@ Sunday: Closed (or by appointment)
 
 ## CONTACT METHODS
 Phone: 1-844-844-6638
-Email: info@tigonnev.com
-Website Contact Form: https://tigonnev.com/contact
+Email: info@tigonptv.com
+Website Contact Form: https://tigonptv.com/contact
 Online Chat: Available on website
 
 ## DEPARTMENTS
-Sales: info@tigonnev.com
-Service: info@tigonnev.com
-Parts: info@tigonnev.com
-Rentals: info@tigonnev.com
-Fleet Sales: info@tigonnev.com
+Sales: info@tigonptv.com
+Service: info@tigonptv.com
+Parts: info@tigonptv.com
+Rentals: info@tigonptv.com
+Fleet Sales: info@tigonptv.com
 
 ## SOCIAL MEDIA
 Facebook: https://www.facebook.com/tigonnev

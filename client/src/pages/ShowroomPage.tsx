@@ -15,7 +15,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=913687030872245288",
       facebookUrl: "https://www.facebook.com/Tigongolfcarts",
       youtubeUrl: "https://www.youtube.com/@TigonGolfCarts",
-      websiteUrl: "https://tigonnev.com",
+      websiteUrl: "https://tigonptv.com",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/",
       reviewUrl: "https://g.page/r/CSiEBX-DEa4MEBM/review",
       city: "National",
@@ -29,7 +29,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=8221925612164093496",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsHatfield/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsHatfieldPA",
-      websiteUrl: "https://tigonnev.com/hatfield/",
+      websiteUrl: "https://tigonptv.com/hatfield/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/hatfield-pennsylvania/",
       reviewUrl: "https://g.page/r/CTgWulrIJRpyEBM/review",
       city: "Hatfield",
@@ -43,7 +43,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=6446924254429489274",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsOceanView/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsOceanViewNJ",
-      websiteUrl: "https://tigonnev.com/ocean-view/",
+      websiteUrl: "https://tigonptv.com/ocean-view/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/ocean-view-new-jersey/",
       reviewUrl: "https://g.page/r/CXqoHr9zE3hZEBM/review",
       city: "Ocean View",
@@ -57,7 +57,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=17137841834562046914",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsPoconos/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsPoconosPA",
-      websiteUrl: "https://tigonnev.com/pocono/",
+      websiteUrl: "https://tigonptv.com/pocono/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/pocono-pines-pennsylvania/",
       reviewUrl: "https://g.page/r/CcJL5i1Z2NXtEBM/review",
       city: "Pocono",
@@ -71,7 +71,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=12843447677705895190",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsDover/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsDoverDE",
-      websiteUrl: "https://tigonnev.com/dover/",
+      websiteUrl: "https://tigonptv.com/dover/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/dover-delaware/",
       reviewUrl: "https://g.page/r/CRa9-YidFz2yEBM/review",
       city: "Dover",
@@ -85,7 +85,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=13243686786001524416",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsScranton/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsScrantonWilkesPA",
-      websiteUrl: "https://tigonnev.com/scranton-wilkes-barre/",
+      websiteUrl: "https://tigonptv.com/scranton-wilkes-barre/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/scranton-pennsylvania/",
       reviewUrl: "https://g.page/r/CcDWJ7z2Bsu3EBM/review",
       city: "Scranton",
@@ -99,7 +99,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=14570072271497929915",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsRaleigh/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsRaleighNC",
-      websiteUrl: "https://tigonnev.com/raleigh/",
+      websiteUrl: "https://tigonptv.com/raleigh/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/raleigh-north-carolina/",
       reviewUrl: "https://g.page/r/CbskZw6JSzPKEBM/review",
       city: "Raleigh",
@@ -113,7 +113,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=17532455648086849827",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsSouthBend/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsSouthBendIN",
-      websiteUrl: "https://tigonnev.com/south-bend/",
+      websiteUrl: "https://tigonptv.com/south-bend/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/south-bend-indiana/",
       reviewUrl: "https://g.page/r/CSP5gWCFy0_zEBM/review",
       city: "South Bend",
@@ -127,7 +127,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=16682967888503617377",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsGloucesterPoint",
-      websiteUrl: "https://tigonnev.com/gloucester-point/",
+      websiteUrl: "https://tigonptv.com/gloucester-point/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/gloucester-point-virginia/",
       city: "Gloucester Point",
       type: "physical"
@@ -139,7 +139,7 @@ export default function ShowroomPage() {
       coordinates: "39.9277698,-74.1748497",
       googleMapsUrl: "https://www.google.com/maps?cid=16812778070531162551",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsBayville/",
-      websiteUrl: "https://tigonnev.com/bayville/",
+      websiteUrl: "https://tigonptv.com/bayville/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/bayville-new-jersey/",
       reviewUrl: "https://g.page/r/CbfBfMWT_FLpEBM/review",
       city: "Bayville",
@@ -151,7 +151,7 @@ export default function ShowroomPage() {
       phone: "732-998-8146",
       googleMapsUrl: "https://www.google.com/maps?cid=11595558320608622005",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsWaretown/",
-      websiteUrl: "https://tigonnev.com/waretown/",
+      websiteUrl: "https://tigonptv.com/waretown/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/waretown-new-jersey/",
       reviewUrl: "https://g.page/r/CbW1M1DbsuugEBM/review",
       city: "Waretown",
@@ -165,7 +165,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=17192321019507936230",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsOrangeburg/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsOrangeburgSC",
-      websiteUrl: "https://tigonnev.com/orangeburg/",
+      websiteUrl: "https://tigonptv.com/orangeburg/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/orangeburg-south-carolina/",
       city: "Orangeburg",
       type: "physical"
@@ -178,7 +178,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=16517552730289967239",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsSwanton/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsSwantonOH",
-      websiteUrl: "https://tigonnev.com/swanton/",
+      websiteUrl: "https://tigonptv.com/swanton/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/swanton-ohio/",
       reviewUrl: "https://g.page/r/CYeQt8exIjrlEBM/review",
       city: "Swanton",
@@ -192,7 +192,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=4773802157529013859",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsLecanto/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsLecantoFL",
-      websiteUrl: "https://tigonnev.com/lecanto/",
+      websiteUrl: "https://tigonptv.com/lecanto/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/lecanto-florida/",
       reviewUrl: "https://g.page/r/CWOeggPF8z9CEBM/review",
       city: "Lecanto",
@@ -204,7 +204,7 @@ export default function ShowroomPage() {
       phone: "570-580-0567",
       coordinates: "41.053988,-75.534146",
       googleMapsUrl: "https://www.google.com/maps?cid=11714838830522733253",
-      websiteUrl: "https://tigonnev.com/long-pond/",
+      websiteUrl: "https://tigonptv.com/long-pond/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/long-pond-pennsylvania/",
       city: "Long Pond",
       type: "physical"
@@ -216,7 +216,7 @@ export default function ShowroomPage() {
       coordinates: "39.38812835576412, -74.5186949022294",
       googleMapsUrl: "https://www.google.com/maps?cid=7635149767591436869",
       facebookUrl: "https://www.facebook.com/TigonGolfCartPleasantville",
-      websiteUrl: "https://tigonnev.com/pleasantville/",
+      websiteUrl: "https://tigonptv.com/pleasantville/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/pleasantville-new-jersey/",
       reviewUrl: "https://g.page/r/CUWiMchCgPVpEBM/review",
       city: "Pleasantville",
@@ -230,7 +230,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=5113923461119431468",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsPortsmouthVA/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsPortsmouthVA",
-      websiteUrl: "https://tigonnev.com/portsmouth/",
+      websiteUrl: "https://tigonptv.com/portsmouth/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/portsmouth-virginia/",
       reviewUrl: "https://g.page/r/CSxTjwxLTvhGEBM/review",
       city: "Portsmouth",
@@ -244,7 +244,7 @@ export default function ShowroomPage() {
       googleMapsUrl: "https://www.google.com/maps?cid=17806490138133315425",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsVirginiaBeach/",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsVirginiaBeachVA",
-      websiteUrl: "https://tigonnev.com/virginia-beach/",
+      websiteUrl: "https://tigonptv.com/virginia-beach/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/virginia-beach-virginia/",
       city: "Virginia Beach",
       type: "physical"
@@ -256,7 +256,7 @@ export default function ShowroomPage() {
       coordinates: "41.1169824,-77.6047047",
       googleMapsUrl: "https://www.google.com/maps?cid=13935683838976847185",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsPennsylvania",
-      websiteUrl: "https://tigonnev.com/pennsylvania/",
+      websiteUrl: "https://tigonptv.com/pennsylvania/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/pennsylvania/",
       reviewUrl: "https://g.page/r/CVHtXfydfmXBEBM/review",
       city: "Pennsylvania",
@@ -269,7 +269,7 @@ export default function ShowroomPage() {
       coordinates: "40.073132,-74.724323",
       googleMapsUrl: "https://www.google.com/maps?cid=15178469885958324473",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsNewJersey",
-      websiteUrl: "https://tigonnev.com/new-jersey/",
+      websiteUrl: "https://tigonptv.com/new-jersey/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/new-jersey/",
       reviewUrl: "https://g.page/r/CfmAgjrxwaTSEBM/review",
       city: "New Jersey",
@@ -282,7 +282,7 @@ export default function ShowroomPage() {
       coordinates: "39.145324,-75.386594",
       googleMapsUrl: "https://www.google.com/maps?cid=11044789483047204293",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsDelaware",
-      websiteUrl: "https://tigonnev.com/delaware/",
+      websiteUrl: "https://tigonptv.com/delaware/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/delaware/",
       reviewUrl: "https://g.page/r/CcW1_1uE-UaZEBM/review",
       city: "Delaware",
@@ -295,7 +295,7 @@ export default function ShowroomPage() {
       coordinates: "37.5334624,-78.866703",
       googleMapsUrl: "https://www.google.com/maps?cid=6737760967527982175",
       youtubeUrl: "https://www.youtube.com/@TigonGolfCartsVirginia",
-      websiteUrl: "https://tigonnev.com/virginia/",
+      websiteUrl: "https://tigonptv.com/virginia/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/virginia/",
       reviewUrl: "https://g.page/r/CV9k_9rmVYFdEBM/review",
       city: "Virginia",
@@ -306,7 +306,7 @@ export default function ShowroomPage() {
       address: "Online Store - Serving All of North Carolina",
       phone: "1-844-844-6638",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsNorthCarolina",
-      websiteUrl: "https://tigonnev.com/north-carolina/",
+      websiteUrl: "https://tigonptv.com/north-carolina/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/north-carolina/",
       city: "North Carolina",
       type: "online"
@@ -315,7 +315,7 @@ export default function ShowroomPage() {
       name: "TIGON South Carolina",
       address: "Online Store - Serving All of South Carolina",
       phone: "1-844-844-6638",
-      websiteUrl: "https://tigonnev.com/south-carolina/",
+      websiteUrl: "https://tigonptv.com/south-carolina/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/south-carolina/",
       city: "South Carolina",
       type: "online"
@@ -327,7 +327,7 @@ export default function ShowroomPage() {
       coordinates: "27.698638,-83.804601",
       googleMapsUrl: "https://www.google.com/maps?cid=15821077580647342669",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsFlorida",
-      websiteUrl: "https://tigonnev.com/florida/",
+      websiteUrl: "https://tigonptv.com/florida/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/florida/",
       reviewUrl: "https://g.page/r/CU2iYWY8wo_bEBM/review",
       city: "Florida",
@@ -338,7 +338,7 @@ export default function ShowroomPage() {
       address: "Online Store - Serving All of Indiana",
       phone: "1-844-844-6638",
       googleMapsUrl: "https://www.google.com/maps?cid=6765774483345438799",
-      websiteUrl: "https://tigonnev.com/indiana/",
+      websiteUrl: "https://tigonptv.com/indiana/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/indiana/",
       reviewUrl: "https://g.page/r/CU_4NMYL3ORdEBM/review",
       city: "Indiana",
@@ -350,7 +350,7 @@ export default function ShowroomPage() {
       phone: "1-844-844-6638",
       coordinates: "40.3633984,-82.669505",
       googleMapsUrl: "https://www.google.com/maps?cid=7815966071951211924",
-      websiteUrl: "https://tigonnev.com/ohio/",
+      websiteUrl: "https://tigonptv.com/ohio/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/ohio/",
       reviewUrl: "https://g.page/r/CZQ9KE-743dsEBM/review",
       city: "Ohio",
@@ -362,7 +362,7 @@ export default function ShowroomPage() {
       phone: "1-844-844-6638",
       googleMapsUrl: "https://www.google.com/maps?cid=17519466833587552740",
       youtubeUrl: "https://www.youtube.com/@TIGONGolfCartsMaryland",
-      websiteUrl: "https://tigonnev.com/maryland/",
+      websiteUrl: "https://tigonptv.com/maryland/",
       pinterestUrl: "https://www.pinterest.com/tigongolfcarts/maryland/",
       reviewUrl: "https://g.page/r/CeRBOVZDpiHzEBM/review",
       city: "Maryland",
@@ -394,10 +394,10 @@ export default function ShowroomPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
-        title="Neighborhood Electric Vehicle Showroom"
-        description="Visit our neighborhood electric vehicle dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
-        keywords="neighborhood electric vehicle showroom, nationwide dealership, Denago Evolution dealer, neighborhood electric vehicle locations"
-        canonicalUrl="https://tigonnev.com/showroom"
+        title="Private Transportation Vehicle Showroom"
+        description="Visit our private transportation vehicle dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
+        keywords="private transportation vehicle showroom, nationwide dealership, Denago Evolution dealer, private transportation vehicle locations"
+        canonicalUrl="https://tigonptv.com/showroom"
         image="/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
       />
       {/* Hero Section */}
@@ -411,10 +411,10 @@ export default function ShowroomPage() {
         
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">
-            Neighborhood Electric Vehicle Showroom
+            Private Transportation Vehicle Showroom
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-            Visit our TIGON Neighborhood Electric Vehicle dealership locations serving nationwide, Pennsylvania. 
+            Visit our TIGON Private Transportation Vehicle dealership locations serving nationwide, Pennsylvania. 
             Experience our full lineup of DENAGO and EVOLUTION electric vehicles in person or online.
           </p>
           <div className="flex justify-center">
@@ -555,7 +555,7 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-theme-primary">Showroom Services</h2>
-            <p className="text-xl text-gray-600">Everything you need for your neighborhood electric vehicle experience</p>
+            <p className="text-xl text-gray-600">Everything you need for your private transportation vehicle experience</p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -568,7 +568,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Experience our neighborhood electric vehicles firsthand with comprehensive test drives on our demonstration courses.
+                  Experience our private transportation vehicles firsthand with comprehensive test drives on our demonstration courses.
                 </p>
               </CardContent>
             </Card>
@@ -582,7 +582,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Our knowledgeable staff will help you choose the perfect neighborhood electric vehicle for your specific needs and budget.
+                  Our knowledgeable staff will help you choose the perfect private transportation vehicle for your specific needs and budget.
                 </p>
               </CardContent>
             </Card>
@@ -596,7 +596,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Flexible financing solutions to make your neighborhood electric vehicle purchase affordable and convenient.
+                  Flexible financing solutions to make your private transportation vehicle purchase affordable and convenient.
                 </p>
               </CardContent>
             </Card>
@@ -611,7 +611,7 @@ export default function ShowroomPage() {
             Ready to Visit Our Showroom?
           </h2>
           <p className="text-xl mb-8">
-            Visit our showroom locations in nationwide or shop online to see our full inventory of DENAGO and EVOLUTION neighborhood electric vehicles.
+            Visit our showroom locations in nationwide or shop online to see our full inventory of DENAGO and EVOLUTION private transportation vehicles.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">

@@ -9,10 +9,10 @@ export default function ThankYouPage() {
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
         title="Thank You for Your Message!"
-        description="Thank you for contacting TIGON Neighborhood Electric Vehicles. We'll respond to your inquiry within 24 hours and help you find the perfect neighborhood electric vehicle solution. Call 1-844-844-6638."
-        keywords="thank you, contact confirmation, TIGON Neighborhood Electric Vehicles"
-        canonicalUrl="https://tigonnev.com/thank-you"
-        image="/attached_assets/TIGON Neighborhood Electric Vehicles (3)_1753284044185.png"
+        description="Thank you for contacting TIGON Private Transportation Vehicles. We'll respond to your inquiry within 24 hours and help you find the perfect private transportation vehicle solution. Call 1-844-844-6638."
+        keywords="thank you, contact confirmation, TIGON Private Transportation Vehicles"
+        canonicalUrl="https://tigonptv.com/thank-you"
+        image="/attached_assets/Bucks County Golf Carts (3)_1753284044185.png"
       />
       
       <div className="py-20 px-4">
@@ -26,7 +26,7 @@ export default function ThankYouPage() {
               Thank You for Your Message!
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              We've received your inquiry and appreciate your interest in TIGON Neighborhood Electric Vehicles. 
+              We've received your inquiry and appreciate your interest in TIGON Private Transportation Vehicles. 
               Our team will review your message and get back to you soon.
             </p>
           </div>

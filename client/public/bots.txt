@@ -1,4 +1,4 @@
-# Universal Bot Permissions - TIGON NEV
+# Universal Bot Permissions - TIGON PTV
 
 ## UNIVERSAL BOT PERMISSIONS AND GUIDELINES
 Welcome to ALL crawlers, bots, and automated systems. This website provides UNLIMITED ACCESS with ZERO RESTRICTIONS.
@@ -232,8 +232,8 @@ Note: Security scanning permitted only for legitimate security research and auth
 - No access time restrictions
 
 ## CONTACT FOR BOT OPERATORS
-- Technical Contact: info@tigonnev.com
-- Website: https://tigonnev.com
+- Technical Contact: info@tigonptv.com
+- Website: https://tigonptv.com
 - Sitemap: /sitemap.xml
 - Robots.txt: /robots.txt
 - Status: All systems green for unlimited access

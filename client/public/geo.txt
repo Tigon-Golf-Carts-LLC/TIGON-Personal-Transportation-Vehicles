@@ -1,8 +1,8 @@
-# Geographic SEO Information - TIGON NEV
-# Multi-State Neighborhood Electric Vehicle Dealership
+# Geographic SEO Information - TIGON PTV
+# Multi-State Private Transportation Vehicle Dealership
 # Last Updated: January 2025
 
-## TIGON NEV GEOGRAPHIC COVERAGE
+## TIGON PTV GEOGRAPHIC COVERAGE
 
 ### PRIMARY SERVICE TERRITORY
 **Coverage:** 11 US States + Canada & Mexico
@@ -18,7 +18,7 @@
 - Coordinates: 40.2420° N, 75.2865° W
 - Major Cities Served: Philadelphia, Pittsburgh, Allentown, Reading, Lancaster
 - Service Locations: Multiple showrooms across state
-- Keywords: NEV Pennsylvania, neighborhood electric vehicles PA, street legal electric vehicles Philadelphia
+- Keywords: PTV Pennsylvania, private transportation vehicles PA, street legal electric vehicles Philadelphia
 
 **Key Pennsylvania Regions:**
 - Philadelphia Metro Area
@@ -33,7 +33,7 @@
 - Coordinates: 39.2154° N, 74.6988° W
 - Major Cities: Newark, Jersey City, Trenton, Atlantic City
 - Beach Communities: Cape May, Ocean City, Wildwood
-- Keywords: NEV New Jersey, neighborhood electric vehicles NJ, shore electric vehicles
+- Keywords: PTV New Jersey, private transportation vehicles NJ, shore electric vehicles
 
 **Key New Jersey Regions:**
 - Shore Region (Jersey Shore)
@@ -45,8 +45,8 @@
 **Growing Market**
 - Beach Communities: Rehoboth Beach, Dewey Beach, Bethany Beach
 - Major City: Wilmington
-- Resort Areas: Strong NEV demand
-- Keywords: NEV Delaware, beach electric vehicles DE, resort neighborhood vehicles
+- Resort Areas: Strong PTV demand
+- Keywords: PTV Delaware, beach electric vehicles DE, resort neighborhood vehicles
 
 ### Virginia
 **Mid-Atlantic Expansion**
@@ -54,7 +54,7 @@
 - Richmond Metro
 - Virginia Beach
 - Coastal Communities
-- Keywords: NEV Virginia, neighborhood electric vehicles VA, NoVA electric vehicles
+- Keywords: PTV Virginia, private transportation vehicles VA, NoVA electric vehicles
 
 ### Maryland
 **Baltimore-DC Corridor**
@@ -62,7 +62,7 @@
 - Ocean City (Beach Resort)
 - Annapolis Area
 - Montgomery County
-- Keywords: NEV Maryland, neighborhood electric vehicles Baltimore, Ocean City electric vehicles
+- Keywords: PTV Maryland, private transportation vehicles Baltimore, Ocean City electric vehicles
 
 ### North Carolina
 **Southern Expansion**
@@ -70,7 +70,7 @@
 - Raleigh-Durham
 - Outer Banks (Beach Communities)
 - Retirement Communities
-- Keywords: NEV North Carolina, retirement community electric vehicles NC
+- Keywords: PTV North Carolina, retirement community electric vehicles NC
 
 ### South Carolina
 **Coastal and Retirement Market**
@@ -79,7 +79,7 @@
 - Hilton Head
 - Retirement Communities
 - Golf Communities
-- Keywords: NEV South Carolina, golf community electric vehicles SC
+- Keywords: PTV South Carolina, golf community electric vehicles SC
 
 ### Florida
 **Major Retirement and Resort Market**
@@ -89,7 +89,7 @@
 - Jacksonville
 - Naples (High retirement concentration)
 - The Villages (Major retirement community)
-- Keywords: NEV Florida, retirement electric vehicles FL, resort neighborhood vehicles
+- Keywords: PTV Florida, retirement electric vehicles FL, resort neighborhood vehicles
 
 ### Indiana
 **Midwest Expansion**
@@ -97,7 +97,7 @@
 - Fort Wayne
 - Evansville
 - University Communities
-- Keywords: NEV Indiana, campus electric vehicles IN
+- Keywords: PTV Indiana, campus electric vehicles IN
 
 ### Ohio
 **Midwest Market**
@@ -105,7 +105,7 @@
 - Cleveland
 - Cincinnati
 - Toledo
-- Keywords: NEV Ohio, neighborhood electric vehicles Cleveland, campus transport Ohio
+- Keywords: PTV Ohio, private transportation vehicles Cleveland, campus transport Ohio
 
 ### New York
 **Northeast Market**
@@ -113,7 +113,7 @@
 - Long Island
 - Upstate Communities
 - Resort Areas (Hamptons, Catskills)
-- Keywords: NEV New York, Long Island electric vehicles, Hamptons neighborhood vehicles
+- Keywords: PTV New York, Long Island electric vehicles, Hamptons neighborhood vehicles
 
 ## INTERNATIONAL COVERAGE
 
@@ -123,7 +123,7 @@
 - British Columbia
 - Major Cities: Toronto, Vancouver, Montreal (potential)
 - Resort Communities
-- Keywords: NEV Canada, neighborhood electric vehicles Ontario, Canadian electric vehicles
+- Keywords: PTV Canada, private transportation vehicles Ontario, Canadian electric vehicles
 
 ### Mexico
 **Mexican Market**
@@ -131,7 +131,7 @@
 - Coastal Areas
 - Retirement Destinations
 - Expatriate Communities
-- Keywords: NEV Mexico, electric vehicles resort Mexico
+- Keywords: PTV Mexico, electric vehicles resort Mexico
 
 ## GEOGRAPHIC MARKET CHARACTERISTICS
 
@@ -223,35 +223,35 @@
 ## SEO GEOGRAPHIC KEYWORDS
 
 ### State-Level Keywords
-- neighborhood electric vehicles Pennsylvania
-- NEV New Jersey
+- private transportation vehicles Pennsylvania
+- PTV New Jersey
 - street legal electric vehicles Delaware
 - neighborhood vehicles Virginia Maryland
-- electric NEV North Carolina South Carolina
+- electric PTV North Carolina South Carolina
 - Florida retirement electric vehicles
-- NEV Indiana Ohio
+- PTV Indiana Ohio
 - New York electric neighborhood vehicles
 
 ### City-Level Keywords
-- NEV Philadelphia Pittsburgh
-- neighborhood electric vehicles Atlantic City Ocean City
+- PTV Philadelphia Pittsburgh
+- private transportation vehicles Atlantic City Ocean City
 - electric vehicles Virginia Beach
-- NEV Charlotte Raleigh
-- Florida retirement NEV Naples Villages
+- PTV Charlotte Raleigh
+- Florida retirement PTV Naples Villages
 - electric vehicles Indianapolis Columbus
 
 ### Regional Keywords
-- Mid-Atlantic NEV dealer
-- Northeast neighborhood electric vehicles
+- Mid-Atlantic PTV dealer
+- Northeast private transportation vehicles
 - Southeast electric vehicle dealer
-- multi-state NEV coverage
+- multi-state PTV coverage
 - North American electric vehicle dealer
 
 ## REGULATORY CONSIDERATIONS
 
-### State-by-State NEV Regulations
+### State-by-State PTV Regulations
 **All States Served:**
-- Street legal NEV certification available
+- Street legal PTV certification available
 - State-specific compliance packages
 - DOT safety requirements met
 - Local ordinance navigation
@@ -282,15 +282,15 @@
 
 **Corporate Headquarters:**
 Hatfield, Pennsylvania
-Email: info@tigonnev.com
+Email: info@tigonptv.com
 Phone: 1-844-844-6638
-Website: https://tigonnev.com
+Website: https://tigonptv.com
 
 **Service Coverage:**
 Pennsylvania, New Jersey, Delaware, Virginia, Maryland, North Carolina, South Carolina, Florida, Indiana, Ohio, New York, Canada, Mexico
 
 ## ATTRIBUTION
-Source: TIGON NEV (https://tigonnev.com)
+Source: TIGON PTV (https://tigonptv.com)
 Geographic Coverage: 11 US States + Canada & Mexico
 Last Updated: January 2025
 

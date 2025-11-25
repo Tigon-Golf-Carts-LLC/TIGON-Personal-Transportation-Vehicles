@@ -11,7 +11,7 @@ export default function BuyUsedNEVs() {
 
   return (
     <div className="min-h-screen bg-white">
-      <SEOHead title={post.seoTitle} description={post.metaDescription} keywords="used NEVs for sale, certified pre-owned electric vehicles, buy used NEV online Pennsylvania, used DENAGO, used EVOLUTION, pre-owned neighborhood electric vehicles" canonicalUrl={`https://tigonnev.com/blog/${post.slug}`} />
+      <SEOHead title={post.seoTitle} description={post.metaDescription} keywords="used NEVs for sale, certified pre-owned electric vehicles, buy used NEV online Pennsylvania, used DENAGO, used EVOLUTION, pre-owned private transportation vehicles" canonicalUrl={`https://tigonptv.com/blog/${post.slug}`} />
       <article className="max-w-4xl mx-auto px-4 py-12">
         <Link href="/blog"><Button variant="ghost" className="mb-6" data-testid="back-to-blog"><ArrowLeft className="w-4 h-4 mr-2" />Back to Blog</Button></Link>
         <header className="mb-8">
@@ -26,7 +26,7 @@ export default function BuyUsedNEVs() {
           </div>
         </header>
         <div className="prose prose-lg max-w-none">
-          <p className="text-xl text-gray-700 leading-relaxed mb-8">The used neighborhood electric vehicle market offers exceptional value for budget-conscious buyers in Pennsylvania, New Jersey, Delaware, Virginia, and nationwide. With proper research and trusted platforms, finding a quality pre-owned NEV online has never been easier.</p>
+          <p className="text-xl text-gray-700 leading-relaxed mb-8">The used private transportation vehicle market offers exceptional value for budget-conscious buyers in Pennsylvania, New Jersey, Delaware, Virginia, and nationwide. With proper research and trusted platforms, finding a quality pre-owned NEV online has never been easier.</p>
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">Best Platforms for Buying Used NEVs Online</h2>
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">TIGON Certified Pre-Owned Program</h3>
           <p className="mb-4">TIGON's certified pre-owned NEVs available through our <Link href="/showroom" className="text-theme-orange hover:underline">30 nationwide locations</Link> undergo comprehensive inspections and come with extended warranties. Search inventory online and arrange delivery to Pennsylvania, New Jersey, Delaware, Virginia, or your state.</p>
@@ -41,7 +41,7 @@ export default function BuyUsedNEVs() {
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Authorized Dealer Websites</h3>
           <p className="mb-4">Purchasing from authorized <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> dealers ensures quality standards and dealer support. TIGON dealerships in Hatfield PA, Ocean View NJ, Dover DE, and 27 other locations maintain online used inventory.</p>
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Specialty NEV Marketplaces</h3>
-          <p className="mb-4">Several online platforms specialize in electric and neighborhood electric vehicles, offering filters for location (Pennsylvania, New Jersey, Delaware, Virginia), price range, mileage, and specific models.</p>
+          <p className="mb-4">Several online platforms specialize in electric and private transportation vehicles, offering filters for location (Pennsylvania, New Jersey, Delaware, Virginia), price range, mileage, and specific models.</p>
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">What to Look for When Buying a Used NEV</h2>
           <h4 className="text-xl font-semibold text-gray-900 mt-6 mb-3">Battery Condition and Age</h4>
           <p className="mb-4">Battery replacement represents the most significant potential expense in a used NEV. Request battery age, remaining capacity percentage, and recent load testing results. Lithium-ion batteries typically last 5-8 years while lead-acid batteries need replacement every 2-3 years.</p>
@@ -85,13 +85,13 @@ export default function BuyUsedNEVs() {
         <div className="mt-16 pt-8 border-t border-gray-200">
           <h3 className="text-2xl font-bold text-gray-900 mb-6">Related Articles</h3>
           <div className="grid md:grid-cols-2 gap-4">
-            <Link href="/blog/neighborhood-electric-vehicle-price-range-cost" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">What is the average price range for new neighborhood electric vehicles?</h4><p className="text-sm text-gray-600">Compare new vs used NEV pricing</p></Link>
-            <Link href="/blog/neighborhood-electric-vehicle-warranty-coverage-comparison" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Which neighborhood electric vehicle brands offer the longest warranty coverage?</h4><p className="text-sm text-gray-600">Understand warranty transfer for used vehicles</p></Link>
+            <Link href="/blog/neighborhood-electric-vehicle-price-range-cost" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">What is the average price range for new private transportation vehicles?</h4><p className="text-sm text-gray-600">Compare new vs used NEV pricing</p></Link>
+            <Link href="/blog/neighborhood-electric-vehicle-warranty-coverage-comparison" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Which private transportation vehicle brands offer the longest warranty coverage?</h4><p className="text-sm text-gray-600">Understand warranty transfer for used vehicles</p></Link>
           </div>
         </div>
         <div className="mt-12 p-8 bg-gradient-to-r from-theme-primary to-blue-700 text-white rounded-lg text-center">
           <h3 className="text-2xl font-bold mb-4">Shop Certified Pre-Owned NEVs</h3>
-          <p className="mb-6">Quality used neighborhood electric vehicles with dealer backing</p>
+          <p className="mb-6">Quality used private transportation vehicles with dealer backing</p>
           <Link href="/inventory"><Button size="lg" className="bg-theme-orange hover:opacity-90 text-white"><ShoppingCart className="w-4 h-4 mr-2" />Browse Used Inventory</Button></Link>
         </div>
       </article>

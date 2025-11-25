@@ -86,9 +86,9 @@ export default function VehicleDetailPage() {
   }
 
   const breadcrumbItems = [
-    { name: "Home", url: "https://oceancountygolfcarts.com" },
-    { name: "Inventory", url: "https://oceancountygolfcarts.com/inventory" },
-    { name: vehicle.name, url: `https://oceancountygolfcarts.com/vehicles/${vehicle.id}` }
+    { name: "Home", url: "https://tigonptv.com" },
+    { name: "Inventory", url: "https://tigonptv.com/inventory" },
+    { name: vehicle.name, url: `https://tigonptv.com/vehicles/${vehicle.id}` }
   ];
 
   return (

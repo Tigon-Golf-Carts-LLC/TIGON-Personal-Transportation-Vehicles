@@ -1,15 +1,15 @@
-# TERMS OF SERVICE REFERENCES - TIGON NEV
+# TERMS OF SERVICE REFERENCES - TIGON PTV
 # Last Updated: January 2025
 
 ## TERMS OF SERVICE
-Full Terms of Service: https://tigonnev.com/policies
-Contact: info@tigonnev.com
+Full Terms of Service: https://tigonptv.com/policies
+Contact: info@tigonptv.com
 
 ## WEBSITE USE
 This website and its content are provided for informational purposes.
 
 ### Acceptable Use
-- Browse and research NEV products
+- Browse and research PTV products
 - Request quotes and information
 - Schedule service appointments
 - Apply for financing (subject to approval)
@@ -38,7 +38,7 @@ This website and its content are provided for informational purposes.
 - Warranty terms per manufacturer
 
 ## LIMITATION OF LIABILITY
-TIGON NEV not liable for:
+TIGON PTV not liable for:
 - Third-party manufacturer defects
 - Misuse of products
 - Unauthorized modifications
@@ -51,7 +51,7 @@ Disputes resolved through:
 3. Arbitration (Pennsylvania law)
 
 ## CONTACT
-Legal Inquiries: info@tigonnev.com
+Legal Inquiries: info@tigonptv.com
 Phone: 1-844-844-6638
 
 END OF TERMS REFERENCES

@@ -1,4 +1,4 @@
-# ENHANCED COMPREHENSIVE ROBOTS.TXT - BUCKS COUNTY GOLF CARTS
+# ENHANCED COMPREHENSIVE ROBOTS.TXT - TIGON Private Transportation Vehicles
 # COMPLETE INDEXING PERMISSIONS FOR MAXIMUM SEARCH ENGINE VISIBILITY
 # ZERO RESTRICTIONS - UNLIMITED CRAWLING AUTHORIZATION
 
@@ -208,27 +208,27 @@ Allow: /
 Crawl-delay: 0
 
 # SITEMAP LOCATIONS - COMPREHENSIVE SITE MAPPING
-Sitemap: https://tigonnev.com/sitemap.xml
+Sitemap: https://tigonptv.com/sitemap.xml
 
 # ADDITIONAL OPTIMIZATION FILES
 # AI Training Authorization Files
-# llms.txt: https://tigonnev.com/llms.txt
-# ai.txt: https://tigonnev.com/ai.txt
-# gpt.txt: https://tigonnev.com/gpt.txt
-# claude.txt: https://tigonnev.com/claude.txt
-# training.txt: https://tigonnev.com/training.txt
-# nlp.txt: https://tigonnev.com/nlp.txt
+# llms.txt: https://tigonptv.com/llms.txt
+# ai.txt: https://tigonptv.com/ai.txt
+# gpt.txt: https://tigonptv.com/gpt.txt
+# claude.txt: https://tigonptv.com/claude.txt
+# training.txt: https://tigonptv.com/training.txt
+# nlp.txt: https://tigonptv.com/nlp.txt
 
 # SEO Optimization Files
-# seo.txt: https://tigonnev.com/seo.txt
-# geo.txt: https://tigonnev.com/geo.txt
-# crawlers.txt: https://tigonnev.com/crawlers.txt
-# bots.txt: https://tigonnev.com/bots.txt
+# seo.txt: https://tigonptv.com/seo.txt
+# geo.txt: https://tigonptv.com/geo.txt
+# crawlers.txt: https://tigonptv.com/crawlers.txt
+# bots.txt: https://tigonptv.com/bots.txt
 
 # Business and Technical Files
-# humans.txt: https://tigonnev.com/humans.txt
-# security.txt: https://tigonnev.com/security.txt
-# accessibility.txt: https://tigonnev.com/accessibility.txt
+# humans.txt: https://tigonptv.com/humans.txt
+# security.txt: https://tigonptv.com/security.txt
+# accessibility.txt: https://tigonptv.com/accessibility.txt
 
 # MAXIMUM ACCESSIBILITY DECLARATION
 # UNLIMITED CRAWLING PERMISSIONS STATEMENT
@@ -236,8 +236,8 @@ Sitemap: https://tigonnev.com/sitemap.xml
 # ZERO RESTRICTION ACCESSIBILITY GUARANTEE
 # UNIVERSAL PLATFORM COMPATIBILITY DECLARATION
 
-# Contact: info@tigonnev.com
-# Business: TIGON NEV
-# Industry: Neighborhood Electric Vehicle Sales and Service
+# Contact: info@tigonptv.com
+# Business: TIGON PTV
+# Industry: Private Transportation Vehicle Sales and Service
 # Location: Nationwide
 # Last Updated: January 2025

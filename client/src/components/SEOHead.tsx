@@ -14,7 +14,7 @@ interface SEOHeadProps {
 export default function SEOHead({ 
   title, 
   description, 
-  keywords = "neighborhood electric vehicles, NEV, electric vehicles, street legal vehicles, low speed vehicles, TIGON", 
+  keywords = "private transportation vehicles, PTV, electric vehicles, street legal vehicles, low speed vehicles, TIGON", 
   canonicalUrl,
   townName,
   image,
@@ -63,23 +63,23 @@ export default function SEOHead({
     // Set favicon
     const existingFavicon = document.querySelector('link[rel="icon"]');
     if (existingFavicon) {
-      existingFavicon.setAttribute("href", "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png");
+      existingFavicon.setAttribute("href", "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png");
     } else {
       const favicon = document.createElement("link");
       favicon.rel = "icon";
       favicon.type = "image/png";
-      favicon.href = "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png";
+      favicon.href = "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png";
       document.head.appendChild(favicon);
     }
     
     // Set apple touch icon
     const existingAppleIcon = document.querySelector('link[rel="apple-touch-icon"]');
     if (existingAppleIcon) {
-      existingAppleIcon.setAttribute("href", "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png");
+      existingAppleIcon.setAttribute("href", "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png");
     } else {
       const appleIcon = document.createElement("link");
       appleIcon.rel = "apple-touch-icon";
-      appleIcon.href = "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png";
+      appleIcon.href = "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png";
       document.head.appendChild(appleIcon);
     }
     
@@ -99,13 +99,13 @@ export default function SEOHead({
     updateOGTag("og:title", title);
     updateOGTag("og:description", description);
     updateOGTag("og:type", "website");
-    updateOGTag("og:site_name", "TIGON NEV");
+    updateOGTag("og:site_name", "TIGON PTV");
     if (canonicalUrl) {
       updateOGTag("og:url", canonicalUrl);
     }
     
     // Set Open Graph image (use provided image or fallback to logo)
-    const ogImage = image || "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png";
+    const ogImage = image || "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png";
     updateOGTag("og:image", ogImage);
     updateOGTag("og:image:width", imageWidth.toString());
     updateOGTag("og:image:height", imageHeight.toString());
@@ -128,7 +128,7 @@ export default function SEOHead({
     updateTwitterTag("twitter:description", description);
     
     // Set Twitter image (use provided image or fallback to logo)
-    const twitterImage = image || "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png";
+    const twitterImage = image || "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png";
     updateTwitterTag("twitter:image", twitterImage);
     
     // Structured Data (JSON-LD)
@@ -136,7 +136,7 @@ export default function SEOHead({
       const structuredData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": `TIGON Neighborhood Electric Vehicles - ${townName}`,
+        "name": `TIGON Private Transportation Vehicles - ${townName}`,
         "description": description,
         "address": {
           "@type": "PostalAddress",
@@ -145,10 +145,10 @@ export default function SEOHead({
           "addressCountry": "US"
         },
         "telephone": "1-844-844-6638",
-        "email": "info@tigonnev.com",
+        "email": "info@tigonptv.com",
         "url": canonicalUrl,
-        "logo": "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png",
-        "image": "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png",
+        "logo": "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png",
+        "image": "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png",
         "serviceArea": {
           "@type": "GeoCircle",
           "geoMidpoint": {
@@ -160,13 +160,13 @@ export default function SEOHead({
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
-          "name": "Neighborhood Electric Vehicle Services",
+          "name": "Private Transportation Vehicle Services",
           "itemListElement": [
             {
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Product",
-                "name": "Electric Neighborhood Electric Vehicles",
+                "name": "Electric Private Transportation Vehicles",
                 "brand": ["Denago", "Evolution"]
               }
             },
@@ -174,28 +174,28 @@ export default function SEOHead({
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "name": "Neighborhood Electric Vehicle Sales"
+                "name": "Private Transportation Vehicle Sales"
               }
             },
             {
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "name": "Neighborhood Electric Vehicle Maintenance"
+                "name": "Private Transportation Vehicle Maintenance"
               }
             },
             {
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "name": "Neighborhood Electric Vehicle Rentals"
+                "name": "Private Transportation Vehicle Rentals"
               }
             },
             {
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "name": "Neighborhood Electric Vehicle Financing"
+                "name": "Private Transportation Vehicle Financing"
               }
             }
           ]

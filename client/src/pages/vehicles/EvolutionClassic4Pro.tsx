@@ -10,10 +10,10 @@ export default function EvolutionClassic4Pro() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION CLASSIC 4 PRO Neighborhood Electric Vehicle"
-        description="Professional grade four-passenger classic neighborhood electric vehicle with enhanced features and premium performance. Timeless design meets modern technology. Call 1-844-844-6638."
-        keywords="EVOLUTION CLASSIC 4 PRO, professional neighborhood electric vehicle, 4-passenger, enhanced features, classic design, EVOLUTION dealer nationwide"
-        canonicalUrl="https://tigonnev.com/vehicles/evolution-classic-4-pro"
+        title="EVOLUTION CLASSIC 4 PRO Private Transportation Vehicle"
+        description="Professional grade four-passenger classic private transportation vehicle with enhanced features and premium performance. Timeless design meets modern technology. Call 1-844-844-6638."
+        keywords="EVOLUTION CLASSIC 4 PRO, professional private transportation vehicle, 4-passenger, enhanced features, classic design, EVOLUTION dealer nationwide"
+        canonicalUrl="https://tigonptv.com/vehicles/evolution-classic-4-pro"
         image="/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg"
       />
       
@@ -35,7 +35,7 @@ export default function EvolutionClassic4Pro() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -52,7 +52,7 @@ export default function EvolutionClassic4Pro() {
                   CLASSIC 4 PRO
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Professional grade four-passenger classic neighborhood electric vehicle combining timeless design with enhanced performance features. The ultimate in classic styling with modern technology.
+                  Professional grade four-passenger classic private transportation vehicle combining timeless design with enhanced performance features. The ultimate in classic styling with modern technology.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -80,7 +80,7 @@ export default function EvolutionClassic4Pro() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto bg-white text-theme-primary hover:bg-gray-100 shadow-lg">
                       Finance Options
                     </Button>
@@ -92,7 +92,7 @@ export default function EvolutionClassic4Pro() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION CLASSIC 4 PRO Neighborhood Electric Vehicle"
+                    alt="EVOLUTION CLASSIC 4 PRO Private Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -204,7 +204,7 @@ export default function EvolutionClassic4Pro() {
               Classic Style, Professional Performance
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Neighborhood Electric Vehicles today for your EVOLUTION CLASSIC 4 PRO.
+              Contact TIGON Private Transportation Vehicles today for your EVOLUTION CLASSIC 4 PRO.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

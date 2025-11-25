@@ -9,13 +9,13 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "TIGON Neighborhood Electric Vehicles",
-      "description": "Premier neighborhood electric vehicle dealership specializing in electric NEV sales, service, rentals, and financing across North America.",
-      "url": "https://tigonnev.com",
-      "logo": "https://tigonnev.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
-      "image": "https://tigonnev.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
+      "name": "TIGON Private Transportation Vehicles",
+      "description": "Premier private transportation vehicle dealership specializing in electric PTV sales, service, rentals, and financing across North America.",
+      "url": "https://tigonptv.com",
+      "logo": "https://tigonptv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
+      "image": "https://tigonptv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
       "telephone": "1-844-844-6638",
-      "email": "info@tigonnev.com",
+      "email": "info@tigonptv.com",
       "openingHours": [
         "Mo-Fr 09:00-18:00",
         "Sa 09:00-17:00"
@@ -36,29 +36,29 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
-        "name": "Neighborhood Electric Vehicle Services & Products",
+        "name": "Private Transportation Vehicle Services & Products",
         "itemListElement": [
           {
             "@type": "Offer",
             "itemOffered": {
               "@type": "Product",
-              "name": "Denago Electric Neighborhood Electric Vehicles",
-              "category": "Electric Neighborhood Electric Vehicles"
+              "name": "Denago Electric Private Transportation Vehicles",
+              "category": "Electric Private Transportation Vehicles"
             }
           },
           {
             "@type": "Offer",
             "itemOffered": {
               "@type": "Product",
-              "name": "Evolution Electric Neighborhood Electric Vehicles",
-              "category": "Electric Neighborhood Electric Vehicles"
+              "name": "Evolution Electric Private Transportation Vehicles",
+              "category": "Electric Private Transportation Vehicles"
             }
           },
           {
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Neighborhood Electric Vehicle Sales",
+              "name": "Private Transportation Vehicle Sales",
               "category": "Sales Service"
             }
           },
@@ -66,7 +66,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Neighborhood Electric Vehicle Rentals",
+              "name": "Private Transportation Vehicle Rentals",
               "category": "Rental Service"
             }
           },
@@ -74,7 +74,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Neighborhood Electric Vehicle Maintenance & Repair",
+              "name": "Private Transportation Vehicle Maintenance & Repair",
               "category": "Maintenance Service"
             }
           },
@@ -82,7 +82,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Neighborhood Electric Vehicle Financing",
+              "name": "Private Transportation Vehicle Financing",
               "category": "Financial Service"
             }
           }
@@ -96,9 +96,9 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "worstRating": "1"
       },
       "sameAs": [
-        "https://www.facebook.com/tigonnev",
-        "https://www.instagram.com/tigonnev",
-        "https://www.linkedin.com/company/tigonnev"
+        "https://www.facebook.com/tigonptv",
+        "https://www.instagram.com/tigonptv",
+        "https://www.linkedin.com/company/tigonptv"
       ]
     };
 
@@ -129,7 +129,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "provider": {
           "@type": "Organization",
-          "name": "TIGON Neighborhood Electric Vehicles"
+          "name": "TIGON Private Transportation Vehicles"
         }
       } as any;
     }

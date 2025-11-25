@@ -1,15 +1,15 @@
-# humans.txt - TIGON NEV
+# humans.txt - TIGON PTV
 
 ## TEAM
-Website Development Team: TIGON NEV
-Contact: info@tigonnev.com
+Website Development Team: TIGON PTV
+Contact: info@tigonptv.com
 Location: Hatfield, Pennsylvania
 
 ## THANKS
 DENAGO Electric Vehicles - Vehicle Manufacturing Partner
 EVOLUTION Electric Vehicles - Vehicle Manufacturing Partner
 Customers Across North America - Community Support
-NEV Industry Association - Industry Guidance
+PTV Industry Association - Industry Guidance
 Multi-State Business Partners - Business Support
 
 ## TECHNOLOGY
@@ -62,27 +62,27 @@ Browser Support: Modern Browsers
 
 ## BUSINESS INFORMATION
 ### Company Details
-Business Name: TIGON NEV
-Industry: Neighborhood Electric Vehicle Dealership
-Specialization: DENAGO and EVOLUTION NEVs
+Business Name: TIGON PTV
+Industry: Private Transportation Vehicle Dealership
+Specialization: DENAGO and EVOLUTION PTVs
 Founded: 2015
 Service Area: 11 US States + Canada & Mexico
 Headquarters: Hatfield, Pennsylvania
 Locations: 30 (18 showrooms + 12 online stores)
 
 ### Services Offered
-New NEV Sales (DENAGO & EVOLUTION)
-Custom NEV Configurations
-NEV Service & Repair
-NEV Rentals (Daily, Weekly, Monthly)
+New PTV Sales (DENAGO & EVOLUTION)
+Custom PTV Configurations
+PTV Service & Repair
+PTV Rentals (Daily, Weekly, Monthly)
 Parts & Accessories
 Financing & Leasing
 Street Legal Packages
 Commercial Fleet Management
 
 ### Contact Information
-Website: https://tigonnev.com
-Email: info@tigonnev.com
+Website: https://tigonptv.com
+Email: info@tigonptv.com
 Phone: 1-844-844-6638
 Service Coverage: PA, NJ, DE, VA, MD, NC, SC, FL, IN, OH, NY + Canada & Mexico
 Business Hours: Professional Service Schedule
@@ -101,7 +101,7 @@ Carrier Series (Commercial Transport)
 48V & 72V Lithium Battery Systems
 AC Motor Technology
 Regenerative Braking Systems
-Street Legal NEV Packages
+Street Legal PTV Packages
 Multi-State Compliance Specialists
 DOT-Approved Safety Systems
 
@@ -145,7 +145,7 @@ Radix UI - Component Primitives
 DENAGO Electric Vehicles
 EVOLUTION Electric Vehicles
 Multi-State Motor Vehicle Dealers
-Regional NEV Industry Partners
+Regional PTV Industry Partners
 North American Business Community
 
 ## LAST UPDATED
@@ -161,7 +161,7 @@ v1.0 - Initial launch with complete vehicle showcase
 
 /* 
    The humans responsible for this website are:
-   - Dedicated to providing excellent neighborhood electric vehicle solutions
+   - Dedicated to providing excellent private transportation vehicle solutions
    - Committed to customer service excellence across North America
    - Focused on environmental sustainability and zero-emission transportation
    - Supporting communities across 11 US states, Canada, and Mexico

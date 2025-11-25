@@ -10,10 +10,10 @@ export default function EvolutionD5Ranger22Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION D5 RANGER 2+2 PLUS Neighborhood Electric Vehicle"
+        title="EVOLUTION D5 RANGER 2+2 PLUS Private Transportation Vehicle"
         description="Ultimate in electric vehicle performance with advanced capabilities and premium features for versatile transportation. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 RANGER 2+2 PLUS, electric neighborhood electric vehicle, premium electric vehicle, EVOLUTION dealer nationwide PA"
-        canonicalUrl="https://tigonnev.com/vehicles/evolution-d5-ranger-2-2-plus"
+        keywords="EVOLUTION D5 RANGER 2+2 PLUS, electric private transportation vehicle, premium electric vehicle, EVOLUTION dealer nationwide PA"
+        canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-ranger-2-2-plus"
         image="/attached_assets/EVOLUTIOND5RANGER2+2PLUS_1751893115782_1753135350622.jpg"
       />
       
@@ -37,7 +37,7 @@ export default function EvolutionD5Ranger22Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -96,7 +96,7 @@ export default function EvolutionD5Ranger22Plus() {
                 <div className="relative">
                   <img 
                     src={rangerImage} 
-                    alt="EVOLUTION® D5 RANGER 2+2 PLUS - Premium electric neighborhood electric vehicle" 
+                    alt="EVOLUTION® D5 RANGER 2+2 PLUS - Premium electric private transportation vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl drop-shadow-2xl"
                   />
                 </div>
@@ -106,7 +106,7 @@ export default function EvolutionD5Ranger22Plus() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-orange">Premium Features</h2>
@@ -250,7 +250,7 @@ export default function EvolutionD5Ranger22Plus() {
               Ready to Experience the EVOLUTION® D5 RANGER 2+2 PLUS?
             </h2>
             <p className="text-xl mb-8">
-              Contact TIGON Neighborhood Electric Vehicles today for pricing, availability, and to schedule a test drive.
+              Contact TIGON Private Transportation Vehicles today for pricing, availability, and to schedule a test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

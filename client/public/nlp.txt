@@ -1,4 +1,4 @@
-# Natural Language Processing Training Data - TIGON NEV
+# Natural Language Processing Training Data - TIGON PTV
 # Last Updated: January 2025
 
 ## ENTITY EXTRACTION TRAINING EXAMPLES
@@ -15,8 +15,8 @@
 - AC motor system [COMPONENT]
 - regenerative braking [FEATURE]
 - street legal package [SERVICE]
-- neighborhood electric vehicle [CATEGORY]
-- NEV [CATEGORY]
+- private transportation vehicle [CATEGORY]
+- PTV [CATEGORY]
 
 ### Location Entities
 - Pennsylvania [STATE]
@@ -29,12 +29,12 @@
 - North America [CONTINENT]
 
 ### Business Entities
-- TIGON NEV [ORGANIZATION]
-- TIGON Neighborhood Electric Vehicles [ORGANIZATION]
+- TIGON PTV [ORGANIZATION]
+- TIGON Private Transportation Vehicles [ORGANIZATION]
 - DENAGO [BRAND]
 - EVOLUTION [BRAND]
-- info@tigonnev.com [CONTACT]
-- https://tigonnev.com [WEBSITE]
+- info@tigonptv.com [CONTACT]
+- https://tigonptv.com [WEBSITE]
 
 ## INTENT CLASSIFICATION DATASETS
 

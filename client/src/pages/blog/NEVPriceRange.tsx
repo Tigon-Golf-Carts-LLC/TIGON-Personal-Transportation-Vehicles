@@ -15,8 +15,8 @@ export default function NEVPriceRange() {
       <SEOHead 
         title={post.seoTitle}
         description={post.metaDescription}
-        keywords="NEV prices 2025, neighborhood electric vehicle cost, DENAGO prices, EVOLUTION NEV cost, electric vehicle pricing Pennsylvania, NEV financing, street legal golf cart prices"
-        canonicalUrl={`https://tigonnev.com/blog/${post.slug}`}
+        keywords="NEV prices 2025, private transportation vehicle cost, DENAGO prices, EVOLUTION NEV cost, electric vehicle pricing Pennsylvania, NEV financing, street legal golf cart prices"
+        canonicalUrl={`https://tigonptv.com/blog/${post.slug}`}
       />
 
       <article className="max-w-4xl mx-auto px-4 py-12">
@@ -52,7 +52,7 @@ export default function NEVPriceRange() {
 
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-8">
-            Understanding neighborhood electric vehicle pricing helps Pennsylvania, New Jersey, Delaware, and Virginia buyers budget effectively and make informed purchasing decisions. In 2025, NEV prices range from approximately $8,000 for basic models to $25,000+ for premium configurations with advanced features.
+            Understanding private transportation vehicle pricing helps Pennsylvania, New Jersey, Delaware, and Virginia buyers budget effectively and make informed purchasing decisions. In 2025, NEV prices range from approximately $8,000 for basic models to $25,000+ for premium configurations with advanced features.
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
@@ -60,7 +60,7 @@ export default function NEVPriceRange() {
           </h2>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">
-            Entry-Level Neighborhood Electric Vehicles ($8,000 - $12,000)
+            Entry-Level Private Transportation Vehicles ($8,000 - $12,000)
           </h3>
           <p className="mb-4">
             Basic 2-passenger models perfect for simple transportation needs in Hatfield PA, Ocean View NJ, and similar communities. These vehicles offer essential features without luxury amenities.
@@ -196,13 +196,13 @@ export default function NEVPriceRange() {
           <div className="grid md:grid-cols-2 gap-4">
             <Link href="/blog/neighborhood-electric-vehicle-tax-credits-incentives" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                Are there any incentives or tax credits for buying a neighborhood electric vehicle?
+                Are there any incentives or tax credits for buying a private transportation vehicle?
               </h4>
               <p className="text-sm text-gray-600">Maximize savings with federal and state incentives</p>
             </Link>
             <Link href="/blog/lease-neighborhood-electric-vehicle-options" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                Can I lease a neighborhood electric vehicle instead of buying one?
+                Can I lease a private transportation vehicle instead of buying one?
               </h4>
               <p className="text-sm text-gray-600">Explore flexible leasing options and benefits</p>
             </Link>

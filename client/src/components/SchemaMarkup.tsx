@@ -15,16 +15,16 @@ export default function SchemaMarkup({ schema }: SchemaMarkupProps) {
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "TIGON Neighborhood Electric Vehicles",
-  "alternateName": "TIGON NEV",
-  "description": "Premier neighborhood electric vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
-  "url": "https://tigonnev.com",
-  "logo": "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png",
+  "name": "TIGON Private Transportation Vehicles",
+  "alternateName": "TIGON PTV",
+  "description": "Premier private transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
+  "url": "https://tigonptv.com",
+  "logo": "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png",
   "image": [
-    "https://tigonnev.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png"
+    "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png"
   ],
   "telephone": "1-844-844-6638",
-  "email": "info@tigonnev.com",
+  "email": "info@tigonptv.com",
   "areaServed": [
     {
       "@type": "Country",
@@ -41,35 +41,35 @@ export const generateOrganizationSchema = () => ({
   ],
   "foundingDate": "2015",
   "numberOfEmployees": "15-25",
-  "slogan": "Premium neighborhood electric vehicles delivered nationwide",
+  "slogan": "Premium private transportation vehicles delivered nationwide",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
-    "https://www.facebook.com/tigonnev",
-    "https://www.instagram.com/tigonnev"
+    "https://www.facebook.com/tigonptv",
+    "https://www.instagram.com/tigonptv"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Golf Cart Sales and Services",
+    "name": "Private Transportation Vehicle Sales and Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Product",
-          "name": "Electric Golf Carts"
+          "name": "Electric Private Transportation Vehicles"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Golf Cart Rentals"
+          "name": "Private Transportation Vehicle Rentals"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Golf Cart Service & Repair"
+          "name": "Private Transportation Vehicle Service & Repair"
         }
       }
     ]
@@ -79,12 +79,12 @@ export const generateOrganizationSchema = () => ({
 export const generateLocalBusinessSchema = () => ({
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://tigonnev.com/#localbusiness",
-  "name": "TIGON Neighborhood Electric Vehicles",
-  "description": "Premier neighborhood electric vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
-  "url": "https://tigonnev.com",
+  "@id": "https://tigonptv.com/#localbusiness",
+  "name": "TIGON Private Transportation Vehicles",
+  "description": "Premier private transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
+  "url": "https://tigonptv.com",
   "telephone": "1-844-844-6638",
-  "email": "info@tigonnev.com",
+  "email": "info@tigonptv.com",
   "priceRange": "$$$",
   "currenciesAccepted": "USD",
   "paymentAccepted": "Cash, Credit Card, Financing",
@@ -151,13 +151,13 @@ export const generateLocalBusinessSchema = () => ({
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Golf Cart Products and Services",
+    "name": "Private Transportation Vehicle Products and Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Product",
-          "name": "DENAGO Electric Golf Carts",
+          "name": "DENAGO Electric Private Transportation Vehicles",
           "brand": "DENAGO"
         }
       },
@@ -165,7 +165,7 @@ export const generateLocalBusinessSchema = () => ({
         "@type": "Offer",
         "itemOffered": {
           "@type": "Product",
-          "name": "EVOLUTION Golf Carts",
+          "name": "EVOLUTION Private Transportation Vehicles",
           "brand": "EVOLUTION"
         }
       }
@@ -176,21 +176,21 @@ export const generateLocalBusinessSchema = () => ({
 export const generateWebsiteSchema = () => ({
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://tigonnev.com/#website",
-  "name": "TIGON Neighborhood Electric Vehicles",
-  "description": "Premier neighborhood electric vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America",
-  "url": "https://tigonnev.com",
+  "@id": "https://tigonptv.com/#website",
+  "name": "TIGON Private Transportation Vehicles",
+  "description": "Premier private transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America",
+  "url": "https://tigonptv.com",
   "potentialAction": {
     "@type": "SearchAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://tigonnev.com/inventory?search={search_term_string}"
+      "urlTemplate": "https://tigonptv.com/inventory?search={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "TIGON NEV"
+    "name": "TIGON PTV"
   }
 });
 
@@ -208,7 +208,7 @@ export const generateBreadcrumbSchema = (items: Array<{name: string, url: string
 export const generateProductSchema = (vehicle: any) => ({
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": `https://tigonnev.com/vehicles/${vehicle.id}#product`,
+  "@id": `https://tigonptv.com/vehicles/${vehicle.id}#product`,
   "name": vehicle.name,
   "description": vehicle.description,
   "brand": {
@@ -216,7 +216,7 @@ export const generateProductSchema = (vehicle: any) => ({
     "name": vehicle.brand
   },
   "category": vehicle.category,
-  "image": vehicle.images?.map((img: string) => `https://tigonnev.com${img}`) || [],
+  "image": vehicle.images?.map((img: string) => `https://tigonptv.com${img}`) || [],
   "offers": {
     "@type": "Offer",
     "price": vehicle.price,
@@ -224,9 +224,9 @@ export const generateProductSchema = (vehicle: any) => ({
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
     "seller": {
       "@type": "Organization",
-      "name": "TIGON NEV"
+      "name": "TIGON PTV"
     },
-    "url": `https://tigonnev.com/vehicles/${vehicle.id}`
+    "url": `https://tigonptv.com/vehicles/${vehicle.id}`
   },
   "additionalProperty": [
     {
@@ -259,11 +259,11 @@ export const generateProductSchema = (vehicle: any) => ({
 export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Neighborhood Electric Vehicle Services",
-  "description": "Comprehensive neighborhood electric vehicle sales, service, repair, and rental services across North America",
+  "name": "Private Transportation Vehicle Services",
+  "description": "Comprehensive private transportation vehicle sales, service, repair, and rental services across North America",
   "provider": {
     "@type": "LocalBusiness",
-    "name": "TIGON NEV"
+    "name": "TIGON PTV"
   },
   "areaServed": [
     {
@@ -313,29 +313,29 @@ export const generateServiceSchema = () => ({
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Golf Cart Services",
+    "name": "Private Transportation Vehicle Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Golf Cart Sales",
-          "description": "New and used electric golf cart sales"
+          "name": "Private Transportation Vehicle Sales",
+          "description": "New and used electric private transportation vehicle sales"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service", 
-          "name": "Golf Cart Rentals",
-          "description": "Daily, weekly, and monthly golf cart rentals"
+          "name": "Private Transportation Vehicle Rentals",
+          "description": "Daily, weekly, and monthly private transportation vehicle rentals"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Golf Cart Service & Repair",
+          "name": "Private Transportation Vehicle Service & Repair",
           "description": "Professional maintenance and repair services"
         }
       },
@@ -343,7 +343,7 @@ export const generateServiceSchema = () => ({
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Golf Cart Parts",
+          "name": "Private Transportation Vehicle Parts",
           "description": "Genuine parts and accessories"
         }
       }
@@ -354,32 +354,32 @@ export const generateServiceSchema = () => ({
 export const generateOfferCatalogSchema = (vehicles: any[]) => ({
   "@context": "https://schema.org",
   "@type": "OfferCatalog",
-  "name": "Neighborhood Electric Vehicle Inventory",
-  "description": "Complete inventory of neighborhood electric vehicles available for sale",
+  "name": "Private Transportation Vehicle Inventory",
+  "description": "Complete inventory of private transportation vehicles available for sale",
   "itemListElement": vehicles.map(vehicle => ({
     "@type": "Offer",
     "itemOffered": {
       "@type": "Product",
       "name": vehicle.name,
       "brand": vehicle.brand,
-      "image": vehicle.images?.[0] ? `https://tigonnev.com${vehicle.images[0]}` : undefined
+      "image": vehicle.images?.[0] ? `https://tigonptv.com${vehicle.images[0]}` : undefined
     },
     "price": vehicle.price,
     "priceCurrency": "USD",
     "availability": vehicle.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
-    "url": `https://tigonnev.com/vehicles/${vehicle.id}`
+    "url": `https://tigonptv.com/vehicles/${vehicle.id}`
   }))
 });
 
 export const generateContactPageSchema = () => ({
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Contact TIGON NEV",
-  "description": "Get in touch with TIGON for neighborhood electric vehicle sales, service, rentals, and support",
-  "url": "https://tigonnev.com/contact",
+  "name": "Contact TIGON PTV",
+  "description": "Get in touch with TIGON for private transportation vehicle sales, service, rentals, and support",
+  "url": "https://tigonptv.com/contact",
   "mainEntity": {
     "@type": "Organization",
-    "name": "TIGON NEV",
+    "name": "TIGON PTV",
     "contactPoint": [
       {
         "@type": "ContactPoint",
@@ -390,7 +390,7 @@ export const generateContactPageSchema = () => ({
       },
       {
         "@type": "ContactPoint",
-        "email": "info@tigonnev.com",
+        "email": "info@tigonptv.com",
         "contactType": "sales",
         "areaServed": "US"
       }
@@ -401,12 +401,12 @@ export const generateContactPageSchema = () => ({
 export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": `Golf Carts in ${townName}`,
-  "description": `Professional golf cart sales, service, and rentals delivered to ${townName}, Pennsylvania, Pennsylvania`,
-  "url": `https://tigonnev.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`,
+  "name": `Private Transportation Vehicles in ${townName}`,
+  "description": `Professional private transportation vehicle sales, service, and rentals delivered to ${townName}, Pennsylvania, Pennsylvania`,
+  "url": `https://tigonptv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-private-transportation-vehicles`,
   "mainEntity": {
     "@type": "LocalBusiness",
-    "name": "TIGON NEV",
+    "name": "TIGON PTV",
     "areaServed": {
       "@type": "City",
       "name": townName,
@@ -427,13 +427,13 @@ export const generateTownPageSchema = (townName: string) => ({
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://tigonnev.com"
+        "item": "https://tigonptv.com"
       },
       {
         "@type": "ListItem", 
         "position": 2,
-        "name": `${townName} Golf Carts`,
-        "item": `https://tigonnev.com/${townName.toLowerCase().replace(/\s+/g, '-')}-golf-carts`
+        "name": `${townName} Private Transportation Vehicles`,
+        "item": `https://tigonptv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-private-transportation-vehicles`
       }
     ]
   }

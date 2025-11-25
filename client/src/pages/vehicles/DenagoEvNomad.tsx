@@ -10,10 +10,10 @@ export default function DenagoEvNomad() {
   return (
     <>
       <SEOHead 
-        title="DENAGO EV NOMAD Neighborhood Electric Vehicle"
+        title="DENAGO EV NOMAD Private Transportation Vehicle"
         description="Adventure-ready electric vehicle designed for outdoor exploration and off-road capability. Perfect for camping, hunting, and recreational activities. Call 1-844-844-6638."
-        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road neighborhood electric vehicle, outdoor recreation, DENAGO dealer nationwide PA"
-        canonicalUrl="https://tigonnev.com/vehicles/denago-ev-nomad"
+        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road private transportation vehicle, outdoor recreation, DENAGO dealer nationwide PA"
+        canonicalUrl="https://tigonptv.com/vehicles/denago-ev-nomad"
         image="/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
       />
       
@@ -37,7 +37,7 @@ export default function DenagoEvNomad() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -84,12 +84,12 @@ export default function DenagoEvNomad() {
                       Get Quote
                     </Button>
                   </Link>
-                  <a href="https://tigonnev.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://tigonptv.com/apply-for-financing/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" variant="outline" className="w-full sm:w-auto bg-white text-theme-primary hover:bg-gray-100 shadow-lg">
                       Finance Options
                     </Button>
                   </a>
-                  <a href="https://tigonnev.com/denago-ev/nomad/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://tigonptv.com/denago-ev/nomad/" target="_blank" rel="noopener noreferrer">
                     <Button size="lg" className="w-full sm:w-auto bg-theme-orange hover:opacity-90 text-white shadow-lg">
                       View More Details
                     </Button>
@@ -111,7 +111,7 @@ export default function DenagoEvNomad() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Neighborhood Electric Vehicles 2_1763150117019.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-orange">Adventure Features</h2>
@@ -255,7 +255,7 @@ export default function DenagoEvNomad() {
               Ready to Start Your Adventure with the DENAGO® EV NOMAD?
             </h2>
             <p className="text-xl mb-8">
-              Contact TIGON Neighborhood Electric Vehicles today for pricing, availability, and to schedule an off-road test drive.
+              Contact TIGON Private Transportation Vehicles today for pricing, availability, and to schedule an off-road test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

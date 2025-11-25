@@ -21,10 +21,10 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="TIGON Neighborhood Electric Vehicles Premier NEV Dealership"
-        description="Transform your outdoor experience with premium neighborhood electric vehicles from North America's premier NEV dealership. Expert sales, service, rentals, and financing for Denago and Evolution neighborhood electric vehicles. Call 1-844-844-6638."
-        keywords="neighborhood electric vehicles for all 50 states, NEV Pennsylvania, Denago NEV, Evolution NEV, neighborhood electric vehicle sales service rentals, TIGON"
-        canonicalUrl="https://tigonnev.com/"
+        title="TIGON Private Transportation Vehicles Premier PTV Dealership"
+        description="Transform your outdoor experience with premium private transportation vehicles from North America's premier PTV dealership. Expert sales, service, rentals, and financing for Denago and Evolution private transportation vehicles. Call 1-844-844-6638."
+        keywords="private transportation vehicles for all 50 states, PTV Pennsylvania, Denago PTV, Evolution PTV, private transportation vehicle sales service rentals, TIGON"
+        canonicalUrl="https://tigonptv.com/"
         image="/attached_assets/a-photograph-of-a-bright-and-airy-modern_cSGtJe7oTWCsurFpyhqrJg_CXQ9jYUGRP2_wh-uk2Htkg_1753199147926.png"
       />
       <OrganizationSchema pageType="home" />
@@ -41,11 +41,11 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="text-white">
               <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight drop-shadow-lg">
-                TIGON Neighborhood Electric Vehicles Premier NEV Dealership
+                TIGON Private Transportation Vehicles Premier PTV Dealership
               </h1>
               <p className="text-xl mb-8 drop-shadow-md">
-                Discover our extensive selection of new neighborhood electric vehicles from Evolution and Denago with professional services. 
-                Serving customers nationwide across all 50 states, Canada, and Mexico with premium neighborhood electric vehicles.
+                Discover our extensive selection of new private transportation vehicles from Evolution and Denago with professional services. 
+                Serving customers nationwide across all 50 states, Canada, and Mexico with premium private transportation vehicles.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -63,7 +63,7 @@ export default function HomePage() {
             <div className="relative">
               <img 
                 src="/attached_assets/D6-XT6-4wd-color-PORTIMAO-BLUE_1753135231312.png" 
-                alt="Neighborhood Electric Vehicle" 
+                alt="Private Transportation Vehicle" 
                 className="w-full h-auto max-w-lg mx-auto drop-shadow-2xl"
               />
             </div>
@@ -75,10 +75,10 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Why Choose TIGON Neighborhood Electric Vehicles?
+            Why Choose TIGON Private Transportation Vehicles?
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
-            We're more than just a dealership - we're your partner in neighborhood electric vehicle ownership 
+            We're more than just a dealership - we're your partner in private transportation vehicle ownership 
             with comprehensive services and unmatched expertise.
           </p>
           
@@ -89,7 +89,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Premium Quality</h3>
               <p className="text-gray-600">
-                Top-rated NEV brands including Evolution and Denago with rigorous quality standards.
+                Top-rated PTV brands including Evolution and Denago with rigorous quality standards.
               </p>
             </div>
             
@@ -119,7 +119,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Eco-Friendly</h3>
               <p className="text-gray-600">
-                Electric neighborhood electric vehicles for sustainable, quiet, and efficient transportation.
+                Electric private transportation vehicles for sustainable, quiet, and efficient transportation.
               </p>
             </div>
           </div>
@@ -130,16 +130,16 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            TIGON Neighborhood Electric Vehicles - Top NEV and LSV Brands
+            TIGON Private Transportation Vehicles - Top PTV and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            We carry the most trusted names in Neighborhood Electric Vehicles and Low Speed Vehicles
+            We carry the most trusted names in Private Transportation Vehicles and Low Speed Vehicles
           </p>
           
           <div className="grid grid-cols-2 md:grid-cols-6 gap-6 mb-12">
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Club Car</h3>
-              <p className="text-sm text-gray-600">Premium NEV with advanced technology</p>
+              <p className="text-sm text-gray-600">Premium PTV with advanced technology</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">EZ-GO</h3>
@@ -147,11 +147,11 @@ export default function HomePage() {
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Denago</h3>
-              <p className="text-sm text-gray-600">High-quality performance neighborhood electric vehicles</p>
+              <p className="text-sm text-gray-600">High-quality performance private transportation vehicles</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Evolution</h3>
-              <p className="text-sm text-gray-600">Luxury neighborhood electric vehicles with premium features</p>
+              <p className="text-sm text-gray-600">Luxury private transportation vehicles with premium features</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Tomberlin</h3>
@@ -192,10 +192,10 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Featured Neighborhood Electric Vehicles
+            Featured Private Transportation Vehicles
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Check out some of our most popular NEV models
+            Check out some of our most popular PTV models
           </p>
           
           <div className="grid md:grid-cols-3 gap-8 mb-12">
@@ -217,7 +217,7 @@ export default function HomePage() {
               <CardHeader className="pb-3">
                 <CardTitle className="text-xl font-semibold">Evolution D5 Maverick 4 Plus</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
-                  Premium electric neighborhood electric vehicle with advanced features and superior performance. Seats 4 passengers with extended range capability.
+                  Premium electric private transportation vehicle with advanced features and superior performance. Seats 4 passengers with extended range capability.
                 </CardDescription>
               </CardHeader>
               <CardContent className="pt-0">
@@ -252,7 +252,7 @@ export default function HomePage() {
               <CardHeader className="pb-3">
                 <CardTitle className="text-xl font-semibold">Evolution D6 Max GT4</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
-                  High-performance 4-passenger neighborhood electric vehicle with cutting-edge technology and sporty design.
+                  High-performance 4-passenger private transportation vehicle with cutting-edge technology and sporty design.
                 </CardDescription>
               </CardHeader>
               <CardContent className="pt-0">
@@ -313,16 +313,16 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* About TIGON NEV Section */}
+      {/* About TIGON PTV Section */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">
-                About TIGON Neighborhood Electric Vehicles
+                About TIGON Private Transportation Vehicles
               </h2>
               <p className="text-lg text-gray-600 mb-8">
-                With over 15 years of experience in the neighborhood electric vehicle industry, we've built our reputation on providing exceptional service and quality products to customers throughout nationwide and surrounding areas.
+                With over 15 years of experience in the private transportation vehicle industry, we've built our reputation on providing exceptional service and quality products to customers throughout nationwide and surrounding areas.
               </p>
               
               <div className="grid grid-cols-2 gap-8 mb-8">
@@ -350,7 +350,7 @@ export default function HomePage() {
                   allowFullScreen={true} 
                   loading="lazy" 
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="TIGON Neighborhood Electric Vehicles nationwide, PA Map"
+                  title="TIGON Private Transportation Vehicles nationwide, PA Map"
                 />
               </div>
             </div>
@@ -362,10 +362,10 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Neighborhood Electric Vehicles Delivered Nationwide
+            Private Transportation Vehicles Delivered Nationwide
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Professional NEV services delivered across all 50 states, Canada, and Mexico
+            Professional PTV services delivered across all 50 states, Canada, and Mexico
           </p>
           
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 mb-12">
@@ -483,7 +483,7 @@ export default function HomePage() {
           </div>
           
           <p className="text-gray-600 mb-8">
-            Serving all 50 states, Canada, and Mexico! Professional neighborhood electric vehicle sales, service, and rentals delivered across North America.
+            Serving all 50 states, Canada, and Mexico! Professional private transportation vehicle sales, service, and rentals delivered across North America.
           </p>
         </div>
       </section>
@@ -509,7 +509,7 @@ export default function HomePage() {
             <div className="bg-white p-6 rounded-lg shadow-sm text-center">
               <MapPin className="w-8 h-8 text-blue-500 mx-auto mb-3" />
               <h3 className="font-semibold text-gray-900 mb-2">Contact</h3>
-              <p className="text-sm text-gray-600 mb-2">Email: info@tigonnev.com</p>
+              <p className="text-sm text-gray-600 mb-2">Email: info@tigonptv.com</p>
               <p className="text-blue-600 font-semibold">1-844-844-6638</p>
             </div>
           </div>
