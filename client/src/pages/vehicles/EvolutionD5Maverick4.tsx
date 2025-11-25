@@ -10,7 +10,7 @@ export default function EvolutionD5Maverick4() {
   return (
     <>
       <SEOHead 
-        title="Maverick 4"
+        title="EVOLUTION D5 MAVERICK 4 Neighborhood Electric Vehicle"
         description="Reliable performance and essential features make this the perfect 4-passenger neighborhood electric vehicle for standard transportation needs. Call 1-844-844-6638."
         keywords="EVOLUTION D5 Maverick 4, 4-passenger neighborhood electric vehicle, standard features, reliable performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-d5-maverick-4"

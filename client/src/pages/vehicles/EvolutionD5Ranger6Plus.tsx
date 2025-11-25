@@ -10,7 +10,7 @@ export default function EvolutionD5Ranger6Plus() {
   return (
     <>
       <SEOHead 
-        title="D5 RANGER 6 PLUS"
+        title="EVOLUTION D5 RANGER 6 PLUS Neighborhood Electric Vehicle"
         description="Ultimate in electric vehicle performance with advanced capabilities and premium features for discerning buyers. Call 1-844-844-6638."
         keywords="EVOLUTION D5 RANGER 6 PLUS, electric neighborhood electric vehicle, premium electric vehicle, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-d5-ranger-6-plus"

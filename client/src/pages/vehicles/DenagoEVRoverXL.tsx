@@ -10,7 +10,7 @@ export default function DenagoEVRoverXL() {
   return (
     <>
       <SEOHead 
-        title="EV ROVER XL"
+        title="DENAGO EV ROVER XL Neighborhood Electric Vehicle"
         description="Ultimate electric vehicle performance with advanced capabilities and premium features designed for the modern explorer. All-wheel drive technology and luxury comfort. Call 1-844-844-6638."
         keywords="DENAGO EV ROVER XL, electric neighborhood electric vehicle, premium electric vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/denago-ev-rover-xl"

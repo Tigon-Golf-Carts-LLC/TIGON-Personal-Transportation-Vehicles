@@ -10,7 +10,7 @@ export default function EvolutionD5Maverick6Plus() {
   return (
     <>
       <SEOHead 
-        title="Maverick 6 Plus"
+        title="EVOLUTION D5 MAVERICK 6 PLUS Neighborhood Electric Vehicle"
         description="Six-passenger luxury neighborhood electric vehicle with premium amenities and extended range capability. Perfect for larger families and group outings with enhanced comfort features. Call 1-844-844-6638."
         keywords="EVOLUTION D5 Maverick 6 Plus, luxury neighborhood electric vehicle, 6-passenger, family ready, premium comfort, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-d5-maverick-6-plus"

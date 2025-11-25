@@ -10,7 +10,7 @@ export default function EvolutionCarrier6Plus() {
   return (
     <>
       <SEOHead 
-        title="Carrier 6 Plus"
+        title="EVOLUTION CARRIER 6 PLUS Neighborhood Electric Vehicle"
         description="Six-passenger carrier with enhanced cargo capacity and utility features for work and recreation. Perfect balance of passenger comfort and utility functionality. Call 1-844-844-6638."
         keywords="EVOLUTION Carrier 6 Plus, utility neighborhood electric vehicle, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-carrier-6-plus"

@@ -10,7 +10,7 @@ export default function EvolutionD6MaxGT6() {
   return (
     <>
       <SEOHead 
-        title="Max GT6"
+        title="EVOLUTION D6 MAX GT6 Neighborhood Electric Vehicle"
         description="High performance and luxury features combine in this six-passenger neighborhood electric vehicle with maximum power and premium comfort. Call 1-844-844-6638."
         keywords="EVOLUTION D6 Max GT6, high performance neighborhood electric vehicle, 6-passenger, luxury features, maximum power, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-d6-max-gt6"

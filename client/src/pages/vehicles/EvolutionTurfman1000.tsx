@@ -10,7 +10,7 @@ export default function EvolutionTurfman1000() {
   return (
     <>
       <SEOHead 
-        title="TURFMAN 1000"
+        title="EVOLUTION TURFMAN 1000 Neighborhood Electric Vehicle"
         description="Professional commercial utility vehicle for landscaping and maintenance work. Heavy-duty build with 1,000 lbs payload and superior durability. Call 1-844-844-6638."
         keywords="EVOLUTION TURFMAN 1000, commercial utility vehicle, landscaping cart, maintenance vehicle, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-turfman-1000"

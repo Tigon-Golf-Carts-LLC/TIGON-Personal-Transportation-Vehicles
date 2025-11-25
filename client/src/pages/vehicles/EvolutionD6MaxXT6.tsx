@@ -10,7 +10,7 @@ export default function EvolutionD6MaxXT6() {
   return (
     <>
       <SEOHead 
-        title="Max XT6"
+        title="EVOLUTION D6 MAX XT6 Neighborhood Electric Vehicle"
         description="Maximum off-road capability with six-passenger extreme terrain design featuring adventure features and rugged construction. Call 1-844-844-6638."
         keywords="EVOLUTION D6 Max XT6, extreme terrain neighborhood electric vehicle, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-d6-max-xt6"

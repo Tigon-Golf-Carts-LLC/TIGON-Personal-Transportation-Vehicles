@@ -10,7 +10,7 @@ export default function EvolutionClassic4Plus() {
   return (
     <>
       <SEOHead 
-        title="CLASSIC 4 PLUS"
+        title="EVOLUTION CLASSIC 4 PLUS Neighborhood Electric Vehicle"
         description="Experience timeless design with modern electric performance. Classic styling meets contemporary technology and comfort for premium neighborhood electric vehicle experience. Call 1-844-844-6638."
         keywords="EVOLUTION CLASSIC 4 PLUS, classic neighborhood electric vehicle, premium electric vehicle, traditional styling, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-classic-4-plus"

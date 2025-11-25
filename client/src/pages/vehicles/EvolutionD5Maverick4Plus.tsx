@@ -10,7 +10,7 @@ export default function EvolutionD5Maverick4Plus() {
   return (
     <>
       <SEOHead 
-        title="Maverick 4 Plus"
+        title="EVOLUTION D5 MAVERICK 4 PLUS Neighborhood Electric Vehicle"
         description="Premium four-passenger neighborhood electric vehicle with advanced features and superior performance. Enhanced comfort with extended range capability and premium amenities. Call 1-844-844-6638."
         keywords="EVOLUTION D5 Maverick 4 Plus, premium neighborhood electric vehicle, 4-passenger, advanced features, extended range, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-d5-maverick-4-plus"

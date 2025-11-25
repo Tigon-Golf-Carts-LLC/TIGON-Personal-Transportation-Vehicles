@@ -11,7 +11,7 @@ export default function DenagoEvCity() {
   return (
     <>
       <SEOHead 
-        title="EV CITY"
+        title="DENAGO EV CITY Neighborhood Electric Vehicle"
         description="Experience urban mobility with the DENAGO EV CITY street-legal electric vehicle. Perfect for city transportation and neighborhood use with 40-50 mile range. Call 1-844-844-6638."
         keywords="DENAGO EV CITY, street legal electric vehicle, NEV, urban mobility, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/denago-ev-city"

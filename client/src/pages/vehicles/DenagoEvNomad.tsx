@@ -10,7 +10,7 @@ export default function DenagoEvNomad() {
   return (
     <>
       <SEOHead 
-        title="EV NOMAD"
+        title="DENAGO EV NOMAD Neighborhood Electric Vehicle"
         description="Adventure-ready electric vehicle designed for outdoor exploration and off-road capability. Perfect for camping, hunting, and recreational activities. Call 1-844-844-6638."
         keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road neighborhood electric vehicle, outdoor recreation, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/denago-ev-nomad"

@@ -10,7 +10,7 @@ export default function EvolutionClassic2Pro() {
   return (
     <>
       <SEOHead 
-        title="Classic 2 Pro"
+        title="EVOLUTION CLASSIC 2 PRO Neighborhood Electric Vehicle"
         description="Enhanced features and performance define this professional grade 2-passenger neighborhood electric vehicle with premium reliability. Call 1-844-844-6638."
         keywords="EVOLUTION Classic 2 Pro, professional neighborhood electric vehicle, 2-passenger, enhanced performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-classic-2-pro"

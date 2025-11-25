@@ -10,7 +10,7 @@ export default function EvolutionCarrier8Plus() {
   return (
     <>
       <SEOHead 
-        title="Carrier 8 Plus"
+        title="EVOLUTION CARRIER 8 PLUS Neighborhood Electric Vehicle"
         description="Maximum seating and cargo capacity for large group transportation and utility work. Eight-passenger carrier for demanding applications. Call 1-844-844-6638."
         keywords="EVOLUTION Carrier 8 Plus, 8-passenger neighborhood electric vehicle, maximum capacity, utility vehicle, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-carrier-8-plus"

@@ -10,7 +10,7 @@ export default function EvolutionClassic2Plus() {
   return (
     <>
       <SEOHead 
-        title="Classic 2 Plus"
+        title="EVOLUTION CLASSIC 2 PLUS Neighborhood Electric Vehicle"
         description="Timeless design and reliable performance in this perfect compact 2-passenger neighborhood electric vehicle for traditional golf. Call 1-844-844-6638."
         keywords="EVOLUTION Classic 2 Plus, 2-passenger neighborhood electric vehicle, compact neighborhood electric vehicle, traditional design, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/evolution-classic-2-plus"

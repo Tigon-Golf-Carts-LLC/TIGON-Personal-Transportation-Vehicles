@@ -10,7 +10,7 @@ export default function DenagoEvRoverXXL() {
   return (
     <>
       <SEOHead 
-        title="Rover XXL"
+        title="DENAGO EV ROVER XXL Neighborhood Electric Vehicle"
         description="Maximum seating and cargo capacity in our largest luxury model designed for ultimate group transportation. Call 1-844-844-6638."
         keywords="DENAGO EV Rover XXL, 8-passenger neighborhood electric vehicle, maximum capacity, luxury electric vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonnev.com/vehicles/denago-ev-rover-xxl"
