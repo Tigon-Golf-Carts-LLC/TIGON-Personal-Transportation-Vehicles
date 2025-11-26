@@ -249,7 +249,7 @@ export default function NewInventoryPage() {
                   Contact Our Team
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:18448446638">
                 <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-blue-600">
                   Call 1-844-844-6638
                 </Button>

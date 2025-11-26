@@ -258,7 +258,7 @@ export default function EvolutionClassic4Plus() {
                   Contact Us Today
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:18448446638">
                 <Button size="lg" variant="outline" className="text-gray-900 bg-white border-white hover:bg-gray-100 hover:text-theme-orange">
                   Call 1-844-844-6638
                 </Button>

@@ -24,7 +24,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Hatfield PA",
       address: "2333 Bethlehem Pike, Hatfield, PA 19440",
-      phone: "215-595-8736",
+      phone: "1-844-844-6638",
       coordinates: "40.29839945958623, -75.28308913039525",
       googleMapsUrl: "https://www.google.com/maps?cid=8221925612164093496",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsHatfield/",
@@ -38,7 +38,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Ocean View NJ",
       address: "101 NJ-50, Ocean View, NJ 08230",
-      phone: "609-840-0404",
+      phone: "1-844-844-6638",
       coordinates: "39.22254797811702, -74.70417212536503",
       googleMapsUrl: "https://www.google.com/maps?cid=6446924254429489274",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsOceanView/",
@@ -52,7 +52,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Pocono PA",
       address: "1712 Pennsylvania 940, Pocono Pines, PA 18350",
-      phone: "570-643-0152",
+      phone: "1-844-844-6638",
       coordinates: "41.10286354605563, -75.48758590250345",
       googleMapsUrl: "https://www.google.com/maps?cid=17137841834562046914",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsPoconos/",
@@ -66,7 +66,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Dover DE",
       address: "5158 N Dupont Hwy, Dover, DE 19901",
-      phone: "302-546-0010",
+      phone: "1-844-844-6638",
       coordinates: "39.22044318468275, -75.57452048907642",
       googleMapsUrl: "https://www.google.com/maps?cid=12843447677705895190",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsDover/",
@@ -80,7 +80,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Scranton-Wilkes-Barre PA",
       address: "1225 N Keyser Ave #2, Scranton, PA 18504",
-      phone: "570-344-4443",
+      phone: "1-844-844-6638",
       coordinates: "41.4374075,-75.6835104",
       googleMapsUrl: "https://www.google.com/maps?cid=13243686786001524416",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsScranton/",
@@ -94,7 +94,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Raleigh NC",
       address: "2700 S Wilmington St, Raleigh, NC 27603",
-      phone: "984-489-0296",
+      phone: "1-844-844-6638",
       coordinates: "35.7471032,-78.6452007",
       googleMapsUrl: "https://www.google.com/maps?cid=14570072271497929915",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsRaleigh/",
@@ -108,7 +108,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON South Bend IN",
       address: "52129 State Road 933, South Bend, IN 46637",
-      phone: "574-703-0456",
+      phone: "1-844-844-6638",
       coordinates: "41.7360283,-86.2511865",
       googleMapsUrl: "https://www.google.com/maps?cid=17532455648086849827",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsSouthBend/",
@@ -122,7 +122,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Gloucester Point VA",
       address: "2810 George Washington Memorial Hwy, Gloucester Point, VA 23072",
-      phone: "804-792-0234",
+      phone: "1-844-844-6638",
       coordinates: "37.2850625,-76.5074161",
       googleMapsUrl: "https://www.google.com/maps?cid=16682967888503617377",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsGloucesterPoint/",
@@ -135,7 +135,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Bayville NJ",
       address: "155 Atlantic City Blvd, Bayville, NJ 08721",
-      phone: "732-908-7166",
+      phone: "1-844-844-6638",
       coordinates: "39.9277698,-74.1748497",
       googleMapsUrl: "https://www.google.com/maps?cid=16812778070531162551",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsBayville/",
@@ -148,7 +148,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Waretown NJ",
       address: "526 US-9, Waretown, NJ 08758",
-      phone: "732-998-8146",
+      phone: "1-844-844-6638",
       googleMapsUrl: "https://www.google.com/maps?cid=11595558320608622005",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsWaretown/",
       websiteUrl: "https://tigonptv.com/waretown/",
@@ -160,7 +160,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Orangeburg SC",
       address: "4166 North Rd, Orangeburg, SC 29118",
-      phone: "803-596-0246",
+      phone: "1-844-844-6638",
       coordinates: "33.547201,-80.9162039",
       googleMapsUrl: "https://www.google.com/maps?cid=17192321019507936230",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsOrangeburg/",
@@ -173,7 +173,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Swanton OH",
       address: "10420 Airport Hwy, Swanton, OH 43558",
-      phone: "419-402-8400",
+      phone: "1-844-844-6638",
       coordinates: "41.6013184,-83.7926472",
       googleMapsUrl: "https://www.google.com/maps?cid=16517552730289967239",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsSwanton/",
@@ -187,7 +187,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Lecanto FL",
       address: "299 E. Gulf to Lake Hwy, Lecanto, FL 34461",
-      phone: "352-453-0345",
+      phone: "1-844-844-6638",
       coordinates: "28.858622,-82.4295381",
       googleMapsUrl: "https://www.google.com/maps?cid=4773802157529013859",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsLecanto/",
@@ -201,7 +201,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Long Pond PA",
       address: "4738 PA-115, Long Pond, PA 18334",
-      phone: "570-580-0567",
+      phone: "1-844-844-6638",
       coordinates: "41.053988,-75.534146",
       googleMapsUrl: "https://www.google.com/maps?cid=11714838830522733253",
       websiteUrl: "https://tigonptv.com/long-pond/",
@@ -212,7 +212,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Pleasantville NJ",
       address: "7000 Black Horse Pike, Pleasantville, NJ 08232",
-      phone: "640-444-3094",
+      phone: "1-844-844-6638",
       coordinates: "39.38812835576412, -74.5186949022294",
       googleMapsUrl: "https://www.google.com/maps?cid=7635149767591436869",
       facebookUrl: "https://www.facebook.com/TigonGolfCartPleasantville",
@@ -225,7 +225,7 @@ export default function ShowroomPage() {
     {
       name: "TIGON Portsmouth VA",
       address: "2008 Portsmouth Blvd, Portsmouth, VA 23704",
-      phone: "757-977-0146",
+      phone: "1-844-844-6638",
       coordinates: "36.817786,-76.3235434",
       googleMapsUrl: "https://www.google.com/maps?cid=5113923461119431468",
       facebookUrl: "https://www.facebook.com/TigonGolfCartsPortsmouthVA/",

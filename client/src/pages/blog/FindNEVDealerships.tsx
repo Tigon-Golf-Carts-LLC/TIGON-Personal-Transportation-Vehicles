@@ -65,26 +65,26 @@ export default function FindNEVDealerships() {
           <p className="mb-4">
             <strong>TIGON Hatfield PA</strong><br />
             2333 Bethlehem Pike, Hatfield, PA 19440<br />
-            Phone: <a href="tel:215-595-8736" className="text-theme-orange hover:underline">215-595-8736</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Montgomery County, Bucks County, Philadelphia suburbs<br />
             <Link href="/showroom" className="text-theme-orange hover:underline">View location details and directions</Link>
           </p>
           <p className="mb-4">
             <strong>TIGON Pocono Pines PA</strong><br />
             1712 Pennsylvania 940, Pocono Pines, PA 18350<br />
-            Phone: <a href="tel:570-643-0152" className="text-theme-orange hover:underline">570-643-0152</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Monroe County, Pocono Mountains region
           </p>
           <p className="mb-4">
             <strong>TIGON Long Pond PA</strong><br />
             4738 PA-115, Long Pond, PA 18334<br />
-            Phone: <a href="tel:570-580-0567" className="text-theme-orange hover:underline">570-580-0567</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Eastern Pennsylvania, Pocono region
           </p>
           <p className="mb-4">
             <strong>TIGON Scranton-Wilkes-Barre PA</strong><br />
             1225 N Keyser Ave #2, Scranton, PA 18504<br />
-            Phone: <a href="tel:570-344-4443" className="text-theme-orange hover:underline">570-344-4443</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Lackawanna County, Northeastern Pennsylvania
           </p>
 
@@ -94,25 +94,25 @@ export default function FindNEVDealerships() {
           <p className="mb-4">
             <strong>TIGON Ocean View NJ</strong><br />
             101 NJ-50, Ocean View, NJ 08230<br />
-            Phone: <a href="tel:609-840-0404" className="text-theme-orange hover:underline">609-840-0404</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Cape May County, South Jersey shore communities
           </p>
           <p className="mb-4">
             <strong>TIGON Bayville NJ</strong><br />
             155 Atlantic City Blvd, Bayville, NJ 08721<br />
-            Phone: <a href="tel:732-908-7166" className="text-theme-orange hover:underline">732-908-7166</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Ocean County, Central Jersey
           </p>
           <p className="mb-4">
             <strong>TIGON Waretown NJ</strong><br />
             526 US-9, Waretown, NJ 08758<br />
-            Phone: <a href="tel:732-998-8146" className="text-theme-orange hover:underline">732-998-8146</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Ocean County coastal communities
           </p>
           <p className="mb-4">
             <strong>TIGON Pleasantville NJ</strong><br />
             7000 Black Horse Pike, Pleasantville, NJ 08232<br />
-            Phone: <a href="tel:640-444-3094" className="text-theme-orange hover:underline">640-444-3094</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Atlantic County, Greater Atlantic City area
           </p>
 
@@ -122,7 +122,7 @@ export default function FindNEVDealerships() {
           <p className="mb-4">
             <strong>TIGON Dover DE</strong><br />
             5158 N Dupont Hwy, Dover, DE 19901<br />
-            Phone: <a href="tel:302-546-0010" className="text-theme-orange hover:underline">302-546-0010</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Kent County, Central Delaware, Dover Air Force Base area
           </p>
 
@@ -132,19 +132,19 @@ export default function FindNEVDealerships() {
           <p className="mb-4">
             <strong>TIGON Gloucester Point VA</strong><br />
             2810 George Washington Memorial Hwy, Gloucester Point, VA 23072<br />
-            Phone: <a href="tel:804-792-0234" className="text-theme-orange hover:underline">804-792-0234</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Gloucester County, York County, Hampton Roads
           </p>
           <p className="mb-4">
             <strong>TIGON Portsmouth VA</strong><br />
             2008 Portsmouth Blvd, Portsmouth, VA 23704<br />
-            Phone: <a href="tel:757-977-0146" className="text-theme-orange hover:underline">757-977-0146</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Portsmouth, Chesapeake, Norfolk area
           </p>
           <p className="mb-4">
             <strong>TIGON Virginia Beach VA</strong><br />
             1101 Virginia Beach Blvd, Virginia Beach, VA 23451<br />
-            Phone: <a href="tel:1-844-844-6638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
+            Phone: <a href="tel:18448446638" className="text-theme-orange hover:underline">1-844-844-6638</a><br />
             Serving: Virginia Beach, Oceanfront communities
           </p>
 
@@ -152,11 +152,11 @@ export default function FindNEVDealerships() {
             Additional TIGON Locations Across America
           </h2>
           <ul className="list-disc pl-6 mb-6 space-y-2">
-            <li><strong>North Carolina:</strong> Raleigh (984-489-0296)</li>
-            <li><strong>South Carolina:</strong> Orangeburg (803-596-0246)</li>
-            <li><strong>Florida:</strong> Lecanto (352-453-0345)</li>
-            <li><strong>Indiana:</strong> South Bend (574-703-0456)</li>
-            <li><strong>Ohio:</strong> Swanton (419-402-8400)</li>
+            <li><strong>North Carolina:</strong> Raleigh (1-844-844-6638)</li>
+            <li><strong>South Carolina:</strong> Orangeburg (1-844-844-6638)</li>
+            <li><strong>Florida:</strong> Lecanto (1-844-844-6638)</li>
+            <li><strong>Indiana:</strong> South Bend (1-844-844-6638)</li>
+            <li><strong>Ohio:</strong> Swanton (1-844-844-6638)</li>
           </ul>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
@@ -255,7 +255,7 @@ export default function FindNEVDealerships() {
                 View All Locations
               </Button>
             </Link>
-            <a href="tel:1-844-844-6638">
+            <a href="tel:18448446638">
               <Button size="lg" variant="outline" className="bg-white text-theme-primary hover:bg-gray-100">
                 <Phone className="w-4 h-4 mr-2" />
                 Call 1-844-844-6638

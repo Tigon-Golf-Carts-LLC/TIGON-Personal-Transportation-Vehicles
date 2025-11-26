@@ -70,7 +70,7 @@ export default function NewServicesPage() {
                     Schedule Service
                   </Button>
                 </Link>
-                <a href="tel:1-844-844-6638">
+                <a href="tel:18448446638">
                   <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100 shadow-lg">
                     Call for Emergency Service
                   </Button>
@@ -173,7 +173,7 @@ export default function NewServicesPage() {
                   Schedule Service Online
                 </Button>
               </Link>
-              <a href="tel:1-844-844-6638">
+              <a href="tel:18448446638">
                 <Button size="lg" className="bg-white text-theme-primary hover:bg-gray-100">
                   Call 1-844-844-6638
                 </Button>
