@@ -3,7 +3,7 @@ import { Calendar, ArrowLeft, MapPin, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import SEOHead from "@/components/SEOHead";
 import { getBlogPostBySlug } from "@/data/blogPosts";
-import heroImage from "@assets/generated_images/map_dealership_locations_usa.png";
+const heroImage = "/attached_assets/TIGON%20Personal%20Transportation%20Vehicles%20Premier%20PTV%20Dealership%20-%20PTV_1764176674271.jpeg";
 
 export default function FindNEVDealerships() {
   const post = getBlogPostBySlug("find-neighborhood-electric-vehicle-dealerships-near-me");

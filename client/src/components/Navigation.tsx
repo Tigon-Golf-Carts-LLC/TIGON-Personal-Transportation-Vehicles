@@ -3,7 +3,6 @@ import { Link, useLocation } from "wouter";
 import { Menu } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
-import tigonLogo from "@assets/TIGON Neighborhood Electric Vehicles_1764002910326.png";
 
 export default function Navigation() {
   const [location] = useLocation();
@@ -29,19 +28,10 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-3">
-            <div className="rounded-lg w-16 h-16 flex-shrink-0">
-              <img 
-                src={tigonLogo} 
-                alt="TIGON Personal Transportation Vehicles Logo" 
-                className="h-16 w-16 object-contain"
-                width="64"
-                height="64"
-                loading="eager"
-              />
-            </div>
             <Link href="/">
-              <div className="cursor-pointer">
-                <div className="text-lg font-bold" style={{ color: '#af1b30' }}>TIGON PTV</div>
+              <div className="cursor-pointer flex items-center space-x-2">
+                <div className="bg-theme-primary text-white font-bold text-xl px-3 py-2 rounded-lg">TIGON</div>
+                <div className="text-lg font-bold" style={{ color: '#af1b30' }}>PTV</div>
               </div>
             </Link>
           </div>
