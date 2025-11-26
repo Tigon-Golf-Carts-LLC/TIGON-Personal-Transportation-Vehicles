@@ -63,7 +63,7 @@ Browser Support: Modern Browsers
 ## BUSINESS INFORMATION
 ### Company Details
 Business Name: TIGON PTV
-Industry: Private Transportation Vehicle Dealership
+Industry: Personal Transportation Vehicle Dealership
 Specialization: DENAGO and EVOLUTION PTVs
 Founded: 2015
 Service Area: 11 US States + Canada & Mexico

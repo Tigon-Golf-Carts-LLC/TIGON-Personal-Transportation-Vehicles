@@ -60,7 +60,7 @@ export default function NEVPriceRange() {
           </h2>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">
-            Entry-Level Private Transportation Vehicles ($8,000 - $12,000)
+            Entry-Level Personal Transportation Vehicles ($8,000 - $12,000)
           </h3>
           <p className="mb-4">
             Basic 2-passenger models perfect for simple transportation needs in Hatfield PA, Ocean View NJ, and similar communities. These vehicles offer essential features without luxury amenities.

@@ -10,7 +10,7 @@ export default function EvolutionTurman1000Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION TURMAN 1000 PLUS Private Transportation Vehicle"
+        title="EVOLUTION TURMAN 1000 PLUS Personal Transportation Vehicle"
         description="Heavy-duty commercial utility private transportation vehicle for landscaping and maintenance work. Maximum 1,000 lbs payload with professional-grade construction. Call 1-844-844-6638."
         keywords="EVOLUTION TURMAN 1000 PLUS, heavy-duty utility vehicle, landscaping cart, commercial NEV, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-turman-1000-plus"
@@ -35,7 +35,7 @@ export default function EvolutionTurman1000Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -204,7 +204,7 @@ export default function EvolutionTurman1000Plus() {
               Maximum Capacity, Professional Performance
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Private Transportation Vehicles today for your EVOLUTION TURMAN 1000 PLUS.
+              Contact TIGON Personal Transportation Vehicles today for your EVOLUTION TURMAN 1000 PLUS.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

@@ -10,7 +10,7 @@ export default function DenagoEVRoverXL() {
   return (
     <>
       <SEOHead 
-        title="DENAGO EV ROVER XL Private Transportation Vehicle"
+        title="DENAGO EV ROVER XL Personal Transportation Vehicle"
         description="Ultimate electric vehicle performance with advanced capabilities and premium features designed for the modern explorer. All-wheel drive technology and luxury comfort. Call 1-844-844-6638."
         keywords="DENAGO EV ROVER XL, electric private transportation vehicle, premium electric vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/denago-ev-rover-xl"
@@ -37,7 +37,7 @@ export default function DenagoEVRoverXL() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -106,7 +106,7 @@ export default function DenagoEVRoverXL() {
         </section>
 
         {/* Premium Features */}
-        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}>
+        <section className="relative py-16 px-4 bg-gray-50 bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(249, 250, 251, 0.9), rgba(249, 250, 251, 0.9)), url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}>
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold mb-4 text-theme-orange">Premium Features</h2>
@@ -227,7 +227,7 @@ export default function DenagoEVRoverXL() {
               Ready to Experience the DENAGO® EV ROVER XL?
             </h2>
             <p className="text-xl mb-8">
-              Contact TIGON Private Transportation Vehicles today for pricing, availability, and to schedule a test drive.
+              Contact TIGON Personal Transportation Vehicles today for pricing, availability, and to schedule a test drive.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

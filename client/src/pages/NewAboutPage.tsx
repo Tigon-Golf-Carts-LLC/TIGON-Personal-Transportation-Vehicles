@@ -59,7 +59,7 @@ export default function NewAboutPage() {
   return (
     <>
       <SEOHead 
-        title="About TIGON Private Transportation Vehicles | Premium PTV Nationwide"
+        title="About TIGON Personal Transportation Vehicles | Premium PTV Nationwide"
         description="North America's trusted private transportation vehicle dealer serving all 50 states plus Canada and Mexico with premium DENAGO and EVOLUTION vehicles. Call 1-844-844-6638."
         keywords="TIGON private transportation vehicles, about us, private transportation vehicle dealer, DENAGO dealer, EVOLUTION dealer, nationwide NEV"
       />
@@ -81,7 +81,7 @@ export default function NewAboutPage() {
           {/* Hero Content */}
           <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 drop-shadow-lg">
-              About TIGON Private Transportation Vehicles
+              About TIGON Personal Transportation Vehicles
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
               Premium private transportation vehicles delivered across North America with 
@@ -111,7 +111,7 @@ export default function NewAboutPage() {
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
                 <div className="space-y-4 text-gray-600">
                   <p>
-                    Founded in 2015, TIGON Private Transportation Vehicles began with a simple mission: to provide 
+                    Founded in 2015, TIGON Personal Transportation Vehicles began with a simple mission: to provide 
                     customers across North America with the highest quality private transportation vehicles 
                     and unparalleled customer service.
                   </p>
@@ -167,7 +167,7 @@ export default function NewAboutPage() {
                   ></iframe>
                 </div>
                 <div className="mt-6 text-center">
-                  <h3 className="text-xl font-semibold mb-2 text-gray-900">TIGON Private Transportation Vehicles Locations</h3>
+                  <h3 className="text-xl font-semibold mb-2 text-gray-900">TIGON Personal Transportation Vehicles Locations</h3>
                   <div className="grid md:grid-cols-3 gap-4 text-sm">
                     <div className="bg-white p-4 rounded-lg shadow">
                       <h4 className="font-semibold text-theme-orange">Hatfield Showroom</h4>

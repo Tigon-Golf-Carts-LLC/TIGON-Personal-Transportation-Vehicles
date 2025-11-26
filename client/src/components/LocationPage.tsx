@@ -126,7 +126,7 @@ export default function LocationPage({ location }: LocationPageProps) {
       <section className="py-16 px-4">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold mb-4 text-gray-900">Featured Private Transportation Vehicles</h2>
+            <h2 className="text-4xl font-bold mb-4 text-gray-900">Featured Personal Transportation Vehicles</h2>
             <p className="text-xl text-gray-600">
               Premium electric PTVs available in {name}
             </p>

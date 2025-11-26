@@ -10,7 +10,7 @@ export default function EvolutionClassic4Pro() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION CLASSIC 4 PRO Private Transportation Vehicle"
+        title="EVOLUTION CLASSIC 4 PRO Personal Transportation Vehicle"
         description="Professional grade four-passenger classic private transportation vehicle with enhanced features and premium performance. Timeless design meets modern technology. Call 1-844-844-6638."
         keywords="EVOLUTION CLASSIC 4 PRO, professional private transportation vehicle, 4-passenger, enhanced features, classic design, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-classic-4-pro"
@@ -35,7 +35,7 @@ export default function EvolutionClassic4Pro() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -92,7 +92,7 @@ export default function EvolutionClassic4Pro() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION CLASSIC 4 PRO Private Transportation Vehicle"
+                    alt="EVOLUTION CLASSIC 4 PRO Personal Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -204,7 +204,7 @@ export default function EvolutionClassic4Pro() {
               Classic Style, Professional Performance
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Private Transportation Vehicles today for your EVOLUTION CLASSIC 4 PRO.
+              Contact TIGON Personal Transportation Vehicles today for your EVOLUTION CLASSIC 4 PRO.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

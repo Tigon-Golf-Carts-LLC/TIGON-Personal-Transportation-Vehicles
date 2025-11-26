@@ -28,7 +28,7 @@ export default function NEVvsElectricCars() {
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-8">Understanding the differences between private transportation vehicles and standard electric cars helps Pennsylvania, New Jersey, Delaware, and Virginia residents choose the right vehicle for their specific needs. While both offer zero-emission transportation, they serve distinctly different purposes and market segments.</p>
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">Range Comparison: NEVs vs Electric Cars</h2>
-          <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Private Transportation Vehicle Range (25-40 Miles)</h3>
+          <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Personal Transportation Vehicle Range (25-40 Miles)</h3>
           <p className="mb-4">NEVs from <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> typically offer 25-40 miles per charge, optimized for local driving in Hatfield PA, Ocean View NJ, Dover DE, and similar communities. This range covers daily errands, neighborhood trips, and short commutes perfectly.</p>
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Standard Electric Car Range (200-400+ Miles)</h3>
           <p className="mb-4">Full-size electric cars provide 200-400+ miles per charge, designed for highway travel and long-distance commuting. While excellent for interstate travel, this extended range comes at significantly higher cost both for purchase price and battery replacement.</p>
@@ -47,7 +47,7 @@ export default function NEVvsElectricCars() {
           <h5 className="text-lg font-semibold text-gray-900 mt-6 mb-3">Operating Cost Analysis</h5>
           <p className="mb-4">Both vehicle types offer low operating costs compared to gasoline vehicles, but NEVs provide additional savings due to smaller battery capacity and reduced insurance premiums. See our <Link href="/blog/neighborhood-electric-vehicle-price-range-cost" className="text-theme-orange hover:underline">pricing guide</Link> for detailed cost analysis.</p>
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">Which Vehicle Type is Right for You?</h2>
-          <h6 className="text-base font-semibold text-gray-900 mt-6 mb-3">Choose a Private Transportation Vehicle If:</h6>
+          <h6 className="text-base font-semibold text-gray-900 mt-6 mb-3">Choose a Personal Transportation Vehicle If:</h6>
           <ul className="list-disc pl-6 mb-6 space-y-2">
             <li>Your daily driving is primarily local (under 30 miles)</li>
             <li>You rarely travel on highways or interstates</li>

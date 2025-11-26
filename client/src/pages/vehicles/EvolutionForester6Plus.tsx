@@ -10,7 +10,7 @@ export default function EvolutionForester6Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION FORESTER 6 PLUS Private Transportation Vehicle"
+        title="EVOLUTION FORESTER 6 PLUS Personal Transportation Vehicle"
         description="Six-passenger premium utility private transportation vehicle with heavy-duty features and rugged construction. Built for work and recreation. Call 1-844-844-6638."
         keywords="EVOLUTION FORESTER 6 PLUS, utility private transportation vehicle, 6-passenger, heavy-duty, work vehicle, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-forester-6-plus"
@@ -35,7 +35,7 @@ export default function EvolutionForester6Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -92,7 +92,7 @@ export default function EvolutionForester6Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION FORESTER 6 PLUS Private Transportation Vehicle"
+                    alt="EVOLUTION FORESTER 6 PLUS Personal Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -204,7 +204,7 @@ export default function EvolutionForester6Plus() {
               Heavy-Duty Utility, Maximum Capacity
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Private Transportation Vehicles today for your EVOLUTION FORESTER 6 PLUS.
+              Contact TIGON Personal Transportation Vehicles today for your EVOLUTION FORESTER 6 PLUS.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

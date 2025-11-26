@@ -40,7 +40,7 @@ export default function NewServicesPage() {
   return (
     <>
       <SEOHead 
-        title="Professional Private Transportation Vehicle Services"
+        title="Professional Personal Transportation Vehicle Services"
         description="Complete maintenance, repair, battery service, and custom modifications served by certified technicians in nationwide, PA. Call 1-844-844-6638."
         keywords="private transportation vehicle service, private transportation vehicle repair, battery replacement, maintenance, nationwide"
       />
@@ -58,7 +58,7 @@ export default function NewServicesPage() {
           <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center text-white">
               <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">
-                Professional Private Transportation Vehicle Services
+                Professional Personal Transportation Vehicle Services
               </h1>
               <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
                 Keep your private transportation vehicle running smoothly with our comprehensive service offerings. 

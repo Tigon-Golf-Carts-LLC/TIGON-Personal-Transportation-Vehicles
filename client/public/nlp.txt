@@ -30,7 +30,7 @@
 
 ### Business Entities
 - TIGON PTV [ORGANIZATION]
-- TIGON Private Transportation Vehicles [ORGANIZATION]
+- TIGON Personal Transportation Vehicles [ORGANIZATION]
 - DENAGO [BRAND]
 - EVOLUTION [BRAND]
 - info@tigonptv.com [CONTACT]

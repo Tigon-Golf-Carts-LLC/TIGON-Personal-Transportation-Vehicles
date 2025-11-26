@@ -21,7 +21,7 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* SEO and Schema Markup */}
       <SEOHead 
-        title="TIGON Private Transportation Vehicles Premier PTV Dealership"
+        title="TIGON Personal Transportation Vehicles Premier PTV Dealership"
         description="Transform your outdoor experience with premium private transportation vehicles from North America's premier PTV dealership. Expert sales, service, rentals, and financing for Denago and Evolution private transportation vehicles. Call 1-844-844-6638."
         keywords="private transportation vehicles for all 50 states, PTV Pennsylvania, Denago PTV, Evolution PTV, private transportation vehicle sales service rentals, TIGON"
         canonicalUrl="https://tigonptv.com/"
@@ -41,7 +41,7 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="text-white">
               <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight drop-shadow-lg">
-                TIGON Private Transportation Vehicles Premier PTV Dealership
+                TIGON Personal Transportation Vehicles Premier PTV Dealership
               </h1>
               <p className="text-xl mb-8 drop-shadow-md">
                 Discover our extensive selection of new private transportation vehicles from Evolution and Denago with professional services. 
@@ -63,7 +63,7 @@ export default function HomePage() {
             <div className="relative">
               <img 
                 src="/attached_assets/D6-XT6-4wd-color-PORTIMAO-BLUE_1753135231312.png" 
-                alt="Private Transportation Vehicle" 
+                alt="Personal Transportation Vehicle" 
                 className="w-full h-auto max-w-lg mx-auto drop-shadow-2xl"
               />
             </div>
@@ -75,7 +75,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Why Choose TIGON Private Transportation Vehicles?
+            Why Choose TIGON Personal Transportation Vehicles?
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
             We're more than just a dealership - we're your partner in private transportation vehicle ownership 
@@ -130,10 +130,10 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            TIGON Private Transportation Vehicles - Top PTV and LSV Brands
+            TIGON Personal Transportation Vehicles - Top PTV and LSV Brands
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            We carry the most trusted names in Private Transportation Vehicles and Low Speed Vehicles
+            We carry the most trusted names in Personal Transportation Vehicles and Low Speed Vehicles
           </p>
           
           <div className="grid grid-cols-2 md:grid-cols-6 gap-6 mb-12">
@@ -192,7 +192,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-gray-50">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Featured Private Transportation Vehicles
+            Featured Personal Transportation Vehicles
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             Check out some of our most popular PTV models
@@ -319,7 +319,7 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl font-bold mb-6 text-gray-900">
-                About TIGON Private Transportation Vehicles
+                About TIGON Personal Transportation Vehicles
               </h2>
               <p className="text-lg text-gray-600 mb-8">
                 With over 15 years of experience in the private transportation vehicle industry, we've built our reputation on providing exceptional service and quality products to customers throughout nationwide and surrounding areas.
@@ -350,7 +350,7 @@ export default function HomePage() {
                   allowFullScreen={true} 
                   loading="lazy" 
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="TIGON Private Transportation Vehicles nationwide, PA Map"
+                  title="TIGON Personal Transportation Vehicles nationwide, PA Map"
                 />
               </div>
             </div>
@@ -362,7 +362,7 @@ export default function HomePage() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Private Transportation Vehicles Delivered Nationwide
+            Personal Transportation Vehicles Delivered Nationwide
           </h2>
           <p className="text-xl text-gray-600 mb-12">
             Professional PTV services delivered across all 50 states, Canada, and Mexico

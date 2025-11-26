@@ -43,7 +43,7 @@ export default function VehicleSchema({
         "priceCurrency": "USD",
         "seller": {
           "@type": "Organization",
-          "name": "TIGON Private Transportation Vehicles",
+          "name": "TIGON Personal Transportation Vehicles",
           "telephone": "1-844-844-6638",
           "email": "info@tigonptv.com"
         }

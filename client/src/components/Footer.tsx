@@ -38,7 +38,7 @@ export default function Footer() {
           {/* Company Description */}
           <div className="md:hidden">
             <p className="text-gray-600 text-sm leading-relaxed">
-              TIGON Private Transportation Vehicles premier PTV dealership serving customers across 
+              TIGON Personal Transportation Vehicles premier PTV dealership serving customers across 
               the region with quality private transportation vehicles and expert service.
             </p>
           </div>
@@ -90,7 +90,7 @@ export default function Footer() {
             {/* Company Description */}
             <div className="md:col-span-1">
               <p className="text-gray-600 text-sm leading-relaxed">
-                TIGON Private Transportation Vehicles premier PTV dealership serving customers across 
+                TIGON Personal Transportation Vehicles premier PTV dealership serving customers across 
                 the region with quality private transportation vehicles and expert service.
               </p>
             </div>
@@ -139,7 +139,7 @@ export default function Footer() {
         {/* Locations Served - States and Countries */}
         <div className="border-t border-gray-200 pt-8 mb-8">
           <h3 className="text-lg font-semibold text-gray-900 mb-6 text-center">
-            Areas We Serve Private Transportation Vehicles
+            Areas We Serve Personal Transportation Vehicles
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3 text-center">
             {locations.map((location) => (
@@ -158,12 +158,12 @@ export default function Footer() {
         <div className="border-t border-gray-200 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-600 text-sm">
-              © 2025 TIGON Private Transportation Vehicles. All rights reserved. | 
+              © 2025 TIGON Personal Transportation Vehicles. All rights reserved. | 
               <Link href="/privacy-policy" className="hover:text-gray-900 ml-1">Privacy Policy</Link> | 
               <Link href="/terms-of-service" className="hover:text-gray-900 ml-1">Terms of Service</Link>
             </div>
             <div className="text-gray-600 text-sm">
-              TIGON Private Transportation Vehicles - Serving customers across the United States, Canada, and Mexico with premium private transportation vehicles and exceptional service.
+              TIGON Personal Transportation Vehicles - Serving customers across the United States, Canada, and Mexico with premium private transportation vehicles and exceptional service.
             </div>
           </div>
         </div>

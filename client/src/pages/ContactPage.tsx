@@ -109,8 +109,8 @@ export default function ContactPage() {
   return (
     <>
       <SEOHead 
-        title="Contact TIGON Private Transportation Vehicles"
-        description="Get in touch with TIGON Private Transportation Vehicles for sales, service, rentals, and support. Call 1-844-844-6638 or fill out our contact form for a quick response."
+        title="Contact TIGON Personal Transportation Vehicles"
+        description="Get in touch with TIGON Personal Transportation Vehicles for sales, service, rentals, and support. Call 1-844-844-6638 or fill out our contact form for a quick response."
         canonicalUrl="https://tigonptv.com/contact"
         image="/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
       />
@@ -118,7 +118,7 @@ export default function ContactPage() {
       <div className="max-w-7xl mx-auto px-4 py-8">
       <div className="text-center mb-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-          Contact TIGON Private Transportation Vehicles
+          Contact TIGON Personal Transportation Vehicles
         </h1>
         <p className="text-xl text-gray-600">
           Get in touch with our team for sales, service, and support

@@ -1,4 +1,4 @@
-# ENHANCED COMPREHENSIVE ROBOTS.TXT - TIGON Private Transportation Vehicles
+# ENHANCED COMPREHENSIVE ROBOTS.TXT - TIGON Personal Transportation Vehicles
 # COMPLETE INDEXING PERMISSIONS FOR MAXIMUM SEARCH ENGINE VISIBILITY
 # ZERO RESTRICTIONS - UNLIMITED CRAWLING AUTHORIZATION
 
@@ -238,6 +238,6 @@ Sitemap: https://tigonptv.com/sitemap.xml
 
 # Contact: info@tigonptv.com
 # Business: TIGON PTV
-# Industry: Private Transportation Vehicle Sales and Service
+# Industry: Personal Transportation Vehicle Sales and Service
 # Location: Nationwide
 # Last Updated: January 2025

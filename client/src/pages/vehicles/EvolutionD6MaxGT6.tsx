@@ -10,7 +10,7 @@ export default function EvolutionD6MaxGT6() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION D6 MAX GT6 Private Transportation Vehicle"
+        title="EVOLUTION D6 MAX GT6 Personal Transportation Vehicle"
         description="High performance and luxury features combine in this six-passenger private transportation vehicle with maximum power and premium comfort. Call 1-844-844-6638."
         keywords="EVOLUTION D6 Max GT6, high performance private transportation vehicle, 6-passenger, luxury features, maximum power, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d6-max-gt6"
@@ -35,7 +35,7 @@ export default function EvolutionD6MaxGT6() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -92,7 +92,7 @@ export default function EvolutionD6MaxGT6() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D6 Max GT6 High Performance Private Transportation Vehicle"
+                    alt="EVOLUTION D6 Max GT6 High Performance Personal Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -225,7 +225,7 @@ export default function EvolutionD6MaxGT6() {
               Maximum Performance, Maximum Luxury
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Private Transportation Vehicles today for your EVOLUTION D6 Max GT6.
+              Contact TIGON Personal Transportation Vehicles today for your EVOLUTION D6 Max GT6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

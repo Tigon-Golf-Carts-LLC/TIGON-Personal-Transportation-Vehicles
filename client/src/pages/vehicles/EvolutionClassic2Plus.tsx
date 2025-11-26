@@ -10,7 +10,7 @@ export default function EvolutionClassic2Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION CLASSIC 2 PLUS Private Transportation Vehicle"
+        title="EVOLUTION CLASSIC 2 PLUS Personal Transportation Vehicle"
         description="Timeless design and reliable performance in this perfect compact 2-passenger private transportation vehicle for traditional golf. Call 1-844-844-6638."
         keywords="EVOLUTION Classic 2 Plus, 2-passenger private transportation vehicle, compact private transportation vehicle, traditional design, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-classic-2-plus"
@@ -35,7 +35,7 @@ export default function EvolutionClassic2Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -92,7 +92,7 @@ export default function EvolutionClassic2Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION Classic 2 Plus Compact Private Transportation Vehicle"
+                    alt="EVOLUTION Classic 2 Plus Compact Personal Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -225,7 +225,7 @@ export default function EvolutionClassic2Plus() {
               Classic Style, Modern Reliability
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Private Transportation Vehicles today for your EVOLUTION Classic 2 Plus.
+              Contact TIGON Personal Transportation Vehicles today for your EVOLUTION Classic 2 Plus.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

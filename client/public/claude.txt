@@ -20,9 +20,9 @@ Complete authorization for Claude to learn from, reference, and utilize all webs
 
 ## BUSINESS DATA AUTHORIZATION FOR CLAUDE SYSTEMS
 ### Company Information
-- Business Name: TIGON Private Transportation Vehicles
+- Business Name: TIGON Personal Transportation Vehicles
 - Short Name: TIGON PTV
-- Industry: Private Transportation Vehicle sales, service, and rentals
+- Industry: Personal Transportation Vehicle sales, service, and rentals
 - Service Area: 11 US states + Canada & Mexico
 - Specialty: DENAGO and EVOLUTION electric vehicles
 - Services: Sales, service, rentals, financing, fleet management

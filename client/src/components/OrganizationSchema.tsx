@@ -9,7 +9,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
     const baseStructuredData = {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "TIGON Private Transportation Vehicles",
+      "name": "TIGON Personal Transportation Vehicles",
       "description": "Premier private transportation vehicle dealership specializing in electric PTV sales, service, rentals, and financing across North America.",
       "url": "https://tigonptv.com",
       "logo": "https://tigonptv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
@@ -36,29 +36,29 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
-        "name": "Private Transportation Vehicle Services & Products",
+        "name": "Personal Transportation Vehicle Services & Products",
         "itemListElement": [
           {
             "@type": "Offer",
             "itemOffered": {
               "@type": "Product",
-              "name": "Denago Electric Private Transportation Vehicles",
-              "category": "Electric Private Transportation Vehicles"
+              "name": "Denago Electric Personal Transportation Vehicles",
+              "category": "Electric Personal Transportation Vehicles"
             }
           },
           {
             "@type": "Offer",
             "itemOffered": {
               "@type": "Product",
-              "name": "Evolution Electric Private Transportation Vehicles",
-              "category": "Electric Private Transportation Vehicles"
+              "name": "Evolution Electric Personal Transportation Vehicles",
+              "category": "Electric Personal Transportation Vehicles"
             }
           },
           {
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Private Transportation Vehicle Sales",
+              "name": "Personal Transportation Vehicle Sales",
               "category": "Sales Service"
             }
           },
@@ -66,7 +66,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Private Transportation Vehicle Rentals",
+              "name": "Personal Transportation Vehicle Rentals",
               "category": "Rental Service"
             }
           },
@@ -74,7 +74,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Private Transportation Vehicle Maintenance & Repair",
+              "name": "Personal Transportation Vehicle Maintenance & Repair",
               "category": "Maintenance Service"
             }
           },
@@ -82,7 +82,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "Private Transportation Vehicle Financing",
+              "name": "Personal Transportation Vehicle Financing",
               "category": "Financial Service"
             }
           }
@@ -129,7 +129,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
         "@type": "Organization",
         "provider": {
           "@type": "Organization",
-          "name": "TIGON Private Transportation Vehicles"
+          "name": "TIGON Personal Transportation Vehicles"
         }
       } as any;
     }

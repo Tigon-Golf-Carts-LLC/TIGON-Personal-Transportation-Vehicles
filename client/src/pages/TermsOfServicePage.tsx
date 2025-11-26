@@ -6,7 +6,7 @@ export function TermsOfServicePage() {
       <SEOHead 
         title="Terms of Service"
         description="Review our terms and conditions for purchasing private transportation vehicles, rental services, and using our website. Call 1-844-844-6638."
-        keywords="terms of service, terms and conditions, private transportation vehicle purchase, rental agreement, nationwide Private Transportation Vehicles"
+        keywords="terms of service, terms and conditions, private transportation vehicle purchase, rental agreement, nationwide Personal Transportation Vehicles"
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export function TermsOfServicePage() {
               </p>
               
               <p className="mb-6">
-                Welcome to nationwide Private Transportation Vehicles. These Terms of Service ("Terms") govern your use of our website tigonptv.com and your relationship with us regarding the purchase, rental, and servicing of private transportation vehicles. By accessing our website or engaging our services, you agree to be bound by these Terms.
+                Welcome to nationwide Personal Transportation Vehicles. These Terms of Service ("Terms") govern your use of our website tigonptv.com and your relationship with us regarding the purchase, rental, and servicing of private transportation vehicles. By accessing our website or engaging our services, you agree to be bound by these Terms.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Acceptance of Terms</h2>
@@ -28,7 +28,7 @@ export function TermsOfServicePage() {
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">About Our Services</h2>
-              <p className="mb-4">nationwide Private Transportation Vehicles provides:</p>
+              <p className="mb-4">nationwide Personal Transportation Vehicles provides:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>New and used private transportation vehicle sales</li>
                 <li>Neighborhood electric vehicle rentals for various durations</li>
@@ -48,7 +48,7 @@ export function TermsOfServicePage() {
                 <li>Copy, reproduce, or distribute our content without authorization</li>
               </ul>
 
-              <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Private Transportation Vehicle Sales</h2>
+              <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Personal Transportation Vehicle Sales</h2>
               
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Pricing and Availability</h3>
               <p className="mb-6">
@@ -70,7 +70,7 @@ export function TermsOfServicePage() {
                 New private transportation vehicles come with manufacturer warranties as specified. Used private transportation vehicles may include limited warranties as described at the time of sale. We provide warranty information in writing for all applicable products.
               </p>
 
-              <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Private Transportation Vehicle Rentals</h2>
+              <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Personal Transportation Vehicle Rentals</h2>
               
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Rental Requirements</h3>
               <p className="mb-4">To rent a private transportation vehicle, you must:</p>
@@ -114,12 +114,12 @@ export function TermsOfServicePage() {
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Limitation of Liability</h2>
               <p className="mb-6">
-                To the fullest extent permitted by law, nationwide Private Transportation Vehicles shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
+                To the fullest extent permitted by law, nationwide Personal Transportation Vehicles shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services or products. Our total liability shall not exceed the amount you paid for the specific product or service.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Indemnification</h2>
               <p className="mb-6">
-                You agree to indemnify and hold harmless nationwide Private Transportation Vehicles from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
+                You agree to indemnify and hold harmless nationwide Personal Transportation Vehicles from any claims, damages, or expenses arising from your use of our products or services, violation of these Terms, or violation of any rights of another party.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Privacy Policy</h2>
@@ -145,7 +145,7 @@ export function TermsOfServicePage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <p className="mb-4">If you have questions about these Terms of Service, please contact us:</p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="mb-2"><strong>nationwide Private Transportation Vehicles</strong></p>
+                <p className="mb-2"><strong>nationwide Personal Transportation Vehicles</strong></p>
                 <p className="mb-2">Email: info@tigonptv.com</p>
                 <p className="mb-2">Phone: (215) 555-GOLF</p>
                 <p>Website: tigonptv.com</p>

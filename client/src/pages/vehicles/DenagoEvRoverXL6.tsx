@@ -10,7 +10,7 @@ export default function DenagoEvRoverXL6() {
   return (
     <>
       <SEOHead 
-        title="DENAGO EV ROVER XL 6 Private Transportation Vehicle"
+        title="DENAGO EV ROVER XL 6 Personal Transportation Vehicle"
         description="Premium luxury features and 6-passenger seating deliver ultimate comfort and performance for discerning customers. Call 1-844-844-6638."
         keywords="DENAGO EV Rover XL6, luxury electric vehicle, 6-passenger private transportation vehicle, premium comfort, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/denago-ev-rover-xl6"
@@ -37,7 +37,7 @@ export default function DenagoEvRoverXL6() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -234,7 +234,7 @@ export default function DenagoEvRoverXL6() {
               Experience Luxury Transportation
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Private Transportation Vehicles today to schedule a test drive or get a personalized quote for your DENAGO EV Rover XL6.
+              Contact TIGON Personal Transportation Vehicles today to schedule a test drive or get a personalized quote for your DENAGO EV Rover XL6.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

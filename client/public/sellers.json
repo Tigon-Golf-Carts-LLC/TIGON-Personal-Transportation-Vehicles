@@ -4,14 +4,14 @@
   "version": "1.0",
   "identifiers": [
     {
-      "name": "TIGON Private Transportation Vehicles",
+      "name": "TIGON Personal Transportation Vehicles",
       "domain": "tigonptv.com"
     }
   ],
   "sellers": [
     {
       "seller_id": "TIGONNEV001",
-      "name": "TIGON Private Transportation Vehicles",
+      "name": "TIGON Personal Transportation Vehicles",
       "domain": "tigonptv.com",
       "seller_type": "PUBLISHER",
       "is_confidential": 0,

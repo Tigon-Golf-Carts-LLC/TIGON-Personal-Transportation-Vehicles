@@ -136,7 +136,7 @@ export default function SEOHead({
       const structuredData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": `TIGON Private Transportation Vehicles - ${townName}`,
+        "name": `TIGON Personal Transportation Vehicles - ${townName}`,
         "description": description,
         "address": {
           "@type": "PostalAddress",
@@ -160,13 +160,13 @@ export default function SEOHead({
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
-          "name": "Private Transportation Vehicle Services",
+          "name": "Personal Transportation Vehicle Services",
           "itemListElement": [
             {
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Product",
-                "name": "Electric Private Transportation Vehicles",
+                "name": "Electric Personal Transportation Vehicles",
                 "brand": ["Denago", "Evolution"]
               }
             },
@@ -174,28 +174,28 @@ export default function SEOHead({
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "name": "Private Transportation Vehicle Sales"
+                "name": "Personal Transportation Vehicle Sales"
               }
             },
             {
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "name": "Private Transportation Vehicle Maintenance"
+                "name": "Personal Transportation Vehicle Maintenance"
               }
             },
             {
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "name": "Private Transportation Vehicle Rentals"
+                "name": "Personal Transportation Vehicle Rentals"
               }
             },
             {
               "@type": "Offer",
               "itemOffered": {
                 "@type": "Service",
-                "name": "Private Transportation Vehicle Financing"
+                "name": "Personal Transportation Vehicle Financing"
               }
             }
           ]

@@ -37,7 +37,7 @@ pennlive.com, TIGONNEV, RESELLER
 # Email: info@tigonptv.com
 # Business: TIGON PTV
 # Service Area: 11 US States + Canada & Mexico
-# Industry: Private Transportation Vehicle Sales and Service
+# Industry: Personal Transportation Vehicle Sales and Service
 # Phone: 1-844-844-6638
 
 ## ADVERTISING POLICY

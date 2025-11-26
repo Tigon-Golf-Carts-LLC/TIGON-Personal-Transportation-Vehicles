@@ -10,7 +10,7 @@ export default function EvolutionCarrier6Plus() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION CARRIER 6 PLUS Private Transportation Vehicle"
+        title="EVOLUTION CARRIER 6 PLUS Personal Transportation Vehicle"
         description="Six-passenger carrier with enhanced cargo capacity and utility features for work and recreation. Perfect balance of passenger comfort and utility functionality. Call 1-844-844-6638."
         keywords="EVOLUTION Carrier 6 Plus, utility private transportation vehicle, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-carrier-6-plus"
@@ -37,7 +37,7 @@ export default function EvolutionCarrier6Plus() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -101,7 +101,7 @@ export default function EvolutionCarrier6Plus() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION Carrier 6 Plus Utility Private Transportation Vehicle"
+                    alt="EVOLUTION Carrier 6 Plus Utility Personal Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -239,7 +239,7 @@ export default function EvolutionCarrier6Plus() {
               Ready for Work and Recreation
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Private Transportation Vehicles today to schedule a test drive or get a personalized quote for your EVOLUTION Carrier 6 Plus.
+              Contact TIGON Personal Transportation Vehicles today to schedule a test drive or get a personalized quote for your EVOLUTION Carrier 6 Plus.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

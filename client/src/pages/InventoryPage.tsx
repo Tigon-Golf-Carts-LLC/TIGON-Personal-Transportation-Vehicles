@@ -53,7 +53,7 @@ export default function InventoryPage() {
   return (
     <div className="min-h-screen">
       <SEOHead 
-        title="Private Transportation Vehicle Inventory"
+        title="Personal Transportation Vehicle Inventory"
         description="Browse our extensive collection of premium electric private transportation vehicles from Denago and Evolution. Find the perfect vehicle with advanced filtering options. Call 1-844-844-6638."
         keywords="private transportation vehicle inventory, Denago private transportation vehicles, Evolution private transportation vehicles, electric private transportation vehicles, nationwide PA"
         canonicalUrl="https://tigonptv.com/inventory"
@@ -66,7 +66,7 @@ export default function InventoryPage() {
       <section className="relative py-20 px-4 bg-gradient-to-r from-theme-primary to-blue-700 text-white bg-cover bg-center bg-no-repeat" style={{backgroundImage: "linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8)), url('/attached_assets/a-photograph-of-a-modern-golf-cart-deale_c_kG6NR-SA6qC8Vzl1iBww_ILJUjQXFQCGLKMSveOjbrA_1753283141121.png')"}}>
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            Private Transportation Vehicle Inventory
+            Personal Transportation Vehicle Inventory
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
             Browse our extensive collection of premium electric private transportation vehicles from DENAGO and EVOLUTION. 

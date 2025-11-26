@@ -15,7 +15,7 @@ export default function SchemaMarkup({ schema }: SchemaMarkupProps) {
 export const generateOrganizationSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "TIGON Private Transportation Vehicles",
+  "name": "TIGON Personal Transportation Vehicles",
   "alternateName": "TIGON PTV",
   "description": "Premier private transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
   "url": "https://tigonptv.com",
@@ -49,27 +49,27 @@ export const generateOrganizationSchema = () => ({
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Private Transportation Vehicle Sales and Services",
+    "name": "Personal Transportation Vehicle Sales and Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Product",
-          "name": "Electric Private Transportation Vehicles"
+          "name": "Electric Personal Transportation Vehicles"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Private Transportation Vehicle Rentals"
+          "name": "Personal Transportation Vehicle Rentals"
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Private Transportation Vehicle Service & Repair"
+          "name": "Personal Transportation Vehicle Service & Repair"
         }
       }
     ]
@@ -80,7 +80,7 @@ export const generateLocalBusinessSchema = () => ({
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "@id": "https://tigonptv.com/#localbusiness",
-  "name": "TIGON Private Transportation Vehicles",
+  "name": "TIGON Personal Transportation Vehicles",
   "description": "Premier private transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
   "url": "https://tigonptv.com",
   "telephone": "1-844-844-6638",
@@ -151,13 +151,13 @@ export const generateLocalBusinessSchema = () => ({
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Private Transportation Vehicle Products and Services",
+    "name": "Personal Transportation Vehicle Products and Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Product",
-          "name": "DENAGO Electric Private Transportation Vehicles",
+          "name": "DENAGO Electric Personal Transportation Vehicles",
           "brand": "DENAGO"
         }
       },
@@ -165,7 +165,7 @@ export const generateLocalBusinessSchema = () => ({
         "@type": "Offer",
         "itemOffered": {
           "@type": "Product",
-          "name": "EVOLUTION Private Transportation Vehicles",
+          "name": "EVOLUTION Personal Transportation Vehicles",
           "brand": "EVOLUTION"
         }
       }
@@ -177,7 +177,7 @@ export const generateWebsiteSchema = () => ({
   "@context": "https://schema.org",
   "@type": "WebSite",
   "@id": "https://tigonptv.com/#website",
-  "name": "TIGON Private Transportation Vehicles",
+  "name": "TIGON Personal Transportation Vehicles",
   "description": "Premier private transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America",
   "url": "https://tigonptv.com",
   "potentialAction": {
@@ -259,7 +259,7 @@ export const generateProductSchema = (vehicle: any) => ({
 export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Private Transportation Vehicle Services",
+  "name": "Personal Transportation Vehicle Services",
   "description": "Comprehensive private transportation vehicle sales, service, repair, and rental services across North America",
   "provider": {
     "@type": "LocalBusiness",
@@ -313,13 +313,13 @@ export const generateServiceSchema = () => ({
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Private Transportation Vehicle Services",
+    "name": "Personal Transportation Vehicle Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Private Transportation Vehicle Sales",
+          "name": "Personal Transportation Vehicle Sales",
           "description": "New and used electric private transportation vehicle sales"
         }
       },
@@ -327,7 +327,7 @@ export const generateServiceSchema = () => ({
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service", 
-          "name": "Private Transportation Vehicle Rentals",
+          "name": "Personal Transportation Vehicle Rentals",
           "description": "Daily, weekly, and monthly private transportation vehicle rentals"
         }
       },
@@ -335,7 +335,7 @@ export const generateServiceSchema = () => ({
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Private Transportation Vehicle Service & Repair",
+          "name": "Personal Transportation Vehicle Service & Repair",
           "description": "Professional maintenance and repair services"
         }
       },
@@ -343,7 +343,7 @@ export const generateServiceSchema = () => ({
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Private Transportation Vehicle Parts",
+          "name": "Personal Transportation Vehicle Parts",
           "description": "Genuine parts and accessories"
         }
       }
@@ -354,7 +354,7 @@ export const generateServiceSchema = () => ({
 export const generateOfferCatalogSchema = (vehicles: any[]) => ({
   "@context": "https://schema.org",
   "@type": "OfferCatalog",
-  "name": "Private Transportation Vehicle Inventory",
+  "name": "Personal Transportation Vehicle Inventory",
   "description": "Complete inventory of private transportation vehicles available for sale",
   "itemListElement": vehicles.map(vehicle => ({
     "@type": "Offer",
@@ -401,7 +401,7 @@ export const generateContactPageSchema = () => ({
 export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": `Private Transportation Vehicles in ${townName}`,
+  "name": `Personal Transportation Vehicles in ${townName}`,
   "description": `Professional private transportation vehicle sales, service, and rentals delivered to ${townName}, Pennsylvania, Pennsylvania`,
   "url": `https://tigonptv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-private-transportation-vehicles`,
   "mainEntity": {
@@ -432,7 +432,7 @@ export const generateTownPageSchema = (townName: string) => ({
       {
         "@type": "ListItem", 
         "position": 2,
-        "name": `${townName} Private Transportation Vehicles`,
+        "name": `${townName} Personal Transportation Vehicles`,
         "item": `https://tigonptv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-private-transportation-vehicles`
       }
     ]

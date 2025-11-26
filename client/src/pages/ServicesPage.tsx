@@ -83,7 +83,7 @@ export default function ServicesPage() {
   return (
     <div className="min-h-screen bg-white">
       <SEOHead 
-        title="Professional Private Transportation Vehicle Services"
+        title="Professional Personal Transportation Vehicle Services"
         description="Keep your private transportation vehicle running perfectly with expert maintenance, repair, and customization services from certified technicians. Professional NEV service for all major brands. Call 1-844-844-6638."
         keywords="private transportation vehicle service, NEV repair, NEV maintenance, nationwide PA, certified technicians, TIGON"
         canonicalUrl="https://tigonptv.com/services"

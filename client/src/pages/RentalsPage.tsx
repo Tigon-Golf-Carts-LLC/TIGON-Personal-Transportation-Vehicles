@@ -197,7 +197,7 @@ export default function RentalsPage() {
   return (
     <>
       <SEOHead 
-        title="Why Choose Our Private Transportation Vehicle Rentals?"
+        title="Why Choose Our Personal Transportation Vehicle Rentals?"
         description="Experience the best private transportation vehicle rentals with flexible daily, weekly, and monthly options. Full insurance coverage, delivery service, and no hidden fees. Call 1-844-844-6638."
         keywords="private transportation vehicle rental, nationwide rentals, private transportation vehicle hire, Pennsylvania private transportation vehicle rental"
         canonicalUrl="https://tigonptv.com/rentals"
@@ -215,9 +215,9 @@ export default function RentalsPage() {
           </div>
           
           <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">Private Transportation Vehicle Rentals</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">Personal Transportation Vehicle Rentals</h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-              Experience the freedom of TIGON Private Transportation Vehicles with flexible rental options. 
+              Experience the freedom of TIGON Personal Transportation Vehicles with flexible rental options. 
               Daily, weekly, and monthly plans available with full insurance coverage and delivery service.
             </p>
             <div className="flex justify-center gap-4">
@@ -234,7 +234,7 @@ export default function RentalsPage() {
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-12">
               <h1 className="text-4xl font-bold mb-8 text-gray-900">
-                Why Choose Our Private Transportation Vehicle Rentals?
+                Why Choose Our Personal Transportation Vehicle Rentals?
               </h1>
             </div>
 
@@ -251,7 +251,7 @@ export default function RentalsPage() {
 
         {/* 4 Seater Plans */}
         <RentalSection 
-          title="4 Seater Private Transportation Vehicle Rental Plans"
+          title="4 Seater Personal Transportation Vehicle Rental Plans"
           icon={<Users className="w-8 h-8 text-blue-600" />}
           plans={fourSeaterPlans}
           subtitle="Choose the perfect rental duration for your needs"
@@ -259,7 +259,7 @@ export default function RentalsPage() {
 
         {/* 6 Seater Plans */}
         <RentalSection 
-          title="6 Seater Private Transportation Vehicle Rental Plans"
+          title="6 Seater Personal Transportation Vehicle Rental Plans"
           icon={<Users className="w-8 h-8 text-blue-600" />}
           plans={sixSeaterPlans}
           subtitle="Choose the perfect rental duration for your needs"
@@ -267,7 +267,7 @@ export default function RentalsPage() {
 
         {/* Utility Plans */}
         <RentalSection 
-          title="Utility Private Transportation Vehicle Rental Plans"
+          title="Utility Personal Transportation Vehicle Rental Plans"
           icon={<Car className="w-8 h-8 text-blue-600" />}
           plans={utilityPlans}
           subtitle="Choose the perfect rental duration for your needs"

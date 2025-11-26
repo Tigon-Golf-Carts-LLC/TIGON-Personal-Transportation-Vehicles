@@ -60,7 +60,7 @@ export default function BestNEVCityCommuting() {
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
-            Top Private Transportation Vehicles for City Commuting in 2025
+            Top Personal Transportation Vehicles for City Commuting in 2025
           </h2>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">
@@ -97,7 +97,7 @@ export default function BestNEVCityCommuting() {
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
-            Why Choose a Private Transportation Vehicle for City Commuting?
+            Why Choose a Personal Transportation Vehicle for City Commuting?
           </h2>
 
           <h4 className="text-xl font-semibold text-gray-900 mt-6 mb-3">

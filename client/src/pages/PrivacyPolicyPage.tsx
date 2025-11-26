@@ -6,7 +6,7 @@ export function PrivacyPolicyPage() {
       <SEOHead 
         title="Privacy Policy"
         description="Learn how we collect, use, and protect your personal information when you visit our website or purchase private transportation vehicles. Call 1-844-844-6638."
-        keywords="privacy policy, data protection, personal information, nationwide Private Transportation Vehicles"
+        keywords="privacy policy, data protection, personal information, nationwide Personal Transportation Vehicles"
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export function PrivacyPolicyPage() {
               </p>
               
               <p className="mb-6">
-                At nationwide Private Transportation Vehicles, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website tigonptv.com or engage with our services.
+                At nationwide Personal Transportation Vehicles, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website tigonptv.com or engage with our services.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Information We Collect</h2>
@@ -115,7 +115,7 @@ export function PrivacyPolicyPage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Contact Information</h2>
               <p className="mb-4">If you have any questions about this Privacy Policy or our privacy practices, please contact us:</p>
               <div className="bg-gray-50 p-6 rounded-lg">
-                <p className="mb-2"><strong>TIGON Private Transportation Vehicles</strong></p>
+                <p className="mb-2"><strong>TIGON Personal Transportation Vehicles</strong></p>
                 <p className="mb-2">Email: info@tigonptv.com</p>
                 <p className="mb-2">Phone: 1-844-844-6638</p>
                 <p>Website: tigonptv.com</p>

@@ -10,7 +10,7 @@ export default function EvolutionD5Maverick4() {
   return (
     <>
       <SEOHead 
-        title="EVOLUTION D5 MAVERICK 4 Private Transportation Vehicle"
+        title="EVOLUTION D5 MAVERICK 4 Personal Transportation Vehicle"
         description="Reliable performance and essential features make this the perfect 4-passenger private transportation vehicle for standard transportation needs. Call 1-844-844-6638."
         keywords="EVOLUTION D5 Maverick 4, 4-passenger private transportation vehicle, standard features, reliable performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-maverick-4"
@@ -35,7 +35,7 @@ export default function EvolutionD5Maverick4() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -92,7 +92,7 @@ export default function EvolutionD5Maverick4() {
                 <div className="relative">
                   <img 
                     src={vehicleImage} 
-                    alt="EVOLUTION D5 Maverick 4 Standard Private Transportation Vehicle"
+                    alt="EVOLUTION D5 Maverick 4 Standard Personal Transportation Vehicle"
                     className="w-full h-auto rounded-lg shadow-2xl"
                   />
                   <div className="absolute top-4 right-4">
@@ -225,7 +225,7 @@ export default function EvolutionD5Maverick4() {
               Essential Quality, Reliable Performance
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Private Transportation Vehicles today for your EVOLUTION D5 Maverick 4.
+              Contact TIGON Personal Transportation Vehicles today for your EVOLUTION D5 Maverick 4.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

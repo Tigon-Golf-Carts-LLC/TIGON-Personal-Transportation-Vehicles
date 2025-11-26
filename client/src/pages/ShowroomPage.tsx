@@ -394,7 +394,7 @@ export default function ShowroomPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
-        title="Private Transportation Vehicle Showroom"
+        title="Personal Transportation Vehicle Showroom"
         description="Visit our private transportation vehicle dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
         keywords="private transportation vehicle showroom, nationwide dealership, Denago Evolution dealer, private transportation vehicle locations"
         canonicalUrl="https://tigonptv.com/showroom"
@@ -411,10 +411,10 @@ export default function ShowroomPage() {
         
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">
-            Private Transportation Vehicle Showroom
+            Personal Transportation Vehicle Showroom
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-            Visit our TIGON Private Transportation Vehicle dealership locations serving nationwide, Pennsylvania. 
+            Visit our TIGON Personal Transportation Vehicle dealership locations serving nationwide, Pennsylvania. 
             Experience our full lineup of DENAGO and EVOLUTION electric vehicles in person or online.
           </p>
           <div className="flex justify-center">

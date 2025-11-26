@@ -2,10 +2,10 @@
 # Last Updated: January 2025
 
 ## COPYRIGHT NOTICE
-© 2025 TIGON Private Transportation Vehicles. All rights reserved.
+© 2025 TIGON Personal Transportation Vehicles. All rights reserved.
 
 ## BUSINESS INFORMATION
-Legal Business Name: TIGON Private Transportation Vehicles
+Legal Business Name: TIGON Personal Transportation Vehicles
 Operating Name: TIGON PTV
 Website: https://tigonptv.com
 Established: 2015
@@ -23,7 +23,7 @@ All content, logos, graphics, images, text, and other materials on this website 
 - Business processes
 
 ## TRADEMARK NOTICE
-TIGON PTV and the TIGON PTV logo are trademarks of TIGON Private Transportation Vehicles.
+TIGON PTV and the TIGON PTV logo are trademarks of TIGON Personal Transportation Vehicles.
 
 Third-party trademarks:
 - DENAGO is a trademark of DENAGO Electric Vehicles
@@ -38,7 +38,7 @@ Content on this website may be used for:
 
 ## ATTRIBUTION REQUIREMENTS
 When using our content, please attribute to:
-Source: TIGON Private Transportation Vehicles (https://tigonptv.com)
+Source: TIGON Personal Transportation Vehicles (https://tigonptv.com)
 
 ## CONTACT FOR COPYRIGHT INQUIRIES
 Email: info@tigonptv.com

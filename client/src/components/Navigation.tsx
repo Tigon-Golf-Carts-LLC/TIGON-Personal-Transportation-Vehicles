@@ -32,7 +32,7 @@ export default function Navigation() {
             <div className="rounded-lg w-16 h-16 flex-shrink-0">
               <img 
                 src={tigonLogo} 
-                alt="TIGON Private Transportation Vehicles Logo" 
+                alt="TIGON Personal Transportation Vehicles Logo" 
                 className="h-16 w-16 object-contain"
                 width="64"
                 height="64"

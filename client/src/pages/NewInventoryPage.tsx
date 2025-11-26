@@ -45,7 +45,7 @@ export default function NewInventoryPage() {
   return (
     <>
       <SEOHead 
-        title="Private Transportation Vehicle Inventory"
+        title="Personal Transportation Vehicle Inventory"
         description="Browse our extensive inventory of new and used private transportation vehicles from top brands like DENAGO and EVOLUTION in nationwide, PA. Call 1-844-844-6638."
         keywords="private transportation vehicle inventory, new private transportation vehicles, used private transportation vehicles, DENAGO, EVOLUTION, nationwide private transportation vehicles"
       />
@@ -63,7 +63,7 @@ export default function NewInventoryPage() {
           <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center text-white">
               <h1 className="text-4xl md:text-5xl font-bold mb-6 drop-shadow-lg">
-                Private Transportation Vehicle Inventory
+                Personal Transportation Vehicle Inventory
               </h1>
               <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
                 Discover our extensive selection of premium private transportation vehicles from leading brands. 
@@ -137,7 +137,7 @@ export default function NewInventoryPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex justify-between items-center mb-8">
               <h2 className="text-2xl font-bold text-gray-900">
-                Available Private Transportation Vehicles ({filteredVehicles?.length || 0})
+                Available Personal Transportation Vehicles ({filteredVehicles?.length || 0})
               </h2>
             </div>
 

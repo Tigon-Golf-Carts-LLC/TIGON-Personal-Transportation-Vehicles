@@ -14,7 +14,7 @@ admob.com, pub-PLACEHOLDER, DIRECT, f08c47fec0942fa0
 
 ## CONTACT
 # Email: info@tigonptv.com
-# Business: TIGON Private Transportation Vehicles
+# Business: TIGON Personal Transportation Vehicles
 # Website: https://tigonptv.com
 
 ## NOTE

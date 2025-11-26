@@ -39,7 +39,7 @@ export default function NEVTaxCredits() {
         </header>
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-8">Federal tax credits, state rebates, and local utility incentives can reduce the cost of your private transportation vehicle purchase by thousands of dollars. Pennsylvania, New Jersey, Delaware, Virginia, and buyers nationwide should explore all available savings opportunities before purchasing their NEV in 2025.</p>
-          <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">Federal Tax Credits for Private Transportation Vehicles</h2>
+          <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">Federal Tax Credits for Personal Transportation Vehicles</h2>
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Clean Vehicle Credit - Up to $7,500</h3>
           <p className="mb-4">The federal Clean Vehicle Credit provides up to $7,500 for qualifying new electric vehicles, including certain private transportation vehicles. Eligibility depends on vehicle specifications, manufacturer, and buyer income limits.</p>
           <p className="mb-4"><strong>2025 Eligibility Requirements:</strong></p>

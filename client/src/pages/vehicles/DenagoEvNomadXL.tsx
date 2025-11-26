@@ -10,7 +10,7 @@ export default function DenagoEvNomadXL() {
   return (
     <>
       <SEOHead 
-        title="DENAGO EV NOMAD XL Private Transportation Vehicle"
+        title="DENAGO EV NOMAD XL Personal Transportation Vehicle"
         description="Extended seating and enhanced storage for larger adventure groups. Perfect for group exploration and outdoor activities with superior performance. Call 1-844-844-6638."
         keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger private transportation vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/denago-ev-nomad-xl"
@@ -37,7 +37,7 @@ export default function DenagoEvNomadXL() {
         <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-            style={{backgroundImage: "url('/attached_assets/TIGON - Private Transportation Vehicles 2_1763150117019.jpeg')"}}
+            style={{backgroundImage: "url('/attached_assets/TIGON - Personal Transportation Vehicles 2_1763150117019.jpeg')"}}
           >
             <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(14, 46, 85, 0.8), rgba(29, 78, 216, 0.8))' }}></div>
           </div>
@@ -239,7 +239,7 @@ export default function DenagoEvNomadXL() {
               Ready for Your Next Adventure?
             </h2>
             <p className="text-xl text-gray-300 mb-8">
-              Contact TIGON Private Transportation Vehicles today to schedule a test drive or get a personalized quote for your DENAGO EV Nomad XL.
+              Contact TIGON Personal Transportation Vehicles today to schedule a test drive or get a personalized quote for your DENAGO EV Nomad XL.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

@@ -29,7 +29,7 @@
     </task>
     <jumplist>
       <task>
-        <name>Browse Private Transportation Vehicles</name>
+        <name>Browse Personal Transportation Vehicles</name>
         <description>View our complete PTV vehicle inventory</description>
         <arguments>/inventory</arguments>
         <iconUri>/favicon-96.png</iconUri>
@@ -59,7 +59,7 @@
         <iconUri>/favicon-96.png</iconUri>
       </task>
     </jumplist>
-    <tooltip>TIGON Private Transportation Vehicles - PTV Dealership</tooltip>
+    <tooltip>TIGON Personal Transportation Vehicles - PTV Dealership</tooltip>
     <startscreen>
       <image src="/favicon-512.png"/>
       <color>#af1b30</color>

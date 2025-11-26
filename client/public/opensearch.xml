@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>TIGON Private Transportation Vehicles</ShortName>
+  <ShortName>TIGON Personal Transportation Vehicles</ShortName>
   <Description>Search private transportation vehicles, parts, and services nationwide - serving all 50 states, Canada, and Mexico</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>
@@ -10,11 +10,11 @@
   <Url type="application/x-suggestions+json" method="get" template="https://tigonptv.com/api/suggestions?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://tigonptv.com/opensearch.xml"/>
   <Query role="example" searchTerms="Evolution D5 Maverick"/>
-  <Developer>TIGON Private Transportation Vehicles</Developer>
+  <Developer>TIGON Personal Transportation Vehicles</Developer>
   <Contact>info@tigonptv.com</Contact>
   <Tags>private transportation vehicles PTV electric TIGON Evolution Denago nationwide</Tags>
-  <LongName>TIGON Private Transportation Vehicles - PTV Search</LongName>
-  <Attribution>Copyright 2025 TIGON Private Transportation Vehicles. All rights reserved.</Attribution>
+  <LongName>TIGON Personal Transportation Vehicles - PTV Search</LongName>
+  <Attribution>Copyright 2025 TIGON Personal Transportation Vehicles. All rights reserved.</Attribution>
   <SyndicationRight>open</SyndicationRight>
   <AdultContent>false</AdultContent>
   <Language>en-us</Language>
