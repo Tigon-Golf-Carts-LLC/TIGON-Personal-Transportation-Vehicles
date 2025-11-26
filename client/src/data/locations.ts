@@ -19,7 +19,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Alabama',
     mapQuery: 'Alabama, United States',
     seoTitle: 'Personal Transportation Vehicles in Alabama | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Alabama. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Alabama. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Alabama',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Alabama'
   },
@@ -30,7 +30,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Alaska',
     mapQuery: 'Alaska, United States',
     seoTitle: 'Personal Transportation Vehicles in Alaska | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Alaska. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Alaska. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Alaska',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Alaska'
   },
@@ -41,7 +41,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Arizona',
     mapQuery: 'Arizona, United States',
     seoTitle: 'Personal Transportation Vehicles in Arizona | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Arizona. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Arizona. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Arizona',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Arizona'
   },
@@ -52,7 +52,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Arkansas',
     mapQuery: 'Arkansas, United States',
     seoTitle: 'Personal Transportation Vehicles in Arkansas | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Arkansas. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Arkansas. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Arkansas',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Arkansas'
   },
@@ -63,7 +63,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'California',
     mapQuery: 'California, United States',
     seoTitle: 'Personal Transportation Vehicles in California | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving California. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving California. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in California',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout California'
   },
@@ -74,7 +74,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Colorado',
     mapQuery: 'Colorado, United States',
     seoTitle: 'Personal Transportation Vehicles in Colorado | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Colorado. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Colorado. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Colorado',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Colorado'
   },
@@ -85,7 +85,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Connecticut',
     mapQuery: 'Connecticut, United States',
     seoTitle: 'Personal Transportation Vehicles in Connecticut | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Connecticut. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Connecticut. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Connecticut',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Connecticut'
   },
@@ -96,7 +96,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Delaware',
     mapQuery: 'Delaware, United States',
     seoTitle: 'Personal Transportation Vehicles in Delaware | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Delaware. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Delaware. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Delaware',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Delaware'
   },
@@ -107,7 +107,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Florida',
     mapQuery: 'Florida, United States',
     seoTitle: 'Personal Transportation Vehicles in Florida | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Florida. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Florida. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Florida',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Florida'
   },
@@ -118,7 +118,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Georgia',
     mapQuery: 'Georgia, United States',
     seoTitle: 'Personal Transportation Vehicles in Georgia | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Georgia. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Georgia. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Georgia',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Georgia'
   },
@@ -129,7 +129,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Hawaii',
     mapQuery: 'Hawaii, United States',
     seoTitle: 'Personal Transportation Vehicles in Hawaii | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Hawaii. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Hawaii. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Hawaii',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Hawaii'
   },
@@ -140,7 +140,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Idaho',
     mapQuery: 'Idaho, United States',
     seoTitle: 'Personal Transportation Vehicles in Idaho | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Idaho. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Idaho. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Idaho',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Idaho'
   },
@@ -151,7 +151,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Illinois',
     mapQuery: 'Illinois, United States',
     seoTitle: 'Personal Transportation Vehicles in Illinois | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Illinois. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Illinois. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Illinois',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Illinois'
   },
@@ -162,7 +162,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Indiana',
     mapQuery: 'Indiana, United States',
     seoTitle: 'Personal Transportation Vehicles in Indiana | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Indiana. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Indiana. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Indiana',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Indiana'
   },
@@ -173,7 +173,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Iowa',
     mapQuery: 'Iowa, United States',
     seoTitle: 'Personal Transportation Vehicles in Iowa | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Iowa. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Iowa. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Iowa',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Iowa'
   },
@@ -184,7 +184,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Kansas',
     mapQuery: 'Kansas, United States',
     seoTitle: 'Personal Transportation Vehicles in Kansas | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Kansas. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Kansas. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Kansas',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Kansas'
   },
@@ -195,7 +195,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Kentucky',
     mapQuery: 'Kentucky, United States',
     seoTitle: 'Personal Transportation Vehicles in Kentucky | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Kentucky. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Kentucky. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Kentucky',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Kentucky'
   },
@@ -206,7 +206,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Louisiana',
     mapQuery: 'Louisiana, United States',
     seoTitle: 'Personal Transportation Vehicles in Louisiana | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Louisiana. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Louisiana. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Louisiana',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Louisiana'
   },
@@ -217,7 +217,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Maine',
     mapQuery: 'Maine, United States',
     seoTitle: 'Personal Transportation Vehicles in Maine | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Maine. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Maine. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Maine',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Maine'
   },
@@ -228,7 +228,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Maryland',
     mapQuery: 'Maryland, United States',
     seoTitle: 'Personal Transportation Vehicles in Maryland | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Maryland. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Maryland. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Maryland',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Maryland'
   },
@@ -239,7 +239,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Massachusetts',
     mapQuery: 'Massachusetts, United States',
     seoTitle: 'Personal Transportation Vehicles in Massachusetts | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Massachusetts. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Massachusetts. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Massachusetts',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Massachusetts'
   },
@@ -250,7 +250,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Michigan',
     mapQuery: 'Michigan, United States',
     seoTitle: 'Personal Transportation Vehicles in Michigan | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Michigan. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Michigan. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Michigan',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Michigan'
   },
@@ -261,7 +261,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Minnesota',
     mapQuery: 'Minnesota, United States',
     seoTitle: 'Personal Transportation Vehicles in Minnesota | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Minnesota. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Minnesota. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Minnesota',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Minnesota'
   },
@@ -272,7 +272,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Mississippi',
     mapQuery: 'Mississippi, United States',
     seoTitle: 'Personal Transportation Vehicles in Mississippi | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Mississippi. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Mississippi. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Mississippi',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Mississippi'
   },
@@ -283,7 +283,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Missouri',
     mapQuery: 'Missouri, United States',
     seoTitle: 'Personal Transportation Vehicles in Missouri | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Missouri. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Missouri. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Missouri',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Missouri'
   },
@@ -294,7 +294,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Montana',
     mapQuery: 'Montana, United States',
     seoTitle: 'Personal Transportation Vehicles in Montana | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Montana. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Montana. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Montana',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Montana'
   },
@@ -305,7 +305,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Nebraska',
     mapQuery: 'Nebraska, United States',
     seoTitle: 'Personal Transportation Vehicles in Nebraska | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Nebraska. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Nebraska. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Nebraska',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Nebraska'
   },
@@ -316,7 +316,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Nevada',
     mapQuery: 'Nevada, United States',
     seoTitle: 'Personal Transportation Vehicles in Nevada | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Nevada. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Nevada. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Nevada',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Nevada'
   },
@@ -327,7 +327,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'New Hampshire',
     mapQuery: 'New Hampshire, United States',
     seoTitle: 'Personal Transportation Vehicles in New Hampshire | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving New Hampshire. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving New Hampshire. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in New Hampshire',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout New Hampshire'
   },
@@ -338,7 +338,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'New Jersey',
     mapQuery: 'New Jersey, United States',
     seoTitle: 'Personal Transportation Vehicles in New Jersey | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving New Jersey. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving New Jersey. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in New Jersey',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout New Jersey'
   },
@@ -349,7 +349,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'New Mexico',
     mapQuery: 'New Mexico, United States',
     seoTitle: 'Personal Transportation Vehicles in New Mexico | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving New Mexico. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving New Mexico. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in New Mexico',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout New Mexico'
   },
@@ -360,7 +360,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'New York',
     mapQuery: 'New York, United States',
     seoTitle: 'Personal Transportation Vehicles in New York | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving New York. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving New York. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in New York',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout New York'
   },
@@ -371,7 +371,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'North Carolina',
     mapQuery: 'North Carolina, United States',
     seoTitle: 'Personal Transportation Vehicles in North Carolina | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving North Carolina. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving North Carolina. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in North Carolina',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout North Carolina'
   },
@@ -382,7 +382,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'North Dakota',
     mapQuery: 'North Dakota, United States',
     seoTitle: 'Personal Transportation Vehicles in North Dakota | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving North Dakota. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving North Dakota. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in North Dakota',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout North Dakota'
   },
@@ -393,7 +393,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Ohio',
     mapQuery: 'Ohio, United States',
     seoTitle: 'Personal Transportation Vehicles in Ohio | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Ohio. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Ohio. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Ohio',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Ohio'
   },
@@ -404,7 +404,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Oklahoma',
     mapQuery: 'Oklahoma, United States',
     seoTitle: 'Personal Transportation Vehicles in Oklahoma | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Oklahoma. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Oklahoma. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Oklahoma',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Oklahoma'
   },
@@ -415,7 +415,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Oregon',
     mapQuery: 'Oregon, United States',
     seoTitle: 'Personal Transportation Vehicles in Oregon | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Oregon. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Oregon. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Oregon',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Oregon'
   },
@@ -426,7 +426,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Pennsylvania',
     mapQuery: 'Pennsylvania, United States',
     seoTitle: 'Personal Transportation Vehicles in Pennsylvania | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Pennsylvania. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Pennsylvania. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Pennsylvania',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Pennsylvania'
   },
@@ -437,7 +437,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Rhode Island',
     mapQuery: 'Rhode Island, United States',
     seoTitle: 'Personal Transportation Vehicles in Rhode Island | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Rhode Island. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Rhode Island. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Rhode Island',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Rhode Island'
   },
@@ -448,7 +448,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'South Carolina',
     mapQuery: 'South Carolina, United States',
     seoTitle: 'Personal Transportation Vehicles in South Carolina | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving South Carolina. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving South Carolina. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in South Carolina',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout South Carolina'
   },
@@ -459,7 +459,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'South Dakota',
     mapQuery: 'South Dakota, United States',
     seoTitle: 'Personal Transportation Vehicles in South Dakota | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving South Dakota. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving South Dakota. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in South Dakota',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout South Dakota'
   },
@@ -470,7 +470,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Tennessee',
     mapQuery: 'Tennessee, United States',
     seoTitle: 'Personal Transportation Vehicles in Tennessee | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Tennessee. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Tennessee. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Tennessee',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Tennessee'
   },
@@ -481,7 +481,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Texas',
     mapQuery: 'Texas, United States',
     seoTitle: 'Personal Transportation Vehicles in Texas | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Texas. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Texas. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Texas',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Texas'
   },
@@ -492,7 +492,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Utah',
     mapQuery: 'Utah, United States',
     seoTitle: 'Personal Transportation Vehicles in Utah | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Utah. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Utah. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Utah',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Utah'
   },
@@ -503,7 +503,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Vermont',
     mapQuery: 'Vermont, United States',
     seoTitle: 'Personal Transportation Vehicles in Vermont | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Vermont. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Vermont. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Vermont',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Vermont'
   },
@@ -514,7 +514,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Virginia',
     mapQuery: 'Virginia, United States',
     seoTitle: 'Personal Transportation Vehicles in Virginia | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Virginia. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Virginia. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Virginia',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Virginia'
   },
@@ -525,7 +525,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Washington',
     mapQuery: 'Washington, United States',
     seoTitle: 'Personal Transportation Vehicles in Washington | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Washington. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Washington. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Washington',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Washington'
   },
@@ -536,7 +536,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'West Virginia',
     mapQuery: 'West Virginia, United States',
     seoTitle: 'Personal Transportation Vehicles in West Virginia | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving West Virginia. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving West Virginia. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in West Virginia',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout West Virginia'
   },
@@ -547,7 +547,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Wisconsin',
     mapQuery: 'Wisconsin, United States',
     seoTitle: 'Personal Transportation Vehicles in Wisconsin | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Wisconsin. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Wisconsin. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Wisconsin',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Wisconsin'
   },
@@ -558,7 +558,7 @@ export const US_STATES: LocationConfig[] = [
     fullName: 'Wyoming',
     mapQuery: 'Wyoming, United States',
     seoTitle: 'Personal Transportation Vehicles in Wyoming | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Wyoming. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Wyoming. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Wyoming',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Wyoming'
   }
@@ -573,7 +573,7 @@ export const COUNTRIES: LocationConfig[] = [
     fullName: 'United States of America',
     mapQuery: 'United States',
     seoTitle: 'Personal Transportation Vehicles in United States | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving the entire United States. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving the entire United States. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in United States',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout the United States'
   },
@@ -584,7 +584,7 @@ export const COUNTRIES: LocationConfig[] = [
     fullName: 'Mexico',
     mapQuery: 'Mexico',
     seoTitle: 'Personal Transportation Vehicles in Mexico | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Mexico. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Mexico. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Mexico',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Mexico'
   },
@@ -595,7 +595,7 @@ export const COUNTRIES: LocationConfig[] = [
     fullName: 'Canada',
     mapQuery: 'Canada',
     seoTitle: 'Personal Transportation Vehicles in Canada | TIGON PTV',
-    seoDescription: 'Premium private transportation vehicles and street legal golf carts serving Canada. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
+    seoDescription: 'Premium personal transportation vehicles and street legal golf carts serving Canada. Expert PTV sales, service, rentals, and financing from TIGON. Call 1-844-844-6638.',
     heroTitle: 'Personal Transportation Vehicles in Canada',
     heroSubtitle: 'Your trusted source for premium electric vehicles for the neighborhood throughout Canada'
   }
