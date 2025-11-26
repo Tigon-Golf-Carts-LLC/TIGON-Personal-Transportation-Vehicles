@@ -1,9 +1,10 @@
 # TERMS OF SERVICE REFERENCES - TIGON PTV
-# Last Updated: January 2025
+# Last Updated: November 2025
 
 ## TERMS OF SERVICE
 Full Terms of Service: https://tigonptv.com/policies
 Contact: info@tigonptv.com
+Phone: 1-844-844-6638
 
 ## WEBSITE USE
 This website and its content are provided for informational purposes.
@@ -13,6 +14,7 @@ This website and its content are provided for informational purposes.
 - Request quotes and information
 - Schedule service appointments
 - Apply for financing (subject to approval)
+- Book rental reservations
 
 ### Prohibited Use
 - Automated scraping (except authorized search engines and AI)
@@ -30,12 +32,20 @@ This website and its content are provided for informational purposes.
 - Deposits may be required
 - Delivery terms vary by location
 - Returns and exchanges per company policy
+- Nationwide delivery available
 
 ## SERVICE TERMS
 - Service by appointment
 - Labor rates subject to change
 - Parts availability not guaranteed
 - Warranty terms per manufacturer
+- Factory-authorized service
+
+## RENTAL TERMS
+- Reservations required
+- Security deposit required
+- Insurance may be required
+- Age and license requirements apply
 
 ## LIMITATION OF LIABILITY
 TIGON PTV not liable for:
@@ -48,10 +58,11 @@ TIGON PTV not liable for:
 Disputes resolved through:
 1. Direct communication
 2. Mediation if needed
-3. Arbitration (Pennsylvania law)
+3. Arbitration
 
 ## CONTACT
 Legal Inquiries: info@tigonptv.com
 Phone: 1-844-844-6638
+Website: https://tigonptv.com
 
-END OF TERMS REFERENCES
+END OF TERMS.TXT

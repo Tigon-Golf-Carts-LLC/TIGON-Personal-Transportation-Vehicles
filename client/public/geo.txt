@@ -1,297 +1,132 @@
 # Geographic SEO Information - TIGON PTV
-# Multi-State Personal Transportation Vehicle Dealership
-# Last Updated: January 2025
+# Nationwide Personal Transportation Vehicle Dealership
+# Last Updated: November 2025
 
 ## TIGON PTV GEOGRAPHIC COVERAGE
 
-### PRIMARY SERVICE TERRITORY
-**Coverage:** 11 US States + Canada & Mexico
-**Total Locations:** 30 (18 physical showrooms + 12 online stores)
-**Headquarters:** Hatfield, Pennsylvania
-**Founded:** 2015
+### SERVICE TERRITORY
+Coverage: All 50 US States + Canada & Mexico
+Website: https://tigonptv.com
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
 
-## UNITED STATES COVERAGE
+## UNITED STATES - ALL 50 STATES
 
-### Pennsylvania (Headquarters State)
-**Primary Market**
-- Headquarters: Hatfield, PA
-- Coordinates: 40.2420° N, 75.2865° W
-- Major Cities Served: Philadelphia, Pittsburgh, Allentown, Reading, Lancaster
-- Service Locations: Multiple showrooms across state
-- Keywords: PTV Pennsylvania, private transportation vehicles PA, street legal electric vehicles Philadelphia
+### Northeast Region
+- Connecticut: Hartford, New Haven, Stamford
+- Maine: Portland, Augusta, Bangor
+- Massachusetts: Boston, Worcester, Springfield
+- New Hampshire: Manchester, Nashua, Concord
+- New Jersey: Newark, Jersey City, Trenton, Atlantic City
+- New York: New York City, Buffalo, Albany, Rochester
+- Pennsylvania: Philadelphia, Pittsburgh, Allentown
+- Rhode Island: Providence, Warwick, Cranston
+- Vermont: Burlington, Montpelier, Rutland
 
-**Key Pennsylvania Regions:**
-- Philadelphia Metro Area
-- Lehigh Valley
-- Pittsburgh Region
-- Central Pennsylvania
-- Pocono Mountains
+### Southeast Region
+- Alabama: Birmingham, Montgomery, Mobile
+- Delaware: Wilmington, Dover, Newark
+- Florida: Miami, Orlando, Tampa, Jacksonville
+- Georgia: Atlanta, Augusta, Savannah
+- Kentucky: Louisville, Lexington, Bowling Green
+- Maryland: Baltimore, Annapolis, Rockville
+- North Carolina: Charlotte, Raleigh, Greensboro
+- South Carolina: Charleston, Columbia, Greenville
+- Tennessee: Nashville, Memphis, Knoxville
+- Virginia: Virginia Beach, Richmond, Norfolk
+- West Virginia: Charleston, Huntington, Morgantown
 
-### New Jersey
-**Secondary Major Market**
-- Key Location: Ocean View, NJ
-- Coordinates: 39.2154° N, 74.6988° W
-- Major Cities: Newark, Jersey City, Trenton, Atlantic City
-- Beach Communities: Cape May, Ocean City, Wildwood
-- Keywords: PTV New Jersey, private transportation vehicles NJ, shore electric vehicles
+### Midwest Region
+- Illinois: Chicago, Aurora, Rockford
+- Indiana: Indianapolis, Fort Wayne, Evansville
+- Iowa: Des Moines, Cedar Rapids, Davenport
+- Kansas: Wichita, Overland Park, Kansas City
+- Michigan: Detroit, Grand Rapids, Ann Arbor
+- Minnesota: Minneapolis, St. Paul, Rochester
+- Missouri: Kansas City, St. Louis, Springfield
+- Nebraska: Omaha, Lincoln, Bellevue
+- North Dakota: Fargo, Bismarck, Grand Forks
+- Ohio: Columbus, Cleveland, Cincinnati
+- South Dakota: Sioux Falls, Rapid City, Aberdeen
+- Wisconsin: Milwaukee, Madison, Green Bay
 
-**Key New Jersey Regions:**
-- Shore Region (Jersey Shore)
-- Northern New Jersey
-- Central New Jersey
-- South Jersey
+### Southwest Region
+- Arizona: Phoenix, Tucson, Mesa
+- New Mexico: Albuquerque, Santa Fe, Las Cruces
+- Oklahoma: Oklahoma City, Tulsa, Norman
+- Texas: Houston, Dallas, Austin, San Antonio
 
-### Delaware
-**Growing Market**
-- Beach Communities: Rehoboth Beach, Dewey Beach, Bethany Beach
-- Major City: Wilmington
-- Resort Areas: Strong PTV demand
-- Keywords: PTV Delaware, beach electric vehicles DE, resort neighborhood vehicles
+### West Region
+- California: Los Angeles, San Francisco, San Diego
+- Colorado: Denver, Colorado Springs, Aurora
+- Idaho: Boise, Meridian, Nampa
+- Montana: Billings, Missoula, Great Falls
+- Nevada: Las Vegas, Reno, Henderson
+- Oregon: Portland, Eugene, Salem
+- Utah: Salt Lake City, Provo, West Valley City
+- Washington: Seattle, Spokane, Tacoma
+- Wyoming: Cheyenne, Casper, Laramie
 
-### Virginia
-**Mid-Atlantic Expansion**
-- Northern Virginia (NoVA)
-- Richmond Metro
-- Virginia Beach
-- Coastal Communities
-- Keywords: PTV Virginia, private transportation vehicles VA, NoVA electric vehicles
-
-### Maryland
-**Baltimore-DC Corridor**
-- Baltimore Metro
-- Ocean City (Beach Resort)
-- Annapolis Area
-- Montgomery County
-- Keywords: PTV Maryland, private transportation vehicles Baltimore, Ocean City electric vehicles
-
-### North Carolina
-**Southern Expansion**
-- Charlotte Metro
-- Raleigh-Durham
-- Outer Banks (Beach Communities)
-- Retirement Communities
-- Keywords: PTV North Carolina, retirement community electric vehicles NC
-
-### South Carolina
-**Coastal and Retirement Market**
-- Myrtle Beach
-- Charleston
-- Hilton Head
-- Retirement Communities
-- Golf Communities
-- Keywords: PTV South Carolina, golf community electric vehicles SC
-
-### Florida
-**Major Retirement and Resort Market**
-- Miami-Fort Lauderdale
-- Tampa-St. Petersburg
-- Orlando
-- Jacksonville
-- Naples (High retirement concentration)
-- The Villages (Major retirement community)
-- Keywords: PTV Florida, retirement electric vehicles FL, resort neighborhood vehicles
-
-### Indiana
-**Midwest Expansion**
-- Indianapolis Metro
-- Fort Wayne
-- Evansville
-- University Communities
-- Keywords: PTV Indiana, campus electric vehicles IN
-
-### Ohio
-**Midwest Market**
-- Columbus
-- Cleveland
-- Cincinnati
-- Toledo
-- Keywords: PTV Ohio, private transportation vehicles Cleveland, campus transport Ohio
-
-### New York
-**Northeast Market**
-- New York Metro Area (suburbs)
-- Long Island
-- Upstate Communities
-- Resort Areas (Hamptons, Catskills)
-- Keywords: PTV New York, Long Island electric vehicles, Hamptons neighborhood vehicles
+### Pacific Region
+- Alaska: Anchorage, Fairbanks, Juneau
+- Hawaii: Honolulu, Pearl City, Hilo
 
 ## INTERNATIONAL COVERAGE
 
 ### Canada
-**Canadian Market**
-- Ontario Province
-- British Columbia
-- Major Cities: Toronto, Vancouver, Montreal (potential)
-- Resort Communities
-- Keywords: PTV Canada, private transportation vehicles Ontario, Canadian electric vehicles
+- British Columbia: Vancouver, Victoria
+- Alberta: Calgary, Edmonton
+- Ontario: Toronto, Ottawa
+- Quebec: Montreal, Quebec City
 
 ### Mexico
-**Mexican Market**
-- Resort Communities
-- Coastal Areas
-- Retirement Destinations
-- Expatriate Communities
-- Keywords: PTV Mexico, electric vehicles resort Mexico
+- Northern Mexico: Tijuana, Monterrey
+- Central Mexico: Mexico City, Guadalajara
 
-## GEOGRAPHIC MARKET CHARACTERISTICS
+## GEOGRAPHIC KEYWORDS BY STATE
 
-### Urban Markets
-- City commuters
-- Campus transportation
-- Municipal fleets
-- Parking-challenged areas
+### State-Specific SEO Terms
+- personal transportation vehicles [state name]
+- PTV dealer [state name]
+- electric golf cart [state name]
+- street legal vehicle [state name]
+- DENAGO dealer [state name]
+- EVOLUTION dealer [state name]
 
-### Suburban Markets
-- Neighborhood transportation
-- Short-distance errands
-- Community connectivity
-- HOA-approved mobility
+### City-Specific SEO Terms
+- PTV [city name]
+- golf cart dealer [city name]
+- electric vehicle [city name]
+- neighborhood vehicle [city name]
 
-### Resort Markets
-- Beach communities
-- Golf resort communities
-- Mountain resorts
-- Tourist destinations
-- Hotel and hospitality
-
-### Retirement Communities
-- Active adult communities (55+)
-- Continuing care facilities
-- Golf cart communities
-- Warm climate destinations
-
-### Rural Markets
-- Farm and agricultural use
-- Property maintenance
-- Large estate mobility
-- Utility applications
-
-## CLIMATE CONSIDERATIONS
-
-### Year-Round Markets (Warm Climate)
-- Florida (primary)
-- South Carolina coastal
-- Southern regions of coverage area
-- Resort destinations
-
-### Seasonal Markets
-- Northern states (PA, NJ, NY, OH, IN)
-- Beach communities (summer peak)
-- Mountain resorts (varies by season)
-
-### All-Season Capability
-- Weather enclosures available
-- Winter operation viable with preparation
-- Battery performance considerations in cold
-
-## POPULATION AND DEMOGRAPHICS
-
-### Target Demographics by Region
-**Northeast (PA, NJ, NY, DE, MD):**
-- Population: 40+ million
-- Age: 35-75
-- Income: $60,000-$150,000+
-- Density: High suburban, some urban
-
-**Southeast (VA, NC, SC, FL):**
-- Population: 35+ million
-- Age: 45-80 (higher retirement concentration)
-- Income: $50,000-$200,000+
-- Density: Suburban, resort communities
-
-**Midwest (IN, OH):**
-- Population: 20+ million
-- Age: 30-70
-- Income: $50,000-$120,000
-- Density: Mix of urban and rural
-
-## DISTANCE AND LOGISTICS
-
-### Regional Service Centers
-**Northeast Hub:** Pennsylvania headquarters
-**Mid-Atlantic Hub:** New Jersey, Delaware, Maryland, Virginia
-**Southeast Hub:** North Carolina, South Carolina, Florida
-**Midwest Hub:** Indiana, Ohio
-**International:** Canada and Mexico distribution partners
+## SERVICE AREA CAPABILITIES
 
 ### Delivery Coverage
-- Local delivery: Free within 50 miles of showrooms
-- Regional delivery: Available throughout service states
-- National shipping: White-glove delivery options
-- International: Customs and import coordination
+- Nationwide delivery to all 50 states
+- White glove delivery service
+- Enclosed transport available
+- Tracking and insurance included
 
-## SEO GEOGRAPHIC KEYWORDS
+### Service Network
+- Factory-authorized service
+- Mobile service available
+- Parts shipping nationwide
+- Warranty coverage nationwide
 
-### State-Level Keywords
-- private transportation vehicles Pennsylvania
-- PTV New Jersey
-- street legal electric vehicles Delaware
-- neighborhood vehicles Virginia Maryland
-- electric PTV North Carolina South Carolina
-- Florida retirement electric vehicles
-- PTV Indiana Ohio
-- New York electric neighborhood vehicles
+## LOCAL BUSINESS KEYWORDS
 
-### City-Level Keywords
-- PTV Philadelphia Pittsburgh
-- private transportation vehicles Atlantic City Ocean City
-- electric vehicles Virginia Beach
-- PTV Charlotte Raleigh
-- Florida retirement PTV Naples Villages
-- electric vehicles Indianapolis Columbus
-
-### Regional Keywords
-- Mid-Atlantic PTV dealer
-- Northeast private transportation vehicles
-- Southeast electric vehicle dealer
-- multi-state PTV coverage
-- North American electric vehicle dealer
-
-## REGULATORY CONSIDERATIONS
-
-### State-by-State PTV Regulations
-**All States Served:**
-- Street legal PTV certification available
-- State-specific compliance packages
-- DOT safety requirements met
-- Local ordinance navigation
-- Registration assistance provided
-
-**Key Requirements:**
-- Maximum 25 mph speed
-- DOT safety equipment (lights, signals, mirrors, belts)
-- Valid driver's license required
-- Insurance required (varies by state)
-- Roads ≤35 mph speed limit
-
-## COMPETITIVE ADVANTAGES
-
-### Multi-State Presence
-- 30 locations for customer convenience
-- Regional service coverage
-- Consistent pricing across regions
-- National fleet management capabilities
-
-### Geographic Expertise
-- Local market knowledge
-- Climate-appropriate recommendations
-- Regional compliance specialists
-- Community integration experience
+### Regional Modifiers
+- Northeast personal transportation vehicles
+- Southeast PTV dealer
+- Midwest electric golf carts
+- Southwest neighborhood vehicles
+- West Coast PTV sales
+- Pacific region electric vehicles
 
 ## CONTACT INFORMATION
 
-**Corporate Headquarters:**
-Hatfield, Pennsylvania
-Email: info@tigonptv.com
+TIGON Personal Transportation Vehicles
 Phone: 1-844-844-6638
+Email: info@tigonptv.com
 Website: https://tigonptv.com
-
-**Service Coverage:**
-Pennsylvania, New Jersey, Delaware, Virginia, Maryland, North Carolina, South Carolina, Florida, Indiana, Ohio, New York, Canada, Mexico
-
-## ATTRIBUTION
-Source: TIGON PTV (https://tigonptv.com)
-Geographic Coverage: 11 US States + Canada & Mexico
-Last Updated: January 2025
-
-END OF GEOGRAPHIC SEO INFORMATION
+Coverage: All 50 US States, Canada, Mexico

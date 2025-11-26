@@ -1,7 +1,7 @@
 {
   "name": "TIGON Personal Transportation Vehicles",
   "short_name": "TIGON PTV",
-  "description": "Nationwide premier private transportation vehicle dealership serving all 50 states, Canada, and Mexico with sales, service, rentals, and financing.",
+  "description": "North America's premier personal transportation vehicle dealership serving all 50 states, Canada, and Mexico with sales, service, rentals, and financing.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#af1b30",
@@ -46,7 +46,7 @@
     {
       "name": "Vehicle Inventory",
       "short_name": "Inventory",
-      "description": "Browse our complete private transportation vehicle lineup",
+      "description": "Browse our complete personal transportation vehicle lineup",
       "url": "/inventory",
       "icons": [
         {
@@ -70,7 +70,7 @@
     {
       "name": "Service Center",
       "short_name": "Service",
-      "description": "Professional private transportation vehicle maintenance and repair",
+      "description": "Professional personal transportation vehicle maintenance and repair",
       "url": "/services",
       "icons": [
         {
@@ -80,10 +80,22 @@
       ]
     },
     {
-      "name": "Rental Program",
+      "name": "Rentals",
       "short_name": "Rentals",
-      "description": "Daily, weekly, and seasonal private transportation vehicle rentals",
+      "description": "Rent personal transportation vehicles for any occasion",
       "url": "/rentals",
+      "icons": [
+        {
+          "src": "/favicon-96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Financing",
+      "short_name": "Financing",
+      "description": "Flexible financing options for your PTV purchase",
+      "url": "/financing",
       "icons": [
         {
           "src": "/favicon-96.png",
@@ -94,35 +106,22 @@
   ],
   "related_applications": [],
   "prefer_related_applications": false,
-  "edge_side_panel": {
-    "preferred_width": 400
-  },
+  "iarc_rating_id": "",
+  "dir": "ltr",
+  "handle_links": "preferred",
   "launch_handler": {
     "client_mode": "navigate-existing"
   },
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
   "share_target": {
-    "action": "/contact",
+    "action": "/share",
     "method": "GET",
     "params": {
       "title": "title",
       "text": "text",
       "url": "url"
     }
-  },
-  "protocol_handlers": [
-    {
-      "protocol": "mailto",
-      "url": "/contact?email=%s"
-    }
-  ],
-  "file_handlers": [
-    {
-      "action": "/contact",
-      "accept": {
-        "text/plain": [".txt"],
-        "application/pdf": [".pdf"]
-      }
-    }
-  ],
-  "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7"
+  }
 }

@@ -1,5 +1,5 @@
 # COPYRIGHT INFORMATION - TIGON PTV
-# Last Updated: January 2025
+# Last Updated: November 2025
 
 ## COPYRIGHT NOTICE
 © 2025 TIGON Personal Transportation Vehicles. All rights reserved.
@@ -8,7 +8,8 @@
 Legal Business Name: TIGON Personal Transportation Vehicles
 Operating Name: TIGON PTV
 Website: https://tigonptv.com
-Established: 2015
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
 
 ## INTELLECTUAL PROPERTY
 All content, logos, graphics, images, text, and other materials on this website are the property of TIGON PTV or its content suppliers and are protected by United States and international copyright laws.
@@ -43,5 +44,6 @@ Source: TIGON Personal Transportation Vehicles (https://tigonptv.com)
 ## CONTACT FOR COPYRIGHT INQUIRIES
 Email: info@tigonptv.com
 Phone: 1-844-844-6638
+Website: https://tigonptv.com
 
 END OF COPYRIGHT INFORMATION

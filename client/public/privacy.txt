@@ -1,9 +1,10 @@
 # PRIVACY POLICY REFERENCES - TIGON PTV
-# Last Updated: January 2025
+# Last Updated: November 2025
 
 ## PRIVACY POLICY
 Full Privacy Policy: https://tigonptv.com/policies
 Contact: info@tigonptv.com
+Phone: 1-844-844-6638
 
 ## DATA COLLECTION
 We collect minimal personal information:
@@ -42,5 +43,6 @@ We use cookies for:
 ## CONTACT FOR PRIVACY
 Privacy Inquiries: info@tigonptv.com
 Phone: 1-844-844-6638
+Website: https://tigonptv.com
 
 END OF PRIVACY REFERENCES

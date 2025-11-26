@@ -1,6 +1,6 @@
 # CONTACT INFORMATION - TIGON PTV
 # TIGON Personal Transportation Vehicles
-# Last Updated: January 2025
+# Last Updated: November 2025
 
 ## PRIMARY CONTACT
 Business Name: TIGON Personal Transportation Vehicles
@@ -9,31 +9,10 @@ Phone: 1-844-844-6638
 Email: info@tigonptv.com
 Website: https://tigonptv.com
 
-## HEADQUARTERS
-Location: Hatfield, Pennsylvania
-Primary Showroom: Hatfield, PA
-Service Center: Available at all 30 locations
-
-## ADDITIONAL LOCATIONS
-Total Locations: 30 (18 physical showrooms + 12 online stores)
-Service Coverage: 11 US states + Canada & Mexico
-
-States Served:
-- Pennsylvania (Headquarters)
-- New Jersey
-- Delaware
-- Virginia
-- Maryland
-- North Carolina
-- South Carolina
-- Florida
-- Indiana
-- Ohio
-- New York
-
-International:
-- Canada
-- Mexico
+## SERVICE COVERAGE
+Coverage: All 50 US States, Canada, Mexico
+Delivery: Nationwide delivery available
+Service: Authorized service network
 
 ## HOURS OF OPERATION
 Monday-Friday: 9:00 AM - 6:00 PM
@@ -52,13 +31,18 @@ Service: info@tigonptv.com
 Parts: info@tigonptv.com
 Rentals: info@tigonptv.com
 Fleet Sales: info@tigonptv.com
+Financing: info@tigonptv.com
+
+## BRANDS REPRESENTED
+DENAGO Electric Vehicles
+EVOLUTION Electric Vehicles
 
 ## SOCIAL MEDIA
-Facebook: https://www.facebook.com/tigonnev
-Instagram: https://www.instagram.com/tigonnev
+Website: https://tigonptv.com
 
-## EMERGENCY SERVICE
-24/7 Emergency Service: Available for commercial fleet customers
-Emergency Contact: 1-844-844-6638
+## RESPONSE TIMES
+Email: Within 24 hours
+Phone: Immediate during business hours
+Website Form: Within 24 hours
 
-END OF CONTACT INFORMATION
+END OF CONTACT.TXT

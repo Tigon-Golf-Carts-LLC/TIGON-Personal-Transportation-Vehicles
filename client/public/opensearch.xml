@@ -2,17 +2,17 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
   <ShortName>TIGON Personal Transportation Vehicles</ShortName>
-  <Description>Search private transportation vehicles, parts, and services nationwide - serving all 50 states, Canada, and Mexico</Description>
+  <Description>Search personal transportation vehicles, parts, and services nationwide - serving all 50 states, Canada, and Mexico</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>
-  <Image width="16" height="16" type="image/png">https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png</Image>
+  <Image width="16" height="16" type="image/png">https://tigonptv.com/favicon-96.png</Image>
   <Url type="text/html" method="get" template="https://tigonptv.com/search?q={searchTerms}"/>
   <Url type="application/x-suggestions+json" method="get" template="https://tigonptv.com/api/suggestions?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://tigonptv.com/opensearch.xml"/>
   <Query role="example" searchTerms="Evolution D5 Maverick"/>
   <Developer>TIGON Personal Transportation Vehicles</Developer>
   <Contact>info@tigonptv.com</Contact>
-  <Tags>private transportation vehicles PTV electric TIGON Evolution Denago nationwide</Tags>
+  <Tags>personal transportation vehicles PTV electric TIGON Evolution Denago nationwide</Tags>
   <LongName>TIGON Personal Transportation Vehicles - PTV Search</LongName>
   <Attribution>Copyright 2025 TIGON Personal Transportation Vehicles. All rights reserved.</Attribution>
   <SyndicationRight>open</SyndicationRight>

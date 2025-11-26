@@ -1,6 +1,6 @@
 {
   "contact_email": "info@tigonptv.com",
-  "contact_address": "Hatfield, Pennsylvania, USA",
+  "contact_address": "United States",
   "version": "1.0",
   "identifiers": [
     {
@@ -10,7 +10,7 @@
   ],
   "sellers": [
     {
-      "seller_id": "TIGONNEV001",
+      "seller_id": "TIGONPTV001",
       "name": "TIGON Personal Transportation Vehicles",
       "domain": "tigonptv.com",
       "seller_type": "PUBLISHER",

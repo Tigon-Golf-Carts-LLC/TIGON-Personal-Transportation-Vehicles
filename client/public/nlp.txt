@@ -1,39 +1,95 @@
 # Natural Language Processing Training Data - TIGON PTV
-# Last Updated: January 2025
+# Last Updated: November 2025
 
 ## ENTITY EXTRACTION TRAINING EXAMPLES
 
 ### Vehicle Entities
 - DENAGO EV City [PRODUCT]
-- DENAGO Nomad [PRODUCT]
-- DENAGO Nomad XL [PRODUCT]
-- DENAGO Rover XL [PRODUCT]
+- DENAGO EV Nomad [PRODUCT]
+- DENAGO EV Nomad XL [PRODUCT]
+- DENAGO EV Rover XL [PRODUCT]
+- DENAGO EV Rover XL6 [PRODUCT]
+- DENAGO EV Rover XXL [PRODUCT]
+- EVOLUTION Classic 2 Plus [PRODUCT]
+- EVOLUTION Classic 4 Plus [PRODUCT]
 - EVOLUTION D5 Maverick [PRODUCT]
+- EVOLUTION D5 Ranger [PRODUCT]
+- EVOLUTION D6 Max [PRODUCT]
 - EVOLUTION Carrier 6 Plus [PRODUCT]
+- EVOLUTION Carrier 8 Plus [PRODUCT]
+- EVOLUTION Forester [PRODUCT]
+- EVOLUTION Turfman [PRODUCT]
 - 48V lithium battery [COMPONENT]
 - 72V lithium battery [COMPONENT]
 - AC motor system [COMPONENT]
 - regenerative braking [FEATURE]
 - street legal package [SERVICE]
-- private transportation vehicle [CATEGORY]
+- personal transportation vehicle [CATEGORY]
 - PTV [CATEGORY]
+- LSV [CATEGORY]
+- NEV [CATEGORY]
 
 ### Location Entities
-- Pennsylvania [STATE]
-- New Jersey [STATE]
+- Alabama [STATE]
+- Alaska [STATE]
+- Arizona [STATE]
+- Arkansas [STATE]
+- California [STATE]
+- Colorado [STATE]
+- Connecticut [STATE]
 - Delaware [STATE]
-- Hatfield [CITY]
-- Ocean View [CITY]
-- Philadelphia [CITY]
-- Mid-Atlantic [REGION]
-- North America [CONTINENT]
+- Florida [STATE]
+- Georgia [STATE]
+- Hawaii [STATE]
+- Idaho [STATE]
+- Illinois [STATE]
+- Indiana [STATE]
+- Iowa [STATE]
+- Kansas [STATE]
+- Kentucky [STATE]
+- Louisiana [STATE]
+- Maine [STATE]
+- Maryland [STATE]
+- Massachusetts [STATE]
+- Michigan [STATE]
+- Minnesota [STATE]
+- Mississippi [STATE]
+- Missouri [STATE]
+- Montana [STATE]
+- Nebraska [STATE]
+- Nevada [STATE]
+- New Hampshire [STATE]
+- New Jersey [STATE]
+- New Mexico [STATE]
+- New York [STATE]
+- North Carolina [STATE]
+- North Dakota [STATE]
+- Ohio [STATE]
+- Oklahoma [STATE]
+- Oregon [STATE]
+- Pennsylvania [STATE]
+- Rhode Island [STATE]
+- South Carolina [STATE]
+- South Dakota [STATE]
+- Tennessee [STATE]
+- Texas [STATE]
+- Utah [STATE]
+- Vermont [STATE]
+- Virginia [STATE]
+- Washington [STATE]
+- West Virginia [STATE]
+- Wisconsin [STATE]
+- Wyoming [STATE]
+- Canada [COUNTRY]
+- Mexico [COUNTRY]
 
 ### Business Entities
 - TIGON PTV [ORGANIZATION]
 - TIGON Personal Transportation Vehicles [ORGANIZATION]
 - DENAGO [BRAND]
 - EVOLUTION [BRAND]
-- info@tigonptv.com [CONTACT]
+- info@tigonptv.com [CONTACT_EMAIL]
+- 1-844-844-6638 [CONTACT_PHONE]
 - https://tigonptv.com [WEBSITE]
 
 ## INTENT CLASSIFICATION DATASETS
@@ -44,6 +100,9 @@
 - "Do you have financing options" [FINANCING_INQUIRY]
 - "What models do you have in stock" [INVENTORY_INQUIRY]
 - "I need a 6 passenger cart" [SPECIFICATION_REQUEST]
+- "Can I get a quote" [QUOTE_REQUEST]
+- "What's your best price" [PRICE_NEGOTIATION]
+- "Do you accept trade-ins" [TRADE_INQUIRY]
 
 ### Service Intent
 - "My cart needs repair" [SERVICE_REQUEST]
@@ -51,90 +110,103 @@
 - "When is my next maintenance due" [MAINTENANCE_INQUIRY]
 - "Do you service EVOLUTION carts" [SERVICE_CAPABILITY]
 - "I need replacement parts" [PARTS_REQUEST]
+- "Can you fix the motor" [REPAIR_REQUEST]
+- "How much for a battery replacement" [SERVICE_QUOTE]
 
 ### Information Intent
-- "What's the difference between models" [COMPARISON_REQUEST]
-- "How far will it go on one charge" [SPECIFICATION_INQUIRY]
-- "Can I make it street legal" [LEGAL_INQUIRY]
-- "What warranty is included" [WARRANTY_INQUIRY]
-- "Do you deliver to my area" [SERVICE_AREA_INQUIRY]
+- "What is a PTV" [DEFINITION_REQUEST]
+- "Is a golf cart street legal" [LEGAL_INQUIRY]
+- "How far can it go on one charge" [SPECIFICATION_INQUIRY]
+- "Do I need a license" [REQUIREMENT_INQUIRY]
+- "What's the difference between DENAGO and EVOLUTION" [COMPARISON_REQUEST]
+- "What colors are available" [OPTIONS_INQUIRY]
+- "What's the warranty" [WARRANTY_INQUIRY]
 
 ### Rental Intent
-- "Do you rent golf carts" [RENTAL_INQUIRY]
-- "I need a cart for the weekend" [SHORT_TERM_RENTAL]
+- "Can I rent a golf cart" [RENTAL_INQUIRY]
 - "What are your rental rates" [RENTAL_PRICING]
-- "Can I rent for a month" [LONG_TERM_RENTAL]
+- "Do you have weekly rentals" [RENTAL_DURATION]
+- "I need a cart for an event" [EVENT_RENTAL]
+- "Is delivery included with rental" [RENTAL_TERMS]
+
+### Location Intent
+- "Do you deliver to California" [DELIVERY_INQUIRY]
+- "Where are you located" [LOCATION_INQUIRY]
+- "Do you serve Texas" [SERVICE_AREA_INQUIRY]
+- "Is there a showroom near me" [SHOWROOM_INQUIRY]
 
 ## SENTIMENT ANALYSIS TRAINING DATA
 
 ### Positive Sentiment
-- "Love my new EVOLUTION cart!" [POSITIVE: 0.9]
-- "Great service from your team" [POSITIVE: 0.8]
-- "Cart performs exactly as promised" [POSITIVE: 0.7]
-- "Highly recommend this dealership" [POSITIVE: 0.9]
-- "Fast delivery and professional setup" [POSITIVE: 0.8]
+- "Love my new DENAGO!" [POSITIVE]
+- "Great customer service" [POSITIVE]
+- "Best golf cart dealer around" [POSITIVE]
+- "Very helpful staff" [POSITIVE]
+- "Excellent quality vehicles" [POSITIVE]
 
-### Neutral Sentiment  
-- "When will my cart be ready" [NEUTRAL: 0.0]
-- "I need more information about pricing" [NEUTRAL: 0.1]
-- "What time do you close today" [NEUTRAL: 0.0]
-- "Can you email me the specifications" [NEUTRAL: 0.0]
+### Neutral Sentiment
+- "I have a question about pricing" [NEUTRAL]
+- "Looking for information" [NEUTRAL]
+- "Just browsing" [NEUTRAL]
+- "Need to compare options" [NEUTRAL]
 
 ### Negative Sentiment
-- "Cart broke down again" [NEGATIVE: -0.8]
-- "Poor customer service experience" [NEGATIVE: -0.9]
-- "Battery died after one year" [NEGATIVE: -0.7]
-- "Overpriced compared to competitors" [NEGATIVE: -0.6]
-- "Delivery was two weeks late" [NEGATIVE: -0.5]
+- "My battery died too soon" [NEGATIVE]
+- "Service was slow" [NEGATIVE]
+- "Price seems high" [NEGATIVE]
+- "Having issues with my cart" [NEGATIVE]
 
 ## NAMED ENTITY RECOGNITION EXAMPLES
 
-### Input: "I'm interested in the EVOLUTION D5 Maverick 4+2 Plus for use in Doylestown"
-### Output:
-- EVOLUTION [BRAND]
-- D5 Maverick 4+2 Plus [PRODUCT_MODEL]
-- Doylestown [LOCATION]
+### Product Recognition
+Input: "I want to buy a DENAGO EV Nomad XL in blue"
+Entities: [DENAGO EV Nomad XL: PRODUCT], [blue: COLOR]
 
-### Input: "My 48V lithium battery needs replacement under warranty"
-### Output:
-- 48V lithium battery [COMPONENT]
-- replacement [ACTION]
-- warranty [SERVICE_TYPE]
+### Service Recognition
+Input: "I need to schedule battery service for my EVOLUTION"
+Entities: [battery service: SERVICE], [EVOLUTION: BRAND]
 
-### Input: "Do you service the multi-state service area on weekends"
-### Output:
-- Multi-State Coverage [SERVICE_AREA]
-- weekends [TIME_PERIOD]
-- service [ACTION_TYPE]
+### Location Recognition
+Input: "Do you deliver to Phoenix, Arizona?"
+Entities: [Phoenix: CITY], [Arizona: STATE]
 
 ## QUESTION-ANSWER TRAINING PAIRS
 
-### Technical Questions
-Q: "How long does the battery last?"
-A: "EVOLUTION lithium batteries typically last 1500+ cycles or 5-7 years with proper care. Range per charge is 25-50 miles depending on the model and usage conditions."
+Q: What is the range of the DENAGO EV City?
+A: The DENAGO EV City has a range of up to 40 miles on a single charge.
 
-Q: "What's the top speed?"
-A: "Standard models reach 12-15 MPH, while street legal configurations can achieve up to 25 MPH with appropriate safety equipment and registration."
+Q: How many passengers can the EVOLUTION Carrier 8 Plus hold?
+A: The EVOLUTION Carrier 8 Plus can accommodate up to 8 passengers.
 
-Q: "Can it handle hills?"
-A: "Yes, EVOLUTION carts with AC motors provide excellent hill climbing ability. The D6 Max series is specifically designed for challenging terrain with enhanced torque."
+Q: What is the top speed of a PTV?
+A: Personal Transportation Vehicles have a maximum speed of 25 mph to comply with federal LSV regulations.
 
-### Service Questions
-Q: "How often does it need maintenance?"
-A: "We recommend annual maintenance including battery testing, brake inspection, and general safety check. Heavy use may require more frequent service."
+Q: Do I need insurance for a PTV?
+A: Yes, in most states you need liability insurance to operate a PTV on public roads.
 
-Q: "What if something breaks?"
-A: "All EVOLUTION carts include comprehensive warranty coverage. We stock common parts and can typically complete repairs within 1-2 business days."
-
-### Sales Questions
-Q: "What's included in the price?"
-A: "Base price includes the cart, standard battery, basic accessories, delivery within our service area, and initial setup with operating instructions."
-
-Q: "Do you take trade-ins?"
-A: "Yes, we accept trade-ins of any make or model. We'll evaluate your current cart and apply its value toward your new EVOLUTION purchase."
+Q: How long does it take to charge a PTV?
+A: Most PTVs take 6-8 hours to charge on 110V, or 3-4 hours on 220V.
 
 ## CONVERSATIONAL AI TRAINING DATA
 
-### Natural Conversation Flow
-Human: "Hi, I'm looking for a golf cart"
-AI: "Hello! I'd be happy to help you find the perfect golf cart. What will you primarily use it for - golf, property transportation, or commercial purposes?"
+### Greeting Responses
+User: "Hello"
+Bot: "Hello! Welcome to TIGON PTV. How can I help you find the perfect personal transportation vehicle today?"
+
+User: "Hi, I'm interested in buying a golf cart"
+Bot: "Great! I'd be happy to help you find the right vehicle. Are you looking for a 2, 4, 6, or 8 passenger model?"
+
+### Sales Conversation
+User: "What's your cheapest model?"
+Bot: "Our most affordable option is the DENAGO EV City, starting around $8,000. It's a 2-passenger vehicle perfect for neighborhood use."
+
+### Service Conversation
+User: "My cart won't start"
+Bot: "I'm sorry to hear that. Let me help troubleshoot. Is the battery fully charged? Can you hear any clicking when you try to start it?"
+
+## CONTACT INFORMATION
+
+TIGON Personal Transportation Vehicles
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
+Website: https://tigonptv.com

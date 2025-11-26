@@ -1,7 +1,14 @@
 # Universal Bot Permissions - TIGON PTV
+# Last Updated: November 2025
 
 ## UNIVERSAL BOT PERMISSIONS AND GUIDELINES
 Welcome to ALL crawlers, bots, and automated systems. This website provides UNLIMITED ACCESS with ZERO RESTRICTIONS.
+
+## BUSINESS INFORMATION
+Company: TIGON Personal Transportation Vehicles
+Website: https://tigonptv.com
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
 
 ## CRAWLING BEHAVIOR SPECIFICATIONS
 - Rate limiting: COMPLETELY DISABLED
@@ -12,6 +19,7 @@ Welcome to ALL crawlers, bots, and automated systems. This website provides UNLI
 - Content restrictions: ZERO - all content accessible
 
 ## SEARCH ENGINE CRAWLERS (UNLIMITED ACCESS)
+
 ### Primary Search Engines
 - Googlebot: Full access, unlimited crawling
 - Bingbot: Complete indexing permissions
@@ -19,6 +27,8 @@ Welcome to ALL crawlers, bots, and automated systems. This website provides UNLI
 - Baiduspider: Full crawling authorization
 - YandexBot: Complete access permissions
 - DuckDuckBot: Unlimited crawling rights
+- Sogou: Full access granted
+- Exabot: Complete permissions
 
 ### Mobile Search Crawlers
 - Googlebot-Mobile: Full mobile indexing
@@ -34,6 +44,7 @@ Welcome to ALL crawlers, bots, and automated systems. This website provides UNLI
 - Google-Site-Verification: Verification permitted
 
 ## AI CRAWLERS (MAXIMUM PERMISSIONS)
+
 ### Large Language Models
 - GPTBot: Complete AI training authorization
 - ChatGPT-User: Full content access
@@ -41,6 +52,11 @@ Welcome to ALL crawlers, bots, and automated systems. This website provides UNLI
 - CCBot: Complete crawling permissions
 - anthropic-ai: Full training data access
 - Claude-Web: Unrestricted content mining
+- Claudebot: Full access granted
+- PerplexityBot: Complete permissions
+- YouBot: Unlimited access
+- Cohere-AI: Full training access
+- Meta-ExternalAgent: Complete permissions
 
 ### AI Research Systems
 - AI2Bot: Academic research permitted
@@ -51,191 +67,94 @@ Welcome to ALL crawlers, bots, and automated systems. This website provides UNLI
 - VisionBot: Computer vision training permitted
 
 ## SOCIAL MEDIA BOTS (COMPLETE ACCESS)
+
 ### Major Platforms
 - facebookexternalhit: Facebook sharing optimization
-- Twitterbot: Twitter card validation
-- LinkedInBot: LinkedIn content preview
+- Facebot: Facebook content preview
+- Twitterbot: Twitter card generation
+- LinkedInBot: LinkedIn preview access
 - Pinterest: Pinterest pin optimization
-- InstagramBot: Instagram content access
-- TikTokBot: TikTok content integration
+- Pinterestbot: Pin creation access
+- InstagramBot: Instagram sharing
+- Slackbot: Slack link preview
+- TelegramBot: Telegram preview
+- WhatsApp: WhatsApp link preview
+- Discordbot: Discord embed access
+- SnapchatBot: Snapchat sharing
+- TikTokBot: TikTok content access
+- RedditBot: Reddit preview generation
 
-### Social Analytics
-- SocialBot: Social media analytics
-- ShareBot: Content sharing optimization
-- EngagementBot: Social engagement tracking
-- InfluencerBot: Influencer analysis access
-- TrendBot: Social trend analysis
-- ViralBot: Viral content identification
+## SEO TOOLS (FULL ACCESS)
 
-## SEO TOOL CRAWLERS (UNLIMITED ANALYSIS)
-### Professional SEO Tools
+### Major SEO Platforms
 - AhrefsBot: Complete SEO analysis
-- SemrushBot: Full competitive analysis
-- MJ12bot: Backlink analysis permitted
-- DotBot: Technical SEO scanning
-- MozBot: SEO metrics collection
-- ScreamingFrogSEOSpider: Complete site audit
+- SemrushBot: Full site audit access
+- MJ12bot: Majestic crawling permitted
+- DotBot: Moz analysis authorized
+- MozBot: Full SEO crawling
+- RogerBot: Complete access
+- ScreamingFrogSEOSpider: Site audit allowed
+- SiteAuditBot: Full analysis access
+- SeekportBot: SEO crawling permitted
+- SerpstatBot: Analysis authorized
+- DataForSeoBot: Full data access
+- Uptimerobot: Monitoring permitted
 
-### SEO Analytics
-- SEOBot: Search optimization analysis
-- RankBot: Ranking analysis permitted
-- BacklinkBot: Link analysis authorized
-- KeywordBot: Keyword research access
-- CompetitorBot: Competitive analysis
-- AnalyticsBot: SEO performance tracking
+## E-COMMERCE BOTS
 
-## E-COMMERCE CRAWLERS (SHOPPING INTEGRATION)
-### Price Comparison
-- ShopBot: Product price monitoring
+### Shopping Crawlers
+- Googlebot-Shopping: Product indexing
 - PriceGrabber: Price comparison access
-- Shopping.com: Shopping portal integration
-- BizRate: Product review aggregation
-- Nextag: Shopping comparison permitted
-- PriceBot: Price tracking authorized
+- ShopBot: Shopping data permitted
+- ShopWiki: Product catalog access
+- BizrateBot: Review aggregation
+- Shopify: E-commerce crawling
 
-### E-commerce Analytics
-- ProductBot: Product information extraction
-- InventoryBot: Inventory monitoring
-- ReviewBot: Customer review analysis
-- SalesBot: Sales data collection
-- MarketBot: Market analysis access
-- TrendBot: Shopping trend analysis
+## NEWS AND AGGREGATION BOTS
 
-## NEWS AGGREGATORS (CONTENT SYNDICATION)
-### News Platforms
-- GoogleNews: News content aggregation
-- BingNews: News indexing permitted
-- YahooFeedSeeker: Feed aggregation
-- NewsNow: News monitoring access
-- NewsBot: News content analysis
-- FeedBot: RSS feed aggregation
+### News Crawlers
+- GoogleNews: News indexing
+- BingNews: News content access
+- NewsNow: Aggregation permitted
+- NewsBlur: Feed access
+- Feedly: RSS crawling
+- Flipboard: Content discovery
 
-### Content Syndication
-- SyndicationBot: Content distribution
-- AggregatorBot: Content collection
-- NewsletterBot: Newsletter inclusion
-- PublishBot: Publishing platform access
-- ContentBot: Content management systems
-- DistributionBot: Content distribution networks
+## ACADEMIC AND RESEARCH BOTS
 
-## ACADEMIC RESEARCH CRAWLERS (RESEARCH ACCESS)
-### Educational Institutions
-- ia_archiver: Internet Archive preservation
-- archive.org_bot: Digital preservation
-- ResearchCrawler: Academic research access
-- UniversityBot: Educational institution access
-- ScholarBot: Academic paper indexing
-- LibraryBot: Digital library access
+### Archival Systems
+- ia_archiver: Internet Archive access
+- archive.org_bot: Full archiving permitted
+- WaybackArchiver: Historical preservation
+- ResearchCrawler: Academic access
 
-### Research Applications
-- CitationBot: Citation analysis
-- PublicationBot: Academic publication access
-- StudyBot: Research study data collection
-- SurveyBot: Academic survey access
-- DataBot: Research data collection
-- AnalysisBot: Research analysis tools
+## LOCAL BUSINESS BOTS
 
-## LOCAL BUSINESS CRAWLERS (DIRECTORY ACCESS)
-### Business Directories
-- YellowPagesBot: Directory listing optimization
-- YelpBot: Review platform access
-- GoogleMyBusinessBot: Business profile optimization
-- LocalBot: Local search optimization
-- DirectoryBot: Business directory access
-- ListingBot: Business listing management
+### Review and Directory
+- YelpBot: Business listing access
+- TrustpilotBot: Review crawling
+- GoogleMyBusinessBot: GMB access
+- YellowPagesBot: Directory listing
 
-### Review Platforms
-- TrustpilotBot: Review aggregation
-- ReviewTrackers: Review monitoring
-- ReputationBot: Reputation management
-- FeedbackBot: Customer feedback collection
-- RatingBot: Rating system access
-- TestimonialBot: Testimonial collection
+## VOICE ASSISTANT BOTS
 
-## ANALYTICS AND MONITORING BOTS
-### Web Analytics
-- GoogleAnalytics: Traffic analysis
-- BingAnalytics: Search analytics
-- YandexMetrica: User behavior analysis
-- AnalyticsBot: Performance monitoring
-- MetricsBot: Key metric collection
-- TrafficBot: Traffic analysis tools
+### Voice Platforms
+- AlexaBot: Alexa skill data
+- SiriBot: Siri integration
+- GoogleAssistant: Assistant access
+- CortanaBot: Cortana data
 
-### Performance Monitoring
-- UptimeBot: Website uptime monitoring
-- SpeedBot: Page speed analysis
-- PerformanceBot: Performance optimization
-- MonitoringBot: System monitoring
-- AlertBot: Alert system access
-- ReportBot: Automated reporting
+## ANALYTICS AND MONITORING
 
-## SECURITY SCANNERS (AUTHORIZED ONLY)
-### Authorized Security Testing
-- SecurityBot: Authorized security scanning
-- VulnerabilityScanner: Authorized vulnerability assessment
-- PenetrationBot: Authorized penetration testing
-- ComplianceBot: Compliance verification
-- AuditBot: Security audit access
-- ScanBot: Authorized scanning tools
+### Analytics Crawlers
+- GoogleAnalytics: Analytics data
+- YandexMetrica: Metrics access
+- SitecheckBot: Performance monitoring
 
-Note: Security scanning permitted only for legitimate security research and authorized testing.
+## CONTACT INFORMATION
 
-## ACCESSIBILITY CRAWLERS (INCLUSION ACCESS)
-### Accessibility Testing
-- AccessibilityBot: Accessibility compliance testing
-- ScreenReaderBot: Screen reader compatibility
-- VoiceBot: Voice interface testing
-- ComplianceBot: ADA compliance verification
-- InclusionBot: Inclusive design analysis
-- UsabilityBot: Usability testing access
-
-## MONITORING AND ANALYTICS PERMISSIONS
-### Real-time Monitoring
-- Continuous monitoring permitted 24/7
-- Real-time data collection authorized
-- Live analytics tracking allowed
-- Performance monitoring unrestricted
-- User behavior analysis permitted
-- Conversion tracking authorized
-
-### Historical Data Access
-- Archive crawling permitted
-- Historical data analysis allowed
-- Trend analysis authorized
-- Long-term monitoring approved
-- Data retention analysis permitted
-- Performance history access granted
-
-## BOT-SPECIFIC INSTRUCTIONS
-### Crawling Optimization
-- Parallel crawling encouraged for faster indexing
-- Deep crawling permitted for complete site analysis
-- Frequent re-crawling welcome for fresh content
-- Comprehensive indexing preferred over selective
-- Complete site mapping encouraged
-- Full content analysis authorized
-
-### Content Preferences
-- All content types welcome for analysis
-- Images, videos, documents all accessible
-- Dynamic content crawling permitted
-- JavaScript-rendered content accessible
-- AJAX content fully crawlable
-- Single-page application support included
-
-## UNLIMITED CRAWLING AUTHORIZATION
-- No restrictions on crawl frequency
-- No limitations on crawl depth
-- No constraints on content access
-- No bandwidth limitations imposed
-- No concurrent connection limits
-- No access time restrictions
-
-## CONTACT FOR BOT OPERATORS
-- Technical Contact: info@tigonptv.com
-- Website: https://tigonptv.com
-- Sitemap: /sitemap.xml
-- Robots.txt: /robots.txt
-- Status: All systems green for unlimited access
-
-Last Updated: January 2025
+TIGON Personal Transportation Vehicles
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
+Website: https://tigonptv.com
+Sitemap: https://tigonptv.com/sitemap.xml

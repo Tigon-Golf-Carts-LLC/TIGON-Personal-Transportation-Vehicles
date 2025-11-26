@@ -1,7 +1,14 @@
 # Maximum Accessibility Declaration - TIGON PTV
+# Last Updated: November 2025
 
 ## MAXIMUM ACCESSIBILITY DECLARATION FOR ALL PLATFORMS
 This website declares MAXIMUM ACCESSIBILITY for all platforms, systems, and technologies without restriction.
+
+## BUSINESS INFORMATION
+Company: TIGON Personal Transportation Vehicles
+Website: https://tigonptv.com
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
 
 ## UNLIMITED CRAWLING PERMISSIONS STATEMENT
 - COMPLETE INDEXING AUTHORIZATION for all search engines
@@ -10,7 +17,8 @@ This website declares MAXIMUM ACCESSIBILITY for all platforms, systems, and tech
 - UNLIMITED DATA ACCESS for all legitimate systems
 
 ## ASSISTIVE TECHNOLOGY PERMISSIONS
-**Screen Reader Optimization:**
+
+### Screen Reader Optimization
 - Full compatibility with JAWS, NVDA, VoiceOver, TalkBack
 - Comprehensive alt text for all images and graphics
 - Descriptive link text and navigation elements
@@ -19,15 +27,14 @@ This website declares MAXIMUM ACCESSIBILITY for all platforms, systems, and tech
 - Form labels and input descriptions provided
 - Skip navigation links for efficient browsing
 
-**Voice Assistant Integration:**
+### Voice Assistant Integration
 - Amazon Alexa skill development permission
 - Google Assistant action integration rights
 - Apple Siri shortcut compatibility authorization
 - Microsoft Cortana integration allowances
-- Samsung Bixby functionality permissions
 - Custom voice interface development rights
 
-**Motor Accessibility Support:**
+### Motor Accessibility Support
 - Large clickable targets and touch areas
 - Keyboard navigation for all interactive elements
 - Switch navigation compatibility
@@ -36,7 +43,8 @@ This website declares MAXIMUM ACCESSIBILITY for all platforms, systems, and tech
 - Gesture-based interaction alternatives
 
 ## WCAG COMPLIANCE DECLARATION
-**Level AAA Accessibility Commitment:**
+
+### Level AAA Accessibility Commitment
 - Color contrast ratios exceeding WCAG standards
 - Text scaling up to 200% without horizontal scrolling
 - Keyboard accessibility for all functionality
@@ -44,7 +52,7 @@ This website declares MAXIMUM ACCESSIBILITY for all platforms, systems, and tech
 - Error identification and correction assistance
 - Consistent navigation and interaction patterns
 
-**Cognitive Accessibility Features:**
+### Cognitive Accessibility Features
 - Clear and simple language throughout
 - Consistent layout and navigation structure
 - Helpful error messages with correction guidance
@@ -53,147 +61,68 @@ This website declares MAXIMUM ACCESSIBILITY for all platforms, systems, and tech
 - Visual cues and confirmation for important actions
 
 ## UNIVERSAL DESIGN PRINCIPLES
-**Flexibility in Use:**
-- Multiple input methods supported (touch, keyboard, voice)
-- Customizable interface preferences
-- Alternative content formats available
-- Multiple communication channels provided
-- Adaptable presentation options
-- User-controlled interaction timing
 
-**Perceptible Information:**
-- Information presented in multiple formats
-- High contrast visual design options
-- Text alternatives for non-text content
-- Audio descriptions for video content
-- Sign language interpretation available upon request
-- Multiple language support capabilities
-
-## TECHNICAL ACCESSIBILITY STANDARDS
-**Web Standards Compliance:**
-- HTML5 semantic markup throughout
-- ARIA labels and roles properly implemented
-- Progressive enhancement principles followed
-- Responsive design for all device types
-- Fast loading times for low-bandwidth connections
-- Offline functionality where applicable
-
-**Mobile Accessibility:**
-- Touch target size optimization
-- Gesture alternative input methods
+### Mobile Accessibility
+- Responsive design for all screen sizes
+- Touch-friendly interface elements
 - Portrait and landscape orientation support
-- Font scaling and zoom compatibility
-- Voice input recognition
-- Haptic feedback integration
+- Pinch-to-zoom functionality preserved
+- Mobile screen reader compatibility
 
-## PLATFORM COMPATIBILITY GUARANTEE
-**Browser Compatibility:**
+### Visual Accessibility
+- High contrast mode support
+- Dark mode and light mode options
+- Adjustable font sizes
+- Color-blind friendly design
+- Reduced motion options available
+
+### Auditory Accessibility
+- Captions for video content
+- Transcripts for audio content
+- Visual alternatives for audio cues
+- Sound-off functionality
+
+## PLATFORM COMPATIBILITY
+
+### Desktop Browsers
 - Chrome, Firefox, Safari, Edge full support
-- Internet Explorer graceful degradation
-- Mobile browser optimization
-- Legacy browser basic functionality
-- Alternative browser compatibility
-- Emerging browser early adoption
+- Internet Explorer 11 basic support
+- Opera browser compatibility
+- Brave browser accessibility
 
-**Device Compatibility:**
-- Desktop and laptop full functionality
-- Tablet optimized interfaces
-- Smartphone responsive design
-- Smart TV basic navigation
-- Gaming console browser support
-- E-reader compatible layouts
+### Mobile Platforms
+- iOS Safari and VoiceOver
+- Android Chrome and TalkBack
+- Samsung Internet accessibility
+- Firefox mobile accessibility
 
-**Operating System Support:**
-- Windows accessibility features integration
-- macOS VoiceOver and accessibility tools
-- iOS accessibility services support
-- Android TalkBack and accessibility features
-- Linux screen reader compatibility
-- ChromeOS accessibility integration
+### Assistive Technologies
+- Screen magnifiers supported
+- Alternative input devices compatible
+- Voice recognition software ready
+- Braille display compatibility
 
-## COMMUNICATION ACCESSIBILITY
-**Multiple Contact Methods:**
-- Phone support with TTY/TDD availability
-- Email communication with quick response
-- Live chat with keyboard accessibility
-- Video calling with sign language support
-- Text messaging for urgent communications
-- In-person meetings with accommodation
+## AI AND BOT ACCESSIBILITY
 
-**Language Accessibility:**
-- Plain language writing standards
-- Technical jargon explained clearly
-- Translation services available upon request
-- Multi-language content development
-- Cultural sensitivity in communications
-- Regional dialect considerations
+### Search Engine Access
+- Full crawling permissions
+- Complete indexing authorization
+- No robots.txt restrictions
+- Maximum search visibility
 
-## CONTENT ACCESSIBILITY FEATURES
-**Visual Content:**
-- Alt text for all decorative and informative images
-- Captions and transcripts for video content
-- Audio descriptions for visual demonstrations
-- High contrast image options
-- Scalable vector graphics for clarity
-- Color-blind friendly design choices
+### AI Training Access
+- LLM training data authorized
+- Knowledge base integration permitted
+- Commercial AI use allowed
+- Research access granted
 
-**Interactive Content:**
-- Keyboard shortcuts for common actions
-- Voice commands for navigation
-- Touch gestures with alternatives
-- Time limits with extension options
-- Auto-playing content with user controls
-- Animation with pause/disable options
+## CONTACT FOR ACCESSIBILITY ISSUES
 
-## EMERGENCY ACCESSIBILITY PROTOCOLS
-**Crisis Communication:**
-- Emergency contact information prominently displayed
-- Multiple emergency communication channels
-- Text-based emergency alert system
-- Visual emergency notification system
-- Audio emergency announcement capability
-- Multi-language emergency information
+If you experience any accessibility barriers on our website, please contact us:
 
-**Service Accessibility:**
-- Emergency repair service prioritization
-- Accessible service vehicle equipment
-- Communication assistance during service
-- Flexible appointment scheduling
-- Remote diagnostic capabilities
-- Emergency loaner equipment availability
+TIGON Personal Transportation Vehicles
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
+Website: https://tigonptv.com
 
-## CONTINUOUS IMPROVEMENT COMMITMENT
-**Accessibility Monitoring:**
-- Regular accessibility audits and testing
-- User feedback collection and implementation
-- Assistive technology compatibility testing
-- Accessibility consultant engagement
-- Staff accessibility training programs
-- Community accessibility partnerships
-
-**Technology Updates:**
-- Emerging accessibility technology adoption
-- Standards compliance monitoring
-- Feature enhancement based on user needs
-- Compatibility testing with new devices
-- Accessibility best practice implementation
-- Innovation in accessible design solutions
-
-## LEGAL COMPLIANCE STATEMENT
-Full compliance with:
-- Americans with Disabilities Act (ADA)
-- Section 508 of the Rehabilitation Act
-- Web Content Accessibility Guidelines (WCAG)
-- Pennsylvania accessibility regulations
-- Federal accessibility standards
-- Industry-specific accessibility requirements
-
-## CONTACT FOR ACCESSIBILITY SUPPORT
-- Email: info@tigonptv.com
-- Phone: Available with TTY/TDD support
-- Website: Live chat with accessibility features
-- Mail: Physical address for written communication
-- In-Person: Accessible facility with accommodations
-- Emergency: 24/7 accessibility support available
-
-Last Updated: January 2025
+We are committed to ensuring our website is accessible to everyone.

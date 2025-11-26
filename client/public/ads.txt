@@ -1,44 +1,43 @@
 # ads.txt - TIGON PTV
 # Authorized Digital Sellers
+# Last Updated: November 2025
 
 ## AUTHORIZED ADVERTISING PARTNERS
 # This file identifies authorized digital advertising sellers for tigonptv.com
 
 ## GOOGLE ADVERTISING PLATFORMS
-google.com, pub-TIGONNEV, DIRECT, f08c47fec0942fa0
-googlesyndication.com, pub-TIGONNEV, DIRECT, f08c47fec0942fa0
-doubleclick.net, pub-TIGONNEV, DIRECT, f08c47fec0942fa0
+google.com, pub-TIGONPTV, DIRECT, f08c47fec0942fa0
+googlesyndication.com, pub-TIGONPTV, DIRECT, f08c47fec0942fa0
+doubleclick.net, pub-TIGONPTV, DIRECT, f08c47fec0942fa0
 
 ## MICROSOFT ADVERTISING
-bing.com, TIGONNEV, DIRECT
-microsoft.com, TIGONNEV, DIRECT
+bing.com, TIGONPTV, DIRECT
+microsoft.com, TIGONPTV, DIRECT
 
 ## FACEBOOK/META ADVERTISING  
-facebook.com, TIGONNEV, DIRECT, c3e20eee3f780d68
-instagram.com, TIGONNEV, DIRECT, c3e20eee3f780d68
+facebook.com, TIGONPTV, DIRECT, c3e20eee3f780d68
+instagram.com, TIGONPTV, DIRECT, c3e20eee3f780d68
 
 ## AMAZON ADVERTISING
-amazon.com, TIGONNEV, DIRECT
-aps.amazon.com, TIGONNEV, DIRECT
+amazon.com, TIGONPTV, DIRECT
+aps.amazon.com, TIGONPTV, DIRECT
 
 ## AUTOMOTIVE INDUSTRY ADVERTISING NETWORKS
-# Specialized automotive advertising platforms
-cars.com, TIGONNEV, RESELLER
-autotrader.com, TIGONNEV, RESELLER
-edmunds.com, TIGONNEV, RESELLER
+cars.com, TIGONPTV, RESELLER
+autotrader.com, TIGONPTV, RESELLER
+edmunds.com, TIGONPTV, RESELLER
 
 ## LOCAL ADVERTISING PARTNERS
-# Multi-state PTV dealer advertising networks
-localmedia.org, TIGONNEV, RESELLER
-pennlive.com, TIGONNEV, RESELLER
+localmedia.org, TIGONPTV, RESELLER
 
 ## CONTACT INFORMATION
 # For advertising inquiries and verification:
 # Email: info@tigonptv.com
-# Business: TIGON PTV
-# Service Area: 11 US States + Canada & Mexico
+# Business: TIGON Personal Transportation Vehicles
+# Service Area: All 50 US States, Canada, Mexico
 # Industry: Personal Transportation Vehicle Sales and Service
 # Phone: 1-844-844-6638
+# Website: https://tigonptv.com
 
 ## ADVERTISING POLICY
 # We maintain strict advertising standards:
@@ -51,8 +50,4 @@ pennlive.com, TIGONNEV, RESELLER
 # This ads.txt file is maintained by:
 # Website: https://tigonptv.com
 # Contact: info@tigonptv.com
-# Last Updated: January 2025
-
-# Note: Publisher account IDs marked as TIGONNEV
-# Contact info@tigonptv.com for actual publisher IDs
-# when setting up advertising partnerships
+# Last Updated: November 2025

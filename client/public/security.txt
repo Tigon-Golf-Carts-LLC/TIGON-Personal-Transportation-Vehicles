@@ -1,13 +1,20 @@
 # Security Policy - TIGON PTV
+# Last Updated: November 2025
 
 ## RESPONSIBLE VULNERABILITY DISCLOSURE
 We welcome security researchers and encourage responsible disclosure of security vulnerabilities.
 
 ### Security Contact Information
-Email: info@tigonptv.com
+Contact: info@tigonptv.com
 Subject Line: [SECURITY] Vulnerability Report
 Response Time: 72 hours maximum
 Acknowledgment: All valid reports acknowledged
+
+### Canonical URL
+Canonical: https://tigonptv.com/.well-known/security.txt
+
+### Preferred Languages
+Preferred-Languages: en
 
 ### Reporting Guidelines
 Please include the following information in your report:
@@ -53,144 +60,48 @@ Please include the following information in your report:
 4. **Disclosure** (After resolution)
    - Public disclosure coordination
    - Credit to reporting researcher
-   - Security advisory publication
 
 ### Security Measures
 **Data Protection:**
-- SSL/TLS encryption for all data transmission
-- Secure cookie implementation
-- Regular security updates and patches
-- Access control and authentication systems
-- Data backup and recovery procedures
-
-**Infrastructure Security:**
-- Secure hosting environment
-- Regular security monitoring
-- Intrusion detection systems
-- Firewall protection
+- SSL/TLS encryption for all connections
+- Secure form handling
+- Input validation and sanitization
 - Regular security audits
 
-### PGP Public Key
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-Contact info@tigonptv.com for PGP key exchange
-for encrypted vulnerability reporting
------END PGP PUBLIC KEY BLOCK-----
-```
+**Infrastructure Security:**
+- Cloud-based hosting with security controls
+- Regular platform updates
+- Automated security monitoring
+- Access control policies
 
-### Legal Protection
-We commit to:
-- Not pursue legal action against researchers acting in good faith
-- Work with researchers to understand and resolve issues
-- Provide credit for valid vulnerability reports
-- Maintain confidentiality during investigation process
+### Policy
+Policy: https://tigonptv.com/privacy
 
-### Hall of Fame
-We acknowledge security researchers who help improve our security:
-- Names published with permission only
-- Credit given for responsible disclosure
-- Recognition for significant security improvements
+### Acknowledgments
+We appreciate security researchers who help us maintain the security of our website and protect our customers.
 
-## SECURITY STANDARDS COMPLIANCE
+## BUSINESS INFORMATION
 
-### Industry Standards
-- OWASP Top 10 Security Risks mitigation
-- PCI DSS compliance for payment processing
-- SOC 2 Type II compliance framework
-- ISO 27001 security management standards
+Company: TIGON Personal Transportation Vehicles
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
+Website: https://tigonptv.com
 
-### Privacy Compliance
-- GDPR compliance for EU users
-- CCPA compliance for California residents
-- Pennsylvania privacy law compliance
-- Regular privacy impact assessments
+## PRIVACY COMMITMENT
 
-### Data Handling
-**Personal Information:**
-- Minimal data collection practices
-- Purpose limitation for data use
-- Data retention policy enforcement
-- User consent management
-- Right to erasure implementation
+We are committed to:
+- Protecting customer data
+- Secure transaction processing
+- Privacy-focused data handling
+- Transparent data practices
+- Compliance with applicable regulations
 
-**Customer Data:**
-- Encrypted data storage
-- Access logging and monitoring
-- Regular data backup procedures
-- Secure data transmission protocols
-- Third-party data sharing controls
+## CONTACT
 
-### Security Updates
-**Regular Maintenance:**
-- Monthly security patch reviews
-- Quarterly security assessments
-- Annual penetration testing
-- Continuous vulnerability monitoring
-- Emergency response procedures
+For security concerns:
+Email: info@tigonptv.com
+Subject: [SECURITY] Your Message
 
-**Incident Response:**
-- 24/7 security monitoring
-- Incident classification procedures
-- Escalation and notification protocols
-- Recovery and restoration procedures
-- Post-incident analysis and improvement
-
-### Third-Party Security
-**Vendor Management:**
-- Security assessment of all vendors
-- Contractual security requirements
-- Regular vendor security reviews
-- Data processing agreements
-- Incident notification requirements
-
-**Service Providers:**
-- Cloud provider security validation
-- Payment processor PCI compliance
-- Analytics service privacy controls
-- CDN security configurations
-- Email service security standards
-
-### Employee Security
-**Access Control:**
-- Principle of least privilege
-- Role-based access management
-- Regular access reviews
-- Multi-factor authentication
-- Secure remote access procedures
-
-**Training and Awareness:**
-- Regular security training programs
-- Phishing awareness education
-- Incident reporting procedures
-- Password policy enforcement
-- Social engineering prevention
-
-### Business Continuity
-**Backup and Recovery:**
-- Regular automated backups
-- Disaster recovery procedures
-- Business continuity planning
-- Alternative site operations
-- Communication protocols
-
-**Availability:**
-- 99.9% uptime service level agreement
-- Load balancing and redundancy
-- DDoS protection measures
-- Performance monitoring
-- Capacity planning procedures
-
-## SECURITY CONTACT
-Primary Contact: info@tigonptv.com
-Backup Contact: Available upon request
-Emergency Contact: 24/7 availability for critical issues
-Escalation: Management notification for high-severity issues
-
-## POLICY UPDATES
-This security policy is reviewed quarterly and updated as needed.
-Last Updated: January 2025
-Next Review: April 2025
-Version: 2.0
-
-For questions about this security policy, contact:
-info@tigonptv.com
+For general inquiries:
+Phone: 1-844-844-6638
+Website: https://tigonptv.com

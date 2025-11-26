@@ -54,15 +54,10 @@
       </task>
       <task>
         <name>Financing Options</name>
-        <description>Explore financing and payment plans</description>
+        <description>Explore flexible payment plans</description>
         <arguments>/financing</arguments>
         <iconUri>/favicon-96.png</iconUri>
       </task>
     </jumplist>
-    <tooltip>TIGON Personal Transportation Vehicles - PTV Dealership</tooltip>
-    <startscreen>
-      <image src="/favicon-512.png"/>
-      <color>#af1b30</color>
-    </startscreen>
   </msapplication>
 </browserconfig>

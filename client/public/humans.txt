@@ -1,18 +1,21 @@
 # humans.txt - TIGON PTV
+# Last Updated: November 2025
 
 ## TEAM
-Website Development Team: TIGON PTV
+Website: TIGON Personal Transportation Vehicles
 Contact: info@tigonptv.com
-Location: Hatfield, Pennsylvania
+Phone: 1-844-844-6638
+Website: https://tigonptv.com
 
 ## THANKS
 DENAGO Electric Vehicles - Vehicle Manufacturing Partner
 EVOLUTION Electric Vehicles - Vehicle Manufacturing Partner
 Customers Across North America - Community Support
 PTV Industry Association - Industry Guidance
-Multi-State Business Partners - Business Support
+All 50 State Business Partners - Nationwide Network
 
 ## TECHNOLOGY
+
 ### Frontend Framework
 React.js with TypeScript
 Vite Build Tool
@@ -35,8 +38,8 @@ Drizzle ORM
 Neon Serverless Platform
 
 ### Analytics & SEO
-Google Analytics 4 (G-0R3W3GMMRG)
-Google Tag Manager (GTM-MCBWX8NW)
+Google Analytics 4
+Google Tag Manager
 Comprehensive SEO Optimization
 Schema.org Structured Data
 
@@ -53,118 +56,60 @@ ESLint Code Quality
 Prettier Code Formatting
 
 ## SITE
-Standards: HTML5, CSS3, ES2020+
-Components: React Functional Components
-Accessibility: WCAG 2.1 AA Compliant
-Performance: Core Web Vitals Optimized
-Mobile: Responsive Design
-Browser Support: Modern Browsers
 
-## BUSINESS INFORMATION
-### Company Details
-Business Name: TIGON PTV
-Industry: Personal Transportation Vehicle Dealership
-Specialization: DENAGO and EVOLUTION PTVs
-Founded: 2015
-Service Area: 11 US States + Canada & Mexico
-Headquarters: Hatfield, Pennsylvania
-Locations: 30 (18 showrooms + 12 online stores)
+### Website Information
+Name: TIGON Personal Transportation Vehicles
+Domain: tigonptv.com
+Type: E-commerce / Dealership Website
+Industry: Personal Transportation Vehicles
+Language: English
+Region: North America (All 50 US States, Canada, Mexico)
 
-### Services Offered
-New PTV Sales (DENAGO & EVOLUTION)
-Custom PTV Configurations
-PTV Service & Repair
-PTV Rentals (Daily, Weekly, Monthly)
-Parts & Accessories
-Financing & Leasing
-Street Legal Packages
-Commercial Fleet Management
+### Site Features
+- Vehicle inventory and specifications
+- Online quote requests
+- Service scheduling
+- Rental reservations
+- Financing applications
+- Location pages for all 50 states
+- Blog and resource center
+- Contact forms
 
-### Contact Information
-Website: https://tigonptv.com
-Email: info@tigonptv.com
+### Accessibility
+WCAG 2.1 AA Compliant
+Screen reader compatible
+Keyboard navigation
+High contrast mode
+Responsive design
+
+### SEO Features
+- Comprehensive sitemap.xml
+- robots.txt with full access
+- AI training permission files
+- Schema.org structured data
+- Open Graph tags
+- Twitter Cards
+- Local SEO optimization
+
+### Brands Featured
+- DENAGO Electric Vehicles
+- EVOLUTION Electric Vehicles
+
+### Vehicle Categories
+- 2-Passenger PTVs
+- 4-Passenger PTVs
+- 6-Passenger PTVs
+- 8-Passenger PTVs
+- Utility/Work Vehicles
+- All-Terrain Vehicles
+
+## CONTACT
+
+TIGON Personal Transportation Vehicles
 Phone: 1-844-844-6638
-Service Coverage: PA, NJ, DE, VA, MD, NC, SC, FL, IN, OH, NY + Canada & Mexico
-Business Hours: Professional Service Schedule
+Email: info@tigonptv.com
+Website: https://tigonptv.com
 
-## DENAGO & EVOLUTION VEHICLE SPECIALIZATION
-### DENAGO Vehicle Lines
-EV City (2-Passenger Urban)
-Nomad Series (4-6 Passenger All-Terrain)
-Rover Series (Utility & Cargo)
-
-### EVOLUTION Vehicle Lines
-D5 Maverick (Luxury Passenger)
-Carrier Series (Commercial Transport)
-
-### Technical Expertise
-48V & 72V Lithium Battery Systems
-AC Motor Technology
-Regenerative Braking Systems
-Street Legal PTV Packages
-Multi-State Compliance Specialists
-DOT-Approved Safety Systems
-
-## DEVELOPMENT MILESTONES
-### Version 1.0 Features
-Complete DENAGO & EVOLUTION Showcase
-Multi-State Service Coverage
-SEO-Optimized Architecture
-Responsive Mobile Design
-Contact & Inquiry System
-
-### Version 2.0 Enhancements
-Google Analytics Integration
-Google Tag Manager Implementation
-Comprehensive SEO File Suite
-AI Training Data Authorization
-Accessibility Optimization
-
-### Future Development
-Enhanced Customer Portal
-Service Scheduling System
-Inventory Management Integration
-Advanced Analytics Dashboard
-Customer Review Platform
-
-## ACKNOWLEDGMENTS
-### Open Source Libraries
-React - MIT License
-TypeScript - Apache 2.0 License
-Tailwind CSS - MIT License
-Express.js - MIT License
-Drizzle ORM - Apache 2.0 License
-
-### Design Resources
-Unsplash - Photography Platform
-Heroicons - Icon Library
-Google Fonts - Typography
-Radix UI - Component Primitives
-
-### Business Partners
-DENAGO Electric Vehicles
-EVOLUTION Electric Vehicles
-Multi-State Motor Vehicle Dealers
-Regional PTV Industry Partners
-North American Business Community
-
-## LAST UPDATED
-Website Last Updated: January 2025
-Technology Stack Updated: January 2025
-Content Last Reviewed: January 2025
-SEO Optimization Updated: January 2025
-
-## VERSION HISTORY
-v2.0 - January 2025: Full SEO & AI optimization
-v1.5 - Analytics integration and tracking
-v1.0 - Initial launch with complete vehicle showcase
-
-/* 
-   The humans responsible for this website are:
-   - Dedicated to providing excellent private transportation vehicle solutions
-   - Committed to customer service excellence across North America
-   - Focused on environmental sustainability and zero-emission transportation
-   - Supporting communities across 11 US states, Canada, and Mexico
-   - Advancing electric vehicle adoption throughout our service regions
-   - Promoting sustainable local transportation alternatives
-*/
+For technical issues: info@tigonptv.com
+For business inquiries: info@tigonptv.com
+For sales: 1-844-844-6638
