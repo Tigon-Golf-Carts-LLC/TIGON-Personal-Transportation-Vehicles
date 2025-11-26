@@ -71,7 +71,7 @@ export default function NewAboutPage() {
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat"
             style={{
-              backgroundImage: "url('/attached_assets/TIGON%20-%20Medium%20Speed%20Vehicles%201_1763146957906.jpeg')"
+              backgroundImage: "url('/attached_assets/TIGON%20Personal%20Transportation%20Vehicles%20Premier%20PTV%20Dealership%20-%20PTV%206_1764176674272.jpeg')"
             }}
           >
             {/* Overlay for better text readability */}
