@@ -79,6 +79,27 @@ import CargoDeliveryNEVs from "@/pages/blog/CargoDeliveryNEVs";
 import LeaseNEVOptions from "@/pages/blog/LeaseNEVOptions";
 import BuyUsedNEVs from "@/pages/blog/BuyUsedNEVs";
 import NEVWarrantyComparison from "@/pages/blog/NEVWarrantyComparison";
+// New PTV Blog Posts (20 new articles)
+import PTVsForSaleNationwide from "@/pages/blog/PTVsForSaleNationwide";
+import BuyPTVsOnline from "@/pages/blog/BuyPTVsOnline";
+import TopPTVs2025 from "@/pages/blog/TopPTVs2025";
+import AffordablePTVs from "@/pages/blog/AffordablePTVs";
+import ElectricPTVs from "@/pages/blog/ElectricPTVs";
+import PTVsForAdults from "@/pages/blog/PTVsForAdults";
+import FamilyFriendlyPTVs from "@/pages/blog/FamilyFriendlyPTVs";
+import StreetLegalPTVs from "@/pages/blog/StreetLegalPTVs";
+import HighPerformancePTVs from "@/pages/blog/HighPerformancePTVs";
+import CompactPTVs from "@/pages/blog/CompactPTVs";
+import LuxuryPTVs from "@/pages/blog/LuxuryPTVs";
+import PTVBuyersGuide from "@/pages/blog/PTVBuyersGuide";
+import CustomizablePTVs from "@/pages/blog/CustomizablePTVs";
+import PTVFinancingOptions from "@/pages/blog/PTVFinancingOptions";
+import RecreationalPTVs from "@/pages/blog/RecreationalPTVs";
+import BestValuePTVs from "@/pages/blog/BestValuePTVs";
+import PTVsForSeniors from "@/pages/blog/PTVsForSeniors";
+import DailyCommuterPTVs from "@/pages/blog/DailyCommuterPTVs";
+import OffRoadPTVs from "@/pages/blog/OffRoadPTVs";
+import YourSourcePTVs from "@/pages/blog/YourSourcePTVs";
 // Location Pages (States and Countries)
 import DynamicLocationPage from "@/pages/DynamicLocationPage";
 
@@ -176,6 +197,28 @@ function App() {
             <Route path="/blog/lease-neighborhood-electric-vehicle-options" component={LeaseNEVOptions} />
             <Route path="/blog/buy-used-neighborhood-electric-vehicles-online" component={BuyUsedNEVs} />
             <Route path="/blog/neighborhood-electric-vehicle-warranty-coverage-comparison" component={NEVWarrantyComparison} />
+            
+            {/* New PTV Blog Routes (20 new articles) */}
+            <Route path="/blog/personal-transportation-vehicles-for-sale-nationwide" component={PTVsForSaleNationwide} />
+            <Route path="/blog/buy-personal-transportation-vehicles-online" component={BuyPTVsOnline} />
+            <Route path="/blog/top-personal-transportation-vehicles-2025" component={TopPTVs2025} />
+            <Route path="/blog/affordable-personal-transportation-vehicles" component={AffordablePTVs} />
+            <Route path="/blog/electric-personal-transportation-vehicles" component={ElectricPTVs} />
+            <Route path="/blog/best-personal-transportation-vehicles-for-adults" component={PTVsForAdults} />
+            <Route path="/blog/family-friendly-personal-transportation-vehicles" component={FamilyFriendlyPTVs} />
+            <Route path="/blog/street-legal-personal-transportation-vehicles" component={StreetLegalPTVs} />
+            <Route path="/blog/high-performance-personal-transportation-vehicles" component={HighPerformancePTVs} />
+            <Route path="/blog/compact-personal-transportation-vehicles" component={CompactPTVs} />
+            <Route path="/blog/luxury-personal-transportation-vehicles" component={LuxuryPTVs} />
+            <Route path="/blog/personal-transportation-vehicles-buyers-guide" component={PTVBuyersGuide} />
+            <Route path="/blog/customizable-personal-transportation-vehicles" component={CustomizablePTVs} />
+            <Route path="/blog/personal-transportation-vehicles-financing-options" component={PTVFinancingOptions} />
+            <Route path="/blog/recreational-personal-transportation-vehicles" component={RecreationalPTVs} />
+            <Route path="/blog/best-value-personal-transportation-vehicles-under-5000" component={BestValuePTVs} />
+            <Route path="/blog/personal-transportation-vehicles-for-seniors" component={PTVsForSeniors} />
+            <Route path="/blog/daily-commuter-personal-transportation-vehicles" component={DailyCommuterPTVs} />
+            <Route path="/blog/off-road-personal-transportation-vehicles" component={OffRoadPTVs} />
+            <Route path="/blog/your-source-for-personal-transportation-vehicles" component={YourSourcePTVs} />
             
             {/* Dynamic Location Pages (All States and Countries) */}
             <Route path="/:slug" component={DynamicLocationPage} />
