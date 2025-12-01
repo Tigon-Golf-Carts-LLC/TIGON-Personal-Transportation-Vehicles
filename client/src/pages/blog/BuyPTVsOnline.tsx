@@ -3,7 +3,7 @@ import { Calendar, ArrowLeft, ShoppingCart, Monitor, Phone } from "lucide-react"
 import { Button } from "@/components/ui/button";
 import SEOHead from "@/components/SEOHead";
 import { getBlogPostBySlug } from "@/data/blogPosts";
-const heroImage = "/attached_assets/TIGON%20Personal%20Transportation%20Vehicles%20Premier%20PTV%20Dealership%20-%20PTV_1764176674271.jpeg";
+import { blogImages } from "@/data/blogImages";
 
 export default function BuyPTVsOnline() {
   const post = getBlogPostBySlug("buy-personal-transportation-vehicles-online");
@@ -41,7 +41,7 @@ export default function BuyPTVsOnline() {
 
           <div className="aspect-video rounded-lg mb-6 overflow-hidden">
             <img 
-              src={heroImage} 
+              src={blogImages[post.slug]} 
               alt={post.heroImageAlt}
               className="w-full h-full object-cover"
             />
