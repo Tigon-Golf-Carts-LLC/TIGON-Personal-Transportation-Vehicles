@@ -138,8 +138,8 @@ export default function DenagoPage() {
     <>
       <SEOHead 
         title="DENAGO"
-        description="Discover premium DENAGO electric private transportation vehicles with all-wheel drive technology, advanced battery systems, and rugged off-road capability. Expert sales and service in Pennsylvania. Call 1-844-844-6638."
-        keywords="DENAGO private transportation vehicles nationwide, electric private transportation vehicles Pennsylvania, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road private transportation vehicles, all-wheel drive private transportation vehicles"
+        description="Discover premium DENAGO electric personal transportation vehicles with all-wheel drive technology, advanced battery systems, and rugged off-road capability. Expert sales and service in Pennsylvania. Call 1-844-844-6638."
+        keywords="DENAGO personal transportation vehicles nationwide, electric personal transportation vehicles Pennsylvania, DENAGO EV CITY, DENAGO EV NOMAD, DENAGO EV ROVER, off-road personal transportation vehicles, all-wheel drive personal transportation vehicles"
         canonicalUrl="https://tigonptv.com/denago"
         image="/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg"
       />

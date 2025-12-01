@@ -11,8 +11,8 @@ export default function EvolutionD5Maverick22Plus() {
     <>
       <SEOHead 
         title="EVOLUTION D5-MAVERICK 2+2 PLUS Personal Transportation Vehicle"
-        description="Premium four-passenger private transportation vehicle with enhanced 2+2 seating and upgraded features. Advanced comfort with premium amenities. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 2+2 Plus, premium private transportation vehicle, 4-passenger, enhanced features, EVOLUTION dealer nationwide"
+        description="Premium four-passenger personal transportation vehicle with enhanced 2+2 seating and upgraded features. Advanced comfort with premium amenities. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Maverick 2+2 Plus, premium personal transportation vehicle, 4-passenger, enhanced features, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-maverick-2-2-plus"
         image="/attached_assets/EVOLUTIOND5MAVERICK2+2PLUS_1751893115780_1753135231312.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD5Maverick22Plus() {
                   D5-MAVERICK 2+2 PLUS
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Premium private transportation vehicle with enhanced 2+2 seating and upgraded features. Experience superior comfort with premium amenities and extended range capability.
+                  Premium personal transportation vehicle with enhanced 2+2 seating and upgraded features. Experience superior comfort with premium amenities and extended range capability.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

@@ -11,8 +11,8 @@ export default function EvolutionForester6Plus() {
     <>
       <SEOHead 
         title="EVOLUTION FORESTER 6 PLUS Personal Transportation Vehicle"
-        description="Six-passenger premium utility private transportation vehicle with heavy-duty features and rugged construction. Built for work and recreation. Call 1-844-844-6638."
-        keywords="EVOLUTION FORESTER 6 PLUS, utility private transportation vehicle, 6-passenger, heavy-duty, work vehicle, EVOLUTION dealer nationwide"
+        description="Six-passenger premium utility personal transportation vehicle with heavy-duty features and rugged construction. Built for work and recreation. Call 1-844-844-6638."
+        keywords="EVOLUTION FORESTER 6 PLUS, utility personal transportation vehicle, 6-passenger, heavy-duty, work vehicle, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-forester-6-plus"
         image="/attached_assets/EVOLUTIONFORESTER6PLUS_1751893159005_1753135437837.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionForester6Plus() {
                   FORESTER 6 PLUS
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Six-passenger premium utility private transportation vehicle with heavy-duty features and rugged construction. Perfect for work crews, resorts, and properties requiring utility transportation.
+                  Six-passenger premium utility personal transportation vehicle with heavy-duty features and rugged construction. Perfect for work crews, resorts, and properties requiring utility transportation.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

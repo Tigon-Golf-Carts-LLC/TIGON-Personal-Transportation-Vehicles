@@ -11,7 +11,7 @@ export default function AboutPage() {
       name: "Mike Johnson",
       role: "General Manager",
       experience: "15+ years",
-      description: "Leading our team with passion for customer service and private transportation vehicle expertise"
+      description: "Leading our team with passion for customer service and personal transportation vehicle expertise"
     },
     {
       name: "Sarah Davis",
@@ -23,7 +23,7 @@ export default function AboutPage() {
       name: "Tom Wilson",
       role: "Sales Director",
       experience: "10+ years",
-      description: "Helping customers find the perfect private transportation vehicle for their needs"
+      description: "Helping customers find the perfect personal transportation vehicle for their needs"
     }
   ];
 
@@ -41,8 +41,8 @@ export default function AboutPage() {
       {/* SEO and Schema Markup */}
       <SEOHead 
         title="About TIGON Personal Transportation Vehicles"
-        description="Discover Pennsylvania's premier private transportation vehicle dealership since 2010 with expert team, authorized Denago and Evolution dealer providing comprehensive NEV service. Call 1-844-844-6638."
-        keywords="about TIGON Personal Transportation Vehicles, PTV dealership Pennsylvania, Denago Evolution dealer, private transportation vehicle service team"
+        description="Discover Pennsylvania's premier personal transportation vehicle dealership since 2010 with expert team, authorized Denago and Evolution dealer providing comprehensive NEV service. Call 1-844-844-6638."
+        keywords="about TIGON Personal Transportation Vehicles, PTV dealership Pennsylvania, Denago Evolution dealer, personal transportation vehicle service team"
         canonicalUrl="https://tigonptv.com/about"
         image="/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
       />
@@ -52,7 +52,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">About TIGON Personal Transportation Vehicles</h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Pennsylvania's premier private transportation vehicle dealership, dedicated to providing 
+            Pennsylvania's premier personal transportation vehicle dealership, dedicated to providing 
             exceptional NEV service and quality vehicles since 2010.
           </p>
         </div>
@@ -66,7 +66,7 @@ export default function AboutPage() {
               <h2 className="text-4xl font-bold mb-6 text-gray-900">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
                 Founded in 2010 in nationwide, TIGON Personal Transportation Vehicles began with a simple mission: 
-                to provide high-quality private transportation vehicles and exceptional service to customers throughout the region.
+                to provide high-quality personal transportation vehicles and exceptional service to customers throughout the region.
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 What started as a small local dealership has grown into the area's premier PTV destination, 
@@ -75,7 +75,7 @@ export default function AboutPage() {
               </p>
               <p className="text-lg text-gray-600 mb-8">
                 Today, we're proud to be authorized dealers for leading brands like EVOLUTION and DENAGO, 
-                offering our customers the latest in private transportation vehicle technology and innovation.
+                offering our customers the latest in personal transportation vehicle technology and innovation.
               </p>
               <Button className="bg-theme-orange hover:opacity-90 text-white w-full sm:w-auto">
                 Learn More About Our Services

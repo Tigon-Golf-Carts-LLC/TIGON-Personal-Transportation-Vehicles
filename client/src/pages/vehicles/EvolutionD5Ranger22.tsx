@@ -11,8 +11,8 @@ export default function EvolutionD5Ranger22() {
     <>
       <SEOHead 
         title="EVOLUTION D5-RANGER 2+2 Personal Transportation Vehicle"
-        description="Rugged four-passenger private transportation vehicle with versatile 2+2 seating configuration. Built for adventure with rear-facing seats. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Ranger 2+2, rugged private transportation vehicle, 4-passenger, adventure NEV, EVOLUTION dealer nationwide"
+        description="Rugged four-passenger personal transportation vehicle with versatile 2+2 seating configuration. Built for adventure with rear-facing seats. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Ranger 2+2, rugged personal transportation vehicle, 4-passenger, adventure NEV, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-ranger-2-2"
         image="/attached_assets/EVOLUTIOND5RANGER2+2_1751893115781_1753135350622.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD5Ranger22() {
                   D5-RANGER 2+2
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Rugged and capable private transportation vehicle with unique 2+2 seating configuration. Built for adventure with reliable performance and versatile passenger options.
+                  Rugged and capable personal transportation vehicle with unique 2+2 seating configuration. Built for adventure with reliable performance and versatile passenger options.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

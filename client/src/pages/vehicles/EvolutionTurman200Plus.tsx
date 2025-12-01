@@ -11,7 +11,7 @@ export default function EvolutionTurman200Plus() {
     <>
       <SEOHead 
         title="EVOLUTION TURMAN 200 PLUS Personal Transportation Vehicle"
-        description="Compact commercial utility private transportation vehicle for landscaping and light maintenance work. Efficient and maneuverable for tight spaces. Call 1-844-844-6638."
+        description="Compact commercial utility personal transportation vehicle for landscaping and light maintenance work. Efficient and maneuverable for tight spaces. Call 1-844-844-6638."
         keywords="EVOLUTION TURMAN 200 PLUS, compact utility vehicle, landscaping cart, commercial NEV, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-turman-200-plus"
         image="/attached_assets/EVOLUTIONTURFMAN200_1751893159006_1753135437837.jpg"
@@ -52,7 +52,7 @@ export default function EvolutionTurman200Plus() {
                   TURMAN 200 PLUS
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Compact commercial utility private transportation vehicle designed for landscaping and light maintenance work. Efficient, maneuverable, and built for tight spaces.
+                  Compact commercial utility personal transportation vehicle designed for landscaping and light maintenance work. Efficient, maneuverable, and built for tight spaces.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

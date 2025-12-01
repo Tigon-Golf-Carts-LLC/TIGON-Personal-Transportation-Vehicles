@@ -26,7 +26,7 @@ export default function CargoDeliveryNEVs() {
           </div>
         </header>
         <div className="prose prose-lg max-w-none">
-          <p className="text-xl text-gray-700 leading-relaxed mb-8">Commercial delivery operations throughout Pennsylvania, New Jersey, Delaware, Virginia, and nationwide are discovering that cargo-focused private transportation vehicles provide superior economics and efficiency for last-mile logistics. From package delivery to maintenance services, specialized cargo NEVs deliver results.</p>
+          <p className="text-xl text-gray-700 leading-relaxed mb-8">Commercial delivery operations throughout Pennsylvania, New Jersey, Delaware, Virginia, and nationwide are discovering that cargo-focused personal transportation vehicles provide superior economics and efficiency for last-mile logistics. From package delivery to maintenance services, specialized cargo NEVs deliver results.</p>
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">Top-Rated Cargo and Delivery NEV Models for 2025</h2>
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">1. DENAGO EV Rover XXL - Maximum Payload Capacity</h3>
           <p className="mb-4">The <Link href="/denago-ev-rover-xxl" className="text-theme-orange hover:underline">DENAGO EV Rover XXL</Link> leads the cargo NEV category with exceptional carrying capacity and durable construction. Popular among commercial operators in Scranton PA, Raleigh NC, and Orangeburg SC for serious delivery work.</p>
@@ -63,8 +63,8 @@ export default function CargoDeliveryNEVs() {
         <div className="mt-16 pt-8 border-t border-gray-200">
           <h3 className="text-2xl font-bold text-gray-900 mb-6">Related Articles</h3>
           <div className="grid md:grid-cols-2 gap-4">
-            <Link href="/blog/neighborhood-electric-vehicle-manufacturers-us" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Which companies manufacture private transportation vehicles available in the US?</h4><p className="text-sm text-gray-600">Learn about DENAGO and EVOLUTION commercial models</p></Link>
-            <Link href="/blog/lease-neighborhood-electric-vehicle-options" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Can I lease a private transportation vehicle instead of buying one?</h4><p className="text-sm text-gray-600">Fleet leasing and commercial finance options</p></Link>
+            <Link href="/blog/neighborhood-electric-vehicle-manufacturers-us" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Which companies manufacture personal transportation vehicles available in the US?</h4><p className="text-sm text-gray-600">Learn about DENAGO and EVOLUTION commercial models</p></Link>
+            <Link href="/blog/lease-neighborhood-electric-vehicle-options" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Can I lease a personal transportation vehicle instead of buying one?</h4><p className="text-sm text-gray-600">Fleet leasing and commercial finance options</p></Link>
           </div>
         </div>
         <div className="mt-12 p-8 bg-gradient-to-r from-theme-primary to-blue-700 text-white rounded-lg text-center">

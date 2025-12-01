@@ -11,8 +11,8 @@ export default function EvolutionClassic2Plus() {
     <>
       <SEOHead 
         title="EVOLUTION CLASSIC 2 PLUS Personal Transportation Vehicle"
-        description="Timeless design and reliable performance in this perfect compact 2-passenger private transportation vehicle for traditional golf. Call 1-844-844-6638."
-        keywords="EVOLUTION Classic 2 Plus, 2-passenger private transportation vehicle, compact private transportation vehicle, traditional design, EVOLUTION dealer nationwide PA"
+        description="Timeless design and reliable performance in this perfect compact 2-passenger personal transportation vehicle for traditional golf. Call 1-844-844-6638."
+        keywords="EVOLUTION Classic 2 Plus, 2-passenger personal transportation vehicle, compact personal transportation vehicle, traditional design, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-classic-2-plus"
         image="/attached_assets/EVOLUTIONCLASSIC2PLUS_1751893115779_1753135231314.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionClassic2Plus() {
                   Classic 2 Plus
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Compact two-passenger classic private transportation vehicle with timeless design and reliable performance. Perfect for traditional golf and essential transportation needs.
+                  Compact two-passenger classic personal transportation vehicle with timeless design and reliable performance. Perfect for traditional golf and essential transportation needs.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -137,7 +137,7 @@ export default function EvolutionClassic2Plus() {
                     <Zap className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Classic Design</h3>
-                      <p className="text-gray-600">Timeless styling that honors traditional private transportation vehicle design with modern reliability.</p>
+                      <p className="text-gray-600">Timeless styling that honors traditional personal transportation vehicle design with modern reliability.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -158,7 +158,7 @@ export default function EvolutionClassic2Plus() {
                     <Award className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Entry Level</h3>
-                      <p className="text-gray-600">Affordable entry point into electric private transportation vehicle ownership with essential features.</p>
+                      <p className="text-gray-600">Affordable entry point into electric personal transportation vehicle ownership with essential features.</p>
                     </div>
                   </div>
                 </div>

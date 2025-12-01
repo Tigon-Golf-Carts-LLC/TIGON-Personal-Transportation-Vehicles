@@ -74,7 +74,7 @@ export default function EvolutionPage() {
     },
     {
       title: "CLASSIC Series",
-      description: "Traditional private transportation vehicle design with reliable performance",
+      description: "Traditional personal transportation vehicle design with reliable performance",
       image: evolutionClassic4PlusImage,
       features: ["Classic Styling", "Proven Reliability", "Value Pricing"],
       vehicles: ["CLASSIC 2 PLUS", "CLASSIC 2 PRO", "CLASSIC 4 PLUS"]
@@ -113,8 +113,8 @@ export default function EvolutionPage() {
     <>
       <SEOHead 
         title="EVOLUTION"
-        description="Experience premium EVOLUTION private transportation vehicles with innovative design, reliable performance, and comprehensive vehicle lineup. Expert sales and service in nationwide, Pennsylvania. Call 1-844-844-6638."
-        keywords="EVOLUTION private transportation vehicles nationwide, electric private transportation vehicles Pennsylvania, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, private transportation vehicle sales Pennsylvania, EVOLUTION dealers"
+        description="Experience premium EVOLUTION personal transportation vehicles with innovative design, reliable performance, and comprehensive vehicle lineup. Expert sales and service in nationwide, Pennsylvania. Call 1-844-844-6638."
+        keywords="EVOLUTION personal transportation vehicles nationwide, electric personal transportation vehicles Pennsylvania, EVOLUTION D5 RANGER, EVOLUTION MAVERICK, EVOLUTION CLASSIC, personal transportation vehicle sales Pennsylvania, EVOLUTION dealers"
         canonicalUrl="https://tigonptv.com/evolution"
         image="/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
       />
@@ -135,7 +135,7 @@ export default function EvolutionPage() {
               EVOLUTION<sup className="text-2xl">®</sup>
             </h1>
             <p className="text-2xl mb-8 max-w-4xl mx-auto">
-              Experience the evolution of electric vehicle excellence. EVOLUTION private transportation vehicles deliver 
+              Experience the evolution of electric vehicle excellence. EVOLUTION personal transportation vehicles deliver 
               premium quality, innovative design, and reliable performance for nationwide, Pennsylvania.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -163,7 +163,7 @@ export default function EvolutionPage() {
                 <p className="text-lg text-gray-600 mb-6">
                   EVOLUTION represents the perfect balance of innovation, quality, and value in 
                   electric vehicle manufacturing. With a comprehensive lineup ranging from classic 
-                  private transportation vehicles to high-performance utility vehicles, EVOLUTION delivers solutions 
+                  personal transportation vehicles to high-performance utility vehicles, EVOLUTION delivers solutions 
                   for every need in nationwide's diverse communities.
                 </p>
                 <div className="grid grid-cols-1 gap-4">
@@ -304,7 +304,7 @@ export default function EvolutionPage() {
                   </div>
                   <CardHeader className="pb-2">
                     <CardTitle className="text-lg text-gray-900">D5 RANGER 2+2 PLUS</CardTitle>
-                    <p className="text-sm text-gray-600">4-passenger premium private transportation vehicle</p>
+                    <p className="text-sm text-gray-600">4-passenger premium personal transportation vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
                     <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
@@ -475,7 +475,7 @@ export default function EvolutionPage() {
                   </div>
                   <CardHeader className="pb-2">
                     <CardTitle className="text-lg text-gray-900">CLASSIC 2 PLUS</CardTitle>
-                    <p className="text-sm text-gray-600">Traditional 2-passenger private transportation vehicle</p>
+                    <p className="text-sm text-gray-600">Traditional 2-passenger personal transportation vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
                     <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
@@ -499,7 +499,7 @@ export default function EvolutionPage() {
                   </div>
                   <CardHeader className="pb-2">
                     <CardTitle className="text-lg text-gray-900">CLASSIC 2 PRO</CardTitle>
-                    <p className="text-sm text-gray-600">Professional 2-passenger private transportation vehicle</p>
+                    <p className="text-sm text-gray-600">Professional 2-passenger personal transportation vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
                     <Button className="w-full bg-theme-orange hover:opacity-90 text-white">
@@ -523,7 +523,7 @@ export default function EvolutionPage() {
                   </div>
                   <CardHeader className="pb-2">
                     <CardTitle className="text-lg text-gray-900">CLASSIC 4 PLUS</CardTitle>
-                    <p className="text-sm text-gray-600">Traditional 4-passenger private transportation vehicle</p>
+                    <p className="text-sm text-gray-600">Traditional 4-passenger personal transportation vehicle</p>
                   </CardHeader>
                   <CardContent className="pt-0">
                     <Button className="w-full bg-theme-orange hover:opacity-90 text-white">

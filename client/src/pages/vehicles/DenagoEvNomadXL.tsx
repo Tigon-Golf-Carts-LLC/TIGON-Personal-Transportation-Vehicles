@@ -12,7 +12,7 @@ export default function DenagoEvNomadXL() {
       <SEOHead 
         title="DENAGO EV NOMAD XL Personal Transportation Vehicle"
         description="Extended seating and enhanced storage for larger adventure groups. Perfect for group exploration and outdoor activities with superior performance. Call 1-844-844-6638."
-        keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger private transportation vehicle, DENAGO dealer nationwide PA"
+        keywords="DENAGO EV Nomad XL, adventure electric vehicle, 6-passenger personal transportation vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/denago-ev-nomad-xl"
         image="/attached_assets/DENAGONEVNOMADXL_1751893047472_1753135231313.jpg"
       />

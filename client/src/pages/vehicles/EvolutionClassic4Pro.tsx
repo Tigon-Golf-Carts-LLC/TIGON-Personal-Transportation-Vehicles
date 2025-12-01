@@ -11,8 +11,8 @@ export default function EvolutionClassic4Pro() {
     <>
       <SEOHead 
         title="EVOLUTION CLASSIC 4 PRO Personal Transportation Vehicle"
-        description="Professional grade four-passenger classic private transportation vehicle with enhanced features and premium performance. Timeless design meets modern technology. Call 1-844-844-6638."
-        keywords="EVOLUTION CLASSIC 4 PRO, professional private transportation vehicle, 4-passenger, enhanced features, classic design, EVOLUTION dealer nationwide"
+        description="Professional grade four-passenger classic personal transportation vehicle with enhanced features and premium performance. Timeless design meets modern technology. Call 1-844-844-6638."
+        keywords="EVOLUTION CLASSIC 4 PRO, professional personal transportation vehicle, 4-passenger, enhanced features, classic design, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-classic-4-pro"
         image="/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionClassic4Pro() {
                   CLASSIC 4 PRO
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Professional grade four-passenger classic private transportation vehicle combining timeless design with enhanced performance features. The ultimate in classic styling with modern technology.
+                  Professional grade four-passenger classic personal transportation vehicle combining timeless design with enhanced performance features. The ultimate in classic styling with modern technology.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

@@ -1,694 +1,829 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <!-- ==================== MAIN PAGES ==================== -->
+  
   <!-- Homepage - Priority 1.0 -->
   <url>
     <loc>https://tigonptv.com/</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://tigonptv.com/attached_assets/D6-XT6-4wd-color-PORTIMAO-BLUE_1753135231312.png</image:loc>
       <image:title>TIGON Personal Transportation Vehicles - Premier PTV Dealership</image:title>
       <image:caption>Premium personal transportation vehicles from TIGON - North America's premier PTV dealership serving all 50 states</image:caption>
+      <image:geo_location>United States</image:geo_location>
     </image:image>
   </url>
 
-  <!-- Main Navigation Pages - Priority 0.9 -->
+  <!-- Inventory Page - Priority 0.9 -->
   <url>
     <loc>https://tigonptv.com/inventory</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
+
+  <!-- Showroom Page - Priority 0.9 -->
   <url>
     <loc>https://tigonptv.com/showroom</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
+  <!-- Contact Page - Priority 0.8 -->
   <url>
-    <loc>https://tigonptv.com/rentals</loc>
-    <lastmod>2025-11-26</lastmod>
+    <loc>https://tigonptv.com/contact</loc>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- Rentals Page - Priority 0.8 -->
   <url>
-    <loc>https://tigonptv.com/services</loc>
-    <lastmod>2025-11-26</lastmod>
+    <loc>https://tigonptv.com/rentals</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Financing Page - Priority 0.7 -->
+  <url>
+    <loc>https://tigonptv.com/financing</loc>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <!-- Services Page - Priority 0.7 -->
   <url>
-    <loc>https://tigonptv.com/contact</loc>
-    <lastmod>2025-11-26</lastmod>
+    <loc>https://tigonptv.com/services</loc>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
+
+  <!-- About Page - Priority 0.5 -->
   <url>
     <loc>https://tigonptv.com/about</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
+
+  <!-- Policies Page - Priority 0.5 -->
   <url>
-    <loc>https://tigonptv.com/financing</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://tigonptv.com/policies</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 
-  <!-- Brand Pages - Priority 0.8 -->
+  <!-- ==================== BRAND PAGES ==================== -->
+
+  <!-- DENAGO Brand Page - Priority 0.9 -->
   <url>
     <loc>https://tigonptv.com/denago</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/evolution</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
-  <!-- DENAGO Vehicle Pages - Priority 0.9 -->
+  <!-- EVOLUTION Brand Page - Priority 0.9 -->
+  <url>
+    <loc>https://tigonptv.com/evolution</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ==================== DENAGO VEHICLE PAGES ==================== -->
+
   <url>
     <loc>https://tigonptv.com/vehicles/denago-ev-city</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://tigonptv.com/attached_assets/DENAGO-EV-CITY.jpg</image:loc>
       <image:title>DENAGO EV CITY Personal Transportation Vehicle</image:title>
-      <image:caption>Compact electric personal transportation vehicle perfect for urban environments</image:caption>
+      <image:caption>Compact 2-passenger electric personal transportation vehicle for urban environments</image:caption>
     </image:image>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/denago-ev-nomad</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://tigonptv.com/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg</image:loc>
       <image:title>DENAGO EV NOMAD Personal Transportation Vehicle</image:title>
-      <image:caption>Adventure-ready electric vehicle for outdoor exploration</image:caption>
+      <image:caption>4-passenger adventure-ready electric vehicle for outdoor exploration</image:caption>
     </image:image>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/denago-ev-nomad-xl</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/denago-ev-rover-xl</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/denago-ev-rover-xl6</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/denago-ev-rover-xxl</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://tigonptv.com/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg</image:loc>
       <image:title>DENAGO EV ROVER XXL Personal Transportation Vehicle</image:title>
-      <image:caption>Maximum seating and cargo capacity luxury model</image:caption>
+      <image:caption>8-passenger maximum capacity luxury electric vehicle</image:caption>
     </image:image>
   </url>
 
-  <!-- EVOLUTION Vehicle Pages - Priority 0.9 -->
-  <url>
-    <loc>https://tigonptv.com/vehicles/evolution-carrier-6-plus</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/vehicles/evolution-carrier-8-plus</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
+  <!-- ==================== EVOLUTION VEHICLE PAGES ==================== -->
+
+  <!-- Evolution Classic Series -->
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-classic-2-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-classic-2-pro</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-classic-4-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-classic-4-pro</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
+  <!-- Evolution D5 Maverick Series -->
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-maverick-4</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-maverick-4-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-maverick-6</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-maverick-6-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-maverick-22</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-maverick-22-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-maverick-42-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
+  <!-- Evolution D5 Ranger Series -->
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-ranger-4</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-ranger-4-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-ranger-6</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-ranger-6-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-ranger-22</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-ranger-22-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d5-ranger-42-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
+  <!-- Evolution D6 Max Series -->
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d6-max-gt4</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d6-max-gt6</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d6-max-xt4</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-d6-max-xt6</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
+  <!-- Evolution Carrier Series -->
+  <url>
+    <loc>https://tigonptv.com/vehicles/evolution-carrier-6-plus</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/vehicles/evolution-carrier-8-plus</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Evolution Forester Series -->
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-forester-4-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-forester-6-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://tigonptv.com/vehicles/evolution-turfman-1000</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/vehicles/evolution-turfman-1000-plus</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
+
+  <!-- Evolution Turfman Series -->
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-turfman-200-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/vehicles/evolution-turfman-800-plus</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Blog Pages - Priority 0.6 -->
+  <url>
+    <loc>https://tigonptv.com/vehicles/evolution-turfman-1000</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/vehicles/evolution-turfman-1000-plus</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ==================== BLOG PAGES ==================== -->
+
   <url>
     <loc>https://tigonptv.com/blog</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/best-neighborhood-electric-vehicles-city-commuting</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/neighborhood-electric-vehicle-manufacturers-us</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/find-neighborhood-electric-vehicle-dealerships-near-me</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/neighborhood-electric-vehicle-price-range-cost</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/neighborhood-electric-vehicle-tax-credits-incentives</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/neighborhood-electric-vehicles-vs-regular-electric-cars-comparison</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/top-rated-neighborhood-electric-vehicles-cargo-delivery</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/lease-neighborhood-electric-vehicle-options</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/buy-used-neighborhood-electric-vehicles-online</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/blog/neighborhood-electric-vehicle-warranty-coverage-comparison</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
-  <!-- US State Location Pages - Priority 0.8 -->
+  <!-- ==================== US STATE LOCATION PAGES ==================== -->
+
   <url>
     <loc>https://tigonptv.com/alabama</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/alaska</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/arizona</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/arkansas</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/california</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/colorado</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/connecticut</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/delaware</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/florida</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/georgia</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/hawaii</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/idaho</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/illinois</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/indiana</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/iowa</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/kansas</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/kentucky</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/louisiana</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/maine</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/maryland</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/massachusetts</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/michigan</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/minnesota</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/mississippi</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/missouri</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/montana</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/nebraska</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/nevada</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/new-hampshire</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/new-jersey</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/new-mexico</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/new-york</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/north-carolina</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/north-dakota</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/ohio</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/oklahoma</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/oregon</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/pennsylvania</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/rhode-island</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/south-carolina</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/south-dakota</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/tennessee</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/texas</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/utah</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/vermont</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/virginia</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/washington</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/west-virginia</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/wisconsin</loc>
-    <lastmod>2025-11-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tigonptv.com/wyoming</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- International Location Pages - Priority 0.7 -->
+  <url>
+    <loc>https://tigonptv.com/alaska</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/arizona</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/arkansas</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/california</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/colorado</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/connecticut</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/delaware</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/florida</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/georgia</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/hawaii</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/idaho</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/illinois</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/indiana</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/iowa</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/kansas</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/kentucky</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/louisiana</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/maine</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/maryland</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/massachusetts</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/michigan</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/minnesota</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/mississippi</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/missouri</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/montana</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/nebraska</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/nevada</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/new-hampshire</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/new-jersey</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/new-mexico</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/new-york</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/north-carolina</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/north-dakota</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/ohio</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/oklahoma</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/oregon</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/pennsylvania</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/rhode-island</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/south-carolina</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/south-dakota</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/tennessee</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/texas</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/utah</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/vermont</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/virginia</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/washington</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/west-virginia</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/wisconsin</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://tigonptv.com/wyoming</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== INTERNATIONAL LOCATION PAGES ==================== -->
+
   <url>
     <loc>https://tigonptv.com/canada</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
     <loc>https://tigonptv.com/mexico</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

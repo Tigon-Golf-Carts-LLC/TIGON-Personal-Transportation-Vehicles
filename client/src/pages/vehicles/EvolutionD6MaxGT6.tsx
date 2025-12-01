@@ -11,8 +11,8 @@ export default function EvolutionD6MaxGT6() {
     <>
       <SEOHead 
         title="EVOLUTION D6 MAX GT6 Personal Transportation Vehicle"
-        description="High performance and luxury features combine in this six-passenger private transportation vehicle with maximum power and premium comfort. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 Max GT6, high performance private transportation vehicle, 6-passenger, luxury features, maximum power, EVOLUTION dealer nationwide PA"
+        description="High performance and luxury features combine in this six-passenger personal transportation vehicle with maximum power and premium comfort. Call 1-844-844-6638."
+        keywords="EVOLUTION D6 Max GT6, high performance personal transportation vehicle, 6-passenger, luxury features, maximum power, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d6-max-gt6"
         image="/attached_assets/EVOLUTIOND6MAXGT6_1751893159004_1753135350620.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD6MaxGT6() {
                   Max GT6
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Six-passenger high-performance private transportation vehicle with maximum power and luxury features. The ultimate combination of performance, comfort, and style.
+                  Six-passenger high-performance personal transportation vehicle with maximum power and luxury features. The ultimate combination of performance, comfort, and style.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">
@@ -151,7 +151,7 @@ export default function EvolutionD6MaxGT6() {
                     <Settings className="w-6 h-6 text-theme-primary mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-2">Luxury Features</h3>
-                      <p className="text-gray-600">Premium luxury features and high-end appointments for the ultimate private transportation vehicle experience.</p>
+                      <p className="text-gray-600">Premium luxury features and high-end appointments for the ultimate personal transportation vehicle experience.</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">

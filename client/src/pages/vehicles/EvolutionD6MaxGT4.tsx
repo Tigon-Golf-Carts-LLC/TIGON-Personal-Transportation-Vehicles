@@ -11,8 +11,8 @@ export default function EvolutionD6MaxGT4() {
     <>
       <SEOHead 
         title="EVOLUTION D6 MAX GT4 Personal Transportation Vehicle"
-        description="High-performance electric private transportation vehicle with premium performance features and luxury appointments. Ultimate technology for discerning drivers. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 MAX GT4, performance private transportation vehicle, luxury electric vehicle, high performance, EVOLUTION dealer nationwide PA"
+        description="High-performance electric personal transportation vehicle with premium performance features and luxury appointments. Ultimate technology for discerning drivers. Call 1-844-844-6638."
+        keywords="EVOLUTION D6 MAX GT4, performance personal transportation vehicle, luxury electric vehicle, high performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d6-max-gt4"
         image="/attached_assets/EVOLUTIOND6MAXGT4_1751893159004_1753135350620.jpg"
       />
@@ -54,7 +54,7 @@ export default function EvolutionD6MaxGT4() {
                   MAX GT4
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Experience the EVOLUTION® D6 MAX GT4 with premium performance features and luxury appointments. The ultimate in high-performance electric private transportation vehicle technology.
+                  Experience the EVOLUTION® D6 MAX GT4 with premium performance features and luxury appointments. The ultimate in high-performance electric personal transportation vehicle technology.
                 </p>
                 
                 {/* Key Features Grid */}
@@ -96,7 +96,7 @@ export default function EvolutionD6MaxGT4() {
                 <div className="relative">
                   <img 
                     src={maxgtImage} 
-                    alt="EVOLUTION® D6 MAX GT4 - High performance private transportation vehicle" 
+                    alt="EVOLUTION® D6 MAX GT4 - High performance personal transportation vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl drop-shadow-2xl"
                   />
                 </div>

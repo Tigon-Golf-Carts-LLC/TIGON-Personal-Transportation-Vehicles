@@ -12,7 +12,7 @@ export default function EvolutionForester4Plus() {
       <SEOHead 
         title="EVOLUTION FORESTER 4 PLUS Personal Transportation Vehicle"
         description="Premium electric utility vehicle designed for rugged terrain and heavy-duty work. Built for utility work with rugged construction and reliable electric power. Call 1-844-844-6638."
-        keywords="EVOLUTION FORESTER 4 PLUS, utility private transportation vehicle, electric utility vehicle, work cart, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION FORESTER 4 PLUS, utility personal transportation vehicle, electric utility vehicle, work cart, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-forester-4-plus"
         image="/attached_assets/EVOLUTIONFORESTER4PLUS_1751893159005_1753135437836.jpg"
       />
@@ -96,7 +96,7 @@ export default function EvolutionForester4Plus() {
                 <div className="relative">
                   <img 
                     src={foresterImage} 
-                    alt="EVOLUTION® FORESTER 4 PLUS - Premium utility private transportation vehicle" 
+                    alt="EVOLUTION® FORESTER 4 PLUS - Premium utility personal transportation vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl drop-shadow-2xl"
                   />
                 </div>

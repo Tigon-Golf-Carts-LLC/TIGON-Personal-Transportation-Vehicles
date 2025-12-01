@@ -11,8 +11,8 @@ export default function EvolutionClassic4Plus() {
     <>
       <SEOHead 
         title="EVOLUTION CLASSIC 4 PLUS Personal Transportation Vehicle"
-        description="Experience timeless design with modern electric performance. Classic styling meets contemporary technology and comfort for premium private transportation vehicle experience. Call 1-844-844-6638."
-        keywords="EVOLUTION CLASSIC 4 PLUS, classic private transportation vehicle, premium electric vehicle, traditional styling, EVOLUTION dealer nationwide PA"
+        description="Experience timeless design with modern electric performance. Classic styling meets contemporary technology and comfort for premium personal transportation vehicle experience. Call 1-844-844-6638."
+        keywords="EVOLUTION CLASSIC 4 PLUS, classic personal transportation vehicle, premium electric vehicle, traditional styling, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-classic-4-plus"
         image="/attached_assets/EVOLUTIONCLASSIC4PLUS_1751893115779_1753135231314.jpg"
       />
@@ -96,7 +96,7 @@ export default function EvolutionClassic4Plus() {
                 <div className="relative">
                   <img 
                     src={classicImage} 
-                    alt="EVOLUTION® CLASSIC 4 PLUS - Premium classic private transportation vehicle" 
+                    alt="EVOLUTION® CLASSIC 4 PLUS - Premium classic personal transportation vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl drop-shadow-2xl"
                   />
                 </div>

@@ -11,8 +11,8 @@ export default function EvolutionD5Maverick4() {
     <>
       <SEOHead 
         title="EVOLUTION D5 MAVERICK 4 Personal Transportation Vehicle"
-        description="Reliable performance and essential features make this the perfect 4-passenger private transportation vehicle for standard transportation needs. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 4, 4-passenger private transportation vehicle, standard features, reliable performance, EVOLUTION dealer nationwide PA"
+        description="Reliable performance and essential features make this the perfect 4-passenger personal transportation vehicle for standard transportation needs. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Maverick 4, 4-passenger personal transportation vehicle, standard features, reliable performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-maverick-4"
         image="/attached_assets/EVOLUTIOND5MAVERICK4_1751893115780_1753135231312.jpg"
       />

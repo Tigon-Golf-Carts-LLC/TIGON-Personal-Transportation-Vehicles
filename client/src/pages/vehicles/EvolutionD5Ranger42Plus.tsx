@@ -11,8 +11,8 @@ export default function EvolutionD5Ranger42Plus() {
     <>
       <SEOHead 
         title="EVOLUTION D5-RANGER 4+2 PLUS Personal Transportation Vehicle"
-        description="Premium six-passenger private transportation vehicle with versatile 4+2 seating and enhanced features. Rugged construction meets premium comfort. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Ranger 4+2 Plus, 6-passenger private transportation vehicle, versatile seating, premium features, EVOLUTION dealer nationwide"
+        description="Premium six-passenger personal transportation vehicle with versatile 4+2 seating and enhanced features. Rugged construction meets premium comfort. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Ranger 4+2 Plus, 6-passenger personal transportation vehicle, versatile seating, premium features, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-ranger-4-2-plus"
         image="/attached_assets/EVOLUTIOND5RANGER4+2PLUS(9)_1751893115782_1753135350622.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD5Ranger42Plus() {
                   D5-RANGER 4+2 PLUS
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Premium six-passenger private transportation vehicle with versatile 4+2 seating configuration. Combines rugged Ranger durability with premium features and extended range.
+                  Premium six-passenger personal transportation vehicle with versatile 4+2 seating configuration. Combines rugged Ranger durability with premium features and extended range.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

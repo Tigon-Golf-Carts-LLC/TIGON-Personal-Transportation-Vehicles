@@ -15,7 +15,7 @@ export default function NEVPriceRange() {
       <SEOHead 
         title={post.seoTitle}
         description={post.metaDescription}
-        keywords="NEV prices 2025, private transportation vehicle cost, DENAGO prices, EVOLUTION NEV cost, electric vehicle pricing Pennsylvania, NEV financing, street legal golf cart prices"
+        keywords="NEV prices 2025, personal transportation vehicle cost, DENAGO prices, EVOLUTION NEV cost, electric vehicle pricing Pennsylvania, NEV financing, street legal golf cart prices"
         canonicalUrl={`https://tigonptv.com/blog/${post.slug}`}
       />
 
@@ -52,7 +52,7 @@ export default function NEVPriceRange() {
 
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-8">
-            Understanding private transportation vehicle pricing helps Pennsylvania, New Jersey, Delaware, and Virginia buyers budget effectively and make informed purchasing decisions. In 2025, NEV prices range from approximately $8,000 for basic models to $25,000+ for premium configurations with advanced features.
+            Understanding personal transportation vehicle pricing helps Pennsylvania, New Jersey, Delaware, and Virginia buyers budget effectively and make informed purchasing decisions. In 2025, NEV prices range from approximately $8,000 for basic models to $25,000+ for premium configurations with advanced features.
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
@@ -196,13 +196,13 @@ export default function NEVPriceRange() {
           <div className="grid md:grid-cols-2 gap-4">
             <Link href="/blog/neighborhood-electric-vehicle-tax-credits-incentives" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                Are there any incentives or tax credits for buying a private transportation vehicle?
+                Are there any incentives or tax credits for buying a personal transportation vehicle?
               </h4>
               <p className="text-sm text-gray-600">Maximize savings with federal and state incentives</p>
             </Link>
             <Link href="/blog/lease-neighborhood-electric-vehicle-options" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                Can I lease a private transportation vehicle instead of buying one?
+                Can I lease a personal transportation vehicle instead of buying one?
               </h4>
               <p className="text-sm text-gray-600">Explore flexible leasing options and benefits</p>
             </Link>

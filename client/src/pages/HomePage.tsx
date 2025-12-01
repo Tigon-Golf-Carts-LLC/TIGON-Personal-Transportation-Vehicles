@@ -22,8 +22,8 @@ export default function HomePage() {
       {/* SEO and Schema Markup */}
       <SEOHead 
         title="TIGON Personal Transportation Vehicles Premier PTV Dealership"
-        description="Transform your outdoor experience with premium private transportation vehicles from North America's premier PTV dealership. Expert sales, service, rentals, and financing for Denago and Evolution private transportation vehicles. Call 1-844-844-6638."
-        keywords="private transportation vehicles for all 50 states, PTV Pennsylvania, Denago PTV, Evolution PTV, private transportation vehicle sales service rentals, TIGON"
+        description="Transform your outdoor experience with premium personal transportation vehicles from North America's premier PTV dealership. Expert sales, service, rentals, and financing for Denago and Evolution personal transportation vehicles. Call 1-844-844-6638."
+        keywords="personal transportation vehicles for all 50 states, PTV Pennsylvania, Denago PTV, Evolution PTV, personal transportation vehicle sales service rentals, TIGON"
         canonicalUrl="https://tigonptv.com/"
         image="/attached_assets/a-photograph-of-a-bright-and-airy-modern_cSGtJe7oTWCsurFpyhqrJg_CXQ9jYUGRP2_wh-uk2Htkg_1753199147926.png"
       />
@@ -44,8 +44,8 @@ export default function HomePage() {
                 TIGON Personal Transportation Vehicles Premier PTV Dealership
               </h1>
               <p className="text-xl mb-8 drop-shadow-md">
-                Discover our extensive selection of new private transportation vehicles from Evolution and Denago with professional services. 
-                Serving customers nationwide across all 50 states, Canada, and Mexico with premium private transportation vehicles.
+                Discover our extensive selection of new personal transportation vehicles from Evolution and Denago with professional services. 
+                Serving customers nationwide across all 50 states, Canada, and Mexico with premium personal transportation vehicles.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -78,7 +78,7 @@ export default function HomePage() {
             Why Choose TIGON Personal Transportation Vehicles?
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
-            We're more than just a dealership - we're your partner in private transportation vehicle ownership 
+            We're more than just a dealership - we're your partner in personal transportation vehicle ownership 
             with comprehensive services and unmatched expertise.
           </p>
           
@@ -119,7 +119,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Eco-Friendly</h3>
               <p className="text-gray-600">
-                Electric private transportation vehicles for sustainable, quiet, and efficient transportation.
+                Electric personal transportation vehicles for sustainable, quiet, and efficient transportation.
               </p>
             </div>
           </div>
@@ -147,11 +147,11 @@ export default function HomePage() {
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Denago</h3>
-              <p className="text-sm text-gray-600">High-quality performance private transportation vehicles</p>
+              <p className="text-sm text-gray-600">High-quality performance personal transportation vehicles</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Evolution</h3>
-              <p className="text-sm text-gray-600">Luxury private transportation vehicles with premium features</p>
+              <p className="text-sm text-gray-600">Luxury personal transportation vehicles with premium features</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Tomberlin</h3>
@@ -217,7 +217,7 @@ export default function HomePage() {
               <CardHeader className="pb-3">
                 <CardTitle className="text-xl font-semibold">Evolution D5 Maverick 4 Plus</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
-                  Premium electric private transportation vehicle with advanced features and superior performance. Seats 4 passengers with extended range capability.
+                  Premium electric personal transportation vehicle with advanced features and superior performance. Seats 4 passengers with extended range capability.
                 </CardDescription>
               </CardHeader>
               <CardContent className="pt-0">
@@ -252,7 +252,7 @@ export default function HomePage() {
               <CardHeader className="pb-3">
                 <CardTitle className="text-xl font-semibold">Evolution D6 Max GT4</CardTitle>
                 <CardDescription className="text-left text-gray-600 text-sm">
-                  High-performance 4-passenger private transportation vehicle with cutting-edge technology and sporty design.
+                  High-performance 4-passenger personal transportation vehicle with cutting-edge technology and sporty design.
                 </CardDescription>
               </CardHeader>
               <CardContent className="pt-0">
@@ -322,7 +322,7 @@ export default function HomePage() {
                 About TIGON Personal Transportation Vehicles
               </h2>
               <p className="text-lg text-gray-600 mb-8">
-                With over 15 years of experience in the private transportation vehicle industry, we've built our reputation on providing exceptional service and quality products to customers throughout nationwide and surrounding areas.
+                With over 15 years of experience in the personal transportation vehicle industry, we've built our reputation on providing exceptional service and quality products to customers throughout nationwide and surrounding areas.
               </p>
               
               <div className="grid grid-cols-2 gap-8 mb-8">
@@ -483,7 +483,7 @@ export default function HomePage() {
           </div>
           
           <p className="text-gray-600 mb-8">
-            Serving all 50 states, Canada, and Mexico! Professional private transportation vehicle sales, service, and rentals delivered across North America.
+            Serving all 50 states, Canada, and Mexico! Professional personal transportation vehicle sales, service, and rentals delivered across North America.
           </p>
         </div>
       </section>

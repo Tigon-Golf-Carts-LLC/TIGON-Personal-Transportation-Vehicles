@@ -11,8 +11,8 @@ export default function EvolutionD5Maverick22() {
     <>
       <SEOHead 
         title="EVOLUTION D5-MAVERICK 2+2 Personal Transportation Vehicle"
-        description="Compact four-passenger private transportation vehicle with versatile 2+2 seating configuration. Perfect for couples and small families with rear-facing seats. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 2+2, compact private transportation vehicle, 4-passenger, versatile seating, EVOLUTION dealer nationwide"
+        description="Compact four-passenger personal transportation vehicle with versatile 2+2 seating configuration. Perfect for couples and small families with rear-facing seats. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Maverick 2+2, compact personal transportation vehicle, 4-passenger, versatile seating, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-maverick-2-2"
         image="/attached_assets/EVOLUTIOND5MAVERICK2+2_1751893115780_1753135231312.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD5Maverick22() {
                   D5-MAVERICK 2+2
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Compact and versatile private transportation vehicle with unique 2+2 seating configuration. Perfect for couples who occasionally need extra passenger capacity with rear-facing seats.
+                  Compact and versatile personal transportation vehicle with unique 2+2 seating configuration. Perfect for couples who occasionally need extra passenger capacity with rear-facing seats.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

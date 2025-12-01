@@ -12,7 +12,7 @@ export default function DenagoEVRoverXL() {
       <SEOHead 
         title="DENAGO EV ROVER XL Personal Transportation Vehicle"
         description="Ultimate electric vehicle performance with advanced capabilities and premium features designed for the modern explorer. All-wheel drive technology and luxury comfort. Call 1-844-844-6638."
-        keywords="DENAGO EV ROVER XL, electric private transportation vehicle, premium electric vehicle, DENAGO dealer nationwide PA"
+        keywords="DENAGO EV ROVER XL, electric personal transportation vehicle, premium electric vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/denago-ev-rover-xl"
         image="/attached_assets/DENAGONEVROVERXL_1751893047473_1753135231313.jpg"
       />
@@ -96,7 +96,7 @@ export default function DenagoEVRoverXL() {
                 <div className="relative">
                   <img 
                     src={roverXLImage} 
-                    alt="DENAGO EV ROVER XL - Premium electric private transportation vehicle" 
+                    alt="DENAGO EV ROVER XL - Premium electric personal transportation vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl drop-shadow-2xl"
                   />
                 </div>

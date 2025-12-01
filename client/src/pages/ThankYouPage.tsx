@@ -9,7 +9,7 @@ export default function ThankYouPage() {
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
         title="Thank You for Your Message!"
-        description="Thank you for contacting TIGON Personal Transportation Vehicles. We'll respond to your inquiry within 24 hours and help you find the perfect private transportation vehicle solution. Call 1-844-844-6638."
+        description="Thank you for contacting TIGON Personal Transportation Vehicles. We'll respond to your inquiry within 24 hours and help you find the perfect personal transportation vehicle solution. Call 1-844-844-6638."
         keywords="thank you, contact confirmation, TIGON Personal Transportation Vehicles"
         canonicalUrl="https://tigonptv.com/thank-you"
         image="/attached_assets/Bucks County Golf Carts (3)_1753284044185.png"

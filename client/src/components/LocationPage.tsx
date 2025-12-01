@@ -55,7 +55,7 @@ export default function LocationPage({ location }: LocationPageProps) {
       <SEOHead
         title={seoTitle}
         description={seoDescription}
-        keywords={`private transportation vehicles, PTV, ${name}, TIGON, electric vehicles, ${type === 'state' ? 'state' : 'country'}`}
+        keywords={`personal transportation vehicles, PTV, ${name}, TIGON, electric vehicles, ${type === 'state' ? 'state' : 'country'}`}
         canonicalUrl={`https://tigonptv.com/${slug}`}
         image="https://tigonptv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png"
       />
@@ -115,7 +115,7 @@ export default function LocationPage({ location }: LocationPageProps) {
               </div>
               <h3 className="text-xl font-semibold mb-3">Electric PTVs</h3>
               <p className="text-gray-600">
-                Premium electric private transportation vehicles
+                Premium electric personal transportation vehicles
               </p>
             </div>
           </div>
@@ -192,7 +192,7 @@ export default function LocationPage({ location }: LocationPageProps) {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  New and certified pre-owned private transportation vehicles from top brands
+                  New and certified pre-owned personal transportation vehicles from top brands
                 </p>
               </CardContent>
             </Card>
@@ -240,7 +240,7 @@ export default function LocationPage({ location }: LocationPageProps) {
             Ready to Get Started in {name}?
           </h2>
           <p className="text-xl mb-8">
-            Contact us today to learn more about our private transportation vehicles and services
+            Contact us today to learn more about our personal transportation vehicles and services
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="tel:18448446638">

@@ -14,7 +14,7 @@ interface SEOHeadProps {
 export default function SEOHead({ 
   title, 
   description, 
-  keywords = "private transportation vehicles, PTV, electric vehicles, street legal vehicles, low speed vehicles, TIGON", 
+  keywords = "personal transportation vehicles, PTV, electric vehicles, street legal vehicles, low speed vehicles, TIGON", 
   canonicalUrl,
   townName,
   image,

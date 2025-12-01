@@ -11,7 +11,7 @@ export default function NEVWarrantyComparison() {
 
   return (
     <div className="min-h-screen bg-white">
-      <SEOHead title={post.seoTitle} description={post.metaDescription} keywords="NEV warranty coverage, DENAGO warranty, EVOLUTION warranty, electric vehicle warranty comparison, battery warranty, private transportation vehicle protection plans" canonicalUrl={`https://tigonptv.com/blog/${post.slug}`} />
+      <SEOHead title={post.seoTitle} description={post.metaDescription} keywords="NEV warranty coverage, DENAGO warranty, EVOLUTION warranty, electric vehicle warranty comparison, battery warranty, personal transportation vehicle protection plans" canonicalUrl={`https://tigonptv.com/blog/${post.slug}`} />
       <article className="max-w-4xl mx-auto px-4 py-12">
         <Link href="/blog"><Button variant="ghost" className="mb-6" data-testid="back-to-blog"><ArrowLeft className="w-4 h-4 mr-2" />Back to Blog</Button></Link>
         <header className="mb-8">
@@ -26,10 +26,10 @@ export default function NEVWarrantyComparison() {
           </div>
         </header>
         <div className="prose prose-lg max-w-none">
-          <p className="text-xl text-gray-700 leading-relaxed mb-8">Warranty coverage significantly impacts the total cost of private transportation vehicle ownership for Pennsylvania, New Jersey, Delaware, and Virginia buyers. Understanding what each manufacturer covers—and for how long—helps make informed purchasing decisions and budget for potential future expenses.</p>
+          <p className="text-xl text-gray-700 leading-relaxed mb-8">Warranty coverage significantly impacts the total cost of personal transportation vehicle ownership for Pennsylvania, New Jersey, Delaware, and Virginia buyers. Understanding what each manufacturer covers—and for how long—helps make informed purchasing decisions and budget for potential future expenses.</p>
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">DENAGO Warranty Coverage Overview</h2>
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Comprehensive Vehicle Warranty</h3>
-          <p className="mb-4"><Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> private transportation vehicles sold through <Link href="/showroom" className="text-theme-orange hover:underline">TIGON dealerships</Link> in Hatfield PA, Ocean View NJ, Dover DE, and nationwide locations include industry-leading warranty protection.</p>
+          <p className="mb-4"><Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> personal transportation vehicles sold through <Link href="/showroom" className="text-theme-orange hover:underline">TIGON dealerships</Link> in Hatfield PA, Ocean View NJ, Dover DE, and nationwide locations include industry-leading warranty protection.</p>
           <ul className="list-disc pl-6 mb-6 space-y-2">
             <li><strong>Basic Warranty:</strong> 2 years/unlimited miles on all components</li>
             <li><strong>Powertrain Warranty:</strong> 3 years/unlimited miles on motor and controller</li>
@@ -83,8 +83,8 @@ export default function NEVWarrantyComparison() {
         <div className="mt-16 pt-8 border-t border-gray-200">
           <h3 className="text-2xl font-bold text-gray-900 mb-6">Related Articles</h3>
           <div className="grid md:grid-cols-2 gap-4">
-            <Link href="/blog/neighborhood-electric-vehicle-manufacturers-us" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Which companies manufacture private transportation vehicles available in the US?</h4><p className="text-sm text-gray-600">Learn about DENAGO and EVOLUTION quality standards</p></Link>
-            <Link href="/blog/buy-used-neighborhood-electric-vehicles-online" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">What are the best online platforms to buy used private transportation vehicles?</h4><p className="text-sm text-gray-600">Understanding warranty transfer for pre-owned NEVs</p></Link>
+            <Link href="/blog/neighborhood-electric-vehicle-manufacturers-us" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Which companies manufacture personal transportation vehicles available in the US?</h4><p className="text-sm text-gray-600">Learn about DENAGO and EVOLUTION quality standards</p></Link>
+            <Link href="/blog/buy-used-neighborhood-electric-vehicles-online" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors"><h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">What are the best online platforms to buy used personal transportation vehicles?</h4><p className="text-sm text-gray-600">Understanding warranty transfer for pre-owned NEVs</p></Link>
           </div>
         </div>
         <div className="mt-12 p-8 bg-gradient-to-r from-theme-primary to-blue-700 text-white rounded-lg text-center">

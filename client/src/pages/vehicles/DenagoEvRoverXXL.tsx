@@ -12,7 +12,7 @@ export default function DenagoEvRoverXXL() {
       <SEOHead 
         title="DENAGO EV ROVER XXL Personal Transportation Vehicle"
         description="Maximum seating and cargo capacity in our largest luxury model designed for ultimate group transportation. Call 1-844-844-6638."
-        keywords="DENAGO EV Rover XXL, 8-passenger private transportation vehicle, maximum capacity, luxury electric vehicle, DENAGO dealer nationwide PA"
+        keywords="DENAGO EV Rover XXL, 8-passenger personal transportation vehicle, maximum capacity, luxury electric vehicle, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/denago-ev-rover-xxl"
         image="/attached_assets/DENAGONEVROVERXXL_1751893047473_1753135231313.jpg"
       />

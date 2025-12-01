@@ -11,8 +11,8 @@ export default function EvolutionD5Maverick42Plus() {
     <>
       <SEOHead 
         title="EVOLUTION D5-MAVERICK 4+2 PLUS Personal Transportation Vehicle"
-        description="Six-passenger premium private transportation vehicle with versatile 4+2 seating configuration and enhanced features. Perfect for families with flexible passenger options. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 4+2 Plus, 6-passenger private transportation vehicle, family NEV, versatile seating, EVOLUTION dealer nationwide"
+        description="Six-passenger premium personal transportation vehicle with versatile 4+2 seating configuration and enhanced features. Perfect for families with flexible passenger options. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Maverick 4+2 Plus, 6-passenger personal transportation vehicle, family NEV, versatile seating, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-maverick-4-2-plus"
         image="/attached_assets/EVOLUTIOND5MAVERICK4+2PLUS_1751893115780_1753135231312.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD5Maverick42Plus() {
                   D5-MAVERICK 4+2 PLUS
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Premium six-passenger private transportation vehicle with versatile 4+2 seating. Four forward-facing seats plus two rear-facing seats provide maximum flexibility for family adventures.
+                  Premium six-passenger personal transportation vehicle with versatile 4+2 seating. Four forward-facing seats plus two rear-facing seats provide maximum flexibility for family adventures.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

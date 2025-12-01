@@ -12,7 +12,7 @@ export default function EvolutionD5Ranger6Plus() {
       <SEOHead 
         title="EVOLUTION D5 RANGER 6 PLUS Personal Transportation Vehicle"
         description="Ultimate in electric vehicle performance with advanced capabilities and premium features for discerning buyers. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 RANGER 6 PLUS, electric private transportation vehicle, premium electric vehicle, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION D5 RANGER 6 PLUS, electric personal transportation vehicle, premium electric vehicle, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-ranger-6-plus"
         image="/attached_assets/EVOLUTIOND5RANGER6PLUS_1751893159004_1753135350619.jpg"
       />
@@ -96,7 +96,7 @@ export default function EvolutionD5Ranger6Plus() {
                 <div className="relative">
                   <img 
                     src={rangerImage} 
-                    alt="EVOLUTION® D5 RANGER 6 PLUS - Premium electric private transportation vehicle" 
+                    alt="EVOLUTION® D5 RANGER 6 PLUS - Premium electric personal transportation vehicle" 
                     className="w-full h-auto rounded-2xl shadow-2xl drop-shadow-2xl"
                   />
                 </div>

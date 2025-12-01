@@ -15,7 +15,7 @@ export default function NEVManufacturersUS() {
       <SEOHead 
         title={post.seoTitle}
         description={post.metaDescription}
-        keywords="private transportation vehicle manufacturers, PTV brands USA, DENAGO manufacturer, EVOLUTION NEVs, American electric vehicle companies, Pennsylvania NEV dealers, street legal golf cart brands"
+        keywords="personal transportation vehicle manufacturers, PTV brands USA, DENAGO manufacturer, EVOLUTION NEVs, American electric vehicle companies, Pennsylvania NEV dealers, street legal golf cart brands"
         canonicalUrl={`https://tigonptv.com/blog/${post.slug}`}
       />
 
@@ -52,7 +52,7 @@ export default function NEVManufacturersUS() {
 
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-8">
-            The private transportation vehicle industry has experienced tremendous growth in recent years, with both established manufacturers and innovative startups bringing quality NEVs to the American market. Understanding which companies lead the industry helps buyers in Pennsylvania, New Jersey, Delaware, Virginia, and nationwide make informed purchasing decisions.
+            The personal transportation vehicle industry has experienced tremendous growth in recent years, with both established manufacturers and innovative startups bringing quality NEVs to the American market. Understanding which companies lead the industry helps buyers in Pennsylvania, New Jersey, Delaware, Virginia, and nationwide make informed purchasing decisions.
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
@@ -63,7 +63,7 @@ export default function NEVManufacturersUS() {
             DENAGO - Innovation Meets Reliability
           </h3>
           <p className="mb-4">
-            <strong>Company Overview:</strong> DENAGO has emerged as one of the premier private transportation vehicle manufacturers in the United States, combining cutting-edge technology with robust build quality. Available at all <Link href="/showroom" className="text-theme-orange hover:underline">TIGON locations</Link> across Pennsylvania, New Jersey, Delaware, and beyond.
+            <strong>Company Overview:</strong> DENAGO has emerged as one of the premier personal transportation vehicle manufacturers in the United States, combining cutting-edge technology with robust build quality. Available at all <Link href="/showroom" className="text-theme-orange hover:underline">TIGON locations</Link> across Pennsylvania, New Jersey, Delaware, and beyond.
           </p>
           <p className="mb-4">
             <strong>DENAGO Model Lineup:</strong>
@@ -77,14 +77,14 @@ export default function NEVManufacturersUS() {
             <li><Link href="/denago-ev-rover-xxl" className="text-theme-orange hover:underline">DENAGO EV Rover XXL</Link> - Maximum payload capacity</li>
           </ul>
           <p className="mb-4">
-            <strong>Manufacturing Standards:</strong> DENAGO vehicles undergo rigorous quality testing and meet all federal safety standards for street-legal private transportation vehicles. Popular across Hatfield PA, Ocean View NJ, and Dover DE communities.
+            <strong>Manufacturing Standards:</strong> DENAGO vehicles undergo rigorous quality testing and meet all federal safety standards for street-legal personal transportation vehicles. Popular across Hatfield PA, Ocean View NJ, and Dover DE communities.
           </p>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">
             EVOLUTION - Premium Performance and Styling
           </h3>
           <p className="mb-4">
-            <strong>Brand Heritage:</strong> EVOLUTION has built a reputation for premium private transportation vehicles that don't compromise on style or performance. Their vehicles are particularly popular in upscale communities throughout the Pocono area, Gloucester Point VA, and Virginia Beach.
+            <strong>Brand Heritage:</strong> EVOLUTION has built a reputation for premium personal transportation vehicles that don't compromise on style or performance. Their vehicles are particularly popular in upscale communities throughout the Pocono area, Gloucester Point VA, and Virginia Beach.
           </p>
           <p className="mb-4">
             <strong>EVOLUTION Product Range:</strong>
@@ -107,7 +107,7 @@ export default function NEVManufacturersUS() {
             Safety Certifications and Compliance
           </h4>
           <p className="mb-4">
-            Reputable private transportation vehicle manufacturers ensure their vehicles meet or exceed federal safety standards. Both DENAGO and EVOLUTION vehicles comply with National Highway Traffic Safety Administration (NHTSA) regulations for low-speed vehicles, making them legal for operation on roads with speed limits up to 35 mph across Pennsylvania, New Jersey, and all 50 states.
+            Reputable personal transportation vehicle manufacturers ensure their vehicles meet or exceed federal safety standards. Both DENAGO and EVOLUTION vehicles comply with National Highway Traffic Safety Administration (NHTSA) regulations for low-speed vehicles, making them legal for operation on roads with speed limits up to 35 mph across Pennsylvania, New Jersey, and all 50 states.
           </p>
 
           <h4 className="text-xl font-semibold text-gray-900 mt-6 mb-3">
@@ -139,14 +139,14 @@ export default function NEVManufacturersUS() {
             Connected Vehicle Technology
           </h5>
           <p className="mb-4">
-            Modern private transportation vehicles increasingly feature smartphone connectivity, GPS tracking, and remote diagnostics. These technologies enhance security and make it easier to monitor vehicle health and battery status.
+            Modern personal transportation vehicles increasingly feature smartphone connectivity, GPS tracking, and remote diagnostics. These technologies enhance security and make it easier to monitor vehicle health and battery status.
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
             How to Choose the Right NEV Manufacturer for Your Needs
           </h2>
           <p className="mb-4">
-            Consider these factors when selecting a private transportation vehicle brand:
+            Consider these factors when selecting a personal transportation vehicle brand:
           </p>
           <ul className="list-disc pl-6 mb-6 space-y-2">
             <li><strong>Local Dealer Support:</strong> Proximity to authorized service centers in your Pennsylvania, New Jersey, or Delaware area</li>
@@ -169,13 +169,13 @@ export default function NEVManufacturersUS() {
           <div className="grid md:grid-cols-2 gap-4">
             <Link href="/blog/best-neighborhood-electric-vehicles-city-commuting" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                What are the best private transportation vehicles for city commuting?
+                What are the best personal transportation vehicles for city commuting?
               </h4>
               <p className="text-sm text-gray-600">Top PTV models for urban driving and daily commutes</p>
             </Link>
             <Link href="/blog/neighborhood-electric-vehicle-warranty-coverage-comparison" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                Which private transportation vehicle brands offer the longest warranty coverage?
+                Which personal transportation vehicle brands offer the longest warranty coverage?
               </h4>
               <p className="text-sm text-gray-600">Compare warranty terms from leading manufacturers</p>
             </Link>

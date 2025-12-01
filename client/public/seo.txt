@@ -1,30 +1,50 @@
+# ================================================================================
 # SEO OPTIMIZATION DATA - TIGON PTV
-# TIGON Personal Transportation Vehicles  
-# Last Updated: November 2025
+# TIGON Personal Transportation Vehicles
+# Last Updated: December 2025
+# Website: https://tigonptv.com
+# ================================================================================
 
 ## PRIMARY SEO TARGETING
+
 COMPLETE SEARCH ENGINE ACCESSIBILITY for Google, Bing, Yahoo, DuckDuckGo, Yandex, and Baidu
 ZERO SEO RESTRICTIONS - complete search engine accessibility
 Maximum indexing permissions for all search engines globally
 Cross-platform SEO optimization for mobile and desktop
 International SEO targeting for global search engines
 
+## BUSINESS INFORMATION
+
+Company: TIGON Personal Transportation Vehicles
+Website: https://tigonptv.com
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
+Coverage: All 50 US States, Canada, Mexico
+Brands: DENAGO, EVOLUTION
+Services: Sales, Service, Rentals, Financing
+
 ## PRIMARY KEYWORDS (High Search Volume)
 
 ### Core Product Keywords
 - personal transportation vehicles
+- personal transportation vehicle for sale
 - PTV for sale
 - street legal electric vehicles
+- street legal golf cart
 - low speed electric vehicles
-- electric neighborhood carts
+- low speed vehicle
+- LSV for sale
+- electric neighborhood vehicles
+- NEV for sale
 - DENAGO electric vehicles
+- DENAGO dealer
 - EVOLUTION electric vehicles
+- EVOLUTION dealer
 - electric golf carts street legal
 - PTV dealers
 - buy personal transportation vehicle
 - neighborhood electric vehicle
-- LSV for sale
-- street legal golf cart
+- golf cart alternative
 
 ### Location + Product Keywords (All 50 States)
 - personal transportation vehicles Alabama
@@ -91,6 +111,9 @@ International SEO targeting for global search engines
 - electric vehicle short trips
 - eco-friendly neighborhood transport
 - golf cart alternative street legal
+- where to buy street legal golf cart
+- how much does a PTV cost
+- best personal transportation vehicle
 
 ## SECONDARY KEYWORDS (Medium-High Volume)
 
@@ -103,6 +126,8 @@ International SEO targeting for global search engines
 - electric vehicle repair near me
 - PTV battery service
 - LSV maintenance
+- PTV tune up
+- electric vehicle inspection
 
 ### Rental Keywords
 - PTV rental
@@ -111,6 +136,9 @@ International SEO targeting for global search engines
 - neighborhood vehicle rental
 - resort golf cart rental
 - event golf cart rental
+- daily PTV rental
+- weekly golf cart rental
+- monthly PTV rental
 
 ### Financing Keywords
 - PTV financing
@@ -118,13 +146,19 @@ International SEO targeting for global search engines
 - electric vehicle loans
 - low speed vehicle financing
 - PTV lease options
+- zero down golf cart financing
+- PTV payment plans
 
 ### Brand Keywords
-- DENAGO dealer
-- EVOLUTION dealer
+- DENAGO dealer near me
+- EVOLUTION dealer near me
 - DENAGO EV City
 - DENAGO EV Nomad
+- DENAGO EV Nomad XL
 - DENAGO EV Rover
+- DENAGO EV Rover XL
+- DENAGO EV Rover XL6
+- DENAGO EV Rover XXL
 - EVOLUTION Classic
 - EVOLUTION D5 Maverick
 - EVOLUTION D5 Ranger
@@ -136,13 +170,19 @@ International SEO targeting for global search engines
 ## LONG-TAIL KEYWORDS
 
 ### Feature-Specific
+- 2 passenger street legal golf cart
 - 4 passenger street legal golf cart
+- 4 passenger electric vehicle
 - 6 passenger electric vehicle
+- 6 passenger PTV
 - 8 passenger PTV
+- 8 passenger electric vehicle
 - lithium battery golf cart
 - street legal golf cart with doors
 - enclosed neighborhood electric vehicle
 - lifted golf cart street legal
+- all terrain electric vehicle
+- off road capable PTV
 
 ### Use-Case Keywords
 - golf cart for gated community
@@ -151,12 +191,16 @@ International SEO targeting for global search engines
 - resort transportation vehicle
 - farm utility vehicle electric
 - hunting vehicle electric
+- beach community golf cart
+- HOA approved electric vehicle
 
 ### Comparison Keywords
 - PTV vs golf cart
 - DENAGO vs EVOLUTION
 - electric vs gas golf cart
 - street legal vs regular golf cart
+- LSV vs NEV
+- golf cart vs low speed vehicle
 
 ## VOICE SEARCH OPTIMIZATION
 
@@ -168,6 +212,10 @@ International SEO targeting for global search engines
 - "What's the difference between a golf cart and a PTV"
 - "How far can an electric golf cart go on one charge"
 - "Are electric golf carts street legal"
+- "What is the fastest street legal golf cart"
+- "Can I drive a golf cart on the road"
+- "Where to buy DENAGO golf cart"
+- "Where to buy EVOLUTION golf cart"
 
 ## LOCAL SEO TERMS
 
@@ -176,6 +224,7 @@ International SEO targeting for global search engines
 - golf cart sales [state name]
 - electric vehicle dealer near [location]
 - PTV service [area name]
+- street legal golf cart [city name]
 
 ## SEMANTIC KEYWORDS
 
@@ -188,6 +237,8 @@ International SEO targeting for global search engines
 - green transportation
 - zero emission vehicles
 - clean energy vehicles
+- last mile transportation
+- micro mobility
 
 ## COMPETITOR KEYWORDS
 
@@ -197,6 +248,8 @@ International SEO targeting for global search engines
 - electric vehicle showroom
 - golf cart superstore
 - neighborhood vehicle dealer
+- golf cart outlet
+- electric cart store
 
 ## SEASONAL KEYWORDS
 
@@ -205,11 +258,13 @@ International SEO targeting for global search engines
 - beach golf cart
 - vacation golf cart rental
 - resort vehicle
+- outdoor electric vehicle
 
 ### Fall/Winter
 - enclosed golf cart
 - golf cart with heater
 - all-weather golf cart
+- cold weather electric vehicle
 
 ## MOBILE SEARCH KEYWORDS
 
@@ -218,13 +273,42 @@ International SEO targeting for global search engines
 - golf cart dealer nearby
 - electric vehicle service near me
 - PTV showroom close by
+- golf cart for sale near me
 
-## BUSINESS INFORMATION FOR SEO
+## SCHEMA MARKUP RECOMMENDATIONS
 
-Company: TIGON Personal Transportation Vehicles
-Phone: 1-844-844-6638
-Email: info@tigonptv.com
-Website: https://tigonptv.com
-Coverage: All 50 US States, Canada, Mexico
-Brands: DENAGO, EVOLUTION
-Services: Sales, Service, Rentals, Financing
+### Organization Schema
+- LocalBusiness
+- AutoDealer
+- Store
+
+### Product Schema
+- Vehicle
+- Product
+- Offer
+
+### Review Schema
+- AggregateRating
+- Review
+
+## TECHNICAL SEO NOTES
+
+### URL Structure
+- Use absolute URLs: https://tigonptv.com/[page]
+- Clean URL structure with hyphens
+- Keyword-rich URLs
+- Canonical tags on all pages
+
+### Meta Tags
+- Unique title for each page
+- Meta description 150-160 characters
+- Open Graph tags for social sharing
+- Twitter Card tags
+
+### Performance
+- Mobile-first design
+- Fast loading times
+- Optimized images
+- Lazy loading
+
+## END OF SEO.TXT

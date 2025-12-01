@@ -11,7 +11,7 @@ export default function EvolutionTurman800Plus() {
     <>
       <SEOHead 
         title="EVOLUTION TURMAN 800 PLUS Personal Transportation Vehicle"
-        description="Mid-size commercial utility private transportation vehicle for landscaping and maintenance work. 800 lbs payload capacity with durable construction. Call 1-844-844-6638."
+        description="Mid-size commercial utility personal transportation vehicle for landscaping and maintenance work. 800 lbs payload capacity with durable construction. Call 1-844-844-6638."
         keywords="EVOLUTION TURMAN 800 PLUS, mid-size utility vehicle, landscaping cart, commercial NEV, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-turman-800-plus"
         image="/attached_assets/EVOLUTIONTURFMAN800_1751893159006_1753135437836.jpg"
@@ -52,7 +52,7 @@ export default function EvolutionTurman800Plus() {
                   TURMAN 800 PLUS
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Mid-size commercial utility private transportation vehicle designed for landscaping and maintenance work. 800 lbs payload capacity with durable construction for demanding applications.
+                  Mid-size commercial utility personal transportation vehicle designed for landscaping and maintenance work. 800 lbs payload capacity with durable construction for demanding applications.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

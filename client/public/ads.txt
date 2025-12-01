@@ -1,6 +1,6 @@
 # ads.txt - TIGON PTV
 # Authorized Digital Sellers
-# Last Updated: November 2025
+# Last Updated: December 2025
 
 ## AUTHORIZED ADVERTISING PARTNERS
 # This file identifies authorized digital advertising sellers for tigonptv.com
@@ -50,4 +50,4 @@ localmedia.org, TIGONPTV, RESELLER
 # This ads.txt file is maintained by:
 # Website: https://tigonptv.com
 # Contact: info@tigonptv.com
-# Last Updated: November 2025
+# Last Updated: December 2025

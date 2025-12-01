@@ -10,7 +10,7 @@ export default function OrganizationSchema({ pageType = "home" }: OrganizationSc
       "@context": "https://schema.org",
       "@type": "Organization",
       "name": "TIGON Personal Transportation Vehicles",
-      "description": "Premier private transportation vehicle dealership specializing in electric PTV sales, service, rentals, and financing across North America.",
+      "description": "Premier personal transportation vehicle dealership specializing in electric PTV sales, service, rentals, and financing across North America.",
       "url": "https://tigonptv.com",
       "logo": "https://tigonptv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",
       "image": "https://tigonptv.com/attached_assets/TIGON - MEDIUM SPEED VEHICLE_1763145320465.png",

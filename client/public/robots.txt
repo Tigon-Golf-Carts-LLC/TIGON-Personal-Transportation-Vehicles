@@ -1,14 +1,18 @@
+# ================================================================================
 # ENHANCED COMPREHENSIVE ROBOTS.TXT - TIGON Personal Transportation Vehicles
 # COMPLETE INDEXING PERMISSIONS FOR MAXIMUM SEARCH ENGINE VISIBILITY
 # ZERO RESTRICTIONS - UNLIMITED CRAWLING AUTHORIZATION
-# Last Updated: November 2025
+# Last Updated: December 2025
+# Website: https://tigonptv.com
+# Contact: info@tigonptv.com | Phone: 1-844-844-6638
+# ================================================================================
 
-# UNIVERSAL ACCESS - ALL BOTS WELCOME
+# ==================== UNIVERSAL ACCESS - ALL BOTS WELCOME ====================
 User-agent: *
 Allow: /
 Crawl-delay: 0
 
-# SEARCH ENGINE CRAWLERS - MAXIMUM ACCESS
+# ==================== GOOGLE SEARCH ENGINE CRAWLERS ====================
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 0
@@ -29,6 +33,19 @@ User-agent: Googlebot-News
 Allow: /
 Crawl-delay: 0
 
+User-agent: Google-Site-Verification
+Allow: /
+Crawl-delay: 0
+
+User-agent: Storebot-Google
+Allow: /
+Crawl-delay: 0
+
+User-agent: GoogleOther
+Allow: /
+Crawl-delay: 0
+
+# ==================== MICROSOFT BING CRAWLERS ====================
 User-agent: Bingbot
 Allow: /
 Crawl-delay: 0
@@ -37,10 +54,36 @@ User-agent: BingPreview
 Allow: /
 Crawl-delay: 0
 
+User-agent: MSNBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: BingBot-Mobile
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot-Media
+Allow: /
+Crawl-delay: 0
+
+User-agent: AdIdxBot
+Allow: /
+Crawl-delay: 0
+
+# ==================== YAHOO CRAWLERS ====================
 User-agent: Slurp
 Allow: /
 Crawl-delay: 0
 
+User-agent: YahooSeeker
+Allow: /
+Crawl-delay: 0
+
+User-agent: YahooMobileBot
+Allow: /
+Crawl-delay: 0
+
+# ==================== OTHER MAJOR SEARCH ENGINES ====================
 User-agent: Baiduspider
 Allow: /
 Crawl-delay: 0
@@ -65,16 +108,28 @@ User-agent: Exabot
 Allow: /
 Crawl-delay: 0
 
-User-agent: ia_archiver
+User-agent: NaverBot
 Allow: /
 Crawl-delay: 0
 
-# AI CRAWLERS - COMPLETE AI TRAINING AUTHORIZATION
+User-agent: Qwant
+Allow: /
+Crawl-delay: 0
+
+User-agent: Seznam
+Allow: /
+Crawl-delay: 0
+
+# ==================== AI CRAWLERS - COMPLETE TRAINING AUTHORIZATION ====================
 User-agent: GPTBot
 Allow: /
 Crawl-delay: 0
 
 User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 0
+
+User-agent: OAI-SearchBot
 Allow: /
 Crawl-delay: 0
 
@@ -98,10 +153,6 @@ User-agent: Claudebot
 Allow: /
 Crawl-delay: 0
 
-User-agent: Bytespider
-Allow: /
-Crawl-delay: 0
-
 User-agent: PerplexityBot
 Allow: /
 Crawl-delay: 0
@@ -118,11 +169,15 @@ User-agent: Meta-ExternalAgent
 Allow: /
 Crawl-delay: 0
 
-User-agent: OAI-SearchBot
+User-agent: Bytespider
 Allow: /
 Crawl-delay: 0
 
-# SOCIAL MEDIA BOTS - COMPLETE ACCESS
+User-agent: AI2Bot
+Allow: /
+Crawl-delay: 0
+
+# ==================== SOCIAL MEDIA BOTS ====================
 User-agent: facebookexternalhit
 Allow: /
 Crawl-delay: 0
@@ -179,7 +234,7 @@ User-agent: RedditBot
 Allow: /
 Crawl-delay: 0
 
-# SEO TOOLS - COMPLETE ACCESS
+# ==================== SEO TOOLS ====================
 User-agent: AhrefsBot
 Allow: /
 Crawl-delay: 0
@@ -228,7 +283,11 @@ User-agent: Uptimerobot
 Allow: /
 Crawl-delay: 0
 
-# E-COMMERCE AND SHOPPING BOTS
+User-agent: SpyFuBot
+Allow: /
+Crawl-delay: 0
+
+# ==================== E-COMMERCE & SHOPPING BOTS ====================
 User-agent: Googlebot-Shopping
 Allow: /
 Crawl-delay: 0
@@ -249,7 +308,7 @@ User-agent: BizrateBot
 Allow: /
 Crawl-delay: 0
 
-# NEWS AND AGGREGATION BOTS
+# ==================== NEWS & AGGREGATION BOTS ====================
 User-agent: GoogleNews
 Allow: /
 Crawl-delay: 0
@@ -270,12 +329,16 @@ User-agent: Feedly
 Allow: /
 Crawl-delay: 0
 
-# ACADEMIC AND RESEARCH BOTS
-User-agent: archive.org_bot
+User-agent: Flipboard
 Allow: /
 Crawl-delay: 0
 
-User-agent: ResearchBot
+# ==================== ACADEMIC & ARCHIVE BOTS ====================
+User-agent: ia_archiver
+Allow: /
+Crawl-delay: 0
+
+User-agent: archive.org_bot
 Allow: /
 Crawl-delay: 0
 
@@ -283,7 +346,11 @@ User-agent: WaybackArchiver
 Allow: /
 Crawl-delay: 0
 
-# LOCAL BUSINESS AND REVIEW BOTS
+User-agent: ResearchBot
+Allow: /
+Crawl-delay: 0
+
+# ==================== LOCAL BUSINESS & REVIEW BOTS ====================
 User-agent: YelpBot
 Allow: /
 Crawl-delay: 0
@@ -300,7 +367,7 @@ User-agent: YellowPagesBot
 Allow: /
 Crawl-delay: 0
 
-# VOICE ASSISTANT BOTS
+# ==================== VOICE ASSISTANT BOTS ====================
 User-agent: AlexaBot
 Allow: /
 Crawl-delay: 0
@@ -317,7 +384,7 @@ User-agent: CortanaBot
 Allow: /
 Crawl-delay: 0
 
-# ACCESSIBILITY BOTS
+# ==================== ACCESSIBILITY BOTS ====================
 User-agent: AccessibilityBot
 Allow: /
 Crawl-delay: 0
@@ -326,7 +393,7 @@ User-agent: ScreenReaderBot
 Allow: /
 Crawl-delay: 0
 
-# ANALYTICS BOTS
+# ==================== ANALYTICS BOTS ====================
 User-agent: GoogleAnalytics
 Allow: /
 Crawl-delay: 0
@@ -335,19 +402,16 @@ User-agent: YandexMetrica
 Allow: /
 Crawl-delay: 0
 
-# SITEMAP REFERENCES
+# ==================== SITEMAP REFERENCES ====================
 Sitemap: https://tigonptv.com/sitemap.xml
 Sitemap: https://tigonptv.com/sitemap-index.xml
 
-# ADDITIONAL SITEMAPS
-# Image Sitemap: https://tigonptv.com/sitemap-images.xml
-# Video Sitemap: https://tigonptv.com/sitemap-videos.xml
-# News Sitemap: https://tigonptv.com/sitemap-news.xml
-
-# HOST DECLARATION
+# ==================== HOST DECLARATION ====================
 Host: https://tigonptv.com
 
+# ================================================================================
 # CONTACT INFORMATION FOR WEBMASTERS
 # Website: https://tigonptv.com
-# Contact: info@tigonptv.com
+# Email: info@tigonptv.com
 # Phone: 1-844-844-6638
+# ================================================================================

@@ -46,8 +46,8 @@ export default function NewInventoryPage() {
     <>
       <SEOHead 
         title="Personal Transportation Vehicle Inventory"
-        description="Browse our extensive inventory of new and used private transportation vehicles from top brands like DENAGO and EVOLUTION in nationwide, PA. Call 1-844-844-6638."
-        keywords="private transportation vehicle inventory, new private transportation vehicles, used private transportation vehicles, DENAGO, EVOLUTION, nationwide private transportation vehicles"
+        description="Browse our extensive inventory of new and used personal transportation vehicles from top brands like DENAGO and EVOLUTION in nationwide, PA. Call 1-844-844-6638."
+        keywords="personal transportation vehicle inventory, new personal transportation vehicles, used personal transportation vehicles, DENAGO, EVOLUTION, nationwide personal transportation vehicles"
       />
       
       <div className="min-h-screen bg-gray-50">
@@ -66,7 +66,7 @@ export default function NewInventoryPage() {
                 Personal Transportation Vehicle Inventory
               </h1>
               <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-                Discover our extensive selection of premium private transportation vehicles from leading brands. 
+                Discover our extensive selection of premium personal transportation vehicles from leading brands. 
                 New arrivals, certified pre-owned, and custom builds available.
               </p>
             </div>
@@ -80,7 +80,7 @@ export default function NewInventoryPage() {
               <div className="relative">
                 <Search className="absolute left-3 top-3 h-4 w-4 text-gray-400" />
                 <Input
-                  placeholder="Search private transportation vehicles..."
+                  placeholder="Search personal transportation vehicles..."
                   className="pl-10"
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
@@ -241,7 +241,7 @@ export default function NewInventoryPage() {
               Can't Find What You're Looking For?
             </h2>
             <p className="text-xl mb-8">
-              Our team can help you find the perfect private transportation vehicle or place a custom order.
+              Our team can help you find the perfect personal transportation vehicle or place a custom order.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">
@@ -269,7 +269,7 @@ export default function NewInventoryPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
-                  <p className="text-gray-600">Speak with our private transportation vehicle specialists</p>
+                  <p className="text-gray-600">Speak with our personal transportation vehicle specialists</p>
                 </CardContent>
               </Card>
 

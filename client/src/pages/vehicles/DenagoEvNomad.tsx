@@ -12,7 +12,7 @@ export default function DenagoEvNomad() {
       <SEOHead 
         title="DENAGO EV NOMAD Personal Transportation Vehicle"
         description="Adventure-ready electric vehicle designed for outdoor exploration and off-road capability. Perfect for camping, hunting, and recreational activities. Call 1-844-844-6638."
-        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road private transportation vehicle, outdoor recreation, DENAGO dealer nationwide PA"
+        keywords="DENAGO EV NOMAD, adventure electric vehicle, off-road personal transportation vehicle, outdoor recreation, DENAGO dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/denago-ev-nomad"
         image="/attached_assets/DENAGONEVNOMAD_1751893047472_1753135231313.jpg"
       />

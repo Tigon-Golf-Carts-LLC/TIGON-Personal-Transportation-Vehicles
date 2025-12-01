@@ -11,8 +11,8 @@ export default function EvolutionD5Ranger6() {
     <>
       <SEOHead 
         title="EVOLUTION D5-RANGER 6 Personal Transportation Vehicle"
-        description="Six-passenger private transportation vehicle with rugged construction and reliable performance. Perfect for group transportation and family adventures. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Ranger 6, 6-passenger private transportation vehicle, group transportation, family NEV, EVOLUTION dealer nationwide"
+        description="Six-passenger personal transportation vehicle with rugged construction and reliable performance. Perfect for group transportation and family adventures. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Ranger 6, 6-passenger personal transportation vehicle, group transportation, family NEV, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-ranger-6"
         image="/attached_assets/EVOLUTIOND5RANGER6_1751893159004_1753135350623.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD5Ranger6() {
                   D5-RANGER 6
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Six-passenger private transportation vehicle with rugged Ranger construction. Perfect for group transportation, family outings, and community events with reliable performance.
+                  Six-passenger personal transportation vehicle with rugged Ranger construction. Perfect for group transportation, family outings, and community events with reliable performance.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

@@ -12,7 +12,7 @@ export default function EvolutionD6MaxXT4() {
       <SEOHead 
         title="EVOLUTION D6 MAX XT4 Personal Transportation Vehicle"
         description="Extreme terrain capabilities with four-passenger off-road design featuring enhanced rugged construction and high performance. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 Max XT4, extreme terrain private transportation vehicle, off-road private transportation vehicle, 4-passenger, rugged design, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION D6 Max XT4, extreme terrain personal transportation vehicle, off-road personal transportation vehicle, 4-passenger, rugged design, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d6-max-xt4"
         image="/attached_assets/EVOLUTIOND6MAXXT4_1751893159005_1753135437836.jpg"
       />

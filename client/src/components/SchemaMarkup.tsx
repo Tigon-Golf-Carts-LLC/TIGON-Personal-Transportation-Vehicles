@@ -17,7 +17,7 @@ export const generateOrganizationSchema = () => ({
   "@type": "Organization",
   "name": "TIGON Personal Transportation Vehicles",
   "alternateName": "TIGON PTV",
-  "description": "Premier private transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
+  "description": "Premier personal transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
   "url": "https://tigonptv.com",
   "logo": "https://tigonptv.com/attached_assets/TIGON%20Neighborhood%20Electric%20Vehicles_1764002910326.png",
   "image": [
@@ -41,7 +41,7 @@ export const generateOrganizationSchema = () => ({
   ],
   "foundingDate": "2015",
   "numberOfEmployees": "15-25",
-  "slogan": "Premium private transportation vehicles delivered nationwide",
+  "slogan": "Premium personal transportation vehicles delivered nationwide",
   "brand": ["DENAGO", "EVOLUTION"],
   "sameAs": [
     "https://www.facebook.com/tigonptv",
@@ -81,7 +81,7 @@ export const generateLocalBusinessSchema = () => ({
   "@type": "LocalBusiness",
   "@id": "https://tigonptv.com/#localbusiness",
   "name": "TIGON Personal Transportation Vehicles",
-  "description": "Premier private transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
+  "description": "Premier personal transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America.",
   "url": "https://tigonptv.com",
   "telephone": "1-844-844-6638",
   "email": "info@tigonptv.com",
@@ -178,7 +178,7 @@ export const generateWebsiteSchema = () => ({
   "@type": "WebSite",
   "@id": "https://tigonptv.com/#website",
   "name": "TIGON Personal Transportation Vehicles",
-  "description": "Premier private transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America",
+  "description": "Premier personal transportation vehicle dealer specializing in DENAGO and EVOLUTION electric vehicles with sales, service, and rentals across North America",
   "url": "https://tigonptv.com",
   "potentialAction": {
     "@type": "SearchAction",
@@ -260,7 +260,7 @@ export const generateServiceSchema = () => ({
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Personal Transportation Vehicle Services",
-  "description": "Comprehensive private transportation vehicle sales, service, repair, and rental services across North America",
+  "description": "Comprehensive personal transportation vehicle sales, service, repair, and rental services across North America",
   "provider": {
     "@type": "LocalBusiness",
     "name": "TIGON PTV"
@@ -320,7 +320,7 @@ export const generateServiceSchema = () => ({
         "itemOffered": {
           "@type": "Service",
           "name": "Personal Transportation Vehicle Sales",
-          "description": "New and used electric private transportation vehicle sales"
+          "description": "New and used electric personal transportation vehicle sales"
         }
       },
       {
@@ -328,7 +328,7 @@ export const generateServiceSchema = () => ({
         "itemOffered": {
           "@type": "Service", 
           "name": "Personal Transportation Vehicle Rentals",
-          "description": "Daily, weekly, and monthly private transportation vehicle rentals"
+          "description": "Daily, weekly, and monthly personal transportation vehicle rentals"
         }
       },
       {
@@ -355,7 +355,7 @@ export const generateOfferCatalogSchema = (vehicles: any[]) => ({
   "@context": "https://schema.org",
   "@type": "OfferCatalog",
   "name": "Personal Transportation Vehicle Inventory",
-  "description": "Complete inventory of private transportation vehicles available for sale",
+  "description": "Complete inventory of personal transportation vehicles available for sale",
   "itemListElement": vehicles.map(vehicle => ({
     "@type": "Offer",
     "itemOffered": {
@@ -375,7 +375,7 @@ export const generateContactPageSchema = () => ({
   "@context": "https://schema.org",
   "@type": "ContactPage",
   "name": "Contact TIGON PTV",
-  "description": "Get in touch with TIGON for private transportation vehicle sales, service, rentals, and support",
+  "description": "Get in touch with TIGON for personal transportation vehicle sales, service, rentals, and support",
   "url": "https://tigonptv.com/contact",
   "mainEntity": {
     "@type": "Organization",
@@ -402,7 +402,7 @@ export const generateTownPageSchema = (townName: string) => ({
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": `Personal Transportation Vehicles in ${townName}`,
-  "description": `Professional private transportation vehicle sales, service, and rentals delivered to ${townName}, Pennsylvania, Pennsylvania`,
+  "description": `Professional personal transportation vehicle sales, service, and rentals delivered to ${townName}, Pennsylvania, Pennsylvania`,
   "url": `https://tigonptv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-private-transportation-vehicles`,
   "mainEntity": {
     "@type": "LocalBusiness",

@@ -11,8 +11,8 @@ export default function EvolutionD5Ranger4Plus() {
     <>
       <SEOHead 
         title="EVOLUTION D5-RANGER 4 PLUS Personal Transportation Vehicle"
-        description="Premium four-passenger private transportation vehicle with enhanced features and rugged construction. Extended range with premium amenities. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Ranger 4 Plus, premium private transportation vehicle, 4-passenger, enhanced features, EVOLUTION dealer nationwide"
+        description="Premium four-passenger personal transportation vehicle with enhanced features and rugged construction. Extended range with premium amenities. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Ranger 4 Plus, premium personal transportation vehicle, 4-passenger, enhanced features, EVOLUTION dealer nationwide"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-ranger-4-plus"
         image="/attached_assets/EVOLUTIOND5RANGER4PLUS_1751893115782_1753135350622.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD5Ranger4Plus() {
                   D5-RANGER 4 PLUS
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Premium four-passenger private transportation vehicle combining rugged Ranger construction with enhanced features. Extended range and premium amenities for discerning buyers.
+                  Premium four-passenger personal transportation vehicle combining rugged Ranger construction with enhanced features. Extended range and premium amenities for discerning buyers.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

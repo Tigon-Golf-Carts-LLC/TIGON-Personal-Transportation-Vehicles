@@ -39,7 +39,7 @@ export default function Footer() {
           <div className="md:hidden">
             <p className="text-gray-600 text-sm leading-relaxed">
               TIGON Personal Transportation Vehicles premier PTV dealership serving customers across 
-              the region with quality private transportation vehicles and expert service.
+              the region with quality personal transportation vehicles and expert service.
             </p>
           </div>
 
@@ -91,7 +91,7 @@ export default function Footer() {
             <div className="md:col-span-1">
               <p className="text-gray-600 text-sm leading-relaxed">
                 TIGON Personal Transportation Vehicles premier PTV dealership serving customers across 
-                the region with quality private transportation vehicles and expert service.
+                the region with quality personal transportation vehicles and expert service.
               </p>
             </div>
 
@@ -163,7 +163,7 @@ export default function Footer() {
               <Link href="/terms-of-service" className="hover:text-gray-900 ml-1">Terms of Service</Link>
             </div>
             <div className="text-gray-600 text-sm">
-              TIGON Personal Transportation Vehicles - Serving customers across the United States, Canada, and Mexico with premium private transportation vehicles and exceptional service.
+              TIGON Personal Transportation Vehicles - Serving customers across the United States, Canada, and Mexico with premium personal transportation vehicles and exceptional service.
             </div>
           </div>
         </div>

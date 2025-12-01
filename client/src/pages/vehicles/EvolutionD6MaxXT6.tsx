@@ -12,7 +12,7 @@ export default function EvolutionD6MaxXT6() {
       <SEOHead 
         title="EVOLUTION D6 MAX XT6 Personal Transportation Vehicle"
         description="Maximum off-road capability with six-passenger extreme terrain design featuring adventure features and rugged construction. Call 1-844-844-6638."
-        keywords="EVOLUTION D6 Max XT6, extreme terrain private transportation vehicle, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION D6 Max XT6, extreme terrain personal transportation vehicle, 6-passenger off-road, maximum capability, adventure features, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d6-max-xt6"
         image="/attached_assets/EVOLUTIOND6MAXXT6_1751893159005_1753135437836.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD6MaxXT6() {
                   Max XT6
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Six-passenger extreme terrain model with maximum off-road capability and adventure features. The ultimate off-road private transportation vehicle for group adventures.
+                  Six-passenger extreme terrain model with maximum off-road capability and adventure features. The ultimate off-road personal transportation vehicle for group adventures.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

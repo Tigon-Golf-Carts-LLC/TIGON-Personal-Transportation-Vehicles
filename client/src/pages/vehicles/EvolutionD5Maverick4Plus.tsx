@@ -11,8 +11,8 @@ export default function EvolutionD5Maverick4Plus() {
     <>
       <SEOHead 
         title="EVOLUTION D5 MAVERICK 4 PLUS Personal Transportation Vehicle"
-        description="Premium four-passenger private transportation vehicle with advanced features and superior performance. Enhanced comfort with extended range capability and premium amenities. Call 1-844-844-6638."
-        keywords="EVOLUTION D5 Maverick 4 Plus, premium private transportation vehicle, 4-passenger, advanced features, extended range, EVOLUTION dealer nationwide PA"
+        description="Premium four-passenger personal transportation vehicle with advanced features and superior performance. Enhanced comfort with extended range capability and premium amenities. Call 1-844-844-6638."
+        keywords="EVOLUTION D5 Maverick 4 Plus, premium personal transportation vehicle, 4-passenger, advanced features, extended range, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-d5-maverick-4-plus"
         image="/attached_assets/EVOLUTIOND5MAVERICK4PLUS_1751893115781_1753135231312.jpg"
       />
@@ -52,7 +52,7 @@ export default function EvolutionD5Maverick4Plus() {
                   Maverick 4 Plus
                 </h1>
                 <p className="text-xl drop-shadow-md mb-8 leading-relaxed">
-                  Premium four-passenger private transportation vehicle with advanced features and superior performance. Experience enhanced comfort with extended range capability and premium amenities.
+                  Premium four-passenger personal transportation vehicle with advanced features and superior performance. Experience enhanced comfort with extended range capability and premium amenities.
                 </p>
                 
                 <div className="grid grid-cols-2 gap-4 mb-8">

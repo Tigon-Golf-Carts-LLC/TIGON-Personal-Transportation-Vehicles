@@ -11,7 +11,7 @@ export default function NewAboutPage() {
       name: "Michael Thompson",
       role: "Owner & General Manager",
       experience: "15+ years in recreational vehicle sales",
-      description: "Passionate about providing customers nationwide with the best private transportation vehicle experience."
+      description: "Passionate about providing customers nationwide with the best personal transportation vehicle experience."
     },
     {
       name: "Sarah Martinez",
@@ -22,7 +22,7 @@ export default function NewAboutPage() {
     {
       name: "David Chen",
       role: "Sales Specialist",
-      experience: "8+ years in private transportation vehicle sales",
+      experience: "8+ years in personal transportation vehicle sales",
       description: "Helping customers find their perfect electric vehicle match."
     },
     {
@@ -60,8 +60,8 @@ export default function NewAboutPage() {
     <>
       <SEOHead 
         title="About TIGON Personal Transportation Vehicles | Premium PTV Nationwide"
-        description="North America's trusted private transportation vehicle dealer serving all 50 states plus Canada and Mexico with premium DENAGO and EVOLUTION vehicles. Call 1-844-844-6638."
-        keywords="TIGON private transportation vehicles, about us, private transportation vehicle dealer, DENAGO dealer, EVOLUTION dealer, nationwide NEV"
+        description="North America's trusted personal transportation vehicle dealer serving all 50 states plus Canada and Mexico with premium DENAGO and EVOLUTION vehicles. Call 1-844-844-6638."
+        keywords="TIGON personal transportation vehicles, about us, personal transportation vehicle dealer, DENAGO dealer, EVOLUTION dealer, nationwide NEV"
       />
       
       <div className="min-h-screen bg-gray-50">
@@ -84,7 +84,7 @@ export default function NewAboutPage() {
               About TIGON Personal Transportation Vehicles
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto drop-shadow-md">
-              Premium private transportation vehicles delivered across North America with 
+              Premium personal transportation vehicles delivered across North America with 
               exceptional service and unmatched customer care. Serving customers nationwide 
               with pride and professionalism.
             </p>
@@ -112,7 +112,7 @@ export default function NewAboutPage() {
                 <div className="space-y-4 text-gray-600">
                   <p>
                     Founded in 2015, TIGON Personal Transportation Vehicles began with a simple mission: to provide 
-                    customers across North America with the highest quality private transportation vehicles 
+                    customers across North America with the highest quality personal transportation vehicles 
                     and unparalleled customer service.
                   </p>
                   <p>
@@ -123,7 +123,7 @@ export default function NewAboutPage() {
                   <p>
                     We've built our reputation on quality, reliability, and customer satisfaction. 
                     By focusing on premium electric vehicles and exceptional service, we've become 
-                    a go-to choice for customers seeking the best in private transportation vehicle technology.
+                    a go-to choice for customers seeking the best in personal transportation vehicle technology.
                   </p>
                   <p>
                     Today, we're proud to be authorized dealers for premium brands like DENAGO and 
@@ -260,7 +260,7 @@ export default function NewAboutPage() {
                   <CardTitle>United States</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600 mb-4">Premium private transportation vehicles delivered across all 50 states</p>
+                  <p className="text-gray-600 mb-4">Premium personal transportation vehicles delivered across all 50 states</p>
                   <Badge variant="secondary">50 States</Badge>
                 </CardContent>
               </Card>
@@ -290,7 +290,7 @@ export default function NewAboutPage() {
 
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <h3 className="text-2xl font-bold text-center mb-6">Nationwide & International Coverage</h3>
-              <p className="text-center text-gray-600 mb-8">View our private transportation vehicle services by location</p>
+              <p className="text-center text-gray-600 mb-8">View our personal transportation vehicle services by location</p>
               <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 text-sm text-gray-600">
                 {[
                   { name: "Alabama", path: "/alabama" },
@@ -367,7 +367,7 @@ export default function NewAboutPage() {
               Ready to Experience the TIGON Difference?
             </h2>
             <p className="text-xl mb-8">
-              Join thousands of satisfied customers who trust us for their private transportation vehicle needs.
+              Join thousands of satisfied customers who trust us for their personal transportation vehicle needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/contact">

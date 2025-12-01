@@ -14,8 +14,8 @@ export default function BlogIndexPage() {
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
         title="Personal Transportation Vehicle Blog | NEV News & Guides"
-        description="Expert guides, industry news, and helpful resources about private transportation vehicles. Learn about NEV buying, maintenance, incentives, and more from TIGON's team across Pennsylvania, New Jersey, Delaware, Virginia, and nationwide."
-        keywords="private transportation vehicle blog, NEV news, electric vehicle guides, NEV buying tips, Pennsylvania electric vehicles, street legal golf carts information"
+        description="Expert guides, industry news, and helpful resources about personal transportation vehicles. Learn about NEV buying, maintenance, incentives, and more from TIGON's team across Pennsylvania, New Jersey, Delaware, Virginia, and nationwide."
+        keywords="personal transportation vehicle blog, NEV news, electric vehicle guides, NEV buying tips, Pennsylvania electric vehicles, street legal golf carts information"
         canonicalUrl="https://tigonptv.com/blog"
       />
 
@@ -26,7 +26,7 @@ export default function BlogIndexPage() {
             Personal Transportation Vehicle Blog
           </h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto">
-            Expert insights, buying guides, and industry news to help you make informed decisions about private transportation vehicles
+            Expert insights, buying guides, and industry news to help you make informed decisions about personal transportation vehicles
           </p>
         </div>
       </section>

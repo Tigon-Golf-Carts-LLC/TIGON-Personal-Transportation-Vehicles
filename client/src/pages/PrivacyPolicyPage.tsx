@@ -5,7 +5,7 @@ export function PrivacyPolicyPage() {
     <>
       <SEOHead 
         title="Privacy Policy"
-        description="Learn how we collect, use, and protect your personal information when you visit our website or purchase private transportation vehicles. Call 1-844-844-6638."
+        description="Learn how we collect, use, and protect your personal information when you visit our website or purchase personal transportation vehicles. Call 1-844-844-6638."
         keywords="privacy policy, data protection, personal information, nationwide Personal Transportation Vehicles"
       />
       <div className="min-h-screen bg-gray-50 py-12">
@@ -28,7 +28,7 @@ export function PrivacyPolicyPage() {
               <p className="mb-4">We may collect personal information that you voluntarily provide to us when you:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>Contact us through our contact forms</li>
-                <li>Request quotes or information about our private transportation vehicles</li>
+                <li>Request quotes or information about our personal transportation vehicles</li>
                 <li>Subscribe to our newsletter or promotional materials</li>
                 <li>Schedule service appointments</li>
                 <li>Participate in surveys or promotions</li>
@@ -37,7 +37,7 @@ export function PrivacyPolicyPage() {
               <p className="mb-4">This information may include:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>Name and contact information (email, phone number, address)</li>
-                <li>Information about your private transportation vehicle interests and preferences</li>
+                <li>Information about your personal transportation vehicle interests and preferences</li>
                 <li>Communication history with our dealership</li>
                 <li>Payment information (processed securely through third-party providers)</li>
               </ul>

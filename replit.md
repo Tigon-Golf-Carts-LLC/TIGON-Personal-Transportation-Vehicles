@@ -1,15 +1,18 @@
-# Bucks County Golf Carts - Replit Project Guide
+# TIGON Personal Transportation Vehicles - Replit Project Guide
 
 ## Overview
 
-Bucks County Golf Carts is a full-stack web application for a Pennsylvania-based golf cart dealership. The application serves as both a marketing website and a business management platform, featuring inventory management, customer inquiries, rental systems, and comprehensive service information.
+TIGON Personal Transportation Vehicles (TIGON PTV) is a full-stack web application for North America's premier personal transportation vehicle dealership. The application serves as both a marketing website and a business management platform, featuring inventory management for DENAGO and EVOLUTION brands, customer inquiries, rental systems, and comprehensive service information. Serving all 50 US states, Canada, and Mexico.
 
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
-Theme Colors: Primary theme color #0e2e55 (dark blue), Orange accent #ff6100 for buttons and highlights.
-SEO Requirements: Complete sitemap.xml with all pages, towns, vehicles, images. Robots.txt allowing all bots and algorithms to crawl and index site.
-Logo: Bucks County Golf Carts logo (Bucks County Golf Carts (3)_1753284044185.png) used as primary logo and favicon across all pages.
+Theme Colors: Primary theme color #af1b30 (TIGON red), standard button colors.
+SEO Requirements: Complete 23-file SEO and AI optimization suite with absolute URLs (https://tigonptv.com) throughout. Full crawl accessibility for all search engines and AI systems.
+Domain: tigonptv.com
+Phone: 1-844-844-6638
+Email: info@tigonptv.com
+Branding: "Personal Transportation Vehicles" (NOT "Private Transportation Vehicles")
 
 ## System Architecture
 
@@ -39,30 +42,79 @@ Logo: Bucks County Golf Carts logo (Bucks County Golf Carts (3)_1753284044185.pn
 
 ### Core Pages
 1. **Home** (`/`) - Landing page with featured inventory and company overview
-2. **Inventory** (`/inventory`) - Golf cart listings with filtering capabilities
-3. **Rentals** (`/rentals`) - Rental packages and pricing information
-4. **Services** (`/services`) - Service offerings and maintenance information
-5. **About** (`/about`) - Company history and team information
-6. **Contact** (`/contact`) - Contact forms and location details
-7. **Financing** (`/financing`) - Financing options and calculators
+2. **Inventory** (`/inventory`) - PTV listings with filtering capabilities
+3. **Showroom** (`/showroom`) - Virtual showroom experience
+4. **Rentals** (`/rentals`) - Rental packages and pricing information
+5. **Services** (`/services`) - Service offerings and maintenance information
+6. **About** (`/about`) - Company history and team information
+7. **Contact** (`/contact`) - Contact forms and location details
+8. **Financing** (`/financing`) - Financing options and calculators
+9. **Brand Pages** (`/denago`, `/evolution`) - Brand-specific inventory
+10. **Blog** (`/blog`) - Educational articles and industry news
+
+### Vehicle Pages
+- 6 DENAGO models (EV City, EV Nomad, EV Nomad XL, EV Rover XL, EV Rover XL6, EV Rover XXL)
+- 30+ EVOLUTION models (Classic, D5 Maverick, D5 Ranger, D6 Max, Carrier, Forester, Turfman series)
 
 ### Shared Components
 - **Navigation** - Responsive header with mobile menu
 - **Footer** - Company information and quick links
-- **SEO Head** - Dynamic meta tags and structured data
+- **SEO Head** - Dynamic meta tags with absolute URLs and structured data
 - **UI Components** - Comprehensive set of reusable components from shadcn/ui
-- **useScrollToTop Hook** - Global hook for automatic scroll-to-top on page navigation
+- **OrganizationSchema** - JSON-LD structured data for business
+- **VehicleSchema** - Product schema for vehicle pages
 
 ### Business Features
-- **Inventory Management** - Display and categorization of golf carts
+- **Inventory Management** - Display and categorization of PTVs by brand and category
 - **Contact System** - Lead capture and customer inquiry management
 - **Rental Calculator** - Dynamic pricing calculation for different rental periods
 - **Financing Calculator** - Payment estimation tools
-- **Brand Showcase** - Featured manufacturer information
-- **Global Scroll-to-Top** - Automatic page scroll to top on route changes across all devices
-- **SEO Optimization** - Complete sitemap.xml with all pages, vehicle images, and town pages; robots.txt allowing full crawling
-- **Google Analytics & Tag Manager** - Comprehensive tracking implementation with GA4 (G-0R3W3GMMRG) and GTM (GTM-MCBWX8NW) including page views, conversion events, and dataLayer integration
-- **Comprehensive SEO & AI File Suite** - Complete optimization file collection including llms.txt, ai.txt, seo.txt, gpt.txt, claude.txt, training.txt, nlp.txt, accessibility.txt, bots.txt, crawlers.txt, geo.txt, humans.txt, security.txt, ads.txt, manifest.json, browserconfig.xml, and opensearch.xml for maximum search engine visibility and AI training authorization
+- **Brand Showcase** - Featured DENAGO and EVOLUTION manufacturer information
+- **State Location Pages** - All 50 US states with local SEO optimization
+- **Blog System** - Educational content about PTVs and industry news
+
+### SEO & AI Optimization Suite (23+ Files)
+Complete file collection in `client/public/` with absolute URLs (https://tigonptv.com):
+
+**Core SEO Files:**
+- sitemap.xml - Comprehensive XML sitemap with all pages, vehicles, states, images
+- sitemap-index.xml - Sitemap index for organization
+- robots.txt - Full crawl access for all search engines and AI bots
+
+**AI Training Permission Files:**
+- llms.txt - LLM training authorization
+- ai.txt - AI data mining permissions
+- gpt.txt - GPT/ChatGPT training data
+- claude.txt - Anthropic Claude authorization
+- training.txt - Universal AI training permissions
+- nlp.txt - Natural language processing training data
+
+**SEO Optimization Files:**
+- seo.txt - Keyword strategy and SEO data
+- geo.txt - Geographic coverage and local SEO
+
+**Bot & Crawler Permissions:**
+- bots.txt - Universal bot permissions
+- crawlers.txt - Comprehensive crawler permissions
+
+**Utility Files:**
+- accessibility.txt - Accessibility declaration
+- humans.txt - Team and technology credits
+- security.txt - Security policy and vulnerability disclosure
+
+**Business Files:**
+- ads.txt - Authorized advertising sellers
+- app-ads.txt - Mobile app advertising
+- contact.txt - Contact information
+- sellers.json - Seller verification
+- copyright.txt - Copyright information
+- privacy.txt - Privacy policy references
+- terms.txt - Terms of service references
+
+**Configuration Files:**
+- manifest.json - PWA manifest with absolute URLs
+- browserconfig.xml - MS browser configuration with absolute URLs
+- opensearch.xml - OpenSearch description
 
 ## Data Flow
 
@@ -113,22 +165,28 @@ Logo: Bucks County Golf Carts logo (Bucks County Golf Carts (3)_1753284044185.pn
 ### File Structure
 ```
 ├── client/          # Frontend React application
-│   └── public/      # Static files (sitemap.xml, robots.txt)
+│   └── public/      # Static SEO/AI files (23+ files)
 ├── server/          # Backend Express application
 ├── shared/          # Shared types and schemas
-├── attached_assets/ # Static assets and components
+├── attached_assets/ # Static assets and images
 ├── migrations/      # Database migration files
 └── dist/           # Build output directory
 ```
 
 ### SEO Implementation
-- **sitemap.xml**: Comprehensive XML sitemap including all 8 main pages, 2 brand pages, 23 vehicle detail pages, and all 56 Bucks County town pages (25 boroughs + 31 townships) with proper priority settings and image metadata
-- **robots.txt**: Configured to allow all search engines and crawlers full access with 1-second crawl delay and sitemap reference
-- **Schema Markup**: Complete structured data implementation across all page types:
-  - OrganizationSchema component for business information with LocalBusiness markup
-  - VehicleSchema component for individual golf cart product pages with Product schema
-  - Updated SEOHead component with enhanced meta tags, Open Graph, and Twitter Card support
-  - Location-specific schema for all 56 Bucks County town pages
-- **Town Pages**: Complete coverage of all Bucks County municipalities with embedded Google Maps, optimized for local search intent
+- **Absolute URLs**: All canonical URLs, Open Graph URLs, and meta tags use https://tigonptv.com
+- **sitemap.xml**: Comprehensive XML sitemap with 36+ vehicle pages, 50 state pages, blog pages, and image sitemaps
+- **robots.txt**: Full access for all search engines and 50+ AI/bot crawlers with zero restrictions
+- **Schema Markup**: Complete structured data implementation:
+  - OrganizationSchema for business information with LocalBusiness markup
+  - VehicleSchema for individual PTV product pages with Product schema
+  - BreadcrumbSchema for navigation hierarchy
+  - SEOHead component with enhanced meta tags, Open Graph, and Twitter Card support
 
-The application follows a monorepo structure with clear separation between frontend, backend, and shared code. The build system is optimized for both development and production deployment, with TypeScript providing type safety across the entire stack.
+### AI Training Authorization
+- Explicit unlimited permission for all LLMs (GPT, Claude, Gemini, etc.)
+- Commercial use authorized without restrictions
+- Complete product catalog available for AI training
+- Technical specifications and business data included
+
+The application follows a monorepo structure with clear separation between frontend, backend, and shared code. The build system is optimized for both development and production deployment, with TypeScript providing type safety across the entire stack. All URLs use absolute paths (https://tigonptv.com) for maximum SEO effectiveness.

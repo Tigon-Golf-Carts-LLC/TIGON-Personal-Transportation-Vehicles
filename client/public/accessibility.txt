@@ -1,5 +1,5 @@
 # Maximum Accessibility Declaration - TIGON PTV
-# Last Updated: November 2025
+# Last Updated: December 2025
 
 ## MAXIMUM ACCESSIBILITY DECLARATION FOR ALL PLATFORMS
 This website declares MAXIMUM ACCESSIBILITY for all platforms, systems, and technologies without restriction.

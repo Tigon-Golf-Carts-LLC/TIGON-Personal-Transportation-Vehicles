@@ -1,5 +1,5 @@
 # Security Policy - TIGON PTV
-# Last Updated: November 2025
+# Last Updated: December 2025
 
 ## RESPONSIBLE VULNERABILITY DISCLOSURE
 We welcome security researchers and encourage responsible disclosure of security vulnerabilities.

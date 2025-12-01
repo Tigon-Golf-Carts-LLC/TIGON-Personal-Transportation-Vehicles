@@ -198,8 +198,8 @@ export default function RentalsPage() {
     <>
       <SEOHead 
         title="Why Choose Our Personal Transportation Vehicle Rentals?"
-        description="Experience the best private transportation vehicle rentals with flexible daily, weekly, and monthly options. Full insurance coverage, delivery service, and no hidden fees. Call 1-844-844-6638."
-        keywords="private transportation vehicle rental, nationwide rentals, private transportation vehicle hire, Pennsylvania private transportation vehicle rental"
+        description="Experience the best personal transportation vehicle rentals with flexible daily, weekly, and monthly options. Full insurance coverage, delivery service, and no hidden fees. Call 1-844-844-6638."
+        keywords="personal transportation vehicle rental, nationwide rentals, personal transportation vehicle hire, Pennsylvania personal transportation vehicle rental"
         canonicalUrl="https://tigonptv.com/rentals"
         image="/attached_assets/Bucks County Golf Carts (3)_1753284044185.png"
       />
@@ -280,7 +280,7 @@ export default function RentalsPage() {
               Need Help Choosing?
             </h2>
             <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
-              Our friendly team is here to help you select the perfect private transportation vehicle rental for your needs. Whether it's for a special event, vacation, or business use, we have the right cart at the right price.
+              Our friendly team is here to help you select the perfect personal transportation vehicle rental for your needs. Whether it's for a special event, vacation, or business use, we have the right cart at the right price.
             </p>
             <Button size="lg" className="bg-theme-orange hover:opacity-90 text-white">
               Call Now 1-844-844-6638

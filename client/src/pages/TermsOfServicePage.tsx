@@ -5,8 +5,8 @@ export function TermsOfServicePage() {
     <>
       <SEOHead 
         title="Terms of Service"
-        description="Review our terms and conditions for purchasing private transportation vehicles, rental services, and using our website. Call 1-844-844-6638."
-        keywords="terms of service, terms and conditions, private transportation vehicle purchase, rental agreement, nationwide Personal Transportation Vehicles"
+        description="Review our terms and conditions for purchasing personal transportation vehicles, rental services, and using our website. Call 1-844-844-6638."
+        keywords="terms of service, terms and conditions, personal transportation vehicle purchase, rental agreement, nationwide Personal Transportation Vehicles"
       />
       <div className="min-h-screen bg-gray-50 py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,7 +19,7 @@ export function TermsOfServicePage() {
               </p>
               
               <p className="mb-6">
-                Welcome to nationwide Personal Transportation Vehicles. These Terms of Service ("Terms") govern your use of our website tigonptv.com and your relationship with us regarding the purchase, rental, and servicing of private transportation vehicles. By accessing our website or engaging our services, you agree to be bound by these Terms.
+                Welcome to nationwide Personal Transportation Vehicles. These Terms of Service ("Terms") govern your use of our website tigonptv.com and your relationship with us regarding the purchase, rental, and servicing of personal transportation vehicles. By accessing our website or engaging our services, you agree to be bound by these Terms.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Acceptance of Terms</h2>
@@ -30,7 +30,7 @@ export function TermsOfServicePage() {
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">About Our Services</h2>
               <p className="mb-4">nationwide Personal Transportation Vehicles provides:</p>
               <ul className="list-disc pl-6 mb-6">
-                <li>New and used private transportation vehicle sales</li>
+                <li>New and used personal transportation vehicle sales</li>
                 <li>Neighborhood electric vehicle rentals for various durations</li>
                 <li>Maintenance and repair services</li>
                 <li>Parts and accessories</li>
@@ -67,13 +67,13 @@ export function TermsOfServicePage() {
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Warranties</h3>
               <p className="mb-6">
-                New private transportation vehicles come with manufacturer warranties as specified. Used private transportation vehicles may include limited warranties as described at the time of sale. We provide warranty information in writing for all applicable products.
+                New personal transportation vehicles come with manufacturer warranties as specified. Used personal transportation vehicles may include limited warranties as described at the time of sale. We provide warranty information in writing for all applicable products.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Personal Transportation Vehicle Rentals</h2>
               
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Rental Requirements</h3>
-              <p className="mb-4">To rent a private transportation vehicle, you must:</p>
+              <p className="mb-4">To rent a personal transportation vehicle, you must:</p>
               <ul className="list-disc pl-6 mb-6">
                 <li>Be at least 18 years old with valid identification</li>
                 <li>Provide a valid credit card for security deposit</li>
@@ -84,7 +84,7 @@ export function TermsOfServicePage() {
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Rental Responsibilities</h3>
               <p className="mb-4">As a renter, you agree to:</p>
               <ul className="list-disc pl-6 mb-6">
-                <li>Use the private transportation vehicle safely and responsibly</li>
+                <li>Use the personal transportation vehicle safely and responsibly</li>
                 <li>Return the cart in the same condition as received</li>
                 <li>Pay for any damage, loss, or theft</li>
                 <li>Follow all traffic laws and safety guidelines</li>
@@ -94,7 +94,7 @@ export function TermsOfServicePage() {
 
               <h3 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Rental Fees and Deposits</h3>
               <p className="mb-6">
-                Rental fees are due at the time of rental. Security deposits will be charged to your credit card and refunded upon satisfactory return of the private transportation vehicle, minus any applicable charges for damage, cleaning, or late return.
+                Rental fees are due at the time of rental. Security deposits will be charged to your credit card and refunded upon satisfactory return of the personal transportation vehicle, minus any applicable charges for damage, cleaning, or late return.
               </p>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Service and Repairs</h2>
@@ -104,7 +104,7 @@ export function TermsOfServicePage() {
                 <li>Customer approval is required for work exceeding estimates</li>
                 <li>We stand behind our work with service guarantees</li>
                 <li>Customers are responsible for payment upon completion</li>
-                <li>We may retain private transportation vehicles until payment is received</li>
+                <li>We may retain personal transportation vehicles until payment is received</li>
               </ul>
 
               <h2 className="text-2xl font-bold text-theme-primary mt-8 mb-4">Intellectual Property</h2>

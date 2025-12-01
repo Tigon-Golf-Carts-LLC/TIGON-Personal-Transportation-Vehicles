@@ -72,8 +72,8 @@ export default function TownPage({ townName, townType }: TownPageProps) {
   
   // SEO optimization
   const pageTitle = `${townName} Personal Transportation Vehicles - TIGON's Premier Dealership | Sales, Service & Rentals`;
-  const pageDescription = `Professional private transportation vehicle sales, service, and rentals in ${fullTownName}. TIGON Personal Transportation Vehicles offers premium DENAGO and EVOLUTION electric private transportation vehicles with expert service for ${townName} residents.`;
-  const pageKeywords = `${townName} private transportation vehicles, ${fullTownName} private transportation vehicle sales, Ocean County private transportation vehicles, electric private transportation vehicles ${townName}, private transportation vehicle service ${townName}, private transportation vehicle rentals ${townName}`;
+  const pageDescription = `Professional personal transportation vehicle sales, service, and rentals in ${fullTownName}. TIGON Personal Transportation Vehicles offers premium DENAGO and EVOLUTION electric personal transportation vehicles with expert service for ${townName} residents.`;
+  const pageKeywords = `${townName} personal transportation vehicles, ${fullTownName} personal transportation vehicle sales, Ocean County personal transportation vehicles, electric personal transportation vehicles ${townName}, personal transportation vehicle service ${townName}, personal transportation vehicle rentals ${townName}`;
   const canonicalUrl = `https://tigonptv.com/${townName.toLowerCase().replace(/\s+/g, '-')}-${townType.toLowerCase()}-ptv`;
 
   const breadcrumbItems = [
@@ -103,8 +103,8 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                 {townName} Personal Transportation Vehicles - TIGON's Premier Dealership
               </h1>
               <p className="text-xl mb-8 text-gray-100">
-                Professional private transportation vehicle sales, service, and rentals in {fullTownName}. 
-                Serving {townName} residents with premium DENAGO and EVOLUTION electric private transportation vehicles.
+                Professional personal transportation vehicle sales, service, and rentals in {fullTownName}. 
+                Serving {townName} residents with premium DENAGO and EVOLUTION electric personal transportation vehicles.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link href="/inventory" className="w-full sm:w-auto">
@@ -136,7 +136,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           </h2>
           <p className="text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
             TIGON Personal Transportation Vehicles proudly serves {townName} residents with comprehensive 
-            private transportation vehicle solutions including sales, maintenance, repairs, and rentals.
+            personal transportation vehicle solutions including sales, maintenance, repairs, and rentals.
           </p>
           
           <div className="grid md:grid-cols-4 gap-8">
@@ -146,7 +146,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Premium Quality</h3>
               <p className="text-gray-600">
-                Top-rated private transportation vehicle brands with factory warranties and certified quality standards.
+                Top-rated personal transportation vehicle brands with factory warranties and certified quality standards.
               </p>
             </div>
             
@@ -176,7 +176,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-gray-900">Eco-Friendly</h3>
               <p className="text-gray-600">
-                Clean electric private transportation vehicles perfect for {townName}'s environmental consciousness.
+                Clean electric personal transportation vehicles perfect for {townName}'s environmental consciousness.
               </p>
             </div>
           </div>
@@ -196,23 +196,23 @@ export default function TownPage({ townName, townType }: TownPageProps) {
           <div className="grid grid-cols-2 md:grid-cols-6 gap-6 mb-12">
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Club Car</h3>
-              <p className="text-sm text-gray-600">Premium private transportation vehicles with advanced technology</p>
+              <p className="text-sm text-gray-600">Premium personal transportation vehicles with advanced technology</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">EZ-GO</h3>
-              <p className="text-sm text-gray-600">Reliable and efficient private transportation vehicle solutions</p>
+              <p className="text-sm text-gray-600">Reliable and efficient personal transportation vehicle solutions</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Denago</h3>
-              <p className="text-sm text-gray-600">High-quality performance private transportation vehicles</p>
+              <p className="text-sm text-gray-600">High-quality performance personal transportation vehicles</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Evolution</h3>
-              <p className="text-sm text-gray-600">Luxury private transportation vehicles with premium features</p>
+              <p className="text-sm text-gray-600">Luxury personal transportation vehicles with premium features</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Tomberlin</h3>
-              <p className="text-sm text-gray-600">Street-legal LSV and private transportation vehicle options</p>
+              <p className="text-sm text-gray-600">Street-legal LSV and personal transportation vehicle options</p>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg text-center">
               <h3 className="font-semibold text-gray-700 mb-2">Swift EV</h3>
@@ -253,7 +253,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
             Popular Personal Transportation Vehicles in {fullTownName}
           </h2>
           <p className="text-xl text-gray-600 mb-12">
-            Discover the private transportation vehicle models {townName} residents love most
+            Discover the personal transportation vehicle models {townName} residents love most
           </p>
           
           <div className="grid md:grid-cols-3 gap-8 mb-12">
@@ -307,7 +307,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
               Contact TIGON Personal Transportation Vehicles from {fullTownName}
             </h2>
             <p className="text-xl text-gray-600">
-              Easy access to professional private transportation vehicle services for {townName} residents
+              Easy access to professional personal transportation vehicle services for {townName} residents
             </p>
           </div>
 
@@ -321,7 +321,7 @@ export default function TownPage({ townName, townType }: TownPageProps) {
                 </CardHeader>
                 <CardContent>
                   <p className="text-2xl font-bold text-blue-600 mb-2">1-844-844-6638</p>
-                  <p className="text-gray-600">Speak with our {townName} private transportation vehicle specialists</p>
+                  <p className="text-gray-600">Speak with our {townName} personal transportation vehicle specialists</p>
                 </CardContent>
               </Card>
 
@@ -379,8 +379,8 @@ export default function TownPage({ townName, townType }: TownPageProps) {
               </h2>
               <p className="text-lg text-gray-600 mb-6">
                 Residents of {fullTownName} trust TIGON Personal Transportation Vehicles for reliable, 
-                high-quality private transportation vehicle solutions. Our local expertise and commitment to customer 
-                service make us the preferred choice for {townName} private transportation vehicle needs.
+                high-quality personal transportation vehicle solutions. Our local expertise and commitment to customer 
+                service make us the preferred choice for {townName} personal transportation vehicle needs.
               </p>
               
               <div className="space-y-4 mb-8">
@@ -414,10 +414,10 @@ export default function TownPage({ townName, townType }: TownPageProps) {
               <div className="text-center">
                 <MapPin className="w-16 h-16 mx-auto mb-4 text-blue-600" />
                 <p className="text-gray-700 mb-4">
-                  Professional private transportation vehicle sales, service, and rentals delivered to {townName} residents.
+                  Professional personal transportation vehicle sales, service, and rentals delivered to {townName} residents.
                 </p>
                 <div className="text-sm text-gray-600">
-                  <p>✓ New private transportation vehicle sales</p>
+                  <p>✓ New personal transportation vehicle sales</p>
                   <p>✓ Golf cart rentals</p>
                   <p>✓ Professional service & repair</p>
                   <p>✓ Parts & accessories</p>

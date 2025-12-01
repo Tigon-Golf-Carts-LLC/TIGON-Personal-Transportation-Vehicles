@@ -38,10 +38,10 @@ export default function NEVTaxCredits() {
           </div>
         </header>
         <div className="prose prose-lg max-w-none">
-          <p className="text-xl text-gray-700 leading-relaxed mb-8">Federal tax credits, state rebates, and local utility incentives can reduce the cost of your private transportation vehicle purchase by thousands of dollars. Pennsylvania, New Jersey, Delaware, Virginia, and buyers nationwide should explore all available savings opportunities before purchasing their NEV in 2025.</p>
+          <p className="text-xl text-gray-700 leading-relaxed mb-8">Federal tax credits, state rebates, and local utility incentives can reduce the cost of your personal transportation vehicle purchase by thousands of dollars. Pennsylvania, New Jersey, Delaware, Virginia, and buyers nationwide should explore all available savings opportunities before purchasing their NEV in 2025.</p>
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">Federal Tax Credits for Personal Transportation Vehicles</h2>
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Clean Vehicle Credit - Up to $7,500</h3>
-          <p className="mb-4">The federal Clean Vehicle Credit provides up to $7,500 for qualifying new electric vehicles, including certain private transportation vehicles. Eligibility depends on vehicle specifications, manufacturer, and buyer income limits.</p>
+          <p className="mb-4">The federal Clean Vehicle Credit provides up to $7,500 for qualifying new electric vehicles, including certain personal transportation vehicles. Eligibility depends on vehicle specifications, manufacturer, and buyer income limits.</p>
           <p className="mb-4"><strong>2025 Eligibility Requirements:</strong></p>
           <ul className="list-disc pl-6 mb-6 space-y-2">
             <li>Vehicle must be new and purchased from authorized dealer like <Link href="/showroom" className="text-theme-orange hover:underline">TIGON locations</Link></li>
@@ -75,17 +75,17 @@ export default function NEVTaxCredits() {
           <p className="mb-4">Combining federal tax credits with state rebates and utility incentives can reduce your total NEV cost by $5,000-$10,000. For example, a Pennsylvania buyer might receive $7,500 federal credit plus $1,000-$2,000 in state/utility rebates.</p>
           <h6 className="text-base font-semibold text-gray-900 mt-6 mb-3">Work with Knowledgeable Dealers</h6>
           <p className="mb-4">TIGON's finance specialists across all 30 locations stay current on available incentives and help buyers navigate application processes. We can apply federal credits at point of sale and assist with state rebate paperwork.</p>
-          <p className="mb-4"><Link href="/contact" className="text-theme-orange hover:underline">Contact your nearest TIGON location</Link> to discuss current incentives and determine your total potential savings on <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> private transportation vehicles. Browse our <Link href="/inventory" className="text-theme-orange hover:underline">inventory</Link> and see final pricing after incentives.</p>
+          <p className="mb-4"><Link href="/contact" className="text-theme-orange hover:underline">Contact your nearest TIGON location</Link> to discuss current incentives and determine your total potential savings on <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> personal transportation vehicles. Browse our <Link href="/inventory" className="text-theme-orange hover:underline">inventory</Link> and see final pricing after incentives.</p>
         </div>
         <div className="mt-16 pt-8 border-t border-gray-200">
           <h3 className="text-2xl font-bold text-gray-900 mb-6">Related Articles</h3>
           <div className="grid md:grid-cols-2 gap-4">
             <Link href="/blog/neighborhood-electric-vehicle-price-range-cost" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
-              <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">What is the average price range for new private transportation vehicles?</h4>
+              <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">What is the average price range for new personal transportation vehicles?</h4>
               <p className="text-sm text-gray-600">2025 NEV pricing before incentives</p>
             </Link>
             <Link href="/blog/lease-neighborhood-electric-vehicle-options" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
-              <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Can I lease a private transportation vehicle instead of buying one?</h4>
+              <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">Can I lease a personal transportation vehicle instead of buying one?</h4>
               <p className="text-sm text-gray-600">Leasing vs buying with incentives</p>
             </Link>
           </div>

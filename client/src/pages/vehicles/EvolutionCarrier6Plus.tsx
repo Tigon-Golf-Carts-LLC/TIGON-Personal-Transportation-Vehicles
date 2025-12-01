@@ -12,7 +12,7 @@ export default function EvolutionCarrier6Plus() {
       <SEOHead 
         title="EVOLUTION CARRIER 6 PLUS Personal Transportation Vehicle"
         description="Six-passenger carrier with enhanced cargo capacity and utility features for work and recreation. Perfect balance of passenger comfort and utility functionality. Call 1-844-844-6638."
-        keywords="EVOLUTION Carrier 6 Plus, utility private transportation vehicle, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer nationwide PA"
+        keywords="EVOLUTION Carrier 6 Plus, utility personal transportation vehicle, cargo capacity, 6-passenger, work vehicle, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-carrier-6-plus"
         image="/attached_assets/EVOLUTIONCARRIER6PLUS_1751893115778_1753135231314.jpg"
       />

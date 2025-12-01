@@ -11,8 +11,8 @@ export default function EvolutionClassic2Pro() {
     <>
       <SEOHead 
         title="EVOLUTION CLASSIC 2 PRO Personal Transportation Vehicle"
-        description="Enhanced features and performance define this professional grade 2-passenger private transportation vehicle with premium reliability. Call 1-844-844-6638."
-        keywords="EVOLUTION Classic 2 Pro, professional private transportation vehicle, 2-passenger, enhanced performance, EVOLUTION dealer nationwide PA"
+        description="Enhanced features and performance define this professional grade 2-passenger personal transportation vehicle with premium reliability. Call 1-844-844-6638."
+        keywords="EVOLUTION Classic 2 Pro, professional personal transportation vehicle, 2-passenger, enhanced performance, EVOLUTION dealer nationwide PA"
         canonicalUrl="https://tigonptv.com/vehicles/evolution-classic-2-pro"
         image="/attached_assets/EVOLUTIONCLASSIC2PRO_1751893115779_1753135231314.jpg"
       />

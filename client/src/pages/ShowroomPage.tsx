@@ -395,8 +395,8 @@ export default function ShowroomPage() {
     <div className="min-h-screen bg-gray-50">
       <SEOHead 
         title="Personal Transportation Vehicle Showroom"
-        description="Visit our private transportation vehicle dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
-        keywords="private transportation vehicle showroom, nationwide dealership, Denago Evolution dealer, private transportation vehicle locations"
+        description="Visit our personal transportation vehicle dealership locations in nationwide, Pennsylvania. Experience our full lineup of Denago and Evolution electric vehicles in person or online. Call 1-844-844-6638."
+        keywords="personal transportation vehicle showroom, nationwide dealership, Denago Evolution dealer, personal transportation vehicle locations"
         canonicalUrl="https://tigonptv.com/showroom"
         image="/attached_assets/0f46bdfb-c558-4e28-9473-6c85686c5a80 (1)_1753279436268.png"
       />
@@ -555,7 +555,7 @@ export default function ShowroomPage() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold mb-4 text-theme-primary">Showroom Services</h2>
-            <p className="text-xl text-gray-600">Everything you need for your private transportation vehicle experience</p>
+            <p className="text-xl text-gray-600">Everything you need for your personal transportation vehicle experience</p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -568,7 +568,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Experience our private transportation vehicles firsthand with comprehensive test drives on our demonstration courses.
+                  Experience our personal transportation vehicles firsthand with comprehensive test drives on our demonstration courses.
                 </p>
               </CardContent>
             </Card>
@@ -582,7 +582,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Our knowledgeable staff will help you choose the perfect private transportation vehicle for your specific needs and budget.
+                  Our knowledgeable staff will help you choose the perfect personal transportation vehicle for your specific needs and budget.
                 </p>
               </CardContent>
             </Card>
@@ -596,7 +596,7 @@ export default function ShowroomPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600">
-                  Flexible financing solutions to make your private transportation vehicle purchase affordable and convenient.
+                  Flexible financing solutions to make your personal transportation vehicle purchase affordable and convenient.
                 </p>
               </CardContent>
             </Card>
@@ -611,7 +611,7 @@ export default function ShowroomPage() {
             Ready to Visit Our Showroom?
           </h2>
           <p className="text-xl mb-8">
-            Visit our showroom locations in nationwide or shop online to see our full inventory of DENAGO and EVOLUTION private transportation vehicles.
+            Visit our showroom locations in nationwide or shop online to see our full inventory of DENAGO and EVOLUTION personal transportation vehicles.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact">

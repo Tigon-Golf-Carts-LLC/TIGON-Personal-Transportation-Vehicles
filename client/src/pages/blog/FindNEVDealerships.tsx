@@ -15,7 +15,7 @@ export default function FindNEVDealerships() {
       <SEOHead 
         title={post.seoTitle}
         description={post.metaDescription}
-        keywords="PTV dealerships near me, private transportation vehicle dealers, TIGON locations, Pennsylvania NEV dealers, New Jersey electric vehicle showrooms, Delaware NEV stores, Virginia PTV dealerships"
+        keywords="PTV dealerships near me, personal transportation vehicle dealers, TIGON locations, Pennsylvania NEV dealers, New Jersey electric vehicle showrooms, Delaware NEV stores, Virginia PTV dealerships"
         canonicalUrl={`https://tigonptv.com/blog/${post.slug}`}
       />
 
@@ -52,7 +52,7 @@ export default function FindNEVDealerships() {
 
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-gray-700 leading-relaxed mb-8">
-            Finding a trusted private transportation vehicle dealership near you is the first step toward enjoying the benefits of NEV ownership. With TIGON's 30-location network spanning Pennsylvania, New Jersey, Delaware, Virginia, North Carolina, South Carolina, Florida, Indiana, Ohio, Maryland, and New York, quality NEV sales and service are closer than you think.
+            Finding a trusted personal transportation vehicle dealership near you is the first step toward enjoying the benefits of NEV ownership. With TIGON's 30-location network spanning Pennsylvania, New Jersey, Delaware, Virginia, North Carolina, South Carolina, Florida, Indiana, Ohio, Maryland, and New York, quality NEV sales and service are closer than you think.
           </p>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">
@@ -182,7 +182,7 @@ export default function FindNEVDealerships() {
             Full Inventory Display
           </h4>
           <p className="mb-4">
-            Our physical showrooms feature complete lineups of <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> private transportation vehicles. See, touch, and test drive multiple models to find your perfect match.
+            Our physical showrooms feature complete lineups of <Link href="/denago" className="text-theme-orange hover:underline">DENAGO</Link> and <Link href="/evolution" className="text-theme-orange hover:underline">EVOLUTION</Link> personal transportation vehicles. See, touch, and test drive multiple models to find your perfect match.
           </p>
 
           <h4 className="text-xl font-semibold text-gray-900 mt-6 mb-3">
@@ -223,7 +223,7 @@ export default function FindNEVDealerships() {
             Schedule Your Visit Today
           </h6>
           <p className="mb-4">
-            Ready to experience TIGON's private transportation vehicle expertise? <Link href="/contact" className="text-theme-orange hover:underline">Contact your nearest location</Link> to schedule a test drive, ask questions, or explore our complete <Link href="/inventory" className="text-theme-orange hover:underline">NEV inventory</Link>.
+            Ready to experience TIGON's personal transportation vehicle expertise? <Link href="/contact" className="text-theme-orange hover:underline">Contact your nearest location</Link> to schedule a test drive, ask questions, or explore our complete <Link href="/inventory" className="text-theme-orange hover:underline">NEV inventory</Link>.
           </p>
         </div>
 
@@ -232,13 +232,13 @@ export default function FindNEVDealerships() {
           <div className="grid md:grid-cols-2 gap-4">
             <Link href="/blog/best-neighborhood-electric-vehicles-city-commuting" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                What are the best private transportation vehicles for city commuting?
+                What are the best personal transportation vehicles for city commuting?
               </h4>
               <p className="text-sm text-gray-600">Discover the top PTV models for urban driving</p>
             </Link>
             <Link href="/blog/neighborhood-electric-vehicle-price-range-cost" className="p-4 border border-gray-200 rounded-lg hover:border-theme-orange transition-colors">
               <h4 className="font-semibold text-theme-primary hover:text-theme-orange mb-2">
-                What is the average price range for new private transportation vehicles?
+                What is the average price range for new personal transportation vehicles?
               </h4>
               <p className="text-sm text-gray-600">2025 NEV pricing guide and cost breakdown</p>
             </Link>

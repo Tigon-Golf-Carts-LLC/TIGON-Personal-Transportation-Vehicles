@@ -54,8 +54,8 @@ export default function InventoryPage() {
     <div className="min-h-screen">
       <SEOHead 
         title="Personal Transportation Vehicle Inventory"
-        description="Browse our extensive collection of premium electric private transportation vehicles from Denago and Evolution. Find the perfect vehicle with advanced filtering options. Call 1-844-844-6638."
-        keywords="private transportation vehicle inventory, Denago private transportation vehicles, Evolution private transportation vehicles, electric private transportation vehicles, nationwide PA"
+        description="Browse our extensive collection of premium electric personal transportation vehicles from Denago and Evolution. Find the perfect vehicle with advanced filtering options. Call 1-844-844-6638."
+        keywords="personal transportation vehicle inventory, Denago personal transportation vehicles, Evolution personal transportation vehicles, electric personal transportation vehicles, nationwide PA"
         canonicalUrl="https://tigonptv.com/inventory"
         image="/attached_assets/a-photograph-of-a-bright-and-airy-modern_cSGtJe7oTWCsurFpyhqrJg_CXQ9jYUGRP2_wh-uk2Htkg_1753199147926.png"
       />
@@ -69,7 +69,7 @@ export default function InventoryPage() {
             Personal Transportation Vehicle Inventory
           </h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Browse our extensive collection of premium electric private transportation vehicles from DENAGO and EVOLUTION. 
+            Browse our extensive collection of premium electric personal transportation vehicles from DENAGO and EVOLUTION. 
             Find the perfect vehicle for your needs with our advanced filtering options.
           </p>
         </div>
@@ -122,7 +122,7 @@ export default function InventoryPage() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-4">Can't Find What You're Looking For?</h2>
           <p className="text-xl mb-8">
-            Our team can help you find the perfect private transportation vehicle or place a custom order.
+            Our team can help you find the perfect personal transportation vehicle or place a custom order.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/contact" className="w-full sm:w-auto">
