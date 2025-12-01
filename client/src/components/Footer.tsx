@@ -61,7 +61,7 @@ export default function Footer() {
             {/* Services - Updated with requested links */}
             <div>
               <ul className="space-y-2">
-                <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">NEW PRIVATE TRANSPORTATION VEHICLES</Link></li>
+                <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">NEW PERSONAL TRANSPORTATION VEHICLES</Link></li>
                 <li><Link href="/denago" className="text-gray-600 hover:text-gray-900 text-sm">DENAGO</Link></li>
                 <li><Link href="/evolution" className="text-gray-600 hover:text-gray-900 text-sm">EVOLUTION</Link></li>
                 <li><Link href="/about" className="text-gray-600 hover:text-gray-900 text-sm">ABOUT</Link></li>
@@ -111,7 +111,7 @@ export default function Footer() {
             {/* Services - Updated with requested links */}
             <div className="md:col-span-1">
               <ul className="space-y-2">
-                <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">NEW PRIVATE TRANSPORTATION VEHICLES</Link></li>
+                <li><Link href="/inventory" className="text-gray-600 hover:text-gray-900 text-sm">NEW PERSONAL TRANSPORTATION VEHICLES</Link></li>
                 <li><Link href="/denago" className="text-gray-600 hover:text-gray-900 text-sm">DENAGO</Link></li>
                 <li><Link href="/evolution" className="text-gray-600 hover:text-gray-900 text-sm">EVOLUTION</Link></li>
                 <li><Link href="/about" className="text-gray-600 hover:text-gray-900 text-sm">ABOUT</Link></li>

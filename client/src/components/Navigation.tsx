@@ -15,6 +15,7 @@ export default function Navigation() {
     { path: "/services", label: "Services" },
     { path: "/showroom", label: "Showroom" },
     { path: "/about", label: "About" },
+    { path: "/blog", label: "Blog" },
     { path: "/contact", label: "Contact" },
   ];
 
